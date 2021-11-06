@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a skydiving instructor,a rodeo star,a bull rider,allowed into six flags,a gas station attendant,a contestant on Top Chef,a circus clown,a licensed ventriloquist,a Rockette,considered popular,a Tilt-a-Whirl operator,a sushi chef,a member of Congress,a jockey,a sewer inspector,a spelunker,born,a crab boat captain",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Inches",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "astronauta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Solo puedes medir hasta 1 metro noventa si quieres ser <BLANK> en Estados Unidos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a astronaut,astronaut",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Tough luck, tall people: The maximum height is 75 inches if you want to be <BLANK> in the U.S.",
+            "t": "A",
+            "v": "567771_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

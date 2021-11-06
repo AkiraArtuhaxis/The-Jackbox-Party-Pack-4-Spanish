@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "música de los Beatles,inventar excusas,puntualidad,queso,origami,Los Simpson,World of Warcraft",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Si fuera posible conseguir un doctorado en <BLANK>, lo tendrías.",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si fuera posible conseguir un doctorado en <BLANK>, <PLAYER> lo tendría.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Si fuera posible conseguir un doctorado en <BLANK>, <PLAYER> lo tendría.",
+            "t": "A",
+            "v": "671375_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

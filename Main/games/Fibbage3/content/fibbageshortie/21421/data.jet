@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vanilla Ice,Charlie Chaplin,The Three Amigos,Rodney Dangerfield,Ronald Reagan,Rush Limbaugh,Groucho Marx,Hillary Clinton,the Keebler Elves,Tony the Tiger,Queen Elizabeth,The Godfather films,Bugs Bunny,the 1986 Mets,Vince Lombardi,Mary Tyler Moore,Barbara Walters,Steven Spielberg",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Melissa McCarthy-ism",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Guy Fieri",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Melissa McCarthy admitió que su hilarante personaje en <i>Damas de guerra<\/i> era un homenaje a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Melissa McCarthy admitted that her hilarious character in <i>Bridesmaids<\/i> was an homage to <BLANK>.",
+            "t": "A",
+            "v": "405043_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

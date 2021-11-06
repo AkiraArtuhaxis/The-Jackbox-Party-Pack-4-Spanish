@@ -1,0 +1,5269 @@
+{
+    "episodeid": 1311,
+    "content": [
+        {
+            "decoys": [
+                {
+                    "text": "Estaré allí en 5.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estaré allí en 5.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estaré allí en 5.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estaré allí en 5.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43737,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué frase escribes en mensajes de texto con más frecuencia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Creo que estás loco.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Creo que estás loco.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Creo que estás loco.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Creo que estás loco.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43833,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dirías a alguien que cree que el alunizaje fue falso?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Son los peores.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Son los peores.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Son los peores.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Son los peores.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43988,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de los lunes?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Me hace explotar de alegría!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Me hace explotar de alegría!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Me hace explotar de alegría!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Me hace explotar de alegría!",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44089,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te hace sentir una canasta llena de cachorros?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No soy LeBron James.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "No soy LeBron James.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "No soy LeBron James.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "No soy LeBron James.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43923,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías tu capacidad atlética?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me gusta usar cosas bonitas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43920,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías tu estilo de moda?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Valen los $20!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43865,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión general sobre las películas en 3D?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Lo prefiero!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43857,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas del jugo de naranja con mucha pulpa?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Están muy sobrevalorados.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43820,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre el maíz dulce?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Sigue tus sueños.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Sigue tus sueños.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Sigue tus sueños.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Sigue tus sueños.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43763,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es lo que le dirías a tu yo de 10 años?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No es para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "No es para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "No es para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "No es para mí.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43879,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre la piña en la pizza?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me da vergüenza.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me da vergüenza.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me da vergüenza.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me da cringe.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43877,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu reacción a la palabra \u201chúmedo\u201d?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me encanta verlas con mis hijos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me encanta verlas con mis hijos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me encanta verlas con mis hijos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me encanta verlas con mis hijos.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43772,
+            "choices": [],
+            "prompt": {
+                "text": "En términos generales, ¿qué opinas de las películas de superhéroes?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Amo a mi esposa!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Amo a mi esposa!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Amo a mi esposa!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Amo a mi esposa!",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43917,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría gritar en el Gran Cañón?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Son muy liberales.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Son muy liberales.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Son muy liberales.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Son muy liberales.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43804,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías a la persona promedio a la que le gusta el yoga?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¿Quién soy yo para decir que estás equivocado?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¿Quién soy yo para decir que estás equivocado?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¿Quién soy yo para decir que estás equivocado?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¿Quién soy yo para decir que estás equivocado?",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43806,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre los negadores del cambio climático?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Para ser honesto, creo que es de mala educación.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Para ser honesto, creo que es de mala educación.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Para ser honesto, creo que es de mala educación.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Para ser honesto, creo que es de mala educación.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43834,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las personas que se cortan las uñas en el transporte público?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Son divertidos!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Son divertidos!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Son divertidos!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Son divertidos!",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43753,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre los hashtags de boda?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un hombre poderoso que tiene algunos defectos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Es un hombre poderoso que tiene algunos defectos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Es un hombre poderoso que tiene algunos defectos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Es un hombre poderoso que tiene algunos defectos.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43747,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías a Donald Trump a un alien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy de acuerdo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estoy de acuerdo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estoy de acuerdo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estoy de acuerdo.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43862,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu respuesta a las personas que dicen que los perros son mejores que los gatos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es la manera perfecta de pasar un viernes por la noche con la familia.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Es la manera perfecta de pasar un viernes por la noche con la familia.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Es la manera perfecta de pasar un viernes por la noche con la familia.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Es la manera perfecta de pasar un viernes por la noche con la familia.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43922,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas del karaoke?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tengo que pensarlo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Tengo que pensarlo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Tengo que pensarlo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Tengo que pensarlo.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43875,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué dirías si tu jefe te dijera que te van a trasladar a Alaska?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Definitivamente no son para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Definitivamente no son para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Definitivamente no son para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Definitivamente no son para mí.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43871,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los programas de <i>Real Housewives<\/i>?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "La como todos los días.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "La como todos los días.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "La como todos los días.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "La como todos los días.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43866,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de la quinua?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡¿Estás loco?!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43921,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dirías a alguien a quien no le gustan las películas de Pixar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me confunde pero lo disfruto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me confunde pero lo disfruto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me confunde pero lo disfruto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me confunde pero lo disfruto.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43863,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas en general sobre <i>Juego de Tronos<\/i>?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Toda la acción me da náuseas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Toda la acción me da náuseas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Toda la acción me da náuseas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Toda la acción me da náuseas.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43856,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión general sobre las películas de <i>Transformers<\/i>?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me sale pasable.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45621,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías tu habilidad para cocinar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Te respeto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Te respeto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Te respeto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Te respeto.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43831,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría decirle a tu jefe?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me hace doler la boca.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me hace doler la boca.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me hace doler la boca.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Me hace doler la boca.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43769,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre la mantequilla de maní extra crujiente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy agradecido de no tener una.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estoy agradecido de no tener una.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estoy agradecido de no tener una.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Estoy agradecido de no tener una.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43704,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas sobre las dietas sin gluten?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Creo que sus disfraces se ven bien.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Creo que sus disfraces se ven bien.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Creo que sus disfraces se ven bien.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "Creo que sus disfraces se ven piola.",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43755,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre las personas que hacen cosplay?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Nunca me verás en una!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Nunca me verás en una!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Nunca me verás en una!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "¡Nunca me verás en una!",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43756,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las playas nudistas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No estoy exactamente ansioso.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43768,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes cuando escuchas que \u201cUn técnico estará allí entre el mediodía y las seis\u201d?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Voy directamente al Hard Rock Cafe.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43805,
+            "choices": [],
+            "prompt": {
+                "text": "Tienes dos horas en Nueva Orleans. ¿Qué haces?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un joven talentoso que tiene un pequeño problema de actitud.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43816,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de Justin Bieber?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Gracias por apoyarme.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43817,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría decirle a tu vecino/a de al lado?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me hacen reír más que nada.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43827,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de los juegos de palabras?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Deben amar a su familia.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43869,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las personas que acampan para las rebajas del Black Friday?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Apoyo su derecho a hacerlo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43830,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre ponerle salsa de tomate a los perros calientes?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Um, disculpe. Eso es grosero.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43854,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué te gustaría decirle a alguien que se pone frente a ti en una fila?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me encanta usarlas en la casa.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43965,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las Crocs?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Son muy convenientes.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48529,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los shorts cargo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es lo que me mantiene vivo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44154,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas del café?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me lleva a la pista de baile.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44158,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de la música country?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me siento muy alegre en este momento.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44159,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías tu estado de ánimo actual?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Grito como una niña.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44155,
+            "choices": [],
+            "prompt": {
+                "text": "Cuando ves una araña, ¿cómo reaccionas normalmente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No me siento bien.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44161,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu excusa para no cumplir una obligación?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Por lo general, no son ciertos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44160,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas generalmente de los memes políticos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Hola a todos, ¡espero que estén teniendo un día bendecido!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44163,
+            "choices": [],
+            "prompt": {
+                "text": "Si fueras un personaje de sitcom, ¿cuál sería tu frase célebre?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Aquí yace un hombre devoto de Dios.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44164,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué te gustaría que dijera tu lápida?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me hace sentir en contacto con la naturaleza.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44167,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas sobre acampar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me gustó el de mi boda.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48530,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre los DJs?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Por favor, date prisa!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44169,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que sueles gritar mientras estás atrapado/a en el tráfico?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Afortunadamente, nunca he usado una.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44168,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre las aplicaciones de citas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Por favor, haga mejor su trabajo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44172,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría decirle a tu representante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me hacen sentir asqueado.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44246,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión general sobre las películas de zombies?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es divertido con el público adecuado.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44543,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los juegos de trivia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es la peor.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44170,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías a la persona más molesta en el trabajo/escuela?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Va perfecta con las galletas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44157,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas sobre la leche descremada?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ser amable con ellos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45021,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es la mejor manera de ganarse el respeto de alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es una repugnante demostración de glotonería.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45017,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de la alimentación competitiva?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Esposa feliz, vida feliz.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45000,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es el secreto de un matrimonio feliz?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Los pisos son un poco asquerosos.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44989,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál ha sido tu experiencia con los hoteles económicos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡No puedo tener suficientes!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48533,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los pepinillos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me gusta mucho la jardinería.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44986,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que la mayoría de la gente no sabe sobre ti?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Realmente disfruto tu trabajo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44983,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es lo que te gustaría decirle a Brad Pitt?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Me hace sentir inteligente!",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44987,
+            "choices": [],
+            "prompt": {
+                "text": "Describe la sensación cuando la gente se ríe de tu broma."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Te podía oler a una milla de distancia.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44982,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le gustarías decirle a un chico que usa demasiada colonia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Oh rayos! ¡No otra vez!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44979,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu primer pensamiento al levantarte tarde?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Me molesta mucho!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48534,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes cuando alguien intenta entablar una conversación contigo en un ascensor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es una rara oportunidad de unirse.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44977,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué disfrutas de las cenas familiares?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Nadie ha usado una en mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44969,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una buena frase para ligar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tienen buenos instintos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44968,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué tienen en común todos los ricos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Qué orgulloso y majestuoso animal!",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44963,
+            "choices": [],
+            "prompt": {
+                "text": "Describe qué piensas cuando ves un león en un zoológico."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Uno se da cuenta que es un buen tipo.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44973,
+            "choices": [],
+            "prompt": {
+                "text": "¿Por qué la gente ama a Tom Hanks?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ambos tenemos la misma ética de trabajo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44958,
+            "choices": [],
+            "prompt": {
+                "text": "¿En qué te pareces más a tu papá?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me alegro de tener la mía, ¡me hace accionar!",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44956,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes con las membresías de gimnasios?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Esos tipos están locos!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Positive"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44951,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de los cazadores de tornados?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me gusta que te preocupes más por los demás",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45123,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es el mejor cumplido que alguien puede darte?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Siempre cree en ti mismo",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44950,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es el mejor consejo que te dieron tus padres?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ayudé a una anciana con sus compras.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44942,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es lo más amable que hiciste hoy?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No me caen bien.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44940,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión de los franceses?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me siento realizado.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44971,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente cómo te sientes después de maratonear un programa de TV."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Si tienen la edad suficiente, me prendo.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45125,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los niños con teléfonos inteligentes?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ya no puedo lidiar con ellas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45343,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las montañas rusas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy totalmente de acuerdo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45612,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu postura sobre la neutralidad de la red?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me siento como un trozo de carne.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48535,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente cómo te sientes al pasar por la seguridad del aeropuerto."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Oye, lo que sea que funcione para ti.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45613,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión de las personas que se bañan por la noche?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Los niños están bien!",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45163,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué hay de malo con los niños de hoy?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Creo que son un montón de brutos.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45180,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas sobre las peleas de MMA?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ponte eso en la boca y te arrepentirás",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45131,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas del sushi de supermercado?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No puedes detenerlos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45197,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu postura sobre los romances de oficina?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Realmente me irrita!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45614,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te hace sentir Fox News?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Realmente me inspiran!",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45173,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te hacen sentir las frases inspiradoras?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me siento más inteligente después de ir allí.",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44957,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre las bibliotecas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Creo que la mayoría de ellos son aburridos. Paso.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44677,
+            "choices": [],
+            "prompt": {
+                "text": "En términos generales, ¿qué opinas de los podcasts?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Drenando el pantano.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46406,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una expresión que prohibirías?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Son astutos!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48536,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es lo mejor de los millennials?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Sí, claro.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48519,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dirías a alguien que alardea de no tener un televisor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Tienes que probar cosas nuevas!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46417,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué consejo de citas le darías a una persona mayor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Son tímidos y nerds.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45196,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo son los jugadores promedio de <i>World of Warcraft<\/i>?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Oh, desearía tener algo de efectivo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45617,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu reacción cuando ves a un asistente del baño?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Por favor, basta.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46414,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dirías a alguien que envía mensajes de texto durante una película?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡No puedo comer suficiente pez espada!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46418,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los mariscos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy de acuerdo--¡ahí está!",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45162,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dirías a alguien que cree que Pie Grande es real?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Porque son terribles.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46478,
+            "choices": [],
+            "prompt": {
+                "text": "¿Por qué tanta gente se burla de Nickelback?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Hazlo en persona.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46569,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una buena manera de romper con alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Las personas deberían trabajar más juntas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46487,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas sobre el clima político actual?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Esto fue muy sorprendente!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46572,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dices a alguien cuando no te gusta su cocina?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Hacen un buen trabajo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46488,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los activistas por los derechos de los animales?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Soy el pacificador.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46579,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo explicarías tu rol en tu familia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Porque son increíbles!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48526,
+            "choices": [],
+            "prompt": {
+                "text": "¿Por qué crees que hay tantas películas de <i>Rápidos y Furiosos<\/i>?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy feliz.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46471,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál crees que es la mentira más común que dice la gente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¿Escuchaste buenos chistes últimamente?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46610,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo remontas una conversación aburrida?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "He terminado de discutir esto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46587,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu frase nuclear que pone fin a cualquier argumento?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No lo entiendo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49413,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas del arte moderno?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Qué linda!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48516,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de la música de ukelele?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Todo lo que necesitas es amor.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46573,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué frase cliché usas más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Son falsos pero me asustan!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45200,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías tu postura sobre los fantasmas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Eres terrible en tu trabajo!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49440,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría decirle a un mal representante de servicio al cliente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Creo que está sobrevalorado.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48528,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué te parece el chocolate?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Están haciendo mucho daño.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49258,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los padres que no vacunan a sus hijos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¿Qué tal está el clima?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46627,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu frase preferida cuando tienes que sacar charla?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Desayuno de Campeones.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46734,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es el primer eslogan de producto que se te viene a la mente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tengo que estar de acuerdo contigo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46816,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué le dirías a alguien que piensa que el pastel es mejor que la tarta?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Está sobrevalorado.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46792,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de Shakespeare?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Es tan soñador!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48523,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas del primer ministro canadiense Justin Trudeau?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡¡¡Noooooo!!!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49260,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué dirías si tu médico te dijera que tienes que dejar el azúcar durante un mes?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Es completamente natural!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46778,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes con la desnudez en la televisión?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Están haciendo lo correcto.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48537,
+            "choices": [],
+            "prompt": {
+                "text": "Gente que se hace el/la fantasma en fiestas. ¿Qué piensas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Buenos días a todos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49249,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál fue una de las primeras cosas que dijiste hoy?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Eres una mala persona!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48520,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una buena frase para gritar durante un ataque de furia en la carretera?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy totalmente de acuerdo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46771,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu postura sobre la pena de muerte?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tenemos el mismo sentido del humor.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49262,
+            "choices": [],
+            "prompt": {
+                "text": "¿En qué te pareces más a tu mamá?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Son un desperdicio!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46738,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las personas que no reciclan?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Baby got back",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48499,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué letra musical es realmente terrible?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Están bastante locos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49421,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las personas que viven en comunas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Parecen tontos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46770,
+            "choices": [],
+            "prompt": {
+                "text": "Policías en Segways. ¿Qué piensas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy de acuerdo con la mayor parte.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46769,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes sobre el gasto del dinero de tus impuestos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es solo una excusa para ganar dinero",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44583,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas del Día de San Valentín?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Realmente hace que mi corazón palpite!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48525,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las películas de terror?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "La elección es de cualquiera, pero no la mía.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46766,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de la gente que usa pieles?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Mierda!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49252,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu mala palabra favorita?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Parece un lugar realmente genial.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49398,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de Amsterdam?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es completamente loco.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48538,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de la teoría de que los aliens construyeron las pirámides?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Sí, cariño. ¡Si!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49254,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una de tus citas de películas favoritas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Amo a las personas positivas!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46480,
+            "choices": [],
+            "prompt": {
+                "text": "Describe una actitud que admiras."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Todo es tan falso.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48524,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas sobre la lucha libre profesional?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡No existe!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49366,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo está tu fondo de jubilación?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¿Yo hice eso?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49255,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una de tus citas televisivas favoritas de todos los tiempos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Es un gran amigo!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49484,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es lo bueno que podrías decir sobre la persona más cercana a ti en este momento?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eres una caca.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49250,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu insulto favorito?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Entonces, ¿qué opinas de la política?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46466,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una buena pregunta para iniciar una conversación?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡No puedo tener suficientes!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46403,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de las anchoas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un incendio en un contenedor de basura.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48522,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías la política de este año?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Somos incomprendidos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46643,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías a tu generación?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Está bien fallar.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43849,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que le dirías a tu yo más joven?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Porque ella es hermosa.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49478,
+            "choices": [],
+            "prompt": {
+                "text": "¿Por qué la Mona Lisa es tan popular?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Creo que usa demasiadas bufandas.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48497,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de Johnny Depp?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Yasss Queen!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49251,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gusta gritar cuando estás emocionado/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No eres tú, soy yo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46763,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una buena línea para usar cuando intentas romper gentilmente con alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Quiero tener tus bebés.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49256,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es realmente espeluznante susurrarle a alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Seguro que es un tipo genial!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49364,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo probablemente te describiría tu cartero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Él nunca me ve!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49365,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te describiría probablemente tu médico?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Espero que te guste joderme!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49271,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué mensaje te gustaría escribir en tus formularios de impuestos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Maldita sea!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46497,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es la frase que usas cuando estás enojado/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es solo un truco.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48540,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los sabores inusuales de patatas fritas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Son un gran ejercicio para formar equipos!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49253,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los rompecabezas de la sala de escape?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Un poco triste.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48527,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes habitualmente en tu cumpleaños?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Prefiero orgánicos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47162,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre los alimentos transgénicos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Te harás muy rico.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46835,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué dice una galleta de la fortuna sonsa?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es bueno hacerlo de vez en cuando.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48539,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas sobre servirte el desayuno en la cena?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Enciérrenla!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46745,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es una frase o eslogan político que estás cansado/a de escuchar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Me dan ganas de vomitar",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44450,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo te sientes con los plátanos realmente maduros?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Por favor, basta!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49209,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que quieres gritar con frecuencia mientras miras las noticias?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Podría escribir más.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46489,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo podrías ser un/a mejor amigo/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Me llena de alegría!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48521,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué te parece la Navidad?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Demasiado religiosas para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49261,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de Las Pascuas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tengo mucho que hacer mañana.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48542,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es un pensamiento que sueles tener cuando intentas dormirte?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Parece que les gustan mucho a los niños.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47554,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué opinas de los fidget spinners?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Su música me molesta.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49236,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas de Taylor Swift?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es muy aburrido.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43987,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué piensas del golf?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ohhh, sí. A papi le gusta.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43743,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te susurrarías a ti mismo mientras estás en un jacuzzi?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡No me conoces!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49363,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría decirles a tus enemigos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¿Qué tal sabe todo?",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48498,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que siempre dice un/a camarero/a desagradable?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "No lo entiendo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48541,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué te parece el animé?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estoy enamorado de ti.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49457,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué es algo que te gustaría decirle a la persona más cercana a ti en este momento?"
+            }
+        }
+    ]
+}

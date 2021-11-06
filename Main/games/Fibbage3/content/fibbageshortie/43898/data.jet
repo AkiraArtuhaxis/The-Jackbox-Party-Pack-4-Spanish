@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "butts,the apes,pain,lollipops,lobsters,Thor,leprechauns,sausages,marijuana,Lisa,socks,cheese,Larry,murder,urine,acid,rats,chains",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Uranus",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Jorge",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando se descubrió por primera vez a Urano, se le dio un nombre en latín que se traduce a \"el planeta de <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "King George,Georges,George’s",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was named for King George the 3rd. And his anus.",
+            "t": "A",
+            "v": "572634_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When Uranus was first discovered, it was given a Latin name that translated to “The Planet of <BLANK>.”",
+            "t": "A",
+            "v": "572631_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

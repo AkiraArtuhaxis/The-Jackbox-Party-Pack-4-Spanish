@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "foto de boda,una foto de mi familia,una camiseta deportiva,una pintura de cotillón,un poster de una serie,una pintura irónica,un tejido",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es tu cosa favorita que has enmarcado o colgado en tu hogar?",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La cosa favorita que ha enmarcado o colgado <PLAYER> en su hogar es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]La cosa favorita que ha enmarcado o colgado <PLAYER> en su hogar es <BLANK>.",
+            "t": "A",
+            "v": "695346_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

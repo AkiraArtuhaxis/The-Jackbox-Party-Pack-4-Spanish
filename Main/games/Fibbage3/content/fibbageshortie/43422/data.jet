@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dogs stand on their hind legs,hand turkeys,people listen to your opinions,macaroni necklaces,mittens,sense of the world,quilts,doilies,pottery,dog sweaters,homemade puppets,quiche,maple candy,his mom’s sugar cookies,rose-scented candles,vanilla pudding,salt water taffy,a mix-tape",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "delicate orwell",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una agradable taza de té",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1946, el autor de <i>Rebelión en la granja<\/i> George Orwell encontró su lado más sensible en un ensayo que escribió para el periódico <i>Evening Standard<\/i> donde explicó cómo hacer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a cup of tea,tea,cups of tea",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1946, <i>Animal Farm<\/i> author George Orwell found his more sensitive side in an essay he wrote for the <i>Evening Standard<\/i> that explained how to make <BLANK>.",
+            "t": "A",
+            "v": "562209_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

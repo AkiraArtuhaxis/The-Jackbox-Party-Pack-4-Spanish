@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cups of urine,live snakes,their own poo,boiling water,each other,stale bread,ninja stars,free calendars,his own failures,lasagna,binders of paperwork,scorpions,bullets,gum,Nerf balls,French pastries,The Complete Far Side,whipped cream",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Take That",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dildos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En diciembre de 2016, un hombre intentó sin éxito robar una tienda en San Bernardino, California. Los empleados lo ahuyentaron lanzándole <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dildo,dildoes,sex toy,sex toys,rubber dicks,penises",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was a sex shop. Good thing they were out of whips.",
+            "t": "A",
+            "v": "560488_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In December 2016 a man tried unsuccessfully to rob a store in San Bernardino, California. Employees drove him off by throwing <BLANK> at him.",
+            "t": "A",
+            "v": "560485_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

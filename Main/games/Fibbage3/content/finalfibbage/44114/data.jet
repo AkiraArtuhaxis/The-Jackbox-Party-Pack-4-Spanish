@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "butt|horse,placenta|pig,inside|locker room,regret|one night stand,cigar|grandfather,fart|baby,inside|New York cab,fumes|magic marker,bathroom|plane,armpit|lumberjack,chlorine|swimming pool,fresh cut grass|suburban lawn,leather|new car,rubber gloves|dentist,ink|bubblejet printer,breath|puppy,head|toddler,stench|crushing defeat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Specific Smells",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelaje|gatito",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En marzo de 2017, la Demeter Fragrance Library lanzó su nuevo perfume, que huele al <BLANK> de un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "fir|kitten,hair|kitten,fur|cat,fir|cat,hair|cat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]For a free sample, just sit on my aunt’s couch for a few minutes.",
+            "t": "A",
+            "v": "578857_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host][DOUBLE BLANK]Great news! In March of 2017, Demeter Fragrance Library released their newest perfume which smells like the <BLANK> of a <BLANK>.",
+            "t": "A",
+            "v": "578854_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

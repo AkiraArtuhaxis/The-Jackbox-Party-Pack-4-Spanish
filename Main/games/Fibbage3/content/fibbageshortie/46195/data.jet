@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shooting pigs,drinking beer out of the Liberty Bell,going to Coachella,declaring martial law,kissing baby chimps,leaping out of windows,playing ping pong,slapping frogs,gambling on dog fights,making fudge,shutting down the government,holding a boxing match,thanking the British,stripping naked,honoring the King,inventing electricity,playing a bluegrass jam,shaving their heads",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Congressional Firsts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "no aparecer",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para comenzar la primera sesión del Congreso de los Estados Unidos en 1789, la mayoría de los miembros eligieron conmemorar la ocasión de manera extraña al <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "not being there,being absent,not attending,skipping it,skipping out,forgetting about it",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]No one checked the mass email George Washington sent.",
+            "t": "A",
+            "v": "637799_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When the very first session of the United States Congress began in 1789, most members weirdly chose to mark the occasion by <BLANK>.",
+            "t": "A",
+            "v": "637796_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

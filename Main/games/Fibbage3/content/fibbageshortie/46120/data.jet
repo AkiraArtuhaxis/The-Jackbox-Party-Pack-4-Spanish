@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sleeping bag,plethora,bean bag,goody bag,carwash,chest wax,pot roast,cheese danish,muskrat,baby shark,sippy cup,nursing home,hodgepodge,fish tank,tamale,thong,whole mess o’,toothbrush",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Evil Metaphors",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lasaña",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Peter Kazimir, ministro de finanzas de Eslovaquia, tuvo una manera extraña de describir el malestar social que hay por toda Europa. Lo llamó un/a “<BLANK> del mal”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "lasagne",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Kazimir then went on to say how much he hates Mondays... wait a minute... I’m thinking of Garfield.",
+            "t": "A",
+            "v": "635558_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Peter Kazimir, Financial Minister of Slovakia, had an odd way of describing the social unrest sweeping Europe. He called it a “<BLANK> of Evil.”",
+            "t": "A",
+            "v": "635555_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

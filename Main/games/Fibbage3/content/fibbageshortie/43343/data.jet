@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bubble machines,champagne,radios,cleaning supplies,balloons,motorcycles,cars,old ovens,old telephones,meth supplies,toilets,microwaves,alka-seltzers,soda,car batteries,cats,underwear,moonshine",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "River Dump",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vacas muertas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El brazo sur del río Chicago es conocido como el \"río burbujeante\". Es burbujeante porque es donde la gente solía dejar sus <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "rotten meat,old beef,dead cow,cow carcasses,rotten beef,cows",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]If your poop bubbles, you might want to get that checked out",
+            "t": "A",
+            "v": "569715_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Meatpackers dumped carcuses, blood, entrails, and probably a few mob informants.",
+            "t": "A",
+            "v": "560838_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The south fork of the Chicago River is known as “Bubbly Creek.” It bubbles because it’s where people used to dump their <BLANK>.",
+            "t": "A",
+            "v": "560835_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

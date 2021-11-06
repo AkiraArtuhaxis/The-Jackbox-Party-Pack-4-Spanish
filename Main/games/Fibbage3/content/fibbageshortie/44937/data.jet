@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chatbots,Julian Assange impersonators,robots,fast food chains,talking dogs,billionaires,cartoon characters,cell phones,jugglers,matresses,squirrels,coffee plants,time travelers,the homeless,the moon,surfers,unicorns,mustaches",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Equal Rights",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la naturaleza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2008, Ecuador se convirtió en el primer país en otorgar igualdad de derechos a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mother nature,trees,the environment,environment",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The ecosystem can legally be the defendant of a lawsuit.",
+            "t": "A",
+            "v": "601253_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2008, Ecuador became the first country to give equal rights to <BLANK>.",
+            "t": "A",
+            "v": "601250_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

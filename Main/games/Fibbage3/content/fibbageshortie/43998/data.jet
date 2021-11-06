@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sexy,glass ceiling,drunk,waitress,Mini,controversial,lazy,open mic night,fatty,feminism,CEO,Dropout,Punk Rock,Mixed-Up,Cat Lady,Smelly,Bad Hair Day,Boring",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "controversial dolls",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "embarazada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2002, Walmart decidió remover un juguete polémico de sus tiendas. Era una muñeca llamada Midge <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I assume parents were angry she wasn’t “Celibate for Life Midge.”",
+            "t": "A",
+            "v": "575246_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2002, Walmart decided to pull a controversial toy from its shelves. It was a doll called <BLANK> Midge.",
+            "t": "A",
+            "v": "575243_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

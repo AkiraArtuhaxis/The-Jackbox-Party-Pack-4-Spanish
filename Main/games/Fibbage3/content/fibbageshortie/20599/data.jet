@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "to leave the country,retirement funds,a volunteer job,senior discounts,to visit a nursing home,a paid vacation,to play on a hockey team,a new ID,a tax refund,a meet and greet,to get a divorce,to make him your power of attorney,a personal tour of his home,to go off the grid,to take up knitting,to change your name,to join his basketball team,a little peace and quiet for once",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Primed Minister",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un saludo de cumpleaños",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si eres canadiense y tienes 65 años o más, debes avisarle al primer ministro con al menos seis semanas de anticipación si quieres <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a formal birthday greeting,a birthday card,an anniversary card,an anniversary greeting,a happy birthday card,a happy birthday greeting",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And he needs 12 weeks notice if you’re inviting him to karaoke.",
+            "t": "A",
+            "v": "401108_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you’re a Canadian who’s 65 or older, you must give the prime minister at least six weeks’ notice if you want <BLANK>.",
+            "t": "A",
+            "v": "401105_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

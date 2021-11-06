@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "town|business,community|company,joke|statement,place|prostitute,sore|scab,name|endorsement,TV cop|TV detective,floor wax|dessert topping,wild ride|slow go,funny name|accident,family name|a reason to ridicule us,Fibbage question|Quiplash prompt,dollar an hour|free one,great time|lifelong commitment,bunch of free milk|cow,truck stop|a f@#$ stop",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hooker, Oklahoma",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ubicación|vocación",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El lema para Hooker, Oklahoma (cuyo nombre significa prostituta): \"Es una <BLANK>, no una <BLANK>.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The motto for Hooker, Oklahoma: “It’s a <BLANK>, not a <BLANK>.”",
+            "t": "A",
+            "v": "679695_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

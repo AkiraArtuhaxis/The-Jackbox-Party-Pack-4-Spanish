@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "water conservation,golf,Will Smith movies,Dragonball Z,David Beckham,expensive Meat,American Football,Katie Holmes,firefighters in Madrid,Microbiology,Sports in the Middle Ages,Time Travel,bold haircuts throughout history,standup comedy,hot sauce,his eighth grade teacher,The Ramones,a dog he saw one time",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ronaldo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cristiano Ronaldo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, la estrella internacional de fútbol Cristiano Ronaldo abrió un museo en Portugal dedicado a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Cristiano Ronaldo,Ronaldo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Ronaldo isn’t full of himself, but his museum is!",
+            "t": "A",
+            "v": "651944_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, international soccer star Cristiano Ronaldo opened up a museum in Portugal dedicated to <BLANK>.",
+            "t": "A",
+            "v": "651941_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

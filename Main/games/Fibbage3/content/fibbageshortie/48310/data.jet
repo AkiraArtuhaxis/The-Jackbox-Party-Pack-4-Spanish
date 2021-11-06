@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fall in love,kill a bear,change their name,lose an arm,go broke,get drunk,forget when listing states,buy gum,plan to visit but never go,ask for directions,move away before 30,incorporate a business,start a mink farm,find a dead body,drink only chocolate milk,paint,buy overpriced souvenirs,get nuts",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Virginia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pasan de largo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según un artículo de octubre de 2014 en <i>Business Insider<\/i>, Virginia es el estado de EE. UU. que más personas cuando vuelan <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "not land in,not stop in,flyover,flyover over,fly through",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Make sure to wave!",
+            "t": "A",
+            "v": "683544_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to an October, 2014 article in <i>Business Insider<\/i>, Virginia is the number one state for people to <BLANK>.",
+            "t": "A",
+            "v": "683541_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a guitar|Basstown,a popcorn machine|a movie theater,a dog|a meat packing facility,a cool bicycle|a hip town,a rare species of fish|the ocean,a pack of squirrels|a nut store,a McDonald’s franchise|a Whole Foods,land on the moon|the coolest crater,your mistakes|your haters,a star|Pluto,a lock pick kit|a jewelry shop,a bookstore|an Amazon warehouse,IKEA furniture|a gas stove,white clothes|a paintball field,a spider monkey|a daycare,a DeLorean|a nutty scientist,a fridge|your bed,a piece of the statue of liberty|the torch",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Annual Expenses",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un carrito de panchos|el Zoológico de Central Park",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según un artículo del <i>New York Times<\/i> de septiembre de 2013, deberías pagar casi 300 mil dólares al año si quieres ser dueño de <BLANK> cerca de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a food cart|Central Park Zoo,a food cart|Central Park,a hot dog stand|Central Park,a hot dog cart|Central Park,a hot dog cart|Central Park Zoo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to a September 2013 New York Times article, you’ll have to pay nearly three-hundred-kay a year if you want to own <BLANK> near <BLANK>.",
+            "t": "A",
+            "v": "669776_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

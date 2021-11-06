@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Run with scissors,Fart,Sneeze,Light candles indoors,Light sparklers,Jump on a trampoline,Flush tampons,Burp,Microwave food,sweat,giggle,wink,sext,pick their nose,flake off skin,cry at movies,fall in love,have a fond memory",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hazardous Gas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hacen pis en la pileta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El cloruro de cianógeno es un producto químico peligroso con efectos similares al gas lacrimógeno, y se produce cuando las personas <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pee in a swimming pool,urinate in a pool,pee in a pool",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]You’d need millions of people peeing at once to do any real harm. But, still, new thing to worry about!",
+            "t": "A",
+            "v": "623220_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Cyanogen chloride is a hazardous chemical with similar effects to tear gas, and it’s produced when people <BLANK>.",
+            "t": "A",
+            "v": "623217_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "seals,their imaginations,child swimmers,virtual reality,sea turtles,scenes from The Rock,paddleboats,Ryan Lochte,toddlers,dolls,reddit users,a marching band,rival scientists,dummies made of meat,doves,robots programmed to want freedom,Twitch streamers,garbage",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Alcatraz",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cocos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, los científicos recrearon la infame fuga de Alcatraz de 1962 para ver si los implicados podrían haber sobrevivido. Pero en lugar de prisioneros, usaron <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cocoanuts,a coconut,cocanuts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The coconuts, enabled with GPS, were tracked in the water around Alcatraz.",
+            "t": "A",
+            "v": "602959_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, scientists recreated the infamous 1962 escape from Alcatraz to see if the men involved could have survived. But instead of prisoners, they used <BLANK>.",
+            "t": "A",
+            "v": "602956_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

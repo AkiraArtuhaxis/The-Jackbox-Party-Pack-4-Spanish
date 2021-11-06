@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "traffic,her emotions,sweet potatoes,salamanders,the outcome of football games,French people,the weather in Paris,ducks,when the cable guy shows up,elections,grass,humidity,shoelaces,airport delays,the lottery,sudoku puzzles,soup,goldfish",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Avengers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ardillas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El superpoder de Doreen Green, uno de los miembros de los Vengadores, es la habilidad de controlar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "squirels,squirrells,rodents",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She’s also a cheap date, since you can just raid a bird feeder.",
+            "t": "A",
+            "v": "386264_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]One of the strangest members of The Avengers, Doreen Green’s superpower is the ability to control <BLANK>.",
+            "t": "A",
+            "v": "386261_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "drunk,lazy,slow,wet,furry,sad,dead body,baby,yo-yo,wig,senior citizen,blimp,bad,chess,LSD,calculus,baby koala,insult",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "acrobats",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pizza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tony Gemignani es el 12 veces campeón del inusual deporte de acrobacias de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pizza tossing,pizza throwing",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Contestants are scored on a scale of 1 to mama mia!",
+            "t": "A",
+            "v": "635196_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Tony Gemignani is the 12-time champion in the unusual sport of <BLANK> acrobatics.",
+            "t": "A",
+            "v": "635193_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "monkeys,Tom Cruise and Brad Pitt,Eddie Murphy,Mike Myers,Ben Stiller and Owen WIlson,a British circus troupe,finger puppets,Peter Jackson,rugby players,the Jonas Bros.,Mark and Donny Wahlberg,pigs,penguins,snowmen,the Muppets,the Smurfs,the Simpsons,the Peanuts gang",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Lord of the Rings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Los Beatles",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según el director Peter Jackson, antes de que su trilogía <i>El señor de los anillos<\/i> fuese producida, se había intentado hacer otra versión donde los protagonistas serían interpretados por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "John Lennon,Paul McCartney,Ringo Starr,George Harrison,The Beetles,Beatles,Beetles,The Fab Four",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I just know Yoko would’ve stolen the ring of power.",
+            "t": "A",
+            "v": "397523_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to director Peter Jackson, before his <i>Lord of the Rings<\/i> trilogy was produced, another version had been attempted where the main characters would’ve been played by <BLANK>.",
+            "t": "A",
+            "v": "397520_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "stop a bank robbery,play catch with a knife,remove his appendix,reenact a stabbing on TV,eat steak of his stomach,shave his cat,remove a tick,rob a knife store,shave his stomach hair,whittle a hog trough,do some ninja training,pry open a window,perform a magic trick,fix a toilet,get a spider off him,give a monkey a knife,prove a knife was fake,play bingo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Take a Stab",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "abrir una caja de DVD",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2001, el lanzador de béisbol Adam Eaton terminó clavándose un cuchillo en el estómago cuando intentaba <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "open a DVD,open a movie",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He stabbed himself by accident. Just in case you thought it was a crazed Laserdisc fan.",
+            "t": "A",
+            "v": "566033_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2001, Padres pitcher Adam Eaton took a knife to the gut when he tried to <BLANK>.",
+            "t": "A",
+            "v": "566030_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

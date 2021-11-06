@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "whispering,Arby’s,all food,tube socks,Rachel Ray,root beer,Guy Fieri,jogging,bad cooking,allergies,pretty women,jazz,politeness,bacon,Australians,picky eaters,people who can’t use chopsticks,hair gel",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Gordon Ramsay",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los veganos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando le preguntaron a qué era alérgico, el célebre chef Gordon Ramsay respondió: “<BLANK>\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "7:45 PM<br />21 Feb 2016",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "@GordonRamsay",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "588572_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]CELEBRITY TWEET! When asked what he was allergic to, celebrity chef Gordon Ramsay replied: “<BLANK>.”",
+            "t": "A",
+            "v": "588567_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

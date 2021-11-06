@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "commercial airline pilot,tree surgeon,property rights attorney,cleaning high-end apartments,state senator,mold and spore advocate,milkmaid,alchemist,shepherd,a youtube creator,guitar whisperer,astronomist,unicycle repairperson,professional shopper,telemarketer,fry cook,counselor of runaway children,piano tuner",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cherie On Top",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tallado de motosierra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cherie Currie, la cantante principal de la icónica banda femenina The Runaways, todavía graba y actua en el grupo, pero su trabajo actual es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "chain saw artist,chainsawer,wood artist,chainsaw sculpturist,wood carver",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Never say she can’t cut it as an artist... [SFX: chainsaw] See, I told you guys we’d use this thing at least once. Totally worth firing Arnie to pay for it.",
+            "t": "A",
+            "v": "559148_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Cherie Currie, lead singer of the iconic girl band The Runaways, still records and performs, but her current “day job” is <BLANK>.",
+            "t": "A",
+            "v": "559145_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

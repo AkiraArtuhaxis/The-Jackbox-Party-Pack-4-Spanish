@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "toss|children,eat|tail,build|gun,be|worst enemy,swallow|head,expell|land mines,pilot|submarine,explode|brain,lose|keys,vomit|stomach,write|will,project|nightmares,spray|pee,eat|poop,make|poison,melt|eyes,grow|gun,ignite|farts",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Horror Frog",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "quebrar|huesos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Se gentil con la “rana peluda” de África Central. Si se siente en peligro, puede <BLANK> sus propios <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "breaks|bones,make|claws,shatter|bones,break|toes,break|toe",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Scientists say it makes little claws out of its broken toe bones, but I think it’s just after the insurance money.",
+            "t": "A",
+            "v": "593516_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Be gentle with the “horror frog” of Central Africa. When threatened it can actually <BLANK> its own <BLANK>.",
+            "t": "A",
+            "v": "593513_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "been given a free t-shirt,repeatedly head-banged,watched a movie,felt awkward,eaten peas,hyperventilated,been bruised,broken an egg,touched poison ivy,listened to loud music,eaten expired mayonnaise,stared at a screen for too long,called somebody your friend,flown in an airplane,stayed up past 10pm,meditated in total silence,inhaled helium,forgotten someone’s name",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Scary Words",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comiste helado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La \"esfenopalatino ganglioneuralgia\" puede sonar como una enfermedad letal, pero probablemente la hayas tenido si alguna vez <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "had ice cream,had brain freeze,eaten something cold,drank something cold",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s the technical term for brain freeze. And it’s why I bring my ice cream to a gentle simmer before eating.",
+            "t": "A",
+            "v": "593576_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]“Sphenopalatine ganglioneuralgia” may sound like a life-threatening affliction, but you’ve probably already had it if you’ve ever <BLANK>.",
+            "t": "A",
+            "v": "593573_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

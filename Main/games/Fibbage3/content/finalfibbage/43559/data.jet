@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "boxers|briefs,jam|preserves,beer|liquor,mice|rats,advil|ibuprofen,toothbrushes|toothpaste,pudding|Jell-O,quarters|dollars,guns|bullets,Terminator DVDs|T2 DVDs,cabbage|lettuce,vanilla ice cream|strawberry ice cream,cats|dogs,missles|missle launchers,pens|quills,bras|panties,fossils|rock hammers,ketchup|catsup",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mail Rule",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "escorpiones|arañas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, la Oficina de Correos de San Diego tuvo que recordar a la gente la Ley Pública 108, que dice que puedes enviar por correo <BLANK> pero no <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, the San Diego Post Office had to remind people of Public Law 108, which says you can mail <BLANK> but not <BLANK>.",
+            "t": "A",
+            "v": "565211_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

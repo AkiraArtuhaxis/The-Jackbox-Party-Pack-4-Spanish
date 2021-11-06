@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sammy Hagar,cats,chickens,the elderly,Angela Merkel,orphans,cell phones,Heidi Klum,inmates,feet,robots,telepathy,naked people,dwarves,each other,egg beaters,insects,service dogs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Try to Relax",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "serpientes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El salón de belleza Haar Mode Team en Alemania ofrece a sus clientes la oportunidad única de ser masajeado por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "snake,python,pythons",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Indiana Jones gave it one star on Yelp.",
+            "t": "A",
+            "v": "574568_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Need to relax? The Haar Mode Team salon in Germany offers customers the rare opportunity to be massaged by <BLANK>.",
+            "t": "A",
+            "v": "574565_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "content": [
+        {
+            "id":"Video",
+            "name":"Video",
+            "url":"/videos",
+            "promptContentType":"STIPrompt",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa un título de video",
+                            
+            "revealSpec":{
+                "revealLinkage":"STI_Video",
+                "votingLinkage":"STI_VideoVote",
+                "bestTwistLinkage":"STI_Video",
+                
+                "tfs": [
+                    { "path":"container.playerName.color", "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",          "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",            "value":"Twist", "numLines":2, "censorable":true },
+                    { "path":"container.views",            "value":"[50000-99999]", "commaDelimited" : true },
+                    { "path":"container.thumbsUp",         "value":"[0-25000]"},
+                    { "path":"container.thumbsDown",       "value":"[0-25000]"}
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",         "value":"ResponseAuthorColor" },
+                    { "path" : "container.vidColor",       "value":"ResponseAuthorColor" }
+                ]
+            },
+            
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería un comentario ridículo a un video titulado:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":"<Twist>",
+                "body":"<Response>",
+                "footer":null
+            }
+        },
+        {
+            "id":"Chirp",
+            "name":"Chirp",
+            "url":"/redes-sociales",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"SocialNetwork",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa un hashtag",
+            
+            "revealSpec":{
+                "revealLinkage":"STI_Chirp",
+                "votingLinkage":"STI_ChirpVote",
+                "bestTwistLinkage":"STI_Chirp",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist.color",            "value":"Twist", "numLines":2, "prefix":"#", "censorable":true, "color":"ResponseAuthorColor" },
+                    { "path":"container.love",                   "value":"[0-999]"},
+                    { "path":"container.rechirp",                "value":"[0-999]"},
+                    { "path":"container.reply",                  "value":"[0-999]"}
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "Se vería ridículo/a si tuviera el hashtag:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : "#"
+            },
+            "controllerChoiceSpec":{
+                "header":null,
+                "body":"<Response>",
+                "footer":"<Twist>"
+            }
+        },
+        {
+            "id":"News",
+            "name":"News",
+            "url":"/noticias",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"NewsOutlet",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa un titular de noticias",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_News",
+                "votingLinkage":"STI_NewsVote",
+                "bestTwistLinkage":"STI_News",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
+                    { "path":"container.dateAndTime",            "value":"CurrentDate(d de MA de yyyy, th12:tm AMPM)" }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
+                    { "path" : "container.headerColor",          "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería un comentario terrible en respuesta a este titular de noticias:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":"<Twist>",
+                "body":"<Response>",
+                "footer":null
+            }
+        },
+        {
+            "id":"FriendFeed",
+            "name":"FriendFeed",
+            "url":"/circulos-sociales",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"SocialNetwork",
+
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa un comentario",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_FriendFeed",
+                "votingLinkage":"STI_FriendFeedVote",
+                "bestTwistLinkage":"STI_FriendFeed",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
+                    { "path":"container.dateAndTime",            "value":"CurrentDate(d de MA de yyyy, th12:tm AMPM)" }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería una respuesta ridícula a este comentario:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":"<Twist>",
+                "body":"<Response>",
+                "footer":null
+            }
+        },
+        {
+            "id":"CrowdFund",
+            "name":"CrowdFund",
+            "url":"/recaudacion-de-fondos",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"Crowdfunding",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa un título de recaudación de fondos",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_CrowdFund",
+                "votingLinkage":"STI_CrowdFundVote",
+                "bestTwistLinkage":"STI_CrowdFund",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",                  "value":"Twist", "numLines":3, "balance":"top", "censorable":true },
+                    { "path":"container.contribution.color",     "value":"[5000-99999]", "prefix":"$", "commaDelimited" : true, "color":"ResponseAuthorColor" },
+                    { "path":"container.supporters.color",       "value":"[100-9999]", "color":"ResponseAuthorColor" }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
+                    { "path" : "container.crowdFundColor",       "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería un comentario tonto a una campaña de recaudación de fondos titulada:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":"<Twist>",
+                "body":"<Response>",
+                "footer":null
+            }
+        },
+        {
+            "id":"Store",
+            "name":"Store",
+            "url":"/tienda",
+            "promptContentType":"STIStorePrompt",
+            "bgFrame":"OnlineStore",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa el nombre de un producto",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_Store",
+                "votingLinkage":"STI_StoreVote",
+                "bestTwistLinkage":"STI_Store",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
+                    { "path" : "container.storeColor",           "value":"ResponseAuthorColor" },
+                    { "path" : "container.starRating",           "value":"Random" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería una reseña ridícula para un producto llamado:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":"<Twist>",
+                "body":"<Response>",
+                "footer":null
+            }
+        },
+        {
+            "id":"Forum",
+            "name":"Forum",
+            "url":"/foro",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"WebForum",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa una pregunta",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_Forum",
+                "votingLinkage":"STI_ForumVote",
+                "bestTwistLinkage":"STI_Forum",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
+                    { "path":"container.timeSubmitted",          "value":"TimeSubmitted" },
+                    { "path":"container.headerColors.forumTitle","value":"AMA" },
+                    { "path":"container.thumbCount",             "value":"[0-999]" }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
+                    { "path" : "container.headerColors",         "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería una respuesta ridícula a esta pregunta:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":"<Twist>",
+                "body":"<Response>",
+                "footer":null
+            }
+        },
+        {
+            "id":"CheckIn",
+            "name":"CheckIn",
+            "url":"/registro",
+            "promptContentType":"STIStorePrompt",
+            "bgFrame":"CheckInSite",
+            
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa una ubicación",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_CheckIn",
+                "votingLinkage":"STI_CheckInVote",
+                "bestTwistLinkage":"STI_CheckIn",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
+                    { "path":"container.dateAndTime.tf",         "value":"CurrentDate(d de MA de yyyy, th12:tm AMPM)" }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
+                    { "path" : "container.headerColor",          "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería un comentario ridículo después de registrarse en este lugar:",
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":null,
+                "body":"<Response>",
+                "footer":"<Twist>"
+            }
+        },
+        {
+            "id":"Recommend",
+            "name":"Recommend",
+            "url":"/red-de-trabajo",
+            "promptContentType":"STIJobPrompt",
+            "bgFrame":"CheckInSite",
+                
+            "responsePlaceholder" : null,
+            "twistPlaceholder" : "ingresa el nombre de una persona/personaje",
+            "prefix" : null,
+            
+            "revealSpec":{
+                "revealLinkage":"STI_Recommend",
+                "votingLinkage":"STI_RecommendVote",
+                "bestTwistLinkage":"STI_Recommend",
+                
+                "tfs": [
+                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
+                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
+                    { "path":"container.color",                  "value":"Twist", "numLines":1, "maxSize":80, "censorable":true }
+                ],
+                "frames" : [
+                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
+                    { "path" : "container.headerColor",          "value":"ResponseAuthorColor" }
+                ]
+            },
+            "controllerTextSpec":{
+                "aboveBlackBox" : null,
+                "blackBox" : "<TargetResponse>",
+                "belowBlackBox" : "sería un respaldo ridículo para esta persona:",
+                
+                "caret" : true
+            },
+            "controllerInputSpec":{
+                "prefix" : null
+            },
+            "controllerChoiceSpec":{
+                "header":null,
+                "body":"<Response>",
+                "footer":"<Twist>"
+            }
+        }
+    ]
+}

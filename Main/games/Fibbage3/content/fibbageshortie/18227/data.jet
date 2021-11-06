@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "go kart,drone,surf board,kayak,DMX bike,diving board,half pipe,golf cart,scooter,speed boat,unicycle,dog,snow board,hang glider,sled,raft,shark,truck",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "extreme strollers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "longboard",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La compañía de carritos para bebé Quinny, hace un carrito extremo que está fijado encima de un/una <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "skateboard,skate board,long board",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s perfect for that parent that shouldn’t be one.",
+            "t": "A",
+            "v": "375875_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Quinny stroller company makes an extreme stroller that’s affixed atop a <BLANK>.",
+            "t": "A",
+            "v": "375872_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

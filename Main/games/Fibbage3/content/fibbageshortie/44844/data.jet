@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "President of Cheese,World’s Best Uncle,Secret Santa,Mickey Mouse’s BFF,Knights of Salami,Friend of Disneyland,Royal Sandiwch Artist,World’s Most Recognizable Person,Harlem Globetrotter,World Heavyweight Champion,Harvard professor,President of the Senate,Texas governor,Monarch of cool,Mayor McCheese,Cheers guest star,President of Happy,Laugh Czar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Honorary Titles",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Almirante de Nebraska",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Puede que la reina Isabel II, Bill Murray y Big Bird no tengan mucho en común, pero todos ellos se han ganado el título honorario de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Admiral of Nebraska",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The governor of this totally landlocked state has handed out the honorary title since 1931",
+            "t": "A",
+            "v": "598958_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Queen Elizabeth II, Bill Murray, and Big Bird may not have a lot in common, but they’ve all earned the honorary title of <BLANK>.",
+            "t": "A",
+            "v": "598955_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

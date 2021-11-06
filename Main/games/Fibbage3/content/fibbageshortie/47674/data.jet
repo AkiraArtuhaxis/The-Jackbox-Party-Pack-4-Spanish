@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Harvard,not going to class,thumbs,lettuce,interior design using only cork,unicycles,the Transformers movies,Chow Yun Fat,David Duchovny,Mystery Science Theater 3000,Pigeons,expired food,the rhythm and the rhyme,pleather,Bruce Lee movies,Titanfall 2,Cowboy Bebop,germs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Yale",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Una cadena de pizza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, Carolina Williams fue aceptada en Yale después de escribir un inusual ensayo de 200 palabras sobre su amor por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "papa johns pizza,papa johns,papa john’s,papa jons pizza,papa jon’s pizza,pizza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, Carolina Williams was accepted into Yale after writing an unusual 200-word essay about her love of <BLANK>.",
+            "t": "A",
+            "v": "665399_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

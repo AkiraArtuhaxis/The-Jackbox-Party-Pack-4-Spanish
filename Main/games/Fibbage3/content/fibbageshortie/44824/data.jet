@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sauna,dojo,Panda Express,yelling room,cotton candy machine,art gallery,complaint box,chapel,ice cream freezer,Mickey mural,statue of the Genie,dance floor,long-range telescope,peach tree,screening room,waffle maker,“make the robots go crazy” button,Fruitopia machine",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Matterhorn",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cancha de baloncesto",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dentro de la montaña de Matterhorn en Disneylandia, los empleados instalaron un/a <BLANK> secreto/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "basketball hoop",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It truly is the magic kingdom.",
+            "t": "A",
+            "v": "598333_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Inside of the Matterhorn mountain at Disneyland, employees installed a secret <BLANK>.",
+            "t": "A",
+            "v": "598330_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

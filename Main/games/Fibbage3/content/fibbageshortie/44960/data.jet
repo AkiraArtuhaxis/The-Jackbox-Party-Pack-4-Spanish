@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "My food,the justice,your dignity,the flavor,that whopper been,Gary,the nearest Burger King,the MSG,Mr. Juicy,the extra cheese,the chicken,Wendy’s getting all these great ideas,the bacon,the value,your family,the flame-broiled goodness,the bread,the smile",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Where?",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Herb",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Luego de la popular campaña ‘¿Dónde está la carne?’ de Wendy's, Burger King lanzó para competir su propia campaña llamada “¿Dónde está <BLANK>?”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Herb,Where’s Herb?,Herb the Nerd,Wheres Herb?,Herb?,Nerd?,The Nerd?",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Herb was this guy who had never tried a Whopper and...ya know what it’s not worth explaining.",
+            "t": "A",
+            "v": "601633_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Following the popularity of Wendy’s ‘Where’s the Beef?’ campaign, Burger King launched a competing campaign called “Where’s <BLANK>?”",
+            "t": "A",
+            "v": "601630_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

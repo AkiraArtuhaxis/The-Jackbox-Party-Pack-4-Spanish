@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "capture souls,produce moving images,make Snapchat filters come to life,take decent low-light shots for once,see if people are evil,see diseases,take pictures of the future,detect undiscovered colors,photograph ghosts,tell how dirty your clothes are,stop time,reproduce smells,record memories,circle anybody named Chad in group pictures,subtract 10 pounds,show you who you’ll marry,lift curses,help the guy from Memento",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Super Cameras",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "leer libros cerrados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Puede parecer imposible, pero los investigadores del MIT y Georgia Tech han desarrollado una “cámara de terahercios” especial que puede <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "see inside books,read books without opening them",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I prefer a closed audio book.",
+            "t": "A",
+            "v": "645792_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]It might seem impossible, but researchers at MIT and Georgia Tech have developed a special “terahertz camera” that can actually <BLANK>.",
+            "t": "A",
+            "v": "645789_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

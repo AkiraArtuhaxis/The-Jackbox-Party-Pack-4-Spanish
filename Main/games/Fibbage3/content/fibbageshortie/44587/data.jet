@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "the barrel,a well,Satan’s shoe,a dumpster,the ocean,a horse’s butt,Power,my heart,my patience,hell,the river,a gym locker,a coffee cup,the sock drawer,the world,a bag of chips,a pizza,a pancake",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Scented Bottoms",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La cartera de mamá",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La compañía fabricante de velas 5B&Co. vende una vela de soja perfumada llamada \"El fondo de <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "A purse,your mom’s purse",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Mmm...scratch off ticket shavings and grain alcohol...I assume.",
+            "t": "A",
+            "v": "591767_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Missouri candlemaker 5B&Co. sells a scented soy candle with the name “The Bottom of <BLANK>.”",
+            "t": "A",
+            "v": "591764_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

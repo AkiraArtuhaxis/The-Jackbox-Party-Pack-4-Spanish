@@ -1,0 +1,226 @@
+{
+    "content":[
+        { 
+            "id":"00000000", 
+            "applicableThemes":["News"], 
+            "responseText":"Vamos a atraparlo.",
+            "twistText":"Hombre local gana la lotería" 
+        },
+        { 
+            "id":"00000001", 
+            "applicableThemes":["Video"], 
+            "responseText":"No es tan impresionante realmente.",
+            "twistText":"¡Johnny aprende a andar en bicicleta!" 
+        },
+        { 
+            "id":"00000002", 
+            "applicableThemes":["Store"], 
+            "responseText":"No es la cosa más cómoda para sentarse.",
+            "twistText":"Cuchara de madera de 18 pulgadas" 
+        },
+        { 
+            "id":"00000003", 
+            "applicableThemes":["FriendFeed"], 
+            "responseText":"Tiene un 7-11 decente.",
+            "twistText":"¡Me voy a ver Roma!" 
+        },
+        { 
+            "id":"00000004", 
+            "applicableThemes":["Chirp"], 
+            "responseText":"Me despierta todas las mañanas.",
+            "twistText":"MisPedos" 
+        },
+        { 
+            "id":"00000005", 
+            "applicableThemes":["CrowdFund"], 
+            "responseText":"Es mejor mantener algunas cosas en la oscuridad.",
+            "twistText":"Ayúdame a financiar mi película" 
+        },
+        { 
+            "id":"00000006", 
+            "applicableThemes":["CheckIn"], 
+            "responseText":"Aquí todo está delicioso.",
+            "twistText":"Fábrica de productos químicos" 
+        },
+        { 
+            "id":"00000007", 
+            "applicableThemes":["Recommend"], 
+            "responseText":"Él siempre está ahí para mí.",
+            "twistText":"Satanás" 
+        },
+        { 
+            "id":"00000008", 
+            "applicableThemes":["Forum"], 
+            "responseText":"Me dan asco.",
+            "twistText":"¿Qué opinas de los abrazos?" 
+        },
+        { 
+            "id":"00000009", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"Atrapé a este perro extraño." 
+        },
+        { 
+            "id":"00000010", 
+            "applicableThemes":["Chirp"], 
+            "responseText":"Es mi regalo favorito de dar.",
+            "twistText":"Piojos" 
+        },
+        { 
+            "id":"00000011", 
+            "applicableThemes":["Chirp"], 
+            "responseText":"¡Me quedo sin aliento!",
+            "twistText":"Asfixia" 
+        },
+        { 
+            "id":"00000012", 
+            "applicableThemes":["FriendFeed"], 
+            "responseText":"Soy escéptico.",
+            "twistText":"¡Dijo que sí!" 
+        },
+        { 
+            "id":"00000013", 
+            "applicableThemes":["FriendFeed"], 
+            "responseText":"¡Me alegra escucharlo!",
+            "twistText":"Hoy es el peor día." 
+        },
+        { 
+            "id":"00000014", 
+            "applicableThemes":["Video"], 
+            "responseText":"Demasiada desnudez.",
+            "twistText":"Cómo tocar la guitarra" 
+        },
+        { 
+            "id":"00000015", 
+            "applicableThemes":["Video"], 
+            "responseText":"¡Celoso!",
+            "twistText":"Panda dando a luz" 
+        },
+        { 
+            "id":"00000016", 
+            "applicableThemes":["Recommend"], 
+            "responseText":"Es muy intimidante.",
+            "twistText":"un espantapájaros" 
+        },
+        { 
+            "id":"00000017", 
+            "applicableThemes":["Recommend"], 
+            "responseText":"¡Está ardiente!",
+            "twistText":"Juana de Arco" 
+        },
+        { 
+            "id":"00000018", 
+            "applicableThemes":["CrowdFund"], 
+            "responseText":"No apoyo a los terroristas.",
+            "twistText":"Un nuevo tipo de reloj inteligente" 
+        },
+        { 
+            "id":"00000019", 
+            "applicableThemes":["CrowdFund"], 
+            "responseText":"¡No tienes ritmo!",
+            "twistText":"Necesito un corazón nuevo" 
+        },
+        { 
+            "id":"00000020", 
+            "applicableThemes":["CheckIn"], 
+            "responseText":"Nuestro servidor era un idiota.",
+            "twistText":"Heladería de autoservicio" 
+        },
+        { 
+            "id":"00000021", 
+            "applicableThemes":["CheckIn"], 
+            "responseText":"Todos fueron groseros.",
+            "twistText":"Misuri" 
+        },
+        { 
+            "id":"00000022", 
+            "applicableThemes":["Store"], 
+            "responseText":"No me importa el sabor.",
+            "twistText":"Papel de burbujas" 
+        },
+        { 
+            "id":"00000023", 
+            "applicableThemes":["Store"], 
+            "responseText":"Es súper plana.",
+            "twistText":"Tabla" 
+        },
+        { 
+            "id":"00000024", 
+            "applicableThemes":["News"], 
+            "responseText":"Bostezo.",
+            "twistText":"Ladrón de bancos anda suelto" 
+        },
+        { 
+            "id":"00000025", 
+            "applicableThemes":["News"], 
+            "responseText":"El gobierno te está mintiendo.",
+            "twistText":"18 trucos de comida" 
+        },
+        { 
+            "id":"00000026", 
+            "applicableThemes":["Forum"], 
+            "responseText":"El baño",
+            "twistText":"¿Dónde lloras más?" 
+        },
+        { 
+            "id":"00000027", 
+            "applicableThemes":["Forum"], 
+            "responseText":"Bastante terrible.",
+            "twistText":"¿Cómo estás en tu trabajo?" 
+        },
+        { 
+            "id":"00000028", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Estamos comprometidos!" 
+        },
+        { 
+            "id":"00000029", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Desayuno tarde con mi mejor amiga!" 
+        },
+        { 
+            "id":"00000030", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"Me robó la billetera." 
+        },
+        { 
+            "id":"00000031", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Mira lo interesante que es mi vida!" 
+        },
+        { 
+            "id":"00000032", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Será mejor que obtenga muchos Likes!" 
+        },
+        { 
+            "id":"00000033", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"El sushi más fresco de la ciudad." 
+        },
+        { 
+            "id":"00000034", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Selfie!" 
+        },
+        { 
+            "id":"00000035", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Este Ecco the Dolphin VR es increíble!" 
+        },
+        { 
+            "id":"00000036", 
+            "applicableThemes":["Photo"], 
+            "responseText":"",
+            "twistText":"¡Vida de vacaciones! #EstoyTanSolo" 
+        }
+    ]
+}

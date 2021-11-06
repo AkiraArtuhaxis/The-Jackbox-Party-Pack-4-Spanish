@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "children,pay-per-view channels,refrigerators,bags of chips at one time,plants,names,chairs,classic cars,chairs,pairs of pants,cell phones,pear trees,parties per year,boxes of cereal,beds,sports jerseys,microwaves,friends",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Too Much",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gatos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si vives en el condado de Washoe, Nevada, probablemente necesites un permiso especial para tener más de siete <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "felines,kittens,pets,dogs",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]One of the documents you’ll need is proof of being single.",
+            "t": "A",
+            "v": "559223_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you live in Washoe County, Nevada, you may need a special permit to have more than seven <BLANK>.",
+            "t": "A",
+            "v": "559220_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

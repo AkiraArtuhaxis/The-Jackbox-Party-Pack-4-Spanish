@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cinnamon rolls,paint fumes,posies,elk sweat,their babies’ heads,spider eggs,the dead,rancid mutton,like bananas,with their eyes closed,like teen spirit,through a slice of cheese,worse than the dead,dog guts,only blue objects,men named William,a priest,their own vomit",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Plague",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pedos de una jarra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Con el fin de tratar la peste bubónica, algunos médicos de los años 1600 recomendaban que sus pacientes olieran <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "farts in a jar,farts,a fart",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Today I could just invite them into my sound booth.",
+            "t": "A",
+            "v": "652304_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In order to treat exposure to the Bubonic plague, some doctors in the 1600s recommended that their patients smell <BLANK>.",
+            "t": "A",
+            "v": "652301_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

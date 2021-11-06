@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hated it,Saw it first,Sold out the theater,Vomited,watched the entire thing,Could quote the whole thing,Could make a better film,held an advanced screening,Got married at a screening,Screened it at a wedding,Saw it on Halloween,became a vampire,saw a ghost,killed a werewolf,cursed the film,boycotted the film,wore a skeleton costume,could guess the ending",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Movie Stunts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Muriera de miedo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El director William Castle publicitó su película <i>Macabro<\/i> ofreciendo 1000 dólares a cualquiera en el público que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Died,Dyed,Died of frite,the movie killed,died while watching it,died of feer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Director William Castle advertised his film <i>Macabre<\/i> by offering $1,000 to any audience member who <BLANK>.",
+            "t": "A",
+            "v": "591164_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

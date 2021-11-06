@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "live in civilization,have dreams,kill yourself,try,pay big city rent,be happy,sit in traffic,live in North Dakota,know joy,die unhappy,be a city slicker,eat sushi,be an idiot,breathe smog,live in Paris,be a jerk,have road rage,have a heart attack",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "South Dakota",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "morir en Marte",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una campaña publicitaria de Dakota del Sur en 2015 utilizó el eslogan, \"¿Para qué <BLANK> cuando puedes vivir en Dakota del Sur?\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "go to Mars",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]This was when everyone was talking about a manned mission to Mars, but I still bet Mars has better restaurants.",
+            "t": "A",
+            "v": "599457_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A 2015 ad campaign for South Dakota used the slogan, “Why <BLANK> when you can live in South Dakota?”",
+            "t": "A",
+            "v": "599454_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "marriage,jury duty,a birthday party,sex,a work Christmas party,his gambling debts,a trip to Wisconsin,going to prison,a speeding ticket,his kid’s piano recital,Thanksgiving dinner,a work presentation,going to a funeral,seeing an Adam Sandler movie,castration,skydiving,a relationship,paying for Starbucks",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fake Death",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su contrato telefónico",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tomando medidas extremas, Corey Taylor de Chicago decidió falsificar su propia muerte para salir de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "his cellphone contract,a cell phone contract,his phone contract,his cellphone bill,his cell phone bill,a phone bill,his phone bill",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I wonder what roaming charges are like in heaven.",
+            "t": "A",
+            "v": "385184_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Taking measures to the extreme, Corey Taylor of Chicago decided to fake his own death in order to get out of <BLANK>.",
+            "t": "A",
+            "v": "385181_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

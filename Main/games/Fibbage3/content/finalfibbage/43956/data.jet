@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "kissed|children,imitated|police sirens,robbed|banks,stole|socks,pooped on|jewelry,mated with|mailboxes,flew up|butts,attacked|cats,drank|beer,mocked|mayor,chewed through|cable TV,used|credit cards,seduced|young men,granted|wishes,corrected|grammar,interrupted|TV shows,took over|minds,hypnotized|snakes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Parrot Problems",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comieron|opio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, la gente de Chittorgarh, la India se enfrentó a un gran problema. Según los locales, los loros se abalanzaron y <BLANK> su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ate|weed,stole|opium,stole|weed,ate|poppys,ate|poppies,stole|poppies,stole|poppies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Polly wants a fix.",
+            "t": "A",
+            "v": "574203_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, the people of Chittorgarh, India faced a big problem. According to locals, parrots swooped in and <BLANK> their <BLANK>.",
+            "t": "A",
+            "v": "574200_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

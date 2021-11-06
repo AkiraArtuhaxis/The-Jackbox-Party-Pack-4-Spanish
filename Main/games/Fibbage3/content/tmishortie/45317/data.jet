@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tener un pulgar atorado en una reja,un enjambre de abejas,carrera de sacos,la bayoneta de mi tío,enojarse mucho jugando Pokémon,cortarse con un papel cinco veces seguidas,ser golpeado en la cabeza con una pelota de béisbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Una de las lesiones más extrañas qué te ha afligido involucró <BLANK>.",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una de las lesiones más extrañas que ha afligido a <PLAYER> involucró <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Una de las lesiones más extrañas que ha afligido a <PLAYER> involucró <BLANK>.",
+            "t": "A",
+            "v": "611615_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "brazo,pierna,meñique izquierdo,nariz,ojos,uñas del pie,caderas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué parte del cuerpo más te gustaría reemplazar con partes robóticas?",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si <PLAYER> pudiera reemplazar cualquier parte del cuerpo con partes robóticas, sería <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Si <PLAYER> pudiera reemplazar cualquier parte del cuerpo con partes robóticas, sería <BLANK>.",
+            "t": "A",
+            "v": "614591_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

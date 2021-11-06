@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "line dancing,napalm,a wedgie,paint huffing,bee stings,vaping,exorcism,waterboarding,military school,a positive attitude,naked yoga,puppet shows,chocolate milk,drowning,abstinence,scary movies,pet turtles,tight underwear",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Asthma",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "montañas rusas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un número de mayo de 2007 de <i>Behaviour Research and Therapy<\/i> publicó un artículo sorprendente que descubrió que el asma podría ser tratado con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "rollercoasters",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The positive emotional stress people with asthma felt after riding a coaster alleviated their symptoms.",
+            "t": "A",
+            "v": "594743_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A May 2007 issue of <i>Behaviour Research and Therapy<\/i> published a surprising paper that found asthma could be treated with <BLANK>.",
+            "t": "A",
+            "v": "594740_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

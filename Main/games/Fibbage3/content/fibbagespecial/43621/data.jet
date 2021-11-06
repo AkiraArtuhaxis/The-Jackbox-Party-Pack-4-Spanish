@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "you blink,you know it,the wolves come,your birthday,the doctor comes,the fiscal year ends,breakfast,your heart does,your nightmares,taco Tuesday,the festival,you stop crying,life deals you another defeat,world peace,the next rainbow,the light of the faeries,Arbor Day,the tomatoes freeze",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Thenks, Mama",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tu boda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante generaciones, las madres rusas han aliviado los pequeños golpes y roces de sus hijos al decir lo que se traduciría como \"Se curará antes de <BLANK>.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "la boda,el día de la boda,la fecha de la boda,el día de la boda,tu día de la boda, tu fecha de la boda",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "566394_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]For generations, Russian mothers have soothed their children’s minor bumps and bruises by saying what translates to “It’ll heal before <BLANK>.”",
+            "t": "A",
+            "v": "566389_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

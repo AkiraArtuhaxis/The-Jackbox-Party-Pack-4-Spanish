@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "clean the bathroom,wash the instruments,dress the corpses,entertain the guests,get coffee,dig graves,notify the victim’s family,do the books,sing Edith Piaf,take photographs,make office signs,order food,maintain the website,build furniture,guard the corpses,design software,man the reception desk,drive a hearse",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Danny DeVito",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "style dead women’s hair",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que fuera un actor exitoso, Danny DeVito solía trabajar en una morgue, donde su trabajo era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "style hair,style women’s hair,cut women’s hair,cut dead women’s hair,style corpse’s hair,do hair,do corpse’s hair,do the hair,be a beautician",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before he was a successful actor, Danny DeVito used to work at a morgue, where his job was to <BLANK>.",
+            "t": "A",
+            "v": "377888_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

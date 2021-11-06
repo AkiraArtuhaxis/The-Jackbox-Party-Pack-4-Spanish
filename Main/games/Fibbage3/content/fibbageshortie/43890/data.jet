@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pro wrestling,Blue’s Clues,Diff’rent Strokes,Larry King,The Love Boat,Conan O’Brien,Dan Rather,The Simpsons,cooking shows,Dora the Explorer,Martha Stewart,Breaking Bad,The Home Shopping Network,The Real Housewives,curling,Full House,the Kardashians,the New York Yankees",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Please Belize",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los Chicago Cubs",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desde que recibió una señal no autorizada de TV por satélite en 1981, casi toda la nación de Belice se ha convertido en fanáticos de por vida de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the Cubs,Chicago Cubs,Cubs,the Cubbies,the cubbys",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Since receiving a bootlegged satellite TV feed in 1981, nearly the entire nation of Belize have become faithful fans of <BLANK>.",
+            "t": "A",
+            "v": "572391_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

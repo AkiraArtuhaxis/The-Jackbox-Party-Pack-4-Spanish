@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jog drunk,play video games,train after midnight,wear tight jeans,are blindfolded,drink just a little bit of gasoline,don’t sweat,journal daily,listen to “Mambo No. 5”,drink gravy,are named David,speak in a phony accent,milk cows,study physics,read science fiction,stare at the color blue,are filled with guilt,wear expensive sneakers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fitness Secrets",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "utilizas malas palabras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio de 2017 de la Universidad de Keele en el Reino Unido afirma que puedes obtener un mejor aspecto físico si <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "swear,curse,swear a lot,use profanity,yell profanity,say fuck,say shit",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Which explains why I’ve been getting so jacked from opening jars of mayo.",
+            "t": "A",
+            "v": "612456_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A 2017 study from Keele University in the UK claims that you can get in better physical shape if you <BLANK>.",
+            "t": "A",
+            "v": "612453_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

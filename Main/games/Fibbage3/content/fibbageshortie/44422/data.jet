@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pamphlets that explain what books are,sunglasses,bread,massage tables,tiny lincoln log houses,baby ducks,goldfish,jean shorts,baseball hats,bowling balls,bumper stickers,gym clothes,coffee makers,air fresheners,pogo sticks,lollipops,silverware,shark repellant",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "To the Library!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "marionetas gigantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un intento inusual de atraer a sus miembros, la biblioteca de Braddock, Pensilvania anunció en 2017 que comenzarían a alquilar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "puppets,pupets,puppet,pupet",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Wow. I guess reading IS cool.",
+            "t": "A",
+            "v": "587894_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an unusual attempt to engage its members, the Braddock, Pennsylvania library announced that in 2017 they would begin lending out <BLANK>.",
+            "t": "A",
+            "v": "587891_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cobra,propaganda novel,doughnut,bicycle,hot sauce,hotel recommendation,electric razor,pacifier,nerf ball,pudding recipe,pair of socks,ink pen,hamster,wig,seat cushion,air freshener,country song,fishing lure",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Danger",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tuit",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La policía detuvo a un hombre por enviar al periodista Kurt Eichenwald un peligroso <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "twitter message,DM,Direct Message",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The tweet had a strobing effect purposely designed to cause seizures.",
+            "t": "A",
+            "v": "598483_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Here’s a cautionary tale. Police arrested a man for sending journalist Kurt Eichenwald a dangerous <BLANK>.",
+            "t": "A",
+            "v": "598480_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

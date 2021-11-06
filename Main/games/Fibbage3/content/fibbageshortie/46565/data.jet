@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dog,foot,aluminum can,Mario Kart,garbage disposal,the jimmy,selfie stick,cranapple,tinder swipe,espresso,yoga,Twitter,foot,cheeto,smelly,dumb idiot,Jesus,quinoa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hands Off",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "aguacate",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En mayo de 2017, la Asociación Británica de Cirujanos Plásticos, Reconstructivos y Estéticos informó que han visto un aumento en los pacientes para sala de emergencias debido a una condición llamada “mano de <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Don’t try to slice an avocado until you’ve watched all 37 thousand YouTube tutorials on the subject.",
+            "t": "A",
+            "v": "646860_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In May, 2017, The British Association of Plastic, Reconstructive and Aesthetic Surgeons reported that they have seen an increase in emergency room patients due to a condition some call “<BLANK> Hand.”",
+            "t": "A",
+            "v": "646857_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "making lasagna,giving massages,as a panhandler,playing the banjo,painting self portraits,as Santa Claus,in a fat suit,as President,in Anarctica,as a circus acrobat,in the back half of a 2 person horse costume,trying to cure Polio,yelling at birds,filibustering the senate,demonstrating archery,scooping dimes out of fountains,starting fierce debates with strangers,arguing with the cable company",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Charitable Work",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "como DJ",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1957, para ayudar a recaudar dinero para la caridad March of Dimes, Eleanor Roosevelt pasó un día <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "as a disc jockey,on the radio,spinning records",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She took requests on WNYC. Until she got kicked off for playing too many air horn sound effects. (sfx air horn)",
+            "t": "A",
+            "v": "650294_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1957, to help raise money for The March of Dimes, Eleanor Roosevelt spent a day <BLANK>.",
+            "t": "A",
+            "v": "650291_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

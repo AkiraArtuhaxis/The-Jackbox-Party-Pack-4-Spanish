@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sippy cup lids|coffee shops,cameras|the terminals,their priorities|order,“wet floor” signs|the bathrooms,travellers|rubber pants,toilets|the middle of the room,piglets|tiny sweaters,flushable wipes|every stall,a disapproving mom|the entryway,smiley faces|the toilet bowls,sad looking janitors|the corner,pictures of women|the mirrors,jerks|their place,a pinch of cayenne|their apple pie recipe,moisture sensors|the floor tiles,big band music|the duty-free shop,firecrackers|the trash cans,the color blue|the wallpaper patterns",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Spillage",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "moscas falsas|mingitorios",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Aeropuerto Schiphol de Amsterdam estima que los pisos de sus baños tuvieron menos \"salpicadas\" cuando comenzaron a colocar <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "flies|urinals,a fly|the urinals,flies|their urinals",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They used men’s instinct to aim.",
+            "t": "A",
+            "v": "669719_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Amsterdam’s Schiphol Airport estimates that their bathroom floors saw up to 80 percent less “spillage” when they started putting <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "669716_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

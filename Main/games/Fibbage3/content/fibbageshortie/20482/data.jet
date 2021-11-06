@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "turned into statues,chased out of town,French,sacrificed to a volcano,given a record deal,unable to hear him,eaten by wolves,100 feet tall,on Gilligan’s Island,drafted into the army,captured by vampires,killed in an atomic blast,wanted by the FBI,enrolled in a sex ed class,trapped in outer space,sent to Alcatraz,elected President,cursed by a mummy",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Brady Bunch",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "muere en un robo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un extraño episodio de <i>La tribu Brady<\/i> titulado \"El héroe de Bobby\", Bobby sueña con que toda la familia Brady <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "shot by Jesse James,shot by Jessie James,killed by Jessie James,killed by Jessie James,Jesse James,Jessie James,dies,die,killed,murdered,murdered by Jesse James,murdered by Jessie James,gunned down,gets gunned down",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They all get shot by Jesse James who may not be Bobby’s hero, but he is mine.",
+            "t": "A",
+            "v": "398582_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an odd episode of <i>The Brady Bunch<\/i> titled “Bobby’s Hero,” Bobby has a dream where the entire Brady family is <BLANK>.",
+            "t": "A",
+            "v": "398579_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

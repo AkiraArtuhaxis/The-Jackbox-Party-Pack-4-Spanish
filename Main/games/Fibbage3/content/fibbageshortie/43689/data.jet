@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tapas inspector,beer emperor,bull translator,sewer mapper,vampire hunter,rock video censor,movie critic,Elvis impersonator,photoshop expert,liason to Mars,goat wrangler,missle inspector,garbage queen,music afficionado,orange squeezer,mini golf course designer,dolphin assassin,queen of the universe",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Important Work",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ministra del sexo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Edelmira Barreira cuenta con un trabajo interesante: se ha convertido en la primera <BLANK> de España.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sex czar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Nice work if you can get it.",
+            "t": "A",
+            "v": "567393_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Edelmira Barreira has an interesting job: Spain just made her the nation’s first <BLANK>.",
+            "t": "A",
+            "v": "567390_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

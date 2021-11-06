@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a scratch-n-sniff moose,The White House,a working clock,Jim Carey,mounties playing guitar,Paulina Gretzky,balloons,a bluetooth speaker,corn,stacks of hay,Pikachu,the prime minister in sunglasses,Lady Gaga,The Kids in the Hall,a plate of bacon,a knock knock joke,an embedded smaller coin,a smiling elephant",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cool Money",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un dinosaurio que brilla en la oscuridad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2012, la casa de moneda canadiense volvió a hacer al capitalismo divertido lanzando una moneda de 25 centavos que mostraba a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a dinosaur,a dinosaur that glows in the dark,a glow in the dark dinosaur,glow-in-the-dark dinosaurs,glow in the dark dinosaurs",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2012, the Canadian mint put the fun back in capitalism by releasing a 25-cent coin that featured <BLANK>.",
+            "t": "A",
+            "v": "602716_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

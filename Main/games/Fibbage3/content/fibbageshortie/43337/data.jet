@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mother-in-laws,angry squirrels,werewolves,video game death,ghosts,mermaids,terrorists,chupacabra,animators,mind control,comets,smelly socks,ex-lovers,yo-yo injuries,sadness,The Joker,Zeus,time travelers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cover yourself",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "aliens",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Grip, una compañía de seguros con sede en Londres, recaudo unas 4 mil libras a principios de los años 2000 al vender una peculiar póliza que cubría a los compradores de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "extra-terrestrials,space creatures,UFOs,U.F.O.s,X-Files,space aliens,alien abduction,alien abductions,UFO abdctions,U.F.O. abductions,UFO abdction,U.F.O. abduction",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They didn’t process very many claims.",
+            "t": "A",
+            "v": "560688_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Grip, a London-based insurance company, made a cool four million pounds in the early 2000s by selling an odd policy that protected customers from <BLANK>.",
+            "t": "A",
+            "v": "560685_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

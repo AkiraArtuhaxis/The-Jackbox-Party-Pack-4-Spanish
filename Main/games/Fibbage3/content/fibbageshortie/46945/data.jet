@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "in labor,driving a tank,in a bar,in prison,drunk,dressed as Santa,getting married,riding a bike,in a coma,in a cop car,legally blind,high fiving constantly,fantasizing about life outside Texas,yelling “RUN VARMINTS!”,on prescription drugs,searching for the hog that killed your family,teaching middle school,voting",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "feral hogs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "en un globo aerostático",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, los legisladores de Texas hicieron legal la caza de cerdos y coyotes salvajes mientras se esté <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "riding a hot air balloon,in a balloon,in a hot-air balloon,riding a hot-air balloon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s the perfect way to blow off steam after your marriage proposal gets turned down.",
+            "t": "A",
+            "v": "651146_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Great news, Texans! Your lawmakers in 2017 made it legal for you to hunt feral hogs and coyotes while <BLANK>.",
+            "t": "A",
+            "v": "651143_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

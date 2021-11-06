@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Grocery|Vegan,Shoe|Slipper,Book|Nerd,Garden|Radish,Art|Sculpture,Auto|Muffler,Candy|Candy Corn,Costume|Mummy,Store|Bandit,Mattress|Nap,Mart|Shop,Hardware|Wingnut,Four|and Twenty Years Ago,Jerk|Stupid Head,Pet|Gecko,Restaurant Supply|Immersion Blender,Music|Hipster,Big Box|Family Size",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bandits",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Abuelo|Dólar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En diciembre de 2016, el FBI comenzó la cacería de un criminal que nombraron como el \"Bandido <BLANK> de las Tiendas de <BLANK>.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Dollar|Grampa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Why can’t all crime be this fun?",
+            "t": "A",
+            "v": "668367_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In December of 2016, the FBI began hunting a criminal they referred to as the “<BLANK> Store <BLANK> Bandit.”",
+            "t": "A",
+            "v": "668364_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

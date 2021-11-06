@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "blood|dreams,budweiser|haggis,a melted clock|sand,fish eggs|mayonnaise,pig saliva|a used bandage,monkey eyes|hot mustard,perfume|an avocado shell,a diamond necklace|a pretty woman,dog|cat,a deck of playing cards|a false sense of hope,octopus ink|marshmallows,bacon|anti-bacon,cotton|plastic,detoasted bread|the secret of life,recycled paper|bleach,a nickel|pocket lint,a pigeon|a secret,a bottle of glue|an open mind",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Just a Pinch",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tequila|el cerebro de un cordero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Salvador Dali escribió un libro de cocina realmente extraño llamado <i>Las cenas de Gala<\/i>. En él, incluyó una receta para tostadas de aguacate que pedía <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tequila|lamb’s brain,tequilla|lamb’s brain,tequila|lamb brain,tequila|lamb’s brains,a lamb’s brain|tequila,lamb’s brain|tequila,lamb brain|tequila,lamb brains|tequila",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And if you think that’s a crazy recipe then you’ve clearly never watched Chopped.",
+            "t": "A",
+            "v": "588660_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host][Double Blank] Salvador Dali wrote a really weird cookbook called <i>Les Diners de Gala<\/i>. In it, he included a recipe for avocado toast that called for <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "588657_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

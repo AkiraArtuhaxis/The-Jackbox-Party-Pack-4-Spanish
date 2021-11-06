@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dolls,ghosts,beloved cell phones,spiritual jewelry,radioactive waste,time capsules,non-recyclable light bulbs,opera glasses,old computers,wild rabid bats,used batteries,police evidence,old sweaters,ground water sensors,wedding dresses,tainted Halloween candy,emergency rations,U.S. Nuclear codes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "unique caskets",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "miembros cortados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hoegh Industries of Gladstone ha producido ataúdes para mascota desde 1966. Curiosamente, sus ataúdes también se utilizan para enterrar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "amputated limbs,severed arms and legs,arms and legs,arms,legs,severed body parts,body parts,human body parts,amputated parts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They really have a leg up on the competition.",
+            "t": "A",
+            "v": "562983_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Hoegh Industries of Gladstone, Michigan has produced quality pet caskets since 1966. Oddly, their caskets are also used for burying <BLANK>.",
+            "t": "A",
+            "v": "562980_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

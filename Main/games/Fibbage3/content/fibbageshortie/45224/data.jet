@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Johnny B. Goode,Stephen Colbert,Five O’Clock Somewhere,Lex Luthor,Sad I Got Caught,Not Guilty,Bruce Willis,Godzilla Q. Hercules,The Little Mermaid,Notorious B.I.G.,Metallica Rules at Hotmail Dot Com,Spongebob Squarepants,Pee Pee von Poop Pants,U Mad Bro,Home Alone 2,Donald Trump,Mr. Fake Butt,Dr. Made-Love-To-A-Horse",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Odd Names",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Batman bin Suparman",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, la policía de Singapur encarceló a un hombre de 23 años por robo y posesión de drogas. Cuando revisaron su documento de identidad, descubrieron que tenía el extraño nombre de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Batman bin Superman",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, a 23-year-old man was jailed by Singaporean police on theft and drug charges. When they checked his ID card, they found he had the odd name of <BLANK>.",
+            "t": "A",
+            "v": "608799_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

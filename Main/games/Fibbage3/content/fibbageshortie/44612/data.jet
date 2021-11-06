@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lord of the Rings,Bill Nye the Science Guy,Chess,Glasses,Berets,Espresso,Cafes,Library cards,Thinking,Encyclopedias,Hypothetical questions,Newspapers,Political cartoons,Poetry,pencils,Mad Libs,Molecules,brains",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bans",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Scrabble",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El dictador rumano Nicolae Ceausescu tenía tanto miedo al intelectualismo que prohibió <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He was just upset the Scrabble dictionary doesn’t allow “Ceausescu.”",
+            "t": "A",
+            "v": "592492_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Romanian dictator Nicolae Ceausescu was once so afraid of intellectualism that he banned <BLANK>.",
+            "t": "A",
+            "v": "592489_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

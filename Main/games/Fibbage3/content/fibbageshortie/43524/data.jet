@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sagging pants,time machines,monster trucks,dogs owning cats,three-wheelers,miming in public,potato launchers,improv comedy,monkeys as pets,imported bottles of water,loud public phone calls,rock and roll,jaywalking,sneakers,eating more than one banana a day,homemade soda,lemonade stands,amateur clowns",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "legalize it",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cortes de pelo a domicilio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En Estados Unidos, el senador del estado de Tennessee Lee Harris propuso un proyecto de ley a principios de 2017 que legalizaría <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "in home haircuts,in house haircuts,home haircuts,in-home hair cuts,home hair cuts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If you’re getting an in-home haircut, you’re not a criminal. You’re the victim.",
+            "t": "A",
+            "v": "564371_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Talk about odd priorities: Tennessee state Senator Lee Harris proposed a bill in early 2017 that would legalize <BLANK>.",
+            "t": "A",
+            "v": "564368_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

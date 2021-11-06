@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hada de los dientes,ladrón,monstruo,coleccionista de sellos,robot,asesino en serie,hombre del saco,tonto de clase alta,dragón,stripper,demonio,espía,perro,miembro de Imagine Dragons,payaso,neozelandés,elefante de guerra,asgardiano",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Official Statements",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "reptiliano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "John Key, el ex primer ministro de Nueva Zelanda, hizo una declaración oficial en el 2014 en la cual confirmó que él NO era un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "reptil,lagarto,persona lagarto,extraterrestre lagarto,extraterrestre reptil,hombre lagarto,hombre reptil,reptiloide,draconiano",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Wisely, he made the statement in his human form.",
+            "t": "A",
+            "v": "345702_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]John Key, the former New Zealand prime minister, made an official statement in 2014 in which he confirmed that he is not a <BLANK>.",
+            "t": "A",
+            "v": "345699_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

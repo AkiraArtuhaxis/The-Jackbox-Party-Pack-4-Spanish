@@ -1,0 +1,107 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a knock knock joke,breakfast is not complimentary,his wig is ugly,the war has begun,Wassssuuuup?,the citizens are revolting,his mom has to leave,the manor is on fire,hobo’s aren’t allowed at this cafe,his visitors are witches,“My favorite food is bread!”,his laundry is done,his friend is a murderer,there aren’t anough chairs,pork prices have fallen,plumbing has been invented,his credit has been denied,he’s wearing the tablecloth",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Actualizaciones importantes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su prostituta está aquí",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Photo",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según The Met, el sirviente le está diciendo al caballero que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the woman is a prostitute,his hooker is here,the woman is a hooker",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "612607_1",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "v": "637331_1",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I saw the exact same thing happen at a Denny’s at 3 a.m.",
+            "t": "A",
+            "v": "612605_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to The Metropolitan Museum of Art, the servant in this painting is telling the gentleman <BLANK>.",
+            "t": "A",
+            "v": "612602_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

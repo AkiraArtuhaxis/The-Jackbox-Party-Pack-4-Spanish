@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "travel|a fanny pack,brush their teeth|their finger,shower|a showercap,flush the toilet|their foot,share their room|drifters,make forts|pillows,watch TV|no pants on,pick up the remote|a plastic bag,scan the bed|a black light,check for cameras|a bug detector,bless the room|with a prayer,drink from the faucet|their hands,have sex|their imaginary friends,clog the toilets|hotel towels,watch adult movies|guests from next door,flatten their money|the hotel iron,pick their ears|hotel pens,wipe their butts|the hotel curtains",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "6000 British Adults",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "duermen|un osito de peluche",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La cadena de hoteles Travelodge encuestó a 6.000 adultos británicos y descubrió que el 35% de ellos habitualmente <BLANK> con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sleep|a teddybear,sleep|a bear,sleep|a stuffed animal,sleep|stuffed animals,sleep|plush animals,sleep|a plush animal,sleep|a stuffed bear,sleepl|stuffed bears,sleep|teddy bears",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The hotel chain Travelodge surveyed 6,000 British adults and discovered that 35% of them regularly <BLANK> with <BLANK>.",
+            "t": "A",
+            "v": "564818_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

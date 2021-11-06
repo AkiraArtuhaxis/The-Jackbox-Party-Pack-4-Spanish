@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a football helmet,haggis,a kiddie pool,an oxygen tent,halved baseballs,a turkey,church,a turducken,a baby’s crib,a coconut,a dog bowl,a tuba,an ice cream cone,a baseball helmet,a ring of ham,a fruit cake,six courses,an ice cube",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Classic Recipes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Gelatina",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1904, la mujer de John E. Cook inventó “La ensalada perfección\". Es básicamente una ensalada común y corriente, pero destaca porque se sirve en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "jello,gelatin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]There’s always room for nighmares.",
+            "t": "A",
+            "v": "592163_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1904, Mrs. John E. Cook invented “The Perfection Salad,” It’s mostly just a regular tossed salad, but the twist is that it’s served in <BLANK>.",
+            "t": "A",
+            "v": "592160_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

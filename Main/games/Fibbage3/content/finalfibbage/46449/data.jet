@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Name|Star,Eat|Weight in Burritos,Impersonate|Favorite Scientist,Build|Pyramid,Sell|Soul,Cut|Hair,Pimp|Science Ride,Give Up|Dreams,Test|Least Favorite hypothesis,Make|Bed,Kiss|Professor,Practice|Penmanship,Drink|Snapple in Silence,Broaden|Worldview,Visit|Grampa,Salute|Shorts,Science|Science,Mind|Manners",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Odd Contests",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Baila|Doctorado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, la revista <i>Ciencia<\/i> patrocinó el muy niche décimo concurso anual de \"<BLANK> Tu <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Dance|Phd,Dance|P.h.d.",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Competitors choreograph an interpretive dance that explains their Ph.D. thesis.",
+            "t": "A",
+            "v": "644910_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, <i>Science<\/i> magazine sponsored the very niche 10th Annual <BLANK> Your <BLANK> contest.",
+            "t": "A",
+            "v": "644907_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

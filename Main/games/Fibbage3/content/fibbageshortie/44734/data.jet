@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "horse theivery,donut shops,bedazzled jeans,coffee shops,registered Democrats,bigfoot sightings,MMA deaths,yuppies,comic book shops,Bass Pro Shops,alien abductions,disco stations,Bed Bath and Beyonds,flipped pickups,Cracker Barrels,Harvard graduates,Nobel Prize winners,recreational drug use",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Country Music",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "suicidios",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1992, un estudio afirmó que las ciudades donde las estaciones de radio de música country eran más escuchadas tenían más <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "suicide",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I rest my case.",
+            "t": "A",
+            "v": "595761_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1992, a study claimed that cities with higher than average country music radio market share also had more <BLANK>.",
+            "t": "A",
+            "v": "595758_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

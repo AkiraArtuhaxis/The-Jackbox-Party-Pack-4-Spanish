@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tooty Booty,Tim Allen Express,Poo Boy,Dapper Diaper,Ess Ess,Boat,Car,Tug n’ Chug,TUVWXYZ,Super Cool,Dental Dam,Corky Romano,Snake Cuddler,Spork,Bob Newhart,Hipster,Tolkien,Pork Bun",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ships in the Night",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Lesbiano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 5 de enero de 1917, el submarino alemán U-35 hundió un buque de carga británico con un nombre inusual. Se llamaba el SS <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Named after the Isle of Lesbos. Or at least that’s what the ship tells its grandparents.",
+            "t": "A",
+            "v": "668865_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On January 5, 1917, the German submarine U-35 sank a British cargo ship with an unusual name. It was called the SS <BLANK>.",
+            "t": "A",
+            "v": "668862_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

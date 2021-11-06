@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pet turtle,iPhone,toupe,fixie bicycle,priceless wheel of cheese,decorative soaps,jar of prized kidney stones,collection of vintage candy,comic book collection,supply of diet meals,mothere’s ashes,fencing sword,Porsche,Facebook account,porn collection,safe key,shark tooth necklace,million dollar watch",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Eating Your Feelings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fondos de vacaciones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La colombiana Sandra Almeida se vengó de su esposo infiel al comerse su/s <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "money,savings,life savings,cash",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Surgeons removed around $6,000 from her intestines.",
+            "t": "A",
+            "v": "612415_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Sandra Almeida of Colombia got revenge on her cheating husband by eating his <BLANK>.",
+            "t": "A",
+            "v": "612412_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

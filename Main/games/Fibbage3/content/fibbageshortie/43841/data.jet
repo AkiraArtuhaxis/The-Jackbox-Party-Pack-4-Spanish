@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "throwing poop,riding a tiny tricycle,drinking beer,Drew Barrymore,writing his name,wedgies,stealing wallets,sunglasses,wearing tiny shoes,nose rings,coffee,Dippin’ Dots,The Simpsons,his own mortality,eating pizza,pink hair,poker,rap music",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Obsession",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "senos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un zoológico de Moscú se preocuparon cuando Tomás el mapache se obsesionó de repente con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "boobs,tits,mammaries,titty,titties",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Oh, he’s just at that age.",
+            "t": "A",
+            "v": "571030_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Moscow zoo became concerned when Thomas the raccoon developed a sudden obsession with <BLANK>.",
+            "t": "A",
+            "v": "571027_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a snake,a nail file,a Christmas ornament,a Ty Cobb playing card,a Rubik’s cube,a straight razor,a pistol,a tiny bottle of gin,a Calvin Coolidge pin,a tobacco tin,a cheese knife,his lucky rabbit’s foot,an engagement ring,his locker key,a pair of scissors,a tube of ointment,metal jacks,a box of suppositories",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "butt injuries",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sus dientes postizos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1923, el jugador de los Boston Red Sox Clarence Blethen se rebanó la nalga al deslizarse a segunda base con <BLANK> en su bolsillo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "false teeth,dentures,his dentures",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I won’t say it really bit him in the ass, but...well, too late.",
+            "t": "A",
+            "v": "565908_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Talk about a weird injury: In 1923, Boston Red Sox player Clarence Blethen cut his butt cheek open when he slid into second with <BLANK> in his pocket.",
+            "t": "A",
+            "v": "565905_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

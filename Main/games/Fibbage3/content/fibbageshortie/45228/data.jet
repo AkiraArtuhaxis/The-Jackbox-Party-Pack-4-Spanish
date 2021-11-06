@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "listening to smooth jazz,wearing sunglasses,nacho cheese,Mad Libs,essential oils,petting robot dogs,a good whack in the head,saying “Beetlejuice”,massages,fart jokes,cheap booze,eating Cheetos,watching football,getting naked,licking your hand,seeing a puppy,getting a haircut,juggling",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bad Memories",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "jugar Tetris",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Investigadores de la Universidad de Oxford y del Instituto Karolinska en Suecia hicieron el sorprendente descubrimiento de que los recuerdos traumáticos pueden bloquearse al <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Tetris",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Unless of course your family died in a slowly falling brick accident.",
+            "t": "A",
+            "v": "608921_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Researchers from Oxford University and the Karolinska Institute in Sweden made the surprising discovery that traumatic memories can be blocked by <BLANK>.",
+            "t": "A",
+            "v": "608918_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

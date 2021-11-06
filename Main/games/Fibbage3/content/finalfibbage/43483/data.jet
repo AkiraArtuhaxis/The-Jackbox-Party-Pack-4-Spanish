@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hippo|elephant,squirrel|deer,otter|shark,wolf|boar,octopus|squid,wolf|werewolf,man|astroman,Martian|dragon,donkey|fish,mermaid|unicorn,crab|lobster,moose|goose,fisherman|shrimp,cool|hot,dog|catfish,cream|sugar,dolphin|bear,policeman|sea captain",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Monsters",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "anguila|cerdo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si te encuentras en Herrington Lake en Kentucky, ten cuidado con el monstruo local que se rumorea que es mitad <BLANK> mitad <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pig|eel,hog|eel,eelhog",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you find yourself out on Herrington Lake in Kentucky, beware of the rumored local monster that’s half <BLANK> half <BLANK>.",
+            "t": "A",
+            "v": "563380_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

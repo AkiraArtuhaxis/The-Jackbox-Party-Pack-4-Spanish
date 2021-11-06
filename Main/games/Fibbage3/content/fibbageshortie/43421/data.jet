@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Saving Spheres,Sports,Beckham Blaster,Other Kind Of Football,Bend It Like Bagdad,Help The Iraqi Kids,It’s Soccer not Football,For the Kids,Kickin It,Game Time,Air Bud,The Game,Mr Kick,Mia Hamm,Dumbo Drop,Black & White,Hooligan,Freedom Goal",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "humanitarian missions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pelota de fútbol",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2004, los miembros de las fuerzas armadas estadounidenses entregaron pelotas de futbol a los iraquíes como parte de una misión humanitaria con el sorprendente nombre de \"Operación <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Soccer Balls",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yup, sometimes it’s the most obvious answer.",
+            "t": "A",
+            "v": "562187_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2004, U.S. service members gave soccer balls to Iraqis as part of a humanitarian mission with the shocking code name Operation <BLANK>.",
+            "t": "A",
+            "v": "562184_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

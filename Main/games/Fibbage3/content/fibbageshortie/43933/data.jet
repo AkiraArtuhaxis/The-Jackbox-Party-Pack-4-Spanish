@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "crude oil,Bud Light Lime-a-Rita,rain water,Zima,lemon and vinegar,milk,rubbing alcohol,Guinness,Tab,a bloody mary,a Slurpee,an Arnold Palmer,pickle juice,Jack Daniels,orange juice with pulp,Mello Yello,a grandmother’s tears,Red Bull",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Foreign Beverages",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Mountain Dew",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el país árabe de Omán, una bebida conocida por los habitantes de la zona como \"alcohol omani\" es mejor conocida en otros lugares como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the Dew,Mt Dew,Mt. Dew,Mountain Do,Mountain Doo,Mt Doo,Mt. Doo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the Arab country of Oman, a drink known by locals as “Omani-alcohol” is better known elsewhere as <BLANK>.",
+            "t": "A",
+            "v": "573421_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

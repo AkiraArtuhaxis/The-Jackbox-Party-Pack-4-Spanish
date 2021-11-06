@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Painted the front door red,Cooked a meal for him,Planted a tree,Left their axe outside,sent him axe polish,Turned the lights off,Lit a single candle,Unlocked the doors,defended themselves,was named Steve,was old,had a welcome mat,left flowers out,looked tired,smelled like sardines,had a garden,made him a hurricane,had a pie in the windowsill",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "New Orleans",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tocara jazz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 19 de marzo de 1919, el misterioso \"hachero de Nueva Orleans\" escribió a un periódico local, prometiendo no asesinar a nadie que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "played jazz,plays jazz,plays jazz music,listens to jazz,listened to jazz",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And why wouldn’t you trust him?",
+            "t": "A",
+            "v": "573274_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On March 19, 1919, the mysterious Axeman of New Orleans wrote a local paper promising not to murder anyone who <BLANK>.",
+            "t": "A",
+            "v": "573271_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

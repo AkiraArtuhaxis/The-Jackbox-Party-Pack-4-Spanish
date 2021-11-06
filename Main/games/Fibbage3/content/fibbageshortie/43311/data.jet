@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Myspace page,hovercraft,flag,ferris wheel,snack bar,line of socks,foosball table,butler,DJ,robot,valet,dating site,designer jeans,coffee machine,bar and grill,Sega Genesis,Halloween party,mini-golf course",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tax Dollars at Work",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tema musical",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Administración Federal de Aviación es la única agencia gubernamental de Estados Unidos que tiene su propio <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "song,theme",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I’m just gonna assume it’s the theme from “Wings.”",
+            "t": "A",
+            "v": "559963_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Federal Aviation Administration is the only U.S. government agency that has its own <BLANK>.",
+            "t": "A",
+            "v": "559960_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

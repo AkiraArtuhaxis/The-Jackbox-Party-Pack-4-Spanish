@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "scream at the sun,look people in the eyes,correct grammar,avoid sunlight,bite your fingernails,touch wet paint,drink milk,see the doctor,jiggle your keys,eat candy,touch your toes,exercise,listen to podcasts,watch sports,eat beef,drive slow,birdwatch,force people to watch your vacation slideshow",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mania",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "quedarte en la cama",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Sufres de clinomanía? Si es así, entonces tienes un deseo abrumador de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "get in bed,not get out of bed",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]My advice is get a microphone and a voiceover job. I’m so cozy!",
+            "t": "A",
+            "v": "607933_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Do you suffer from clinomania? If you do, then you have the overwhelming urge to <BLANK>.",
+            "t": "A",
+            "v": "607930_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

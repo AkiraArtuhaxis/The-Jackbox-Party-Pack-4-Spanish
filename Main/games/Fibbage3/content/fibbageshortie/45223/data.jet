@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "drain clogger,fly catcher,flexible ear plug,chewing gum,tire sealer,hair gel,pencil holder,paper weight,bullet polisher,flexible wallet,thick gravy alternative,memory aid,pudding substitute,fish scaler,hair remover,pen eraser,digestive aid,cheese substitute",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Multi-Purpose",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "limpiador de papel tapiz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que se comercializara como un juguete para niños, Play-Doh fue diseñado como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cleaner for wallpaper,wallpaper cleanser",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And here I’ve spent all these years cleaning MY wallpaper with Nickelodeon GAK.",
+            "t": "A",
+            "v": "608773_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before it was turned into a kids’ toy, Play-Doh was designed as a <BLANK>.",
+            "t": "A",
+            "v": "608770_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "strawberry jam,boiled eggs,rulers,keys,branches,cereal,Blurays,spiders,beer,reggae,gum,splenda,compressed air,porcelain dolls,spanish doubloons,character actor Walter Brennan,sweaty socks,mint leaves",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Medical Warnings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "nidos de avispa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En respuesta a los supuestos beneficios para la salud de cierto mito, Dr. Jen Gunter advirtió a las mujeres en mayo de 2017 que no pongan <BLANK> en sus vaginas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "wasp nests,wasps nest,wasps nests,wasp hive,wasp hives,a wasp nest,oak gals,wasp galls,galls",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It SOUNDS like such a good idea. Go figure.",
+            "t": "A",
+            "v": "665342_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Responding to a myth about the supposed health benefits, Dr. Jen Gunter issued a May 2017 warning urging women not to put <BLANK> in their vaginas.",
+            "t": "A",
+            "v": "665339_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

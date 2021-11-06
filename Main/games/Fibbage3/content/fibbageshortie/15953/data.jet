@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hug,haircut,Wayne’s World poster,signed poster of Austin Powers,funny voicemail,high five,prayer,ticket to SNL,Shrek lunchbox,ukelele,million dollars,Dana Carvey autograph,high-five,small loan,gig,piggyback ride,compliment,bottle of ketchup",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Last Wishes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Muñeco de sí mismo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La última carta que el guitarrista de los Beatles George Harrison envió, fue al comediante Mike Myers, en donde le pidió un/una <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mini-me,minime,minime doll,minime action figure,mini-me action figure,mini-me toy,minime toy,mini me doll,mini me action figure,mini me toy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Sadly, he didn’t live to see The Love Guru.",
+            "t": "A",
+            "v": "352947_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The last letter Beatles guitarist George Harrison ever sent was to comedian Mike Myers, wherein he asked him for a <BLANK>.",
+            "t": "A",
+            "v": "352944_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

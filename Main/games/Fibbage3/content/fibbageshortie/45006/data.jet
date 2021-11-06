@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a stern letter,a rolling pin,a baby warrior,a harmonica,a cake boss,a Broadway show,a great dancer,Michael Jordan & Bugs Bunny,a wicker chair,a carpet sample,a bowl of pears,the tooth fairy,heavy sarcasm,a baby werewolf,Richard Nixon,a magic boomerang,poison edible panties,answering movie trivia",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Evil Demons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un pene de acero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Kanamara Matsuri es un festival japonés anual centrado en la leyenda de un demonio malvado. Afortunadamente, el demonio fue derrotado por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a metal penis,a steel peni,a steel dildo,a metal dildo,a penis,a dildo,a fallus,a phallus,a metal fallus,a metal phallus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The demon lived inside a woman’s vagina and kept biting off men’s penises on their wedding night. Pretty standard stuff.",
+            "t": "A",
+            "v": "602175_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Kanamara Matsuri is an annual Japanese festival rooted in the legend of an evil demon. Luckily, the demon was defeated by <BLANK>.",
+            "t": "A",
+            "v": "602172_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

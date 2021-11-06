@@ -1,0 +1,694 @@
+{
+    "content":[
+        {
+            "id":"00000000",
+            "history":[
+                { 
+                    "url":"http://www.maiz.com"
+                },
+                { 
+                    "url":"http://www.abuelosbuenos.com"
+                },
+                { 
+                    "url":"http://www.escaleras.com"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000001",
+            "history":[
+                { 
+                    "url":"cómo sacar la cabeza de la barandilla"
+                },
+                { 
+                    "url":"perros cerca de mí"
+                },
+                { 
+                    "url":"¿dónde compra sus sombreros Cedric the Entertainer?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000002",
+            "history":[
+                { 
+                    "url":"¿Cuánto tiempo debería durar la ropa interior?"
+                },
+                { 
+                    "url":"¿Los Power Rangers se basaron en una historia real?"
+                },
+                { 
+                    "url":"Aperitivos para adelgazar sin almendras"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000003",
+            "history":[
+                { 
+                    "url":"significado de “basura en el baúl”"
+                },
+                { 
+                    "url":"dyi arregla la entrepierna de los pantalones"
+                },
+                { 
+                    "url":"sillas resistentes y baratas"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000004",
+            "history":[
+                { 
+                    "url":"¿Son las rodillas huecas?"
+                },
+                { 
+                    "url":"lista de los mejores chicles"
+                },
+                { 
+                    "url":"sala de chat de NCIS"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000005",
+            "history":[
+                { 
+                    "url":"Mario Lopez"
+                },
+                { 
+                    "url":"Cómo darte hoyuelos"
+                },
+                { 
+                    "url":"pistolas de clavos"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000007",
+            "history":[
+                {
+                    "url":"osos de peluche adultos"
+                },
+                {
+                    "url":"imágenes de nubes que parecen nubes"
+                },
+                {
+                    "url":"¿ya han vuelto las riñoneras?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000008",
+            "history":[
+                {
+                    "url":"cómo quitar la grasa del disfraz de Chewbacca"
+                },
+                {
+                    "url":"brócoli pero sabe bien"
+                },
+                {
+                    "url":"¿puedes congelar Doritos?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000009",
+            "history":[
+                {
+                    "url":"¿dónde puedo comprar pantalones usados?"
+                },
+                {
+                    "url":"¿están mis peces muertos o durmiendo?"
+                },
+                {
+                    "url":"¿puedes morir por estornudar demasiado?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000010",
+            "history":[
+                {
+                    "url":"cómo dejar de gritar mientras duermo"
+                },
+                {
+                    "url":"cómo sacarse un frijol de la oreja"
+                },
+                {
+                    "url":"forma más rápida de hacerse enorme"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000011",
+            "history":[
+                {
+                    "url":"Peinado de Guy Feiri"
+                },
+                {
+                    "url":"camisetas de bolos"
+                },
+                {
+                    "url":"Crocs"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000012",
+            "history":[
+                {
+                    "url":"¿qué es un “momo”?"
+                },
+                {
+                    "url":"¿qué es un “meme”"
+                },
+                {
+                    "url":"memes de Roseanne"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000013",
+            "history":[
+                {
+                    "url":"cómo entablar una pequeña charla con compañeros de trabajo"
+                },
+                {
+                    "url":"pronóstico del tiempo"
+                },
+                {
+                    "url":"resultados deportivos"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000014",
+            "history":[
+                {
+                    "url":"localizador de camiones de tacos"
+                },
+                {
+                    "url":"localizador de camiones de helados"
+                },
+                {
+                    "url":"localizador de camiones de perritos calientes"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000015",
+            "history":[
+                {
+                    "url":"buen regalo para un sobrino"
+                },
+                {
+                    "url":"regalos baratos para sobrino"
+                },
+                {
+                    "url":"regalo casero para sobrinos"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000016",
+            "history":[
+                {
+                    "url":"¿qué es “dabbing”?"
+                },
+                {
+                    "url":"tutoriales de dabbing"
+                },
+                {
+                    "url":"¿está bien hacer un dab en las bodas?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000017",
+            "history":[
+                {
+                    "url":"fotos de mayonesa"
+                },
+                {
+                    "url":"ingredientes de la mayonesa"
+                },
+                {
+                    "url":"usos divertidos de la mayonesa"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000018",
+            "history":[
+                {
+                    "url":"¿cuándo es el Día de la Madre?"
+                },
+                {
+                    "url":"¿cuándo es el día del padre?"
+                },
+                {
+                    "url":"tarjetas de disculpa para padres"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000019",
+            "history":[
+                {
+                    "url":"nombre real de Sting"
+                },
+                {
+                    "url":"Dirección de Sting"
+                },
+                {
+                    "url":"Programa de gira de Sting"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000020",
+            "history":[
+                {
+                    "url":"¿qué es un bollo de hombre?"
+                },
+                {
+                    "url":"¿los papás pueden tener bollos de hombre?"
+                },
+                {
+                    "url":"¿cuánto tiempo se tarda en crecer el cabello?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000021",
+            "history":[
+                {
+                    "url":"el mejor lugar para comprar un bajo"
+                },
+                {
+                    "url":"lecciones de bajo"
+                },
+                {
+                    "url":"bandas que necesitan un bajista"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000022",
+            "history":[
+                {
+                    "url":"película animada sobre hormigas"
+                },
+                {
+                    "url":"película animada sobre hormigas pero no Antz"
+                },
+                {
+                    "url":"reparto de Bichos: Una aventura en miniatura"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000023",
+            "history":[
+                {
+                    "url":"Trivia Party Murder Game"
+                },
+                {
+                    "url":"Murdery Mystery Trivia Game"
+                },
+                {
+                    "url":"Party Murder Trivia Game"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000024",
+            "history":[
+                {
+                    "url":"¿por qué está tan lluvioso?"
+                },
+                {
+                    "url":"cómo detener las inundaciones"
+                },
+                {
+                    "url":"¿el gobierno controla el clima?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000025",
+            "history":[
+                {
+                    "url":"¿un taco es un sándwich?"
+                },
+                {
+                    "url":"¿un perro caliente es un sándwich?"
+                },
+                {
+                    "url":"¿una hamburguesa es un sándwich?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000026",
+            "history":[
+                {
+                    "url":"recetas de pescado para microondas"
+                },
+                {
+                    "url":"cómo ganarse a los compañeros de trabajo"
+                },
+                {
+                    "url":"recetas de magdalenas"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000027",
+            "history":[
+                {
+                    "url":"cómo impresionar a las mujeres"
+                },
+                {
+                    "url":"guitarras acústicas baratas"
+                },
+                {
+                    "url":"Tablatura de guitarra de “Wonderwall”"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000028",
+            "history":[
+                {
+                    "url":"manchas verdes en la mano"
+                },
+                {
+                    "url":"enfermedad de la piel manos verdes"
+                },
+                {
+                    "url":"cómo quitar el marcador de la piel"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000029",
+            "history":[
+                {
+                    "url":"¿Elvis sigue vivo?"
+                },
+                {
+                    "url":"¿Tupac sigue vivo?"
+                },
+                {
+                    "url":"¿John Lennon sigue vivo?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000030",
+            "history":[
+                {
+                    "url":"aterradoras criaturas de aguas profundas"
+                },
+                {
+                    "url":"lophiiformes"
+                },
+                {
+                    "url":"cómo sacar la orina de las sábanas"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000031",
+            "history":[
+                {
+                    "url":"Vídeos de Tim Allen"
+                },
+                {
+                    "url":"Podcast de Tim Allen"
+                },
+                {
+                    "url":"Blog de Tim Allen"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000032",
+            "history":[
+                {
+                    "url":"cómo escribir una canción de rap"
+                },
+                {
+                    "url":"creador de beats en línea"
+                },
+                {
+                    "url":"palabras que riman con rábano"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000033",
+            "history":[
+                {
+                    "url":"actividades divertidas para uno"
+                },
+                {
+                    "url":"recetas de puré de manzana"
+                },
+                {
+                    "url":"¿por qué está de moda el arte de la piña?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000034",
+            "history":[
+                {
+                    "url":"¿por qué me tiro tantos pedos?"
+                },
+                {
+                    "url":"¿Qué está tramando Judy Dench?"
+                },
+                {
+                    "url":"Casita para pájaros casera"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000035",
+            "history":[
+                {
+                    "url":"¿qué significa mi nombre?"
+                },
+                {
+                    "url":"¿Cuáles son algunos nombres interesantes?"
+                },
+                {
+                    "url":"cómo cambiar los nombres"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000036",
+            "history":[
+                {
+                    "url":"el buen tipo de almohada"
+                },
+                {
+                    "url":"cómo saber cuando la crema agria se ha convertido"
+                },
+                {
+                    "url":"Monster Mash loop"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000037",
+            "history":[
+                {
+                    "url":"Movimientos de baile de la Macarena"
+                },
+                {
+                    "url":"mejor loción"
+                },
+                {
+                    "url":"cómo conseguir más seguidores en Twitch"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000038",
+            "history":[
+                {
+                    "url":"¿es malo tragar chicle?"
+                },
+                {
+                    "url":"¿por qué Zayn dejó One Direction?"
+                },
+                {
+                    "url":"jeans de papá baratos"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000039",
+            "history":[
+                {
+                    "url":"yogur que te hace defecar"
+                },
+                {
+                    "url":"zapatos sensibles"
+                },
+                {
+                    "url":"Películas de Kevin Kline"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000040",
+            "history":[
+                {
+                    "url":"¿tengo gripe porcina?"
+                },
+                {
+                    "url":"¿tengo gripe aviar?"
+                },
+                {
+                    "url":"¿tengo la peste negra?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000041",
+            "history":[
+                {
+                    "url":"¿Pie Grande es real?"
+                },
+                {
+                    "url":"¿es real el chupacabras?"
+                },
+                {
+                    "url":"¿Alex Jones es real?"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000042",
+            "history":[
+                {
+                    "url":"Si como una semilla de manzana, ¿crecerá una manzana en mi trasero?"
+                },
+                {
+                    "url":"trasero de manzana"
+                },
+                {
+                    "url":"jeans con parte inferior de manzana"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000043",
+            "history":[
+                {
+                    "url":"perros bailarines"
+                },
+                {
+                    "url":"niños pequeños bailando"
+                },
+                {
+                    "url":"perros bailando con niños pequeños"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000044",
+            "history":[
+                {
+                    "url":"¿por qué mis eructos huelen a pilas?"
+                },
+                {
+                    "url":"¿me tragué pilas?"
+                },
+                {
+                    "url":"# de control de intoxicaciones"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000045",
+            "history":[
+                {
+                    "url":"arte de los fans de Tom Berenger"
+                },
+                {
+                    "url":"tiendas de productos lácteos con descuento"
+                },
+                {
+                    "url":"movimientos ilegales de karate"
+                }
+            ],
+            "time":5.0
+        },
+        {
+            "id":"00000046",
+            "history":[
+                {
+                    "url":"Minkus ahora"
+                },
+                {
+                    "url":"almohadas corporales con la cara de Andrew Garfield"
+                },
+                {
+                    "url":"videos divertidos de pingüinos"
+                }
+            ],
+            "time":5.0
+        }
+    ]
+}

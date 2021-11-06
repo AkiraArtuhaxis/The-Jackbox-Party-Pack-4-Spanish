@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a toilet|a tv,a baby|a can opener,a dildo|a toy sword,a PS4|a breast pump,a grenade|a Nintendo DS,a puppy|a goldfish,a pony|a snake,a dirty diaper|a Dr. Seuss book,a car|a bike,a fried turkey|a vegetarian cookbook,an etch-a-sketch|an ipad,a fishing pole|a laxative,cyanide tablets|Flinstone’s gummies,a DVD of Titanic|whiskey,bras|socks,a beer keg|a sex swing,dynamite|play-doh,a suppository|a wooden spoon",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Honest Mistakes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un rifle de asalto|un avión de juguete",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la fiebre navideña de 2016, UPS sorprendió a una pareja de Nueva York cuando entregó accidentalmente <BLANK> en lugar de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a gun|a toy,a gun|a toy plane,a rifle|a toy plane,a rifle|a toy,gun|toy plane",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host][DOUBLE BLANK] Oopsie. During the holiday rush of 2016, UPS surprised a New York couple when they accidentally delivered <BLANK> instead of <BLANK>.",
+            "t": "A",
+            "v": "563630_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fresh squeezed orange juice,grass,febreze,soap,lavender,burnt rubber,feet,garlic,freshly baked cookies,really good man,a Newfie,wet dog,ammonia,lemons,vinegar,cedar,tuna,gasoline",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "canadian smells",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "miel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013 surgió una controversia en torno al nuevo billete de 100 dólares. Muchos decían que olía a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "maple,syrup,pancakes,pancake syrup",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Sometimes the jokiest answer is the right one.",
+            "t": "A",
+            "v": "564996_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, there was a controversy surrounding Canada’s new $100 bill. Many claimed it smelled like <BLANK>.",
+            "t": "A",
+            "v": "564993_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vomit|poop,bugs|straw,brains|hearts,cheese|mustard,goldfish|confetti,yogurt|caramel,fish eggs|Skittles,peanuts|eggs,milk|orange juice,peanut butter|ham,sugar|spice,cinnamon|Pepto Bismol,green tea|newspaper,carrots|waffles,avocado|chili peppers,chicken hearts|goat eyes,apple pie|gravy,chili|pineapple slices",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "“sundae”",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fideos|sangre",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si amas el helado, NO PIDAS el \"sundae\" en Corea del Sur. Consiste de intestinos de vaca o cerdo llenos de <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "blood|noodles",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you love ice cream, do NOT order the “sundae” in South Korea. It’s cow or pig intestines filled with <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "681091_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

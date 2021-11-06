@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jumped on a couch,sang,shouted,said something sarcastic,cried,hugged,hooked up,were “on a break”,made fun of Ross,wore baggy clothes,went to work,mispronounced words,started a war,mentioned Saddam Hussein,time travelled,used the internet,said the word “butts”,forgot their lines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Friends",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tomaban café",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Kit Lovelace realizó una investigación muy importante. Vio todos los 236 episodios de <i>Friends<\/i> y controló qué tan frecuentemente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "had coffee,drink coffee,have coffee,order coffee,sip coffee,get coffee",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Phoebe was the top coffee drinker, totaling 227 cups.",
+            "t": "A",
+            "v": "675625_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Kit Lovelace conducted some important research. She watched all 236 episodes of <i>Friends<\/i> and tracked how often they <BLANK>.",
+            "t": "A",
+            "v": "675622_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

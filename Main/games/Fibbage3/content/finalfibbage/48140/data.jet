@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "leg crossing scene|Fatal Attraction,nuclear power plant|The Simpsons,secret moon landing|1947,flood|Bible,beer recipe|Beowulf,high school|Saved By The Bell,fembots|Austin Powers,prom scene|Carrie,Twister|Twister,chocolate river|Willy Wonka,home run|The Natural,fight scene|Kung Fu Panda,Death Star|Return of the Jedi,town|It’s a Wonderful Life,Great Pumpkin|Charlie Brown,catcher’s mitt|Catcher in the Rye,apartment|Laverne and Shirley,shark|Jaws",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Faithful Recreations",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "canchas de tenis|Wimbledon",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Piensas en viajar a Charles City, IA? Asegurate de visitar la granja de Mark Kuhn, donde recreó fielmente las <BLANK> de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tennis court|Wimbledon,courts|Wimbledon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Thinking about a trip to Charles City, IA? Make sure to see Mark Kuhn’s farm where he’s faithfully recreated the <BLANK> from <BLANK>.",
+            "t": "A",
+            "v": "678471_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

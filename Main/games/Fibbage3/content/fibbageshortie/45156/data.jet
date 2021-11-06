@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Banking,McDonald’s Fry Cook,Accountant,Firefighter,Elementary School Teacher,Gun Manufacturer,Stunt Actor,Logger,Bee Keeper,Butcher,Cow Wrangler,Roofers,Pilots,Fisher,Construction Worker,Truck Driver,Sales,Intern",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dangerous Job",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Presidente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Estadísticamente, el trabajo más peligroso en Estados Unidos es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the President,Presidency,U.S. President,United States President,Commander in Chief",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]About 18% of them have died on the job, more than any other profession.",
+            "t": "A",
+            "v": "607507_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Statistically, the most dangerous job in America is <BLANK>.",
+            "t": "A",
+            "v": "607504_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

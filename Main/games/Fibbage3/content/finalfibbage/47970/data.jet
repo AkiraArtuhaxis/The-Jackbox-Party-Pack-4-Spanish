@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "coke|pepsi,to live|to die,10 hugs|1 kiss,fries|onion rings,the left twix|the right twix,to mambo|tango,to kick|scream,to conform|resist,to vote|die,dis|dat,ketchup|mustard,black|white socks,6|maybe 7 high fives,to be scared|spooked,to lie|tell the truth,the steak|the chicken dish,an iphone|an android,to watch a comedy|an action movie",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Decisions Decisions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "papel higiénico rojo|papel higiénico azul",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una tenebrosa leyenda urbana en Corea trata acerca del malvado espíritu \"Aka Manto.\" Antes de matarte, te pregunta si quieres <BLANK> o <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "red|blue toilet paper,red paper|blue paper,blue|red toilet paper,blue paper|red paper,blue toilet paper|red toilet paper",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Just as long as it’s not whatever those bears use.",
+            "t": "A",
+            "v": "673865_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]There is a creepy urban legend in Korea about the malicious ghost “Aka Manto.” Before killing you, it will simply ask you if you want <BLANK> or <BLANK>.",
+            "t": "A",
+            "v": "673862_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

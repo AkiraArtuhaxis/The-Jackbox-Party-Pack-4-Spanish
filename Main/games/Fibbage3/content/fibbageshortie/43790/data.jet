@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Don’t Have a Cow Man,Where’s the Beef?,Party On Dudes!,Semper Fi,Kiss my grits,Cowabunga,Stifler rules,Fat Guy in a little coat,My wife!,Up Up and Away,That’s What She Said,That's Hot,That’s a spicy meatball,Nobody expects the Spanish Inquisition,Your mom,Care Bear Stare,Bazinga,Yo Joe",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Exam Pranks",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Esto es Esparta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2008, Kevin Xu y Jake Bryant realizaron una exitosa campaña en línea que animó a otros estudiantes de secundaria a escribir la frase “<BLANK>” en los ensayos de sus exámenes de colocación avanzada.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "This is Sparta!",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Proving that any high schooler can do Zach Snyder’s job.",
+            "t": "A",
+            "v": "569522_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2008, Kevin Xu and Jake Bryant ran a successful online campaign that encouraged fellow high school students to write the catchphrase <BLANK> in the essay section of their AP exams.",
+            "t": "A",
+            "v": "569519_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

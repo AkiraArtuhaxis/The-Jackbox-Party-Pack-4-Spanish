@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "idiot,bartender,baby,maid,spy,fisherman,dairy farmer,toilet scrubber,schoolgirl,mailman,prisoner,pilot,cafeteria worker,farmer,widow,swineherder,corpse,drummer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hoo Dahzent Noh Thet?",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "barberos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Al describir un secreto mal guardado, los rusos utilizan una frase que se traduce como \"Todos los <BLANK> lo saben.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "barbero,peluquero,peluqueros,cortador de pelo,estilista,estilistas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "564137_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The only secret my barber knows about is my crippling eczema.",
+            "t": "A",
+            "v": "564135_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When describing a poorly kept secret, Russians use a phrase that translates to “Every <BLANK> knows that.”",
+            "t": "A",
+            "v": "564132_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

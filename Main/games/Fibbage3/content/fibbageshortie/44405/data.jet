@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tooth,nudity,squid,toilet,leftover pizza,Angry Birds,briefcase,booger,spitting,cream cheese,enema,toe nail,wooden pencil,Arkansas,neck beard,hair gel,birthday,appreciation",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Special Days",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Virus",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si tu cumpleaños cae el 3 de octubre, ¡felicidades! Tu día especial también es conocido como el Día de Apreciación de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Not to be confused with Please Don’t Bring Your Influenza to Work Day... which is every day of the year.",
+            "t": "A",
+            "v": "587433_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If your birthday is October 3rd, congratulations! Your special day is also known as <BLANK> Appreciation Day.",
+            "t": "A",
+            "v": "587430_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

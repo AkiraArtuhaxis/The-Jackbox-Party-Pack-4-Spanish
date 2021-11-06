@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hair,Teeth,Baby clothes,elbows,socks,Coloring books,favorite picture,Jack-In-The-Box,Bible,marbles,left hand,Toy soldiers,hopes and dreams,Etch-A-Sketch,coolest toy,signature,official seal,Chess Set",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Greek Life",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Yo-Yo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando los niños de la Antigua Grecia se convertían en adultos, se esperaba que complacieran a los dioses colocando su <BLANK> en un altar.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "yo-yos,yoyo,yo yo,yoe yoe,yoe-yoe",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The Greeks invented the Yo-Yo. That’s not a euphamism.",
+            "t": "A",
+            "v": "591047_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When ancient Greek children reached adulthood, they were expected to please the gods by putting their <BLANK> on an altar.",
+            "t": "A",
+            "v": "591044_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

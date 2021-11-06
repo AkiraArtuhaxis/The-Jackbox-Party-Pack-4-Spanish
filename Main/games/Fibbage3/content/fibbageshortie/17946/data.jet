@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "wireless routers,roses,holy water,hot sauce,cantaloupe,wine,robes,stereos,groceries,slow cookers,mp3s,knives,phone chargers,custom t-shirts,Bitcoins,Indulgences,laptops,lottery tickets",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "monk money",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ink and toner",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los monjes del Monasterio de Nuestra Señora del Banco de Primavera de Cistercian Abbey ganaron dinero vendiendo <BLANK> en línea.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ink and toner cartridges,ink,toner,ink cartridges,toner cartridges,ink cartriges,toner cartriges,printer cartridges,printer supplies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The business savvy monks at the Cistercian Abbey of Our Lady of Spring Bank made money by selling <BLANK> online.",
+            "t": "A",
+            "v": "374225_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

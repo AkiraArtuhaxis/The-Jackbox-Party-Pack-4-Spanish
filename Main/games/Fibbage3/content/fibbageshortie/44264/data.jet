@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pig slaughterers,blinkers,horse fluffers,leap froggers,book burners,party ruiners,egg tossers,arsonists,nappers,drunks,bathers,rappers,lasagna makers,house painters,coffee drinkers,butt wipers,speedwalkers,sperm donaters",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Central Europe",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "excavadores de tumbas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ladislav y Csaba, dos hermanos eslovacos, derrotaron a otros 10 equipos para ser nombrados los <BLANK> más rápidos de Europa Central.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "gravediggers,grave-diggers,grave digger,gravedigger,grave-digger",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The grave digging contest turns out to be practical, since every year at least a couple spectators die of boredom.",
+            "t": "A",
+            "v": "583145_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In Slovakia, two brothers, Ladislav and Csaba, beat out 10 other teams to be named Central Europe’s fastest <BLANK>.",
+            "t": "A",
+            "v": "583142_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

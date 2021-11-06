@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Georgia,campaña,fe,confianza,John,educado,cambio,líder,prostituta,trasero,CNN,sémola,ABC,gato,error ortográfico,Chevy,dios,pato",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Governor Websites",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gobernador",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el 2013, John Barge, un hombre postulado a la candidatura para gobernador de Georgia, canceló su sitio web de campaña por que escribió mal “<BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He put the guber in gubernatorial",
+            "t": "A",
+            "v": "321028_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, John Barge, a man running for Georgia governor, pulled down his campaign website because it misspelled “<BLANK>.”",
+            "t": "A",
+            "v": "321025_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

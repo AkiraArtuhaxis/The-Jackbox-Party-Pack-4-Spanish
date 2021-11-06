@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cat litter,beach sandals,duct tape,leg razors,chocolate milk,tire repair kits,carpet shampoo,leg warmers,weight loss shakes,Flintstones chewable vitamins,foam footballs,duck calls,lawn chairs,canned peaches,body wash,gallon sized Ziploc bags,Febreze air freshener,cheap pens",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hurricane prep",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pop-tarts",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando Walmart comenzó a estudiar las tendencias entre sus consumidores, descubrió que antes de un huracán, la gente estaba comprando siete veces la cantidad usual de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Pop-Tarts,Strawberry Poptarts,Pop Tarts,Strawberry Pop Tarts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When Walmart began studying consumer trends, they found that before a hurricane, people were buying seven times the normal amount of <BLANK>.",
+            "t": "A",
+            "v": "682407_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

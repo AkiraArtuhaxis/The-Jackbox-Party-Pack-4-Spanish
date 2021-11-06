@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bucket|a wig,room|naked people,chair|spikes,hat|a hungry rat,sexy painting|a microphone,piece of cheese|electric shock,mirror|“guilty” written on it,tombstone|your name on it,string|a carrot tied to it,dog|sad eyes,power drill|an annoying sound,sad movie|dead kid,radio|no off switch,pumpkin|Groucho Marx’s voice,parrot|a sense of humor,joke book|no punchlines,ventriloquist dummy|moving eyes,glass of water|a hole in the side",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Confessions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "esqueleto|ojos brillantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Helene Adelaide Shelby diseñó un aparato bastante innovador para lograr que criminales confiesen sus actos. Era esencialmente un <BLANK> con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "skull|glowing eyes,skeleton|eyes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The ol’ good cop, bad red-eyed terrifying skeleton routine.",
+            "t": "A",
+            "v": "640260_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Helene Adelaide Shelby designed a pretty innovative apparatus for getting criminals to confess their crimes. It was essentially a <BLANK> with <BLANK>.",
+            "t": "A",
+            "v": "640257_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

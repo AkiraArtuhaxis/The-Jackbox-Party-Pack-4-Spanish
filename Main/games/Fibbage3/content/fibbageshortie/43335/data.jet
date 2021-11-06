@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "killing a unicorn,murder,masturbation,owning a goldfish,stabbing a shadow,meat,video game violence,divorce,stomping a bug,littering,eating yogurt,having a loud phone conversation,time traveling,texting while driving,ghostbusting,going on a Tinder date,unplugging a robot,taking brunch pics",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Murder We Wrote",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "matar a pie grande",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, el neuropsicólogo Dr. Samuel Webb Sentell planteó la importante pregunta \"¿<BLANK> cuenta como asesinato?\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "shooting bigfoot,killing big foot,shooting big foot,shooting yetis,killing yetis",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Fibbage might not be the right venue for that debate.",
+            "t": "A",
+            "v": "569679_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Unfortunately, we don’t YETI have an answer.",
+            "t": "A",
+            "v": "560638_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, neuropsychologist Dr. Samuel Webb Sentell brought up the important question “Is <BLANK> murder?”",
+            "t": "A",
+            "v": "560635_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

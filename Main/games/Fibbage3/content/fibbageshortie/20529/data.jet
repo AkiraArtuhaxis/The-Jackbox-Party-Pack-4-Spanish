@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "the death penalty,eugenics,safe sex,bed wetting,divorce,incontinence,interracial marriage,wiping etiquette,breast feeding,nose picking,STDs,illegal immigration,abortion,steroid use,assisted suicide,PTSD,clinical depression,early furries",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Disney History",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los períodos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1946, Walt Disney Pictures fue contratada para producir un corto animado de 10 minutos acerca de un tema un poco tabú: <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "menstruation,menstration,menstral cycles,the menstral cycle",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was called “The Story of Menstruation”.  Some consider it the very first period drama.",
+            "t": "A",
+            "v": "399806_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1946, Walt Disney Pictures was commissioned to produce a ten-minute animated short on the somewhat taboo subject of <BLANK>.",
+            "t": "A",
+            "v": "399803_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Devils,Angels,Boobs,Noses,Voyeurs,Nazis,Pockets,Butts I saw,Hoos,Grinches,Things,Doctors,Orphans,Inappropriate Things,Ding-a-Lings,Hoo Has,Dental Nightmares,Farts",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Old Books",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Erecciones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de hacerse famoso, el Dr. Seuss ilustró un libro de 1941 con el extraño título <i>Un libro de bolsillo de <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Bonirs,Bonrs,Bonerrs",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]To be fair, “boners” meant “mistakes” back then. Like the mistake of releasing a book about your boners.",
+            "t": "A",
+            "v": "590897_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before he became famous, Dr. Seuss illustrated a 1941 book with the strange title <i>A Pocket Book of <BLANK><\/i>.",
+            "t": "A",
+            "v": "590894_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

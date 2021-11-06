@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sunglasses Hut,the Pentagon,State Farm,the Paraguayan consulate,Radio Shack,Carl’s Jr,Applebees,the San Diego Zoo,The Hard Rock Cafe,24 Hour Fitness,those kiosks in the mall that sell toy helicopters,the Vatican,peppridge farms,The Petrified Forest gift shop,dollar general,The Home Shopping Network,the post office,The Smithsonian",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bad gifts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Domino's",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A partir de 2017, las parejas comprometidas pueden registrarse para recibir regalos en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dominos,dominoes,dominoe’s",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Perfect for the couple who’s already stopped trying.",
+            "t": "A",
+            "v": "563683_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Wedding presents don’t have to be conventional: Beginning in 2017, engaged couples can now register for gifts at <BLANK>.",
+            "t": "A",
+            "v": "563680_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

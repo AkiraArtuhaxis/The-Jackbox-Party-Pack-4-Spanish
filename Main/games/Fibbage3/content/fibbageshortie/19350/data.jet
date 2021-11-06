@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pornography,masturbation,pregnancy,anal sex,thongs,public nudity,alcohol,sexting,Viagra,v-neck shirts,skinny jeans,perfume,whip cream,butt implants,high heels,bikini waxes,the wonderbra,boxer briefs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "contraceptives",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "adulterio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En febrero de 2015, las empresas anticonceptivas surcoreanas experimentaron un aumento de sus acciones, luego de que el gobierno levantara una prohibición vigente por 62 años del <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cheating on your spouse,adultary,cheating",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And what a rise it was! Hahaha...penis.",
+            "t": "A",
+            "v": "383684_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]South Korean contraceptive companies saw a rise in their stock shares in February of 2015, after the government lifted a 62-year-old ban on <BLANK>.",
+            "t": "A",
+            "v": "383681_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "used bars of soap,beer,pig butter,haunted ingredients,cockroach milk,fish guts,her tears,baby poop,earwax,belly button lint,play-doh,dead bugs,shampoo,manure,ice cream,horse spit,her husband’s ashes,snot",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Doctor Yogurt",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su flora vaginal",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cecilia Westbrook, una estudiante de doctorado en la Universidad de Wisconsin, fue noticia con un experimento inusual que involucraba hacer yogur con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "vaginal bacteria,her vagina,her pussy,vaginal yeast,her vaginal yeast",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Solving the mystery of why she kept pouring granola down her pants.",
+            "t": "A",
+            "v": "384872_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Cecilia Westbrook, a PhD student at the University of Wisconsin, made headlines with an unusual experiment that involved making yogurt with <BLANK>.",
+            "t": "A",
+            "v": "384869_3",
+            "n": "QuestionAudio"
+        }
+    ]
+}

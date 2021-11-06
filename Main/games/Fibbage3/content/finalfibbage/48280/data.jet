@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dog hair|cat hair,shoulder pads|butt pads,mowed grass|cow hair,steel wool|bailing wire,ice cubes|scotch tape,wolf pelts|party ribbons,used marathon socks|headbands,jerseys|pants from the ‘65 Yankees,dead skin|leg hair,old parachutes|sleeping bags,hospital sheets|licorice,American flags|blue jeans,Watergate documents|newspapers,candy wrappers|medical charts,dead dolphins|used sneakers,toilet paper|dried snot,beach towels|beer cans,used wax strips|smiley face stickers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Frank Zappa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sostenes|bragas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En principios de los 80, el músico experimental Frank Zappa mando a hacer una colcha particular. Estaba hecha completamente de <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "panties|bras,bras|underwear,underwear|bras,underwear|more underwear",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Just like how grandma used to make them.",
+            "t": "A",
+            "v": "682696_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the early 1980s, experimental musician Frank Zappa commissioned an unusual quilt. It was made entirely of <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "682693_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "in the nude,sleeping,smoking cigarettes,playing poker,donating blood,speed dating,yelling at teenagers,getting tattooed,mining for coal,getting a colonoscopy,watching King of Queens,doing yoga,brewing beer,giving birth,getting a bikini wax,getting LASIK,using the bathroom,getting your hearing tested",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Art Exhibits",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "juegas al pinball",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Museo de Arte Elmhurst de Illinois debutó una exposición llamada \"Reyes y Reinas\" en 2017 que te permite disfrutar del arte mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "playing pin ball",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Just as the artists intended.",
+            "t": "A",
+            "v": "644310_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Elmhurst Art Museum in Illinois debuted an exhibit called “Kings and Queens” in 2017 that lets you enjoy art while <BLANK>.",
+            "t": "A",
+            "v": "644307_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

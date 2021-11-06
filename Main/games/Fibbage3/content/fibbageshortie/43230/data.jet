@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "crabs,dyslexia,a brother somewhere,forgotten to take medication,your zipper down,driven while asleep,a clown standing behind you,eaten expired food,a term paper due soon,killed someone,success,a doppelganger,a rabid dog come up to you,left the stove on,a terrible fashion sense,shoplifted by accident,cheated on your taxes,an alien inside of you",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Norwegian Words",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hecho algo estúpido emborrachado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La palabra noruega \"fylleangst\" describe el miedo de que quizá has <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "said something stupid while drunk,acted stupid while drunk,gotten drunk and done something stupid",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]We don’t need this word in the US. We KNOW we did something stupid while drunk.",
+            "t": "A",
+            "v": "558798_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Norwegian word “fylleangst” describes the fear that you might have <BLANK>.",
+            "t": "A",
+            "v": "558795_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

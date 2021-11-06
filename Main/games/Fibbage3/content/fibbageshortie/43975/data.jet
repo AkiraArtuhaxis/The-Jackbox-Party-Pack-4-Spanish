@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Rodeo Clown,Pro Golfer,Former Olympian,Close up magician,Celebrity chef,human cannonball,lion tamer,plate spinner,mime,jazz singer,bearded lady,cow tipper,Vaudeville Actress,sword swallower,chainsaw juggler,playwright,Competitive Eater,Abe Lincoln Impersonator",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Women’s History",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "médium espiritual",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que Victoria Woodhull se convirtiera en la primera mujer postulada como candidata presidencial de Estados Unidos, ella recorrió el país entreteniendo a las multitudes como una <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "medium",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was those leaked emails to ghosts that really doomed her.",
+            "t": "A",
+            "v": "574748_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before Victoria Woodhull became the first female U.S. presidential candidate, she toured the country entertaining crowds as a <BLANK>.",
+            "t": "A",
+            "v": "574745_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Goofy,Supreme Court,Don Rickles,Cap’n Crunch,Walter Cronkite,Putin,Golden Girls reunion,Ronald McDonald,Antonio Canova,Will Ferrell,hybrid of Kate Upton and Thor,Prince,Pat Sajak,werewolf,Homer Simpson,Richard Nixon,Oprah,Chef Boyardee",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Nude Statues",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "George Washington",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, la Colección Frick de Nueva York puso en exposición una estatua realizada por Antonio Canova que mostraba a un <BLANK> desnudo/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Washington",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I cannot tell a lie... it’s really cold in here.",
+            "t": "A",
+            "v": "608533_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, The Frick Museum in New York City displayed an Antonio Canova statue of a nude <BLANK>.",
+            "t": "A",
+            "v": "608530_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

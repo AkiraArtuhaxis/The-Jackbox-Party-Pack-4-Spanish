@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fingernails,clothing,teeth,back hair,mustaches,blood,children,inhibitions,eyelids,brains,third eye,warts,creditors,breakfast,iPhones,porch swings,clocks and watches,hair products",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Experimental Treatments",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "intestinos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Bayard Holmes y Henry Cotton tenían un método inusual para tratar la esquizofrenia de sus pacientes: deshacerse de su/s <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "organs,guts,intestine,colon,colons,gut",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Did it work? If by work you mean killed a lot of patients, then yes it did.",
+            "t": "A",
+            "v": "664653_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Bayard Holmes and Henry Cotton had an unusual method for treating schizophrenia in their patients: getting rid of their <BLANK>.",
+            "t": "A",
+            "v": "664650_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

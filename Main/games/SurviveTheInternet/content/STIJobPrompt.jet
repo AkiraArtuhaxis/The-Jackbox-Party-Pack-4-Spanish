@@ -1,0 +1,1069 @@
+{
+    "episodeid": 1322,
+    "content": [
+        {
+            "decoys": [
+                {
+                    "text": "Tiene un gran sentido del humor.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46626,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu compañero/a de trabajo favorito."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un hombre estoico que nos trata con justicia.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46625,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu jefe."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tenía el pelo rizado y una hermosa voz.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46624,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu primera pareja romántica."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un poco tirano en el trabajo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46622,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente tu némesis."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Es muy divertido y se ríe mucho!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46619,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu mejor amigo/a."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ella es una mujer cariñosa que siempre ha estado ahí para mí.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46616,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu mamá."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un hombre honesto y trabajador.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46614,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu papá."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Era bonita, simpática y divertida.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 46613,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu profesor/a favorito/a."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Era alto y calvo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47249,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente el/la director/a de tu escuela secundaria."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es una anciana encantadora.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47251,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu vecino/a."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Gran oyente, paciente y resolutivo.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47431,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué atributos tiene todo/a buen líder?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "¡Él trae alegría a millones de personas!",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47432,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías brevemente a Santa Claus a un alien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Bien educado y decidido",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47437,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué atributos quieres en un/a político/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Manos seguras y un toque suave",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47435,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente los atributos que deseas en un/a médico/a."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Responsable y siempre a tiempo",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47433,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente los atributos que deseas en una niñera."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ella era tan dulce y realmente escuchaba",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47744,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué atributos quieres en un/a abogado/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Olía a lavanda",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47740,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a la última persona que te ha gustado."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Alguien que sea honesto y me mire a los ojos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47745,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué atributos quieres en un mecánico de autos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Realmente hablador y peculiar",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47750,
+            "choices": [],
+            "prompt": {
+                "text": "Describe a la persona que te corta el pelo."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Una personalidad inquietante y una apariencia ardiente",
+                    "type": "Positive"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47751,
+            "choices": [],
+            "prompt": {
+                "text": "Describe lo que te gusta de tu celebridad favorita."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Le encantan los niños.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47765,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías brevemente a Peter Pan?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tiene gafas y es un mago.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47766,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías brevemente a Harry Potter a alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es guapo, inteligente y un asesino.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47768,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías a James Bond a un alien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un hombre inteligente que enseña a los mutantes.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47769,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías brevemente al profesor Xavier?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es un cerdo grande y tartamudea.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47774,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cómo describirías a Porky el Cerdito?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es una gran cantante.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48493,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es el mejor atributo de Mary Poppins?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Es súper fuerte y tiene una cuerda.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48491,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a La Mujer Maravilla."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Alguien que es inteligente y tiene buenas manos.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48511,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente qué atributos hacen a un buen chef."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tenía muchos dispositivos geniales.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48490,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué hace que Batman sea tan genial?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Alguien que es justo y valiente.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48543,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué atributos hacen a un/a gran oficial de policía?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Él lucha contra los nazis.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48489,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué hace que Indiana Jones sea tan genial?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ayudó a los pobres.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48488,
+            "choices": [],
+            "prompt": {
+                "text": "¿Por qué Gandhi fue tan genial?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ella es muy inteligente y una gran escritora.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48494,
+            "choices": [],
+            "prompt": {
+                "text": "Describe brevemente a tu tía favorita."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ella ayudó a los pobres.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48495,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué hizo a la Madre Teresa tan grandiosa?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Realmente me hace reír.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44093,
+            "choices": [],
+            "prompt": {
+                "text": "¿Cuál es tu opinión sobre Tina Fey?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Alguien que sea fuerte, rápido y valiente.",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48544,
+            "choices": [],
+            "prompt": {
+                "text": "¿Qué atributos hacen a un gran bombero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "callado, tímido, inteligente",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44965,
+            "choices": [],
+            "prompt": {
+                "text": "Describe a un introvertido usando tres adjetivos."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "sociable, amigable, divertido",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49248,
+            "choices": [],
+            "prompt": {
+                "text": "Describe a un extrovertido usando tres adjetivos."
+            }
+        }
+    ]
+}

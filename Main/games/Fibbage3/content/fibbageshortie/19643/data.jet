@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dogs sniffing butts,unibrows,cosplay,mimes,firecrackers,their address,dead relatives,air guitar,their belly buttons,fast food,puns,unshaven body parts,Kim Kardashian,sad clowns,robots,butt cracks,penguins,ninjas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Illegal Selfies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "underboob",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, Thailand advirtió a los ciudadanos que están violando el Acta de Crímenes Computacionales si se toman selfies que contienen <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "under boob,under-boob",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]People always talk about sideboob, but never underboob: the often overlooked boob.",
+            "t": "A",
+            "v": "390818_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, Thailand warned citizens that they are violating the Computer Crimes Act if they take selfies containing <BLANK>.",
+            "t": "A",
+            "v": "390815_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

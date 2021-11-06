@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shave their cats,advertise his restaurant,draw mustaches on their pictures,watch their home movies,make cookies,steal neckties,raid the fridge,switch their mustard and ketchup,leave ice cream out to melt,write poetry on the walls,leave dead crows,fill the sugar bowl with ants,fill the tub up with lunch meat,use their phone to make prank calls,play parody songs on ukulele,check the water meter,finish their crosswords,apologize for breaking in",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Break-Ins",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cortarles el pelo mientras dormían",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1942, la ciudad de Pascaboula, Mississipi se vio aterrorizada por un hombre que entraba en las casas de las personas sólo para hacerles una cosa extraña: <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cut their hair,cut people’s hair,cut hair,give them haircuts,give them haircuts in their sleep,cut their hair while they’re sleeping",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Even worse, he gave everyone The Rachel.",
+            "t": "A",
+            "v": "652244_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1942, the town of Pascaboula, Mississippi was terrorized by a man who broke into people’s homes just to do one strange thing: <BLANK>.",
+            "t": "A",
+            "v": "652241_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "kissing the ground,planting a cactus,eating a spoonful,jumping on it,using it as a sundae topping,asking your neighbor,mixing it with Fanta,seeing how it reacts to music,baking it for 20 minutes,googling it,asking it,rubbing it on your skin,bagging it,planting flowers and seeing if they grow,texting a picture of it to the local government,using it as chocolate milk mix powder,pouring RC Cola on it,yelling at it",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Soiled",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "enterrando ropa interior",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Consejo de Conservación del Suelo de Canadá organizó una extraña campaña en abril de 2017 que mencionaba que puedes comprobar la calidad de tu tierra simplemente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "burying your underwear,burying a pair of underwear,using underwear,burying cotton underwear",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The underwear should quickly decompose. Assuming you’re getting enough fiber...",
+            "t": "A",
+            "v": "670899_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Soil Conservation Council of Canada ran a strange campaign in April 2017 stating that you can test the quality of your soil by simply <BLANK>.",
+            "t": "A",
+            "v": "670896_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

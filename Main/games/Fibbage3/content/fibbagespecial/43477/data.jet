@@ -1,0 +1,107 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sonrisa,dolor,sitio pintoresco,oreja de elfo,amor,boca de serpiente,patillas,comida competitiva, rubor,cara nueva,dentadura,sonrisa torcida,grano,voz profunda,mordida,buen aliento,barbilla cuadrada,poderoso mordisco",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "obscure inventions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hoyuelo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Photo",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Esta patente estadounidense, presentada en 1923 por Evangeline I. Gilbert, fue para el revolucionario dispositivo para hacer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "hoyuelos en las mejillas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]Now, point your eyes at this thing...",
+            "t": "A",
+            "v": "563235_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "v": "570521_2",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Even in 1923, everyone wanted to look like Mario Lopez.",
+            "t": "A",
+            "v": "563233_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host][PICTURE QUESTION] This U.S. patent, filed in 1923 by Evangeline I. Gilbert, was for the revolutionary <BLANK>-maker.",
+            "t": "A",
+            "v": "563230_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

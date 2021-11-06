@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bacon|pasta,filet mignon|nachos,mustard|sandwiches,popcorn|ice cream,turkey|pot pies,chedder cheese|burgers,ham|wraps,salmon|croquettes,korean|pot stickers,roast beef|stew,duck liver|smoothies,smoked sausage|birthday cake,chipotle|cheesecake,beef liver|ravioli,pizza|lasagna,spam|hoagies,shrimp|jambalaya,cool ranch Doritos|milk shakes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pop-Up Shops",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chili|papas fritas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como parte de un truco de marketing de 2017 para Pop-Tarts, Kellogg’s abrió un restaurante inusual en Nueva York con artículos de menú bizarros, incluyendo <BLANK> de Pop-Tart con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Good news, some of the people who ate it survived!",
+            "t": "A",
+            "v": "570985_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]As part of a 2017 marketing stunt for Pop-Tarts, Kellogg’s opened an unusual restaurant in New York with bizarre menu items, including <BLANK> Pop-Tart <BLANK>.",
+            "t": "A",
+            "v": "570982_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

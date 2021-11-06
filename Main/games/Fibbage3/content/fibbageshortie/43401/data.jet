@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Frankenstein,Bob Dole,Pineapple,Superman,Hambone,Grumpy Pants,Burlap,Pickle Puss,Sturgeon,Old Sawbuck,T-Bone,Hammerhead,Sebastian,Thistlewick,Leviathan,Larry King,Sledgehammer,Bad Driver",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Code Name Bob",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Acatador",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según el <i>Washington Post<\/i>, el nombre en clave del Servicio Secreto de los Estados Unidos para el nominado presidencial republicano de 1996 Bob Dole era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ram rod,ram-rod",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He later did commercials for Viagra. You connect the dots.",
+            "t": "A",
+            "v": "561993_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to the <i>Washington Post<\/i>, the Secret Service code name for 1996 Republican presidential nominee Bob Dole was <BLANK>.",
+            "t": "A",
+            "v": "561990_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

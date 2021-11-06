@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "acid hits,Jolly Ranchers,AAA batteries,M&Ms,human eyelashes,toenails,goldfish,drops of blood,pieces of bacon,starfish,diamonds,light bulbs,cockroaches,monkey fingers,licorice sticks,chicken wings,maggots,bars of soap",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Wine",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ratones bebé",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hay una bebida medicinal de la antigua China y Corea que consiste en un vino de arroz fermentado con entre 10 a 15 <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mice,mice babies,mouse babies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](SFX Sip) (as if tasting wine) I detect trace notes of oak, cherry, and... dead mouse. Definitely some strong dead mouse tones.",
+            "t": "A",
+            "v": "592223_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]1There’s a medicinal drink from ancient China and Korea that consists of rice wine fermented with 10 to 15 <BLANK>.",
+            "t": "A",
+            "v": "592220_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

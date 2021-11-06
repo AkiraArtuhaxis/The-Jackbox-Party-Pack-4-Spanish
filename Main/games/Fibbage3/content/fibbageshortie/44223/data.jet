@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "his wife,the toilet handles,cheap beer,a cursed necklace,Abe Lincoln’s skull,a ouija board,his face,people’s hands,cooked meat,his feet,common people,ink pens,pennies,his pet turtle,used diapers,dirty clothes,doorknobs,George Washington’s teeth",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Executive Inaction",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "interruptores de luz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante su mandato como Presidente de los Estados Unidos, Benjamin Harrison se negó a tocar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the light switches,the lights,electric switches,electricity switches",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He was afraid of being electrocuted, which in 1891 happened MOST of the time you used electricty.",
+            "t": "A",
+            "v": "581820_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During his term as U.S. President, Benjamin Harrison refused to touch <BLANK>.",
+            "t": "A",
+            "v": "581817_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

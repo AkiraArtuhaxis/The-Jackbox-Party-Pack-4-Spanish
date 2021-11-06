@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sing,say the alphabet,bathe,pick daisies,gargle,cure cancer,steal,pay taxes,smile,suck lemons,speak,whisper,kiss,make a duck mouth,lick salt,polish brass,sell a cow,get chapped",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hie Hohnay",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "beber miel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si algo suena demasiado bueno para ser cierto a un ruso, podrían responder con un dicho que se traduciría como \"Me gustaría <BLANK> con tus labios.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "comer miel,beber",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]Hey, not many people know this, but Fibbage was based on an old Russian parlor game. Let’s revisit our roots...",
+            "t": "A",
+            "v": "565291_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Y’know what? I’ll use my own lips, thank you very much.",
+            "t": "A",
+            "v": "565289_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If something sounds too good to be true to a Russian, they might respond with a saying that translates to “I’d like to <BLANK> with your lips.”",
+            "t": "A",
+            "v": "565286_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

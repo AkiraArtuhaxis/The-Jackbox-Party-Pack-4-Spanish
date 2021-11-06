@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a salad bowl|a cereal bowl,his knife|a fingernail clipper,his shovel|a weapon,a spoon|a key for his front door,a bass|a guitar,parchment paper|toilet paper,a teapot|a coffee maker,a lawnmower|a haircutting method,I Can’t Believe It’s Not Butter|butter,a cool rock|money,a turkey|a sparring partner,pig saliva|personal lubricant,a scimitar|a toothpick,his butt|a doorstop,a book of poetry|a way to impress ladies,a brown bear|a sleeping bag,humor|an emotional shield,his teeth|match striker",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Historic Mistakes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un hueso de ballena|un catéter",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El padre fundador de los Estados Unidos Gouverneur Morris sufrió una muerte inusual. Murió poco después de intentar usar <BLANK> como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a bone|a catheter,bone|catheter,bones|a catheter,whale bone|a catheter,a whale bone|a cathetar,a whale bone|a cathater,a whale bone|a cathatar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He tried to correct a urinary tract blockage by taking a piece of bone and shoving it up his... (in pain) Okay, I have to go lie down...",
+            "t": "A",
+            "v": "668813_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]U.S. Founding Father Gouverneur Morris had an unusual death. He passed away shortly after he tried to use <BLANK> as <BLANK>.",
+            "t": "A",
+            "v": "668810_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

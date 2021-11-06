@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chocolate cake,Pickle Brine,Poptarts,Cloves,Marshmallows,Pork Loins,Caramel,Cantalope,Bees,wasabi,Parrotfish,Pasta,Cous Cous,shrimp,Blueberries,Ice Cream,secrets,Mashed Potatoes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Burgers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chocolate",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, la cadena WORKS Gourmet Burger de Canadá introdujo la hamburguesa PBC que contiene tocino, unos crujientes aros de cebolla, y un patty lleno de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Reese’s Peanut Butter Cup,Reese’s Peanut Butter Cups,Peanut Butter,Peanut Butter Cups",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And after you eat it, you’ll be stuffed with regret.",
+            "t": "A",
+            "v": "577076_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, The WORKS Gourmet Burger chain in Canada debuted the PBC burger which contains bacon, crispy onion strings, and a patty stuffed with <BLANK>.",
+            "t": "A",
+            "v": "577073_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

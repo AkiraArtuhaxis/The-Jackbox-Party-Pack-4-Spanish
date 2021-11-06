@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "whitest smile,best chainsaw juggler,biggest fan,fastest letter-turner,blondest hair,best mom,only Vanna White,most underpaid personality,weirdest walker,most pleasant voice,cutest nose,most frequently pregnant,thinnest ankles,most pointless person,most nasally sounding voice,most annoying laugher,hardest worker,shortest game show personality",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Vanna White",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Aplaudadora más frecuente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Vanna White de <i>La rueda de la fortuna<\/i>’s oficialmente cuenta con el record mundial Guinness al año 2015 de “<BLANK> en la televisión.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "frequentest clapper,most clapper,most clapping,most frequint clapper",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The old lady from the “Clapper” commercial could not be reached for comment.",
+            "t": "A",
+            "v": "384509_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]As of 2015, <i>Wheel of Fortune<\/i>’s Vanna White officially holds the Guinness World Record title of “Television’s <BLANK>.”",
+            "t": "A",
+            "v": "384506_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

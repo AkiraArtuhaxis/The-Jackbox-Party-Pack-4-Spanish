@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cowboy hats|marry other cowboy hats,waitresses|use the bathroom,Texans|shoot at the moon,Friday Night Lights|become real,the Spice Girls|buy a cattle ranch,restaurants|serve armadillo meat,minors|drink up to six beers,nudists|herd cattle,politicians|be real dumb,doctors|also be naked,students|stop paying student loans,Waffle House|serve pancakes,oil rig workers|marry oil rigs,belt buckles|be made of uranium,the Dallas Cowboys|donate to his campaign,postal workers|read your mail,strippers|take it all off,a basement be added|the Alamo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Rule 81.35",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "astronautas|voten desde el espacio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1997, el gobernador de Texas George W. Bush autorizó un proyecto de ley popular, la regla 81.35. Permitía a <BLANK> que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "astronauts|vote,astronauts|vote early",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1997, Texas Governor George W. Bush signed a popular bill, Rule 81.35. It allowed <BLANK> to <BLANK>.",
+            "t": "A",
+            "v": "677380_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

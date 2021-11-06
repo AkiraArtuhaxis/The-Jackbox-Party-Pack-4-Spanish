@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bad breath,boring personality,feeding habits,ugly fins,political views,large teeth,tiny blowhole,sad take on life,buildup of barnacles,beady eyes,oddly shaped fin,swimming style,friendliness with humans,aggressive behavior,addiction to shrimp,unwillingness to commit,love of blowing bubbles,inability to jump out of the water",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Whalin’",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "terrible canto",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los científicos llevan rastreando desde 1989 a \"la ballena más solitaria del mundo\"; creen que es tan solitaria debido a su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "singing,off key singing,bad singing voice,singing voice,voice",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]His whale song is so pitchy, it doesn’t match any known species. Just like me in swing choir...",
+            "t": "A",
+            "v": "584795_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Since 1989, scientists have been tracking “the loneliest whale in the world” who they believe is so lonely because of its <BLANK>.",
+            "t": "A",
+            "v": "584792_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "underwear,iTunes gift cards,socks,mustache wax,internet time,dandruff shampoo,plastic utensils,modelling clay,podcasts,comic books,sensible slacks,bootleg DVDs,Twitter follows,pictures of Angela Lansbury,fresh mozzarella,Big Red gum,Pizza Combos,witty remarks",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Prison Money",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pescado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2016, Charlie Shrem escribió acerca de lo que observó en la economía de una prisión federal. La revelación más sorprendente que hizo fue que, en lugar de cigarrillos, la mayoría de los presos utilizan <BLANK> como moneda.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mackerel,mackeral,tins of mackerel,pouches of mackerel,cans of mackerel,packets of mackerel,fish",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The fish have intrinsic value and a limited supply, making them the perfect stand-in for money. Just don’t try to pass off any counterfeit tuna.",
+            "t": "A",
+            "v": "677898_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2016, Charlie Shrem wrote a first person account of the economy inside a federal prison. His most surprising revelation was that, instead of cigarettes, most inmates used <BLANK> as currency.",
+            "t": "A",
+            "v": "677895_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

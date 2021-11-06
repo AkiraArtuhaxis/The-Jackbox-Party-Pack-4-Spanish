@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cereal being poured,donkeys braying,her neighbors having sex,a snail crawling,bubblewrap being popped,eggs hatching,a lawnmower,pimples being popped,fingernail clipping,childbirth,high fives,slurping soup,sneezes,hummingbirds,doves crying,a candle melting,perfume being poured into a hat,sniffling",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Yoko Ono",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una rata muerta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la producción de su álbum <i>Approximately Infinite Universe<\/i>, Yoko Ono sorprendió a su ingeniero de sonido haciéndolo grabar 20 segundos de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a rat,rats,a dead animal",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Twenty second farts? Maybe if they were at Wisconsin’s Brat Days",
+            "t": "A",
+            "v": "567913_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They had to cut the song because the rat kept screwing up and coming back to life.",
+            "t": "A",
+            "v": "385688_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During the making of her album <i>Approximately Infinite Universe<\/i>, Yoko Ono surprised her sound engineer by making him record twenty seconds of <BLANK>.",
+            "t": "A",
+            "v": "385685_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

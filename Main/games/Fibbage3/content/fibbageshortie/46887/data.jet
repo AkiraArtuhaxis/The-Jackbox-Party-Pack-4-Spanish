@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "zombies attacked,he said Reagan’s name backwards,they Frenched,he watched Reagan’s movies,he got straight A’s,the Cubs won the World Series,he got 18 million retweets,Robosaurus came to town,Russia won a chess match,Gorbachev needed surgery,he won the lottery,Russia agreed to export vodka,the Olympics were on TV,he gave Reagan his first born,a friday fell on the 13th,the Pope asked him to,the earth was hit by a comet,Nancy started acting again",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cold War Bargains",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los aliens invadieran",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante una entrevista con Charlie Rose, Mikhail Gorbachev reveló que Ronald Reagan le dijo que la Guerra Fría podría detenerse si <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "aliens attacked,aliens landed,UFOs landed,aliens arrived,the earth was invaded,we were invaded by aliens,aliens came to earth",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Thank God aliens invaded in 1991 or that war would still be going on today.",
+            "t": "A",
+            "v": "650654_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During an interview with Charlie Rose, Mikhail Gorbachev revealed that Ronald Reagan once told him the Cold War could be put on hold if <BLANK>.",
+            "t": "A",
+            "v": "650651_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

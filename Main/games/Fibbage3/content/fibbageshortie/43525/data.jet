@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "great hair,his last name,no shirt,an Australian accent,tiny dogs,three nipples,the measles,a Star Wars tattoo,an overbite,buck teeth,an IMDB credit,excessive nose hair,high heels,no regrets,face tattoos,a thousand Twitter followers,hairy backs,a great singing voice",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Special Discounts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "niños que se portan bien",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antonio Ferrari es dueño de un bar especializado en vinos de la ciudad italiana Padua, donde le da descuentos a las personas con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "well behaved kids,well-behaved children,well behaved children,kids who behave well,kids who are well behaved",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]In my experience, good behavior and wine go hand in hand.",
+            "t": "A",
+            "v": "564396_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Antonio Ferrari owns a wine bar in the Italian city of Padua where he gives a discount to people with <BLANK>.",
+            "t": "A",
+            "v": "564393_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

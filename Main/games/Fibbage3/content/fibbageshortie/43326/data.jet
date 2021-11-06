@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a coughing fit,a new table delivered,a leg cramp,his fortune read,deja vu,a phone call from the past,an inhaler malfunction,his blood cycled,50 McNuggets,his 90th birthday,his tonsils taken out,temporary blindness,his car stolen,the same thing happen the day before,a 20 hour nap,surfing lessons,an entire White Castle Crave Case,an angry call with Comcast",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ow, My Pride!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una pesadilla con arañas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ex-jugador de las Grandes Ligas de Béisbol Glenallen Hill una vez se lastimó al caer en una mesa de vidrio. Estaba desorientado, porque había tenido recientemente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a nightmare,a night mare,a dream,a bad dream,a bad dreams,a scary dream,scary dreams,a dream about spiders",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]His teammates started calling him Spider-Man. Ya know, because Peter Parker is always falling through tables.",
+            "t": "A",
+            "v": "560363_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Former Major Leaguer Glenallen Hill once injured himself falling through a glass table. But in his defense, he was disoriented because he’d just had <BLANK>.",
+            "t": "A",
+            "v": "560360_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

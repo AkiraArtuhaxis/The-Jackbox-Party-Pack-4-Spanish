@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "heroin|snot,ice cream|semen,human ashes|cheeto dust,cocoa|gold,peanut butter|pubic hair,sugar|lube,pot|lotion,saffron|a hint of thyme,flouride|msg,tears|uranium,semen|spit,dog fur|shellfish,sweat|vomit,coffee|white chocolate,blood|dog hair,wine|penicillin,tylenol|meth,bacon|Dr Pepper",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Trace Amounts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cocaína|herpes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Profesores belgas estudiaron copias de <i>Cincuenta sombras de Grey<\/i> en la biblioteca local y encontraron cantidades minúsculas de <BLANK> y <BLANK> en los libros.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "herpes|cocaine,herpes|coke,coke|herpes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Spoilers for the last book.",
+            "t": "A",
+            "v": "331634_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Belgian professors studied library copies of <i>Fifty Shades of Grey<\/i> and discovered trace amounts of <BLANK> and <BLANK> on the books.",
+            "t": "A",
+            "v": "331631_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pierna derecha,borscht,sierra,música,arrogancia,carne,manita,falta de talento,borrachera,barba,manzana,aritmética,vaca,amor verdadero,idiotez,maldita suerte,madre,ballet",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Iz Tyool Taime",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bolas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El equivalente Ruso del refrán “Un buen artesano nunca culpa a sus herramientas” se traduciría como “Un pobre bailarín es impedido por su/s <BLANK>”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "nuez,testículo,testículo,bola,parte baja,bolsas,pelotas,balones",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]Let’s take a quick trip to Mother Russia...",
+            "t": "A",
+            "v": "559175_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host][wrap-up] That’s it in a nutsack...",
+            "t": "A",
+            "v": "559173_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Russian equivalent of the saying “A good craftsman never blames his tools” translates to “A poor dancer is impeded by his own <BLANK> .”",
+            "t": "A",
+            "v": "559170_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

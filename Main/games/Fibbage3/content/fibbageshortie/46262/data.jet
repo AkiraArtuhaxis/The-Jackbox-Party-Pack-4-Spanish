@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "enemas,c-sections,plastic surgery,hair removal service,scalpels,brain surgery,teeth cleaning,liposuction,prostate exams,mammogram service,ear cleansing technique,colonoscopies,scar removal service,new Canadian doctor,extra digit amputation service,botox treatments,new doctor who looked like Hugh Jackman,acupuncture",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Wolverine’s Side Gig",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "servicio de circuncisión",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, una clínica de Filipinas utilizó a Wolverine de los X-Men como mascota para publicitar su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "circumcision,circumcision service",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Note to self... never have a male child delivered in the Philippines.",
+            "t": "A",
+            "v": "639810_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, a clinic in the Philippines used the X-Men’s Wolverine as a mascot to advertise their <BLANK>.",
+            "t": "A",
+            "v": "639807_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Firefighters,Secret Service agents,maids,the FBI,butlers,Green Berets,the Coast Guard,Navy SEALS,homeschool teachers,SWAT teams,golf instructors,hostage negotiators,midwives,actors,librarians,florists,wrestlers,TV executives",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "JOEY",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Paramédicos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Luego que el spinoff de <i>Friends<\/i>, <i>Joey<\/i>, fuera cancelado, el set de la sala de estar se convirtió en un simulador de entrenamiento para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Ambulance doctors,ambulance personnel,para medics,doctors,hospitals,EMTs,E.M.T.s",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That must explain why they handle so many cases of nausea.",
+            "t": "A",
+            "v": "416565_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]After the short-lived <i>Friends<\/i> spinoff show <i>Joey<\/i> was canceled, the living room set was turned into a training simulator for <BLANK>.",
+            "t": "A",
+            "v": "416562_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

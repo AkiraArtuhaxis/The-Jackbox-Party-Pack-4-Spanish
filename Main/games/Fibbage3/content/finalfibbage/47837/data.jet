@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "college|starting fires,a football game|giving monologues,a play|shouting his lines,a spa|laughing too hard,a movie theater|standing the whole time,horse race|freeing the horses,an opera|singing along,an auction|mocking the auctioneer,the army|stealing a tank,a chili cook-off|farting,a Walmart|pretending to be an employee,the zoo|doing funny animal noises,an acting class|refusing to play a criminal,church|loudly eating chips,reality as we know it|three weeks,Comic-Con|booing Tim Burton,Iowa|trying to marry a building,a helicopter|the third time that day",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Adam West",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una orgía|pretender que era Batman",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En una entrevista de 2014 con <i>Blastr<\/i>, el actor Adam West reveló que una vez lo expulsaron de <BLANK> por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "an orgy|pretending to be Batman,an orgy|acting like Batman,a sex party|pretending he was Batman,a sex party|pretending to be Batman,a sex party|acting like Batman",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Those naked idiots will never know what they missed out on.",
+            "t": "A",
+            "v": "669253_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In a 2014 interview with <i>Blastr<\/i>, actor Adam West revealed that he once got kicked out of <BLANK> for <BLANK>.",
+            "t": "A",
+            "v": "669250_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

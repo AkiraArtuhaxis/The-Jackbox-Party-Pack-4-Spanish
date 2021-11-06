@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gibson guitars,Buick,Old Spice,KFC,dog food,Pall Malls,chocolate milk,peanut butter,a toaster,BBQ sauce,sandals,guitar lessons,hair gel,hip surgery,Graceland,Frosted Flakes,ramen noodles,weight loss shakes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Marketing King",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "donas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El único comercial en el que Elvis ha participado era sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "doughnuts,do-nuts,dough nuts,a donut shop,a doughnut shop,a donut store,a doughnut store",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Actually, he was just rambling about donuts. Luckily, there was a camera nearby.",
+            "t": "A",
+            "v": "577406_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The only commercial Elvis ever made was for <BLANK>.",
+            "t": "A",
+            "v": "577403_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "an independent nation,famous,drama-free,nice,America’s worst town,better than New York City,a computer simulation,completely self-sufficient,worth 100 billion dollars,flame resistant,made of chocolate,the home of Superman,the last “moral” city,Idaho’s coolest city,always the perfect temperature,the birthplace of rock & roll,full of secret vampires,2 legit 2 quit",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Wallace, Idaho",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el centro del universo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En septiembre de 2004, el alcalde de Wallace, Idaho hizo la osada afirmación de que su ciudad era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Specfically at the intersection of Bank and 6th street.",
+            "t": "A",
+            "v": "604075_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In September of 2004, the mayor of Wallace, Idaho made the bold claim that his town was <BLANK>.",
+            "t": "A",
+            "v": "604072_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

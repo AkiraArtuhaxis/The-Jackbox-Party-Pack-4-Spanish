@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shrunken head,mummy,tractor,pack of warthogs,golden broom,mansion,lion,laser gun,WWII grenade,book about acting,spaceship,giant novelty pencil,diamond-encrusted tiara,Gameboy,pumpkin carriage,dairy farm,UFO,copy of Face Off",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Nic Cage Purchases",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pulpo mascota",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para poder justificar su extraña compra, Nicolas Cage dijo que compró un/una <BLANK> para ayudarle en su actuación.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "octopus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And, damnit, he is due a refund.",
+            "t": "A",
+            "v": "353136_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In order to justify the odd purchase, Nicolas Cage claimed he bought a <BLANK> to help his acting.",
+            "t": "A",
+            "v": "353133_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

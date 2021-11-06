@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "diapers,her pee,bees,baby ducks,potato chips,bullets,toy trucks,spoiled milk,tampons,old toast,grass clippings,flaming balls,used yogurt containers,bubbles,cat hair,beer bottles,old bath water,water balloons",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "future prediction",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "espárragos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Jemima Packington tiene una habilidad única y especial. Ella afirma que puede predecir el futuro usando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "asperagus,aspearagus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I can predict the future of me EATING asparagus and it isn’t pretty.",
+            "t": "A",
+            "v": "563158_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Jemima Packington has a “special” and unique skill. She claims she can predict the future by using <BLANK>.",
+            "t": "A",
+            "v": "563155_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "rock n’ roll,office supplies,pants that unzip into shorts,silly straws,cell phones,cargo shorts,giving raspberries,hippies,voting,cowboy hats,washing your hands,T-shirts,showering,having children,sharing a toothbrush,wallets,typing on keyboards,eating during experiments",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Lab Safety",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hombres con barba",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1967, la Oficina de Salud y Seguridad Industrial publicó un documento acerca de la seguridad en los laboratorios titulado “El peligro microbiológico de los/as <BLANK> en los laboratorios”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Men with Beards,Beards",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The study found that a bearded man working in a lab “subjects his family and friends to risk of infection.”",
+            "t": "A",
+            "v": "594773_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1967, the Industrial Health and Safety Office published a paper about safety in the lab entitled “Microbiological Laboratory Hazard of <BLANK>.”",
+            "t": "A",
+            "v": "594770_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

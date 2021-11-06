@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Area 51,a ferris wheel,Mark Twain’s grave,a bakery,Stonehenge,a suspender store,the OSU marching band,an opera theater,Dick Van Dyke,a horse stable,Eisenhower’s grave,Dracula’s castle,a Soviet spy,the Playboy mansion,the Pentagon,the inspiration for Hogwarts,Superman,the Eiffel Tower",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Larry King",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "El auto de Kennedy",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1958, Larry King chocó con su auto en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "JFK,John F. Kennedy,Kenndy’s Car",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Which had to be the worst experience JFK ever had in a car.",
+            "t": "A",
+            "v": "597615_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1958, Larry King crashed his car into <BLANK>.",
+            "t": "A",
+            "v": "597612_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

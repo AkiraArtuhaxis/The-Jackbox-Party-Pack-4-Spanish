@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Otis Redding,cheese deprivation,reading poetry,video games,online porn,too much sex,eating chili,cheap booze,the plague,having children,scary movies,being watched,living in filth,watching Pixar,speaking French,waking up early,wearing condoms,compliments",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Rat Sex",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "llevar pantalones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1993, Ahmed Shafik realizó un experimento sobre cómo la vida sexual de las ratas se ve afectada al <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pants",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I conducted a similar experiment in college.",
+            "t": "A",
+            "v": "594503_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1993, Ahmed Shafik conducted an experiment on how the sex lives of rats were affected by <BLANK>.",
+            "t": "A",
+            "v": "594500_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a human femur,a golden bong,a crystal skull,a #1 Dad mug,a platinum can,a paper bag,a Grecian urn,a diamond 40,your imagination,the holy grail,a milk jug,a Viking helmet,a sheep’s stomach,a vulture egg,a man’s cupped hand,a fire hose,a magic 8 ball,a 1000 year old coconut",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Booze",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una ardilla muerta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2016, la cervecería artesanal escocesa BrewDog ofreció una cerveza a 20 mil dólares llamada “Fin de la Historia”. Tenía un 55% de contenido alcohólico y se servía dentro de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a squirrel,dead squirrels,squirrels",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Don’t worry squirrel advocates, only 10 bottles were produced.",
+            "t": "A",
+            "v": "592343_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2016, the Scottish craft brewery BrewDog offered a $20,000 beer called “End of History.” It had a 55% alcohol content and was served inside <BLANK>.",
+            "t": "A",
+            "v": "592340_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

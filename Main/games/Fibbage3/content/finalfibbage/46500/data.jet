@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "skull|a real Pikachu,Origin|the Ninja Turtles,seeds|a living tree monster,weirdest|warts,tongue|the first auctioneer,Duke|Cats,ghost|Colonel Sanders,Sport|Kings,footprint|a dinosaur-human hybrid,last of|the mohicans,only photo|Santa,beard|a viking,track|the moon beast,coolest|dudes,proof|fairies,world’s rudest|monkey,bucket|holy tears,cadillac|cars",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Temple Tourism",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "huesos|una sirena",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si coordinaras un encuentro en el templo Ryuguji en Fukuoka, Japón, verías lo qué una leyenda local dice que son los <BLANK> de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "bone|a mermaid,bones|mermaids,skeleton|a mermaid,bone|mermaid",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Either that or someone just left half a fish and half a person at just the right angle...",
+            "t": "A",
+            "v": "645312_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you make an appointment with the Ryuguji temple in Fukuoka, Japan, you can see what local legend claims to be the <BLANK> of <BLANK>.",
+            "t": "A",
+            "v": "645309_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

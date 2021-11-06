@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "the Prime Minister,a tim hortons commercial,Marcus Welby MD,Star Wars,a documentary about Star Trek,Canadian Star Trek,rats chewing a cable,Lost in Space,a meteor hitting the antenna,an ad for the Canadian Space Agency,Doctor Who fans hijacking the signal,a fake alien invasion,a 2-year-old daughter singing,hockey,the discovery of Pluto,Leonard Nimoy’s birthday,a special on Roswell,My Goldfish is Evil",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "O Canada",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la llegada a la luna",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Quince personas en Ottawa mandaron sus quejas a su estación de televisión local cuando una emisión de <i>Star Trek<\/i> fue interrumpida por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "moon landing,apollo 11,the apollo moon landing,the first man on the moon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Who wants to watch someone boldly go where no one’s gone before when they can watch Star Trek?",
+            "t": "A",
+            "v": "574538_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Believe it or not, 15 people in Ottawa complained to their local TV station when a broadcast of <i>Star Trek<\/i> was interrupted by <BLANK>.",
+            "t": "A",
+            "v": "574535_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

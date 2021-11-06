@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Setting them on fire,Holding a mock election,Sending them on a scavenger hunt,Banishing them,Banging on the door until they left,Buying them tickets out of town,breaking their windows with rocks,Electing new ones,givin’ them the stink eye,Sitting in their chairs,Exorcising them,Scaring them,hiding snakes in their peanut brittle,giving them the silent treatment,marrying them,eating them,moving the town,the power of satire",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Politicians",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lanzarlos por una ventana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 23 de mayo de 1618, varios ciudadanos de Praga frustrados destituyeron de manera creativa a sus políticos del cargo al <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Defenestration,Defenestrating them,throwing them from a window,throwing them off a building",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And here I was going to vote like a sucker.",
+            "t": "A",
+            "v": "636821_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On May 23, 1618, several frustrated citizens of Prague creatively removed their politicians from office by <BLANK>.",
+            "t": "A",
+            "v": "636818_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "breakfast cereal,cocaine,potato chips,horse meat,cough syrup,toothpaste,rosaries,bombs,pancake batter,thongs,tropical vacations,ghost tours,bicycle parts,dance lessons,protest signs,cigarettes,condoms,male enhancement pills",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Prohibition",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cerámica",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la ley seca, la fabricante de cerveza Coors Brewing se mantuvo a flote al comenzar a vender <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ceramics,pots,ceramic parts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]CoorsTek, the brewery’s ceramics business, now pulls in more money than the beer does.",
+            "t": "A",
+            "v": "578916_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During Prohibition, the Coors Brewing Company survived by starting a side business selling <BLANK>.",
+            "t": "A",
+            "v": "578913_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

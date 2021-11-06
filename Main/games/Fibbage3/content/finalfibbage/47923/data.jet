@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Henry Kissinger|ALF,Pope John Paul II|a California Raisin,Dalai Lama|Andrew Dice Clay,Jimmy Carter|Chester Cheetah,Oliver North|Menudo,Gerard Depardieu|Princess Di,Michael Landon|the cast of Moonstruck,John Elway|his evil twin Ron Elway,Ted Turner|Optimus Prime,Madonna|Tupac,Chevy Chase|the Ninja Turtles,George Wendt|Baby Jessica,Lionel Richie|Short Round,Beetlejuice|Ken Griffey Jr.,Jonathan Brandis|E.T.,Matt Damon|Ben Affleck,Bret Michaels|Count Chocula,Your Mom|Your Dad",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "1987",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Richard Nixon|Robocop",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El fotógrafo Chuck Pulin tomó una increíble foto en 1987 durante un evento de el Club de Jóvenes de América. Mostraba a <BLANK> reunido con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Nixon|Robocop,Robocop|Richard Nixon,Nixon|Robo-Cop,Richard Nixon|Robo-Cop,Robo-Cop|Richard Nixon,Robo-Cop|Nixon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Don’t worry. Robocop’s scanner labeled the former president: not a crook.",
+            "t": "A",
+            "v": "672382_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Photographer Chuck Pulin captured an incredible photo in 1987 during an event at the Boys Club of America. He documented <BLANK> meeting <BLANK>.",
+            "t": "A",
+            "v": "672379_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

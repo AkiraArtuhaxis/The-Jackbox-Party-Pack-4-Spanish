@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a baby chick|mouth,a cockroach|ear,a fly|soup,a Cheeto|nostril,a Lincoln impersonator|trunk,a Bible|butt,Ferrero Rocher|eye socket,a stick of dynamite|hair,a Chumbawamba CD|stereo,a king cobra|glovebox,a baby tiger|trunk,a picture of the cop|half of the amulet,a bag of Pop Rocks|underwear,a gallon of beer|gas tank,Doritos|CD player,human flesh|teeth,gall stones|necklace,pieces of the Berlin Wall|ponytail",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Drunk Driving",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un lagarto|sostén",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando la policía de Taunton, Massachusetts arrestó a una mujer por conducir bajo la influencia en mayo de 2017, descubrieron que tenía <BLANK> en su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a bearded dragon|bra,lizard|bra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Man, those GEICO commercials are getting weird.",
+            "t": "A",
+            "v": "637668_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When Taunton, Massachusetts police arrested a woman for driving drunk in May of 2017, they discovered she had <BLANK> in her <BLANK>.",
+            "t": "A",
+            "v": "637665_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

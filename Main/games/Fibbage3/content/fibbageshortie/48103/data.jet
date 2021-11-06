@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "werewolves,Jay Leno,The Backstreet Boys,butts,intestines,scenes from Pulp Fiction,botched surgeries,serial killers,toilets,mustaches,the cast of Friends,aliens,Albert Einstein,cavemen,fingernails,maggots,baby pigs,ghost clowns",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Gummy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "animales atropellados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2005, después de recibir muchas quejas, Kraft Foods decidió que dejarían de hacer gomitas con forma de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "road kill,dead animals",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Oooh. The rarest gummy of them all (Simpsons reference)",
+            "t": "A",
+            "v": "677319_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2005, after receiving many complaints, Kraft Foods decided they would no longer make gummy candy shaped like <BLANK>.",
+            "t": "A",
+            "v": "677312_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

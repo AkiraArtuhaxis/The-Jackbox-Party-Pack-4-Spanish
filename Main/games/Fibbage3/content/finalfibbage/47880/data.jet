@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "frog|women’s clothes,fork|a piece of cake,monster|your closet,fancy hairstyle|paris,goat|a little dress,robot|rain gear,dinosaur|a pillow fort,mouse|a flannel shirt,real pain|the neck,greaser|a leather jacket,pork bun|a salty broth,wealthy man|a diaper,rare gem|a volcano,dog|funny glasses,candle|a triangular bowl,socket wrench|hot sauce,devil|a red dress,wolf|sheep’s clothing",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "kappa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bola mágica|tu ano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la mitología japonesa, existen monstruos llamados Kappa que siempre están intentando robar \"shirikodama\", que es una <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "magic ball|your ass,magic ball|your butt,magic ball|your rectum,magic ball|your stomach,magic ball|your asshole,magic ball|a person’s ass,magic ball|a person’s butt,magic ball|a person’s rectum,magic ball|a person’s stomach,magic ball|a person’s asshole,ball|your anus,ball|your ass,ball|your butt,ball|your rectum,ball|your stomach,ball|your asshole",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]So that’s what I pulled outta there!",
+            "t": "A",
+            "v": "671035_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In Japanese mythology, there are monsters called Kappa who are always trying to steal the “shirikodama,” which is a <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "671032_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

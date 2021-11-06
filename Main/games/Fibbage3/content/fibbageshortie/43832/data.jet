@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cocoon,KISS,ncis,Harry Potter,days of our lives,Jurassic Park,metamucil,Ronald Reagan,Demolition Man,Back to the Future,Twilight Zone,Ayn Rand,NASA,Oregon Trail,I Love Lucy,Alamo,Andy Griffith,Cats: The Musical",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Themed Retirement Homes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Margaritaville",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2018, Minto Communities abrió una casa de retiro con temática de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Jimmy Buffett,Margarita Ville",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]That’s the theme of EVERY retirement home the second the grandkids leave.",
+            "t": "A",
+            "v": "570116_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s nice at first, but there is a severe shortage of shakers of salt",
+            "t": "A",
+            "v": "570112_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Hoping to keep a little spice in life, even in your old age? In 2018, the Minto Communities will be opening a <BLANK>-themed retirement home.",
+            "t": "A",
+            "v": "570109_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

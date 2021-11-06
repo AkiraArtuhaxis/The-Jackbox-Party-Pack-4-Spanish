@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "suegra,muñeca brava,mecánico,tío rico,terapéuta,bebé,esposa,panadero,profesor de historia,presidente,papi,amante,abogado,mesero,perro,cerdo,paloma,jardín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Yoo Vill Eet Thees",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tía",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un refrán viejo Ruso se traduce como “El hambre no es tu <BLANK>. No te va a traer una tarta.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "aunt",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "563903_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]There’s an old Russian phrase that translates to “Hunger is not your <BLANK>. It will not bring you pie.”",
+            "t": "A",
+            "v": "563898_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

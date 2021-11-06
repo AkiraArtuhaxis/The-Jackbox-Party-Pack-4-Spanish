@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eating a bear,pretending she was Gandalf,befriending emus,hibernating,eating her own foot,building a glider from sticks,eating poisonous mushrooms,eating dirt,licking moss from trees,rationing a single Red Bull,killing a walrus with her hands,eating only worms,making a fire with a tampon,going feral,making rock soup,catching flies with honey,making a gun from twigs,cannibalism",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Survival",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "beber su propia leche materna",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Luego de perderse en el Valle de Orongorongo, una mujer de 29 años de Nueva Zelanda sobrevivió gracias a <BLANK>",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "drinking breast milk,drinking her own milk,breast milk,breastfeeding,breastfeeding herself",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And there's probably still some jerk who’s angry she breastfed in public.",
+            "t": "A",
+            "v": "408307_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]After becoming lost in the wilderness of the Orongorongo Valley, a 29-year-old New Zealand woman survived by <BLANK>",
+            "t": "A",
+            "v": "408304_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

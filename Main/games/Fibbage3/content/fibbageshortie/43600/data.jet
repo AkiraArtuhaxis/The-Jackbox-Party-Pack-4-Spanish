@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "wearing tight clothing,bringing their children,throwing food,encouraging the players,cheering for them,bringing milk from home,dancing in the aisles,falling asleep,cheering too loud,watching Netflix,attending games,watching football,staying home after buying tickets,calling them names,booing the mascot,wearing basketball jerseys to games,howling like coyotes,wearing novelty hats",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fan request",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer la onda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la temporada 2016-2017 de la NHL, los Coyotes de Arizona pidieron a sus fanáticos que dejaran de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "starting the wave",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Because we wouldn’t want to ruin hockey’s classy reputation.",
+            "t": "A",
+            "v": "565883_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During the 2016-2017 NHL season, the Arizona Coyotes made a plea to their fans to stop <BLANK>.",
+            "t": "A",
+            "v": "565880_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

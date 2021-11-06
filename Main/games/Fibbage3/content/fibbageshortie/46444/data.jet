@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "half-eaten Big Macs,live crabs,politicians’ underwear,autographs,child star skulls,skate trick videos,vintage chimp tuxedos,runny cheeses,antique toilet seats,computer viruses,“Weird Objects in Butts” X-Rays,tin soldiers,ceramic cherubs,UFO photos,green ketchup bottles,recalled toys,NSFW Christmas ornaments,mugshots",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Large Collections",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caca fosilizada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "George Frandsen, de Florida, consiguió recientemente un récord mundial de Guinness por tener la mayor colección de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "fossilized shit,fossilized crap,fossilized poo,fossilized feces,coprolites",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]George Frandsen of Florida recently earned himself a Guinness World Record for the largest collection of <BLANK>.",
+            "t": "A",
+            "v": "644757_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

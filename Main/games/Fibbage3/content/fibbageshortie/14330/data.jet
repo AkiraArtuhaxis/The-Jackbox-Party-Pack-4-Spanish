@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "orinar,ladrar,lamer,rascar,suplicar,vomitar,oler,gemir,subir escaleras,comer,darse la vuelta,mover las orejas,parecer un pastor alemán,saltar sobre un zorro,flotar como un globo,mover muebles,perseguir su cola,cavar hoyos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "German Toys",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cagar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Kackel Dackel es un juguete alemán donde los niños usan una bomba para ayudar a un perro salchicha a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "defecar,deponer,evacuar,excretar,hacer caca",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I also use a pump.",
+            "t": "A",
+            "v": "318575_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Kackel Dackel is a German toy where kids use a pump to help a Dachshund <BLANK>.",
+            "t": "A",
+            "v": "318572_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

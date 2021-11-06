@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Paul Giamatti|Wolverine,Rick Moranis|Storm,John Goodman|Hulk,Walter Matthau|Deadpool,Kevin James|Captain America,Rob Schneider|Iron Man,Howard Stern|Gambit,Charlie Sheen|Stan Lee,Nicole Kidman|Dazzler,Julia Roberts|Mary Jane Watson,Meryl Streep|Black Widow,Sandra Bullock|She-Hulk,Philip Seymour Hoffman|Beast,Jamie Foxx|Black Panther,Morgan Freeman|Professor X,Benicio Del Toro|Iron Man,Sean Penn|Forbush Man,Daniel Day-Lewis|Flexo the Rubber Man",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Stan Lee",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Michael Jackson|Spider-Man",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante Comic-Con en 2009, Stan Lee soltó una extraña revelación: por un tiempo, la celebridad <BLANK> quería hacer de <BLANK> en una película.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Michael Jackson|Spiderman,Michael Jackson|Spider Man",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He’d have realized it was a bad idea if he’d only looked at the Man in the Mirror.",
+            "t": "A",
+            "v": "672350_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During Comic-Con in 2009, Stan Lee dropped a weird bombshell: at one time, noted celebrity <BLANK> wanted to play <BLANK> in a movie.",
+            "t": "A",
+            "v": "672347_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

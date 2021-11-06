@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hot tub,cowboy hat,car collection,Christmas lights,circus,silo,snowman village,driveway,bathroom,crop circles,dogs,lighthouse beacon,golf course,truck,arcade,hologram,book store,grand piano",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Big In Texas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "firma",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El tejano Jimmie Luecke es único en que puedes ver su <BLANK> desde el espacio.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "nombre",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He wrote it on his ranch using about three miles of trees.",
+            "t": "A",
+            "v": "561413_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Texan Jimmie Luecke is unique in that you can see his <BLANK> from space.",
+            "t": "A",
+            "v": "561410_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

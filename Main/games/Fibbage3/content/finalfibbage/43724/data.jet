@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "urine|feces,honey|newspaper,blood|bull semen,fish|underwear,knives|bullets,money|firecrackers,sewage|tar,lemon juice|razor blades,milk|jelly,rocks|Doritos,compliments|advice,sausages|puppies,candy|unopened mail,Diet Coke|Mentos,wine|yarn,broccoli|hot sauce,pie|hummus,pasta|gasoline",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Celebrations",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tierra|hormigas rojas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Planeas asistir al festival Entroido en Laza, España antes de la Cuaresma? Es probable que los pobladores te duchen con <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dirt|ants,mud|ants,ash|ants,flour|ants,vinegar|ants,ants|dirt,fire ants|dirt",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And the ants are usually covered in vinegar to piss them off. Enjoy!",
+            "t": "A",
+            "v": "568627_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Plan to attend the Entroido festival in Laza, Spain before Lent? Be prepare. The townspeople will likely shower you with <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "568624_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

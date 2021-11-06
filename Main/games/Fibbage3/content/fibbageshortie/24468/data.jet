@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "prank their teacher,skip school,give wedgies anymore,make fun of the sub,have food fights,give purple nurples,take standardized tests,have spirit week,stuff nerds into lockers,go to college,do Borat impressions,wear baggy pants,write in cursive,print out their papers,sing offensive lyrics,make fart sounds with their armpits,recognize Manhattan as part of the U.S.,sue their parents",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Debate",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comer su pez mascota",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de un largo debate ético, los estudiantes de la escuela secundaria pública Ella Baker en Manhattan optaron oficialmente por no <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "bbq their pet fish,bbq their class fish,eat their class fish,eat a fish,eat their pet,eat their fish",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yeah, that was really worth the Manhattan tuition prices.",
+            "t": "A",
+            "v": "423788_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]After a lengthy ethical debate, middle school students at Ella Baker, a public school in Manhattan, officially decided not to <BLANK>.",
+            "t": "A",
+            "v": "423785_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eating your own poop,killing their twin,exploding your anus,sneezing to death,mating with yourself,turning inside out,growing an extra vagina,sprouting spikes,masturbation,throwing up gold,fearing their reflection,swallowing their tongue,bleeding acid,having nightmares,eating their young,growing two heads,reproducing after death,creating their own sibling",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Slug Life",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "morder tu pene",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las babosas banana en algún momento realizan la \"apofallación\", que es el acto de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "biting off one’s penis,biting your penis off",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I’m just impressed they can reach it.",
+            "t": "A",
+            "v": "561138_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Here’s a biology fact: Banana slugs sometime perform “apophallation,” which is the act of <BLANK>.",
+            "t": "A",
+            "v": "561135_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

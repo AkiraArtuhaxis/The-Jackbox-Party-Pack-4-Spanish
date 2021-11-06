@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "attached high heels,aquarium rears,a matching hat,a nickel in each pocket,a gps device,flames painted on the pockets,speakers,cup holders,an Uber button,the sound of a truck backing up,matching socks,turn signals,automatic zippers,their own soundtrack,upside down pockets,blacklights,flame decals,a sports ticker",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "jeans of the future",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "aberturas de plástico en las rodillas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como parte de su línea de Primavera de 2017, Nordstrom introdujo vaqueros revolucionarios que vienen con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "knee windows,windows",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And they’re only $95!",
+            "t": "A",
+            "v": "573694_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Fashion alert! As part of their Spring 2017 line, Nordstrom introduced revolutionary jeans that come with <BLANK>.",
+            "t": "A",
+            "v": "573691_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

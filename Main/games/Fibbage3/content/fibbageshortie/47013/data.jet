@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fall asleep,name all the world capitals,guess the guards’ life stories,make a new guard laugh,ruin a party,sing all of H.M.S. Pinafore,explain the ending of Inception,memorize a deck of cards,drink a gallon of milk,learn a piano piece,jimmy the lock,offend a visitor,write a pop hit,tidy up his cell,make you feel guilty for imprisoning him,find a way to bring up Bush,convince you chemtrails are real,hack into the prison computer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Saddam",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comer una bolsa entera de Doritos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un artículo de <i>GQ<\/i> de 2005 sobre Saddam Hussein, uno de los soldados que vigilaba su celda afirmó que Hussein podía <BLANK> en 10 minutos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "eat a bag of Doritos,finish a bag of Doritos,eat Doritos,eat a whole bag of Doritos,finish a whole Doritos bag",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]But to be fair, a lot of it ended up in his beard.",
+            "t": "A",
+            "v": "652184_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In a 2005 <i>GQ<\/i> article about Saddam Hussein, one of the soldiers who guarded his cell claimed Hussein could <BLANK>in 10 minutes.",
+            "t": "A",
+            "v": "652181_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

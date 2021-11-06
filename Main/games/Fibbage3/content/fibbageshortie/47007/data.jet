@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hot muscular calves,Scary Movie Blurays,ballet moves,dirtbike,Sublime tattoo,vintage Barbies,glass eye,secret hangover cure,collection of exes’ hair,pudding recipe,Leonard Nimoy impression,rare air jordans,third and fourth nipples,poetry notebook,closet full of fedoras,homemade robot,obese ferret,weird rash",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Celebrity Stories",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "colección de insectos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mientras estaba en <i>The Late Late Show with James Corden<\/i> en 2015, la actriz Anna Faris reveló que se enamoró de Chris Pratt cuando él le mostró su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dead bug collection,bugs,dead bugs,insect collection",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I dated someone with a bug collection once. There were 1,000s of crickets living in her apartment.",
+            "t": "A",
+            "v": "651974_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]While on <i>The Late Late Show with James Corden<\/i> in 2015, actress Anna Faris revealed that she fell in love with Chris Pratt when he showed her his <BLANK>.",
+            "t": "A",
+            "v": "651971_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

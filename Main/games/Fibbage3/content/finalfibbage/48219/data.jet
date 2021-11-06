@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "picture|dead mob informants,family|stuffed grizzly bears,pile|dollar bills,basket|frost-bitten toes,book|criminal mugshots,poster|the reproductive cycle,sculpture|a giant head lice,tracker|the national debt,pair|ruined underwear,painting|Richard Nixon,bucket|tadpoles,box|handguns,bowl|yeast,skeleton|a caveman,biography|Jerry Seinfeld,drawing|a vampire,pit|vipers,wig|Thomas Jeffersons’",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Important Lessons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "torre|lechuga",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para intentar enseñarle una importante lección a los niños, Bernie Karl de Alaska quiere colocar una <BLANK> de <BLANK> en todas las escuelas públicas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s to teach kids how to grow their own food, and is no way tied to the conspiracy that most teachers are just giant rabbits in rubber masks.",
+            "t": "A",
+            "v": "680848_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an attempt to teach kids an important lesson, Bernie Karl of Alaska wants to put a <BLANK> of <BLANK> in every public school.",
+            "t": "A",
+            "v": "680845_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

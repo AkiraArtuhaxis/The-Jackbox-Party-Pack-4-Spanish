@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eat|eyeballs,implode|stomach,melt|brain,combust|knees,chew|tongue,kick|head,stretch|rectum,dissolve|nose,clap|feet,vomit|kidney stone,sing|favorite showtune,fall asleep in|own bed,regrow|baby teeth,try to fire|boss,take off|clothes,stick out|tongue,jump over|own feet,lick|elbow",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tropical diseases",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "amputar|dedos de los pies",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "No contraigan la enfermedad tropical conocida como \"Ainhum\". Es en la que tu cuerpo decide <BLANK> espontáneamente tus <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "amputate|toe,cut off|toe,cut off|toes,autoamputate|toe,autoamputate|toes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]But on the upside, now you can fit into those cute heels you’ve had your eye on!",
+            "t": "A",
+            "v": "668663_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Whatever you do, don’t get the tropical disease known as “ainhum.” That’s where your body decides to spontaneously <BLANK> your <BLANK>.",
+            "t": "A",
+            "v": "668660_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

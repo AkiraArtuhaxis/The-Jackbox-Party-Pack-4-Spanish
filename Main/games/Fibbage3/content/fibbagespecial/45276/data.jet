@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bug orgy,crazy concert,massage parlor,world’s butt,stupid place,angry toilet,lazy man’s lap,wacky gladiator,nightmare play,torture pit,petting zoo,angry insects,werewolf kindergarten,public transportation,goofy circus,madam’s whim,Kafka pit,ooze crater",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Entrega especial",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Aduana vampira",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Photo",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El título de esta interesante obra de arte es <i>Las personas entregadas a la <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "610390_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "v": "610413_1",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The title of this interesting piece of art is “The People Delivered to the <BLANK>.”",
+            "t": "A",
+            "v": "610385_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

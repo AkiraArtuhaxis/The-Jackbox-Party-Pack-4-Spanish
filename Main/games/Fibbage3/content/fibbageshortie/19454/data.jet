@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "with a ninja star,shaving his legs,opening a pack of baseball cards,playing lawn darts,eating popcorn,in a game of darts,on a chewing tobacco can,with a cigar cutter,with his own cleats,trying to mow the outfield,opening a beer,with his overgrown fingernails,exploring a thorny hedge maze,in a swordfight,on his jockstrap,hanging a pin-up calendar,with a KFC spork,breaking open a trophy case",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "heavily bandaged",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la banda de un sostén",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Roger Craig, el director de los San Francisco Giants, fue una vez visto en la banca con la mano vendada luego de que se cortara con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "on a brastrap,on a bra-strap,on a bra,on a brassiere,with a bra strap,with a brastrap,with a bra-strap,with a bra,with a brassiere",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Now that’s what you call a second base accident.",
+            "t": "A",
+            "v": "386288_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]San Francisco Giants manager Roger Craig was once spotted in the dugout with a heavily bandaged hand after he cut himself <BLANK>.",
+            "t": "A",
+            "v": "386285_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

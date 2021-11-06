@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a smaller cat,a chalkboard,an umbrella,a coffee table,the lieutenant governor,a lamp,a bottle opener,a vacuum,a time bomb,a record player,a dog,a clock,a Republican,one thousand pieces,a can opener,their lawyer,a genius,a duck",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "“important” research",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un teléfono",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un raro experimento de 1929, dos investigadores de Princeton pudieron transformar exitosamente a un gato en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a phone,phone,telephone",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The first call was from PETA.",
+            "t": "A",
+            "v": "559673_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an odd 1929 experiment, two Princeton researchers were successfully able to transform a cat into <BLANK>.",
+            "t": "A",
+            "v": "559670_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

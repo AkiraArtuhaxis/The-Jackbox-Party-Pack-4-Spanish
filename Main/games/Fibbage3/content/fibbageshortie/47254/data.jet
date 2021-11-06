@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "armed guards,bee hives,lewd statues,snowmen,Starbucks,vending machines,Puerto Rican Flags,bomb shelters,angry moms,a lizard habitat,mounds of salt,tiki torches,ads for Applebees,a moat,mosquito netting,speed bumps,ancient wraiths,invisible land mines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Grave Reality",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cesped sintético",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Parecerá extraño, pero la tumba de la leyenda del country Hank Williams está rodeada por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "astro turf,fake grass,fake lawn,astro-turf",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Fans kept tearing out the grass.",
+            "t": "A",
+            "v": "655551_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]It may look odd, but country music legend Hank Williams’ grave is surrounded by <BLANK>.",
+            "t": "A",
+            "v": "655548_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "collect bribes,live forever,declare national holidays,pay prostitutes,ban types of hats,control the weather,murder orphans,speak to animals,censor music,declare a queen,change citizens’ names,commit one crime per year,execute musicians,create a national religion,read your diary,set milk expiration dates,duel foreign ambassadors,cancel Christmas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Congressional Power",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "contratar piratas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La cláusula 11 del artículo 1, apartado 8 de la Constitución de los Estados Unidos, otorga al Congreso el poder de declarar la guerra. Sorprendentemente, también les otorga el poder de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "recruit pirates,use pirates,employ pirates",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Today, they mostly use this power to get meet and greets with Johnny Depp.",
+            "t": "A",
+            "v": "610238_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Clause 11 in Article 1, Section 8 of the United States Constitution gives Congress the power to declare war. Surprisingly, it also grants them power to <BLANK>.",
+            "t": "A",
+            "v": "610235_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

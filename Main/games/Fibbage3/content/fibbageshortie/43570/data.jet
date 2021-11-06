@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "basketball,croquet,charades,bocce ball,Quiplash,Cards Against Humanity,duck duck goose,gin rummy,poker,Monty Python albums,Never Have I Ever,truth or dare,darts,Minecraft,volleyball,chess,operation,werewolf",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Duke of York",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Monopoly",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El duque de York reveló que a la familia real no se le permite jugar <BLANK> porque se vuelve \"demasiado salvaje\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a game of Monopoly",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]No, when they play Fibbage it gets too dirty.",
+            "t": "A",
+            "v": "571022_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Just one more family torn apart by the Free Parking rule.",
+            "t": "A",
+            "v": "565473_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Juicy gossip! The Duke of York revealed that the Royal Family is not allowed to play <BLANK> because it gets “too vicious.”",
+            "t": "A",
+            "v": "565470_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

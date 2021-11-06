@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "die,cry,play hopscotch,send nudes,speak pig latin,do a handstand,throw a surprise party,pull a prank,boo,plank,get married,impersonate Christopher Walken,fry up crawdads,come out as a furry,win an eating contest,win a bet by spending the night,put on a puppet show,find pirate’s gold",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "parliamentary firsts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ser amamantada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Alia Waters se convirtió recientemente en la primera persona en <BLANK> en el Parlamento Australiano.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Baby breast feed,to breast feed,Baby to breast fead,baby to brest feed,breast feed,breastfeed",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She’s a baby. Just to be clear.",
+            "t": "A",
+            "v": "618284_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Alia Waters recently became the first person to <BLANK> in Austrialian Parliament.",
+            "t": "A",
+            "v": "618281_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

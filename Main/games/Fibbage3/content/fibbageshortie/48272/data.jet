@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "on the toilet,cooking a frozen pizza,mowing the lawn,weeding the garden,pretending to be dead,winning a hot dog eating contest,marrying her sister,breaking out of prison,getting his back waxed,getting a colonoscopy,throwing up from drinking,judging a wet T-shirt contest,juggling salmon,getting shot out of a cannon,duck hunting,punching the garbageman,streaking,lifting weights",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Romance",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "era arrestado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Brandon Thompson no es como cualquier romántico. Le propuso matrimonio a su novia mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "being arrested,getting aressted,getting arressted,being arressted,getting handcuffed,being handcuffed",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](really happy for them) And she said yes!",
+            "t": "A",
+            "v": "682440_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Brandon Thompson is a non-traditional romantic. Need proof? He proposed to his girlfriend while <BLANK>.",
+            "t": "A",
+            "v": "682437_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

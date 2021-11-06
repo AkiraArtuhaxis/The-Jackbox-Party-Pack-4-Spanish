@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Long Toenail,Back Sass,Elevensies,Gamer’s Wrist,Rugrat,Funky Fresh,No Running Allowed,Smelly Feet,Severe Tantrm,Imaginary Friend,Teddy Bear,Toxic Breath,Why Not,Spoiled Brat,Buck Teeth,Dirty Room,Sugar High,Involuntary Prank",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hilarious Deformities",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelo impeinable",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La rara enfermedad genética \"Pili trianguli et canaliculi\", que afecta principalmente a niños menores de 12 años, es más comúnmente conocida como síndrome del <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "uncomable hair,uncombable",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If left untreated, it can lead to Phil Spector Disease.",
+            "t": "A",
+            "v": "562162_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The rare genetic malady “Pili trianguli et canaliculi,” which affects mainly children under 12, is more commonly known as <BLANK> Syndrome.",
+            "t": "A",
+            "v": "562159_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

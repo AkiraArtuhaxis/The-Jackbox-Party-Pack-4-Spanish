@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pudding,orange peels,swamp mud,pictures of herself,gravy,garbage,street urchins,cotton candy,ice,parachutes,old gym towels,five crappier dresses,chicken wire and marshmallows,tax forms,her own hair,sexy magazines,fancy underwear,the back of a horse costume",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fancy Dress",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gatos muertos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Crees que estás a la moda? Pues nunca superarás a la señorita Kate Fearing Strong, que asistió a un baile de Nueva York en 1883 con un vestido hecho de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cats,a cat,a taxidermied cat,taxidermied cats",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Proving the scariest combination of traits is “really rich” and “really bored.”",
+            "t": "A",
+            "v": "677930_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Think you’re a real fashionista? You’ll never beat socialite Kate Fearing Strong who attended an 1883 New York ball in a dress made out of <BLANK>.",
+            "t": "A",
+            "v": "677927_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

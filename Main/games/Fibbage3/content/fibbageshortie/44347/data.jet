@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "roided up rhinos,lottery tickets,weaponized roombas,lady robots,gymnasts,Big Macs,cyborg giraffes,boomerangs,letters,comic books,ostriches,attack gorillas,babies,angry dads,self-driving cars,electric eels,marbles,poacher-seeking missles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Poaching",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "perros paracaidistas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Además del tradicional uso de fuerzas del orden, Sudáfrica ha comenzado a luchar contra la caza furtiva con más de 200 <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dog parachuters,dogs in parachutes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Poachers just think the dogs are parachuting for fun... until it’s TOO LATE.",
+            "t": "A",
+            "v": "585694_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In addition to traditional law enforcement, South Africa has begun fighting poachers with more than 200 <BLANK>.",
+            "t": "A",
+            "v": "585691_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

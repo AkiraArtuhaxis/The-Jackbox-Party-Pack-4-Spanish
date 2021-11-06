@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se encogen, se congelan, levitan, se separan, se juntan, brillan, se convierten en ovarios, les crecen pelo, emiten luz, cuadriplican su tamaño, huelen terrible, se petrifican, se vuelven azules, le crecen dientes, desprenden veneno, se disuelven, producen huevos, silban",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bee Orgasms",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "explotan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando una abeja macho tiene un orgasmo, sus testículos <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And yet he STILL falls asleep immediately afterwards.",
+            "t": "A",
+            "v": "318074_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When a male bee orgasms, his testicles <BLANK>.",
+            "t": "A",
+            "v": "318071_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

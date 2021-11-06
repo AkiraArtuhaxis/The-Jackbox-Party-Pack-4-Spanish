@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "drunk teenagers,hobos,nudists,scarecrows,vampire bats,secret societies,Wizard of Oz enthusiasts,politicians,counterfeit jeans deals,radioactive deer,jugglers,Germans,painters,huge rabbits,musical theater kids,drug dealers,fight clubs,farmers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Stalked",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hámsters caníbales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Conforme Francia comenzaba a cultivar más maíz, han observado un efecto secundario impactante: sus campos de maíz ahora estaban llenos de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "hamsters,cannibals,flesh-eating hamsters",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The corn isn’t nutritious enough, so they’ve gone cannibal. And yet, my lawyer tells me that excuse won’t hold up in court.",
+            "t": "A",
+            "v": "561463_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]As France has begun growing more corn, they’ve noticed a shocking side effect: Their cornfields are full of <BLANK>.",
+            "t": "A",
+            "v": "561460_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

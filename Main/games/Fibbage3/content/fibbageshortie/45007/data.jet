@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nose,kangaroo,alligator,doll,sausage,couch,zombie,vacuum,uncle,hipster,astronaut,angel,emotional,jetpack,underwater,gravy,caveman,clown",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "German Sports",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "de pulgares",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la ciudad alemana de Lenggries, más de 100 hombres se reúnen para competir en el campeonato anual de lucha <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s like “Over the Top,” but with just the tips.",
+            "t": "A",
+            "v": "602221_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the German town of Lenggries, more than a hundred men gather to compete in the annual <BLANK> wrestling championship.",
+            "t": "A",
+            "v": "602218_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

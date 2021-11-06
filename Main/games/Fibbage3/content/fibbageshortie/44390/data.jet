@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a dead clown,the body of Hitler,the lost ark,King Tut,a nuclear missle,a minotaur,a time traveler,1000 bras,a Japanese submarine,a T-Rex,Mickey Rooney,Bing Crosby,George Washington’s sword,vampires,an angel,a baseball field,his own grave,a lost work of Shakespeare",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Found It",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un volcán",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 20 de febrero de 1943 fue un día fatídico para el campesino mexicano Dionisio Pulido. Al observar su campo de maíz se sorprendió al encontrarse con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "volcano,volcanos,volcanoes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yes, a real volcano with molten lava, or as midwesterners call it: mild salsa.",
+            "t": "A",
+            "v": "586984_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]February 20, 1943 was a fateful day for Mexican farmer, Dionisio Pulido. He looked into his corn field and was shocked to find <BLANK>.",
+            "t": "A",
+            "v": "586981_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

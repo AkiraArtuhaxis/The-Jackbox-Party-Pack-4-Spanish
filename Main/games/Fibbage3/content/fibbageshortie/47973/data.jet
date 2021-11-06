@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a box a Hot Pockets,their heads,a YouTube vlog,a chinese takeout menu,an egg,spanish,pig latin,tweets about apples,a children’s game about math,their toupees,necktie patterns,the bottom of wells,fake casts,the inside of starbucks cups,sky writing,tissue boxes,recycling bins,plain sight",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Malware",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "El Instagram de Britney Spears",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, el grupo ruso de hackers Turla fue bastante creativo. Intentaron evitar ser detectados ocultando las instrucciones de su malware en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Britney Spears Instagram,Instagram,Britney’s Instagram,Britney Spears’ Instagram comments",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]*scoff* C’mon hackers, so 2003.",
+            "t": "A",
+            "v": "673963_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, the Russian hacker group Turla got pretty inventive. They tried to avoid detection by hiding their malware instructions in <BLANK>.",
+            "t": "A",
+            "v": "673960_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

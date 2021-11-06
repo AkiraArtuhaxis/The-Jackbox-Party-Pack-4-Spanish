@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "slaughter house,prison,morgue,gentleman’s club,acupuncture studio,SeaWorld franchise,sweatshop,airport,military,security force,cafeteria,disciplinary committee,circus,bar and grill,comedy club,pirate ship,monarchy,space station",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Liberal Arts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "reactor nuclear",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Reed College en Oregón es la única universidad de artes liberales en el mundo con un/a <BLANK> mantenido/a por estudiantes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "reactor,nuke,power plant,nuclear power plant,nucular reactor,nuclear plant",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]You’re guaranteed a C as long as you don’t cause a Godzilla.",
+            "t": "A",
+            "v": "603925_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Reed College in Oregon is the only liberal arts college in the world with a student-run <BLANK>.",
+            "t": "A",
+            "v": "603922_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

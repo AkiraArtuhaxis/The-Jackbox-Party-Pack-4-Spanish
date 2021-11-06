@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Amass|debts,hug|children,Take|dumps,grill|burgers,Chop|salads,milk|cows,Raise|children,surf|waves,Fight|wolves,pull|scams,tame|butts,eat|portions,escape|fights,solve|mysteries,pop|pimples,plug|holes,shrink|feet,win|at blackjack",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Good Advice",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Evitar|Naves",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "John W. Trimmer es el autor del libro de 1982 <i>Cómo <BLANK> las <BLANK> grandes<\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Step one, put that ship on a diet",
+            "t": "A",
+            "v": "326167_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]John W. Trimmer is the author of the 1982 book <i>How To <BLANK> Huge <BLANK><\/i>.",
+            "t": "A",
+            "v": "326164_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

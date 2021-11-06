@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Jeff Sessions,coolest dog,Smokebot 311,Blunt Enforcer,Against Twenty,Phishing Pole,Sensitive Neighbor,Space Cowboy,Doper Scoper,Narc Nose,Weed-B-Gone,Weed Seeking Missle,Pot Popper,Skunk Sniffer,Mr. Nose,The Spliffer Sniffer,The Bong Show,Willie Nelson",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Weeding Out Crime",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Nasal Ranger",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para detectar niveles ilegales de olor a humo de marihuana, la policía de Denver, EE. UU. utiliza un dispositivo llamado <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It actually looks like a megaphone you stick in your nose, which is a very funny thing to imagine when you’re high.",
+            "t": "A",
+            "v": "592731_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In order to detect illegal levels of odor from marijuana smoke, Denver police use a device called the <BLANK>.",
+            "t": "A",
+            "v": "592728_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

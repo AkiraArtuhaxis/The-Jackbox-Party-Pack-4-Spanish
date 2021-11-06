@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "swingsets,the HOV lane,their brains,electric lawn mowers,charcoal grills,fingerless gloves,Google,solar powered cars,non-Texan salsa,new iPhones,real sugar,the library,their real names,the treadmill,waterbeds,old dollar bills,fake mustaches,button flies",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Public Urges",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Emojis de la bandera chilena",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, el legislador del estado de Texas, Tom Oliverson, instó a la gente a no usar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the chilean flag",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]People were confusing the emoji with the Texas flag.",
+            "t": "A",
+            "v": "597141_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, Texas state lawmaker Tom Oliverson urged people not to use <BLANK>.",
+            "t": "A",
+            "v": "597138_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

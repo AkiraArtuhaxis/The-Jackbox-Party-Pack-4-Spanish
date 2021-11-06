@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "olive oil,water touched by Ghandi,shampoo,expired orange juice,mustard,fresh air,hair gel,pure oxygen,cheap cologne,melted ice,New Coke,Jim Carrey’s cologne,Kanye West’s leftover water,vampire repellant,space air,Dana Carvey’s scent,raw milk,good times",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "High Demand",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "salsa de Big Mac",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En enero de 2017, eBay notó cierta actividad sospechosa. Vendedores estaban pidiendo hasta 50 mil dólares a cambio de botellas de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sauce for Big Macs,Big Mac’s sauce,McDonald’s sauce,McDonald’s Big Mac sauce",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That’s at least two grand more than I’d pay.",
+            "t": "A",
+            "v": "561563_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In January of 2017, eBay saw some strange activity. Sellers were asking as much as $50,000 for bottles of <BLANK>.",
+            "t": "A",
+            "v": "561560_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

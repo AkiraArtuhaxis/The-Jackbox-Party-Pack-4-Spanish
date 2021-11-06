@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lawnmowers|goats,jets|big birds,garbage disposals|dog barks,ambulances|horses,people|violins,banjos|guitars,babies|rattles,bachelorette parties|Beethoven,spouses|running water,engines|mouth sounds that imitate engines,construction|sleigh bells,your parents’ disappointment|words of approval,loud punk music|lullabies,rowdy sports fans|sad sports fans,the national anthem|ACDC music,thunderstorms|calming waves,schoolchildren|mild mannered adults,cell phones ringing|a small mouse",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "noise pollution",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bocinas de auto|graznidos de pato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La contaminación del sonido es un serio problema. Por eso investigadores de una universidad en Corea del Sur sugieren reemplazar el sonido de <BLANK> con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "car horns|duck sounds,car honks|duck quacks,a car horn|duck quacks",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Noise pollution can be a serious problem, which is why researchers at a university in South Korea suggest replacing the sound of <BLANK> with <BLANK>.",
+            "t": "A",
+            "v": "672893_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dollar bills,chewed pieces of gum,spatz,selfies,Pogs,yo mama jokes,human bones,makeshift shivs,Patio umbrellas,experimental rockets,paper airplanes,bottles of medieval wine,thank you notes,tiny forks,wrestling belts,panda embryos,Friends spec scripts,thongs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Rockefeller",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "escarabajos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de que el multimillonario David Rockefeller muriera a los 101 años, se le dio a Harvard su colección de más de 150 mil <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "beatles,bugs,insects",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Wait a minute, billionaire philanthropist...obsessed with beetles... Oh may God! Rockefeller was masked crime fighter, The Beetle Crusader this whole time!!?!",
+            "t": "A",
+            "v": "600161_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]After David Rockefeller died at the age of 101, Harvard was given the billionaire’s collection of over 150,000 <BLANK>.",
+            "t": "A",
+            "v": "600158_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

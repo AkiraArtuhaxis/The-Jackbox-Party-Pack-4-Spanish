@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shaving,masturbating,peeing,naked,singing,having sex,dancing,eating breakfast,drunk,raising the flag,running,playing the bugle,crawling,reloading,cowering in fear,finishing a letter,sleeping,knifing each other",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "don’t shoot!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacían caca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según el historiador de la Guerra Civil Alfred Jay Bollet, había un acuerdo secreto entre soldados en que no se dispararían entre sí mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "defecating,having a bowel movement,shitting,going potty",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]We need this rule for the Jackbox office.",
+            "t": "A",
+            "v": "559098_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to Civil War historian Alfred Jay Bollet, there was an unwritten code among soldiers that they would not shoot each other while <BLANK>.",
+            "t": "A",
+            "v": "559095_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jelly beans|teddy bears,blankets|pillows,paint|brushes,printer ink|kale,apples|bread,cheap pens|expensive pens,flashlights|batteries,vending machines|peanuts,boomerangs|juggling balls,scissors|safety scissors,ham|cheese,power tools|pillow cases,trenchcoats|romantic novels,barbecue grills|toasters,sunglasses|hair gel,steins|leiderhosen,video games|soft drinks,chainsaws|first aid kits",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Volkswagen",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "salchichas|ketchup",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Volkswagen no solo es una fabricante de automóviles. Extrañamente, venden también <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ketchup|sausages,bratwurst|ketchup,ketchup|bratwurst,ketchup|currywurst,currywurst|ketchup,castup|sausages,bratwurst|castup,castup|bratwurst,bratwurst|castup,catsup|currywurst,currywurst|castup",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The sausages regularly outsell the cars AND they’ve got better emissions. (sfx: rimshot)",
+            "t": "A",
+            "v": "682568_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Volkswagen isn’t just a car company. Oddly enough, they also sell <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "682565_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

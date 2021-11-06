@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "wells|porta potties,electric fences|storms,drones|grenades,hawks|crocodiles,bees|wasps,lies|video tape,cancer|AIDS,drugs|alcohol,lions|tigers,explosives|narcotics,sarcasm|apathy,ants|roaches,tanks|cheese,money|jewels,latrines|wheat,ghosts|vampires,anthrax|asbestos,ice cream|sadness",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Rat Patrol",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "minas|tuberculosis",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "APOPO es una organización que entrena ratas gigantes africanas para detectar <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tuberculosis|land mines,tuberculosis|mines,tb|land mines,tuberculoses|mines,tooburculosis|mines,tuburculosislmines,mines|tuberculosis,mines|tuberculosis",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A-P-O-PO is an organization that trains African giant-pouched rats to detect <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "384170_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

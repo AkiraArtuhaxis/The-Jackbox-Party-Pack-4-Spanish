@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "give up the throne,eat less dairy,lower taxes,smile more,learn an instrument,try whole30,give up opium,produce an heir,get a hobby,update her wardrobe,try not to speak,study history,lose weight,hire a gardner,be taller,assume a man’s first name,learn to speak Russian,stop telling jokes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ancient Russia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "casarse",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el siglo X, la princesa Olga de Rusia tenía una muy mala reputación por matar a cualquiera que le sugiriera que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "marry,marry someone,take a husband,find a husband,get a husband,choose a husband,marry again,get remarried",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Supposedly it was because she was still mourning her first husband, but I bet she just liked hanging around the palace in sweat pants.",
+            "t": "A",
+            "v": "574352_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Princess Olga of 10th Century Russia had a nasty reputation for killing anyone who suggested she <BLANK>.",
+            "t": "A",
+            "v": "574349_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

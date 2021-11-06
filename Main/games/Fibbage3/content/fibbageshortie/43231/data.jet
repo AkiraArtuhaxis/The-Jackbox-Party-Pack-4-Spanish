@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sense of humor,ability to speak,teeth,short term memory,vision,musical ability,sense of smell,keys,hearing,love for family,balance,sense of style,fingernails,ability to whistle,ability to snore,moral compass,heartbeat,creativity",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "side effects",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "huellas dáctiles",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Estudios médicos han demostrado que el uso de la capecitabina puede hacer que los pacientes pierdan temporalmente sus <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The perfect drug to take and then steal.",
+            "t": "A",
+            "v": "558823_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Medical studies have shown that use of the drug capecitabine can cause patients to temporarily lose their <BLANK>.",
+            "t": "A",
+            "v": "558820_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

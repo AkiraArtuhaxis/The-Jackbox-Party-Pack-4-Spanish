@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "farts|make a sound,baby teeth|fall out,thumbs|bend,feet|sweat,elbows|work,fingernails|grow,songs|play on the radio,mama|care,colors|run,eyes|blink,dogs|hunt,eyelids|separate,brain cells|sleep,cuts|bleed,opinions|matter,vocal sounds|echo,mustache hairs|turn gray,siblings|remember you",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "genes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "axilas|apestan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si eres parte del dos por ciento que transporta el gen ABCC11, entonces tus <BLANK> no <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "armpits|smell,pits|stink,pits|smell",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]You snobs and your fancy genes. I’ll show you one day. (shaking fist) I’ll show you all!",
+            "t": "A",
+            "v": "675657_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you’re one of the two percent of people that carry the gene ABCC11, then your <BLANK> don’t <BLANK>.",
+            "t": "A",
+            "v": "675654_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

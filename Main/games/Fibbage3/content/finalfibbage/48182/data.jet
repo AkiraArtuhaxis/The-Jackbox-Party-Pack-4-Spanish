@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "homeless shelter|grocery store,library|emergency room,college|bakery,hospital|shooting range,comic book store|taxidermist,aquarium|orphanage,law firm|day care center,golf course|women’s college,health clinic|brothel,landfill|country club,nursing home|department store,movie theater|dog pound,gun shop|knitting supply store,boarding school|used car lot,pizza buffet|car wash,water treatment plant|microbrewery,casino|gambler’s anonymous center,auto body shop|proctologist’s office",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Two Great Things",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "strip club|iglesia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si te encuentras en Guelph, Ontario, podrás encontrar lo que necesites en un establecimiento llamado La Mansión que, es tanto un <BLANK> y una <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "gentleman’s club|church,gentlemen’s club|church,gentlemans club|church,gentlemens club|church,stripper bar|church,strip joint|church,stripper joint|church,bar|church,tavern|church,pub|church,watering hole|church",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Before you make plans, just know the strip club is not open Sunday mornings.",
+            "t": "A",
+            "v": "679730_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When in Guelph, Ontario, you might find what you need at an establishment called The Manor, which, as of April 2014, is both a <BLANK> and a <BLANK>.",
+            "t": "A",
+            "v": "679727_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

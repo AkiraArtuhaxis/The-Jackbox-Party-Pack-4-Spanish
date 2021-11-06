@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dispositivo de flotación,paracaídas,zapato,yamaka,bolso,chaleco antibalas,calcetín,desfibrilador,teléfono,casco de realidad virtual,mochila,cámara espía,maletín,parlante,tazón de cereal,megáfono,granada,dispensador de cerveza",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Alternative Bra Uses",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "máscara de gas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Dra. Elena Bodnar inventó un sostén que también puede utilizarse como un/una<BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]For safety, please secure your own bra before helping others.",
+            "t": "A",
+            "v": "338185_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Dr. Elena Bodnar invented a bra that can also be used as a <BLANK>.",
+            "t": "A",
+            "v": "338182_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

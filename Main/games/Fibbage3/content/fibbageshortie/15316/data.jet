@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Enemigo,lechero,Asesino,pescadero,Viuda,Gemelo,Profesora,suegra,Hermano,peluche,Instructor de fitness,Cavernícola,Bañera,Vendedor de casas,Vecino,Consejero,Protector,Tercer pezón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Made For TV",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hijastro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Rachel Ward y Terry O'Quinn protagonizaron la película de Lifetime de 1997 <i>Mi <BLANK>, mi amante<\/i> (traducción del título en inglés).",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "hijastra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That must make for an awkward Thanksgiving.",
+            "t": "A",
+            "v": "338556_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Rachel Ward and Terry O’Quinn starred in the 1997 Lifetime movie <i>My <BLANK>, My Lover<\/i>.",
+            "t": "A",
+            "v": "338553_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

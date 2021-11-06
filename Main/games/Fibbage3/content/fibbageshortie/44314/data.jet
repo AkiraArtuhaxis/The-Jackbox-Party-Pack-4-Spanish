@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "delicious,for cowards,medicine,a vegetable,anti-Russian,illegal,safe for toddlers,from the moon,magic,a diet drink,good for your brain,endangered,banned on boats,causing depression,what’s for dinner,healthier than exercise,the new president,the national beverage",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Beer Me",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "alcohol",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2011, el gobierno ruso declaró oficialmente que la cerveza es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "alcoholic,booze",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Until then, Russians basically treated it like a soft drink.",
+            "t": "A",
+            "v": "584675_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2011, The Russian government officially declared that beer is <BLANK>.",
+            "t": "A",
+            "v": "584672_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

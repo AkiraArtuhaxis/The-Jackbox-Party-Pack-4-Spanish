@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Fried Sushi,Cubic Watermelon,Rat Tails,Reindeer,Wasabi Beer,Octopus Ice Cream,Canned Bread,Placenta Jelly,Chocolate Frogs,Dried Crab,Placenta,Squid,Taco Bell,meatloaf,santa-shaped pizza,misletoe pudding,reindeer hooves,egg nog gravy",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Christmas in Japan",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pollo frito",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la última década ha surgido una tradición navideña particular en Japón. Más de tres millones de personas comen <BLANK> en Navidad.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "KFC,Kentucky Fried Chicken",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Just like baby Jesus did...",
+            "t": "A",
+            "v": "580380_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Over the last decade, Japan has developed a unique holiday tradition. More than three million people are eating <BLANK> on Christmas.",
+            "t": "A",
+            "v": "580377_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

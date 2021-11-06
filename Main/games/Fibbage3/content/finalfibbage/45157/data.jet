@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "babies|toddlers,whispering|yelling,food|water,hugs|handshakes,eye contact|laughter,stabbing|shooting customers,crying|a sense of doom,breakfast|dinner,love|biological urges,Thanksgiving|Christmas,tight underwear|revealing pants,their parents|loved ones,the news|social media,the internet|video games,Oklahoma|Arkansas,petting strange dogs|cats,the bathroom|the breakroom,brothels|houses of ill repute",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Employee Guides",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hamburguesas|papas fritas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una versión de 2013 del sitio web de recursos para empleados de McDonalds llegó a las noticias al recomendar que los trabajadores eviten comer <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "fries|burgers,burgers|french fries,french fries|burgers,cheeseburgers|fries,fries|cheeseburgers,french fries|cheeseburgers,cheeseburgers|french fries",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They recommended healthier options.",
+            "t": "A",
+            "v": "607537_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A 2013 version of the McDonalds’ employee resources website drew headlines by recommending workers avoid <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "607534_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

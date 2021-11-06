@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "talk about the aliens,sell their life stories,joke about France,start a new business,use an iPhone,eat seafood,mountain climb,have more children,enter the lottery,make their own pizza dough,live outside the U.S.,watch CBS,unsubscribe from the CIA newsletter,get remarried,go snowboarding,play Batman in a movie,experience joy,watch Family Matters",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Presidential Downsides",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "conducir",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En febrero de 2014, el vicepresidente Joe Biden dijo que había “una razón contundente para no presentarse a la presidencia”. Estaba haciendo referencia al hecho de que, durante el resto de sus vidas, los presidentes estadounidenses se les prohíbe <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "drive cars,drive on roads,drive on public roads,operate a car",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](a la “Thanks Obama) THANKS JFK.",
+            "t": "A",
+            "v": "677569_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In February 2014, Vice President Joe Biden said there was “one overwhelming reason not to run for president.” He was referencing the fact that, for the rest of their lives, U.S. Presidents aren’t allowed to <BLANK>.",
+            "t": "A",
+            "v": "677566_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

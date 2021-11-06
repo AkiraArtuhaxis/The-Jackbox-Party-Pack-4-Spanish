@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nerds,mermaids,people named Stephen,draft dodgers,NBA players,My Little Pony fans,MAD magazine writers,kickboxers,Wayne Gretzky,artificial intelligence,retired mayors,alien life,Neil DeGrasse Tyson enemies,gamers,Papa John employees,vegetarians,residents of a retirement community,fans of Wings",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Stephen Hawking Party",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "viajeros del tiempo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 28 de junio de 2009, el físico Stephen Hawking celebró una fiesta que solo aceptaba a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "time travel,people who can travel time,time-travelers,time travellers,time-travellers",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The great thing is if you skipped it, you can always change your mind.",
+            "t": "A",
+            "v": "564287_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On June 28, 2009, physicist Stephen Hawking held a party that was only open to <BLANK>.",
+            "t": "A",
+            "v": "564284_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

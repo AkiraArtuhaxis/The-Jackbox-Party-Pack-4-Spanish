@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "were cubed,screamed,were orange,produced carbon monoxide,bled,were ape skulls,could hatch,had faces,were made of uranium,smelled like brimstone,were poisonous,attracted bees,were invisible,tasted terrible,weighed ten pounds,would melt,were made by orphans,were worth $1000 each",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Billiards",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "explotaban",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A principios del siglo XX, jugar al pool tenía algo particularmente alarmante: las bolas <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "would explode,could explode,were explosive,blew up",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]After they stopped using ivory to make cue balls, the first plastic they tried was highly combustible.",
+            "t": "A",
+            "v": "609040_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Playing pool in the early 20th century had a particularly alarming feature: the cue balls <BLANK>.",
+            "t": "A",
+            "v": "609037_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

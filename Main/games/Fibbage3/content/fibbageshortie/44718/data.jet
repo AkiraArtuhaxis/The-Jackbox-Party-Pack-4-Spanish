@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Julia Child recipes,Emily Dickinson poems,Bob Dylan lyrics,Gary Larson doodles,photos of Ben Franklin’s feet,penguin feathers,Will Smith quotes,the plans for Fonzie’s motorcycle,forgotten curse words,smells of Utah,rejected Budweiser recipes,colors that aren’t quite purple,words that rhyme with orange,actor’s lines from Spaceballs,carpet samples,nude drawings of Adlai Stevenson,Richard Nixon’s bowling scores,Kid Rock lyrics",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Briefly Noted",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Chistes de Phyllis Diller",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A principios de 2017, el Instituto Smithsoniano pidió ayuda para archivar más de 50 mil fichas que contienen <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Phylis Diller jokes,Phyllis Diler jokes,Phyllis Diller gags",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]People going through her drawers is exactly what she would’ve wanted.",
+            "t": "A",
+            "v": "595283_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In early 2017, the Smithsonian put out a call for volunteers to help archive more than 50,000 index cards containing <BLANK>.",
+            "t": "A",
+            "v": "595280_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

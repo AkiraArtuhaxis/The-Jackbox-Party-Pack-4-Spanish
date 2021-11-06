@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a sword,George Washington,Thomas Jefferson,an advertisement,a woman,yellow,bacon,violence,tobacco,Native Americans,animals,Latin,a banjo,wildlife,a heart,a snake,guns,stripes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Flagged",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "desnudez",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Virginia es el único estado de Estados Unidos cuya bandera tiene <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "nudeity,naked,nakedness,a naked woman,a topless woman,breasts,nipples,titty,titties",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I’ll give you a second to Google it...there we go.",
+            "t": "A",
+            "v": "573604_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Virginia is the only U.S. state whose flag features <BLANK>.",
+            "t": "A",
+            "v": "573601_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "anti-vaccine,Skrillex,furry,Black Eyed Peas,murder,slam poetry,Fyre,butt touching,Sinbad apprecation,marionette,penis,garbage eating,moist,used wig,sociopath,black magic,suicide,Google Translate",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Lost in Translation",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "clítoris",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un pequeño pueblo en el norte de España intentó realizar anuncios en línea para su festival de alimentos en 2015. Desafortunadamente, debido a un error de traducción de Google, promovió accidentalmente un festival del <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "clit",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Attendance was a little low, but that’s only because some people had trouble finding it. (sfx:rimshot) Thank you!",
+            "t": "A",
+            "v": "645852_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A small town in Northern Spain tried to run online ads for their 2015 food festival. Unfortunately, due to a Google Translate error, it accidentally promoted a <BLANK> festival.",
+            "t": "A",
+            "v": "645849_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

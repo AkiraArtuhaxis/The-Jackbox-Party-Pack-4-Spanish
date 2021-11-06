@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a fake fire,Popeye,a huge shark,Superman,a broken vodka bottle,a middle finger,a sea monster,a giant missle,God,dozens of cannons,Cher,a sexy moose,ABBA,Al Capone,fire-breathing polar bears,a giant butt,Thor,a dancing walrus",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Stockholm",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un marinero gay bailando",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un inusual intento de mantener a los submarinos rusos alejados de sus aguas, la Sociedad Sueca de Paz y Arbitraje colocó un gran cartel de neón frente a la costa de Estocolmo que representa <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a dancing sailor,a sailor,a gay man,a homosexual,a homosexual man,a homosexual sailor,a gay sailor,a dancing man",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was a comment on homophobia in Russia.",
+            "t": "A",
+            "v": "409055_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an unusual bid to keep Russian submarines away from their waters, the Swedish Peace and Arbitration Society installed a large neon sign off the coast of Stockholm that depicts <BLANK>.",
+            "t": "A",
+            "v": "409052_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

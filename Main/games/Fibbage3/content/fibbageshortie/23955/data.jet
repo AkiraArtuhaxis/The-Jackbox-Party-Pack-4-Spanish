@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "public toilets,college dorms,old people’s ears,restaurant kitchens,strip club buffets,garage sale underwear,women’s locker rooms,changing rooms,carnival people’s noses,porn stars’ privates,doctors’ hands,dogs’ butts,turtle noses,litter boxes,rich people’s pools,rural grocery stores,New Orleans,used baby diapers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Elusive Bacteria",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "traseros de surfistas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para obtener información acerca de bacterias resistentes a medicamentos, investigadores de la Universidad de Exeter tuvieron que obtener algunas muestras repulsivas de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "surfer ass,surfer butt,surfer bum,surfers ass,surfers butt,surfers bum,surfer butthole,surfer anus,butts,surfer asses,people’s butts,people’s asses,assholes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Of course, they use the technical term for a surfer’s butt: a cowabunghole.",
+            "t": "A",
+            "v": "420690_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]To get information on drug-resistant bacteria, researchers at England’s University of Exeter took some rather disgusting samples from <BLANK>.",
+            "t": "A",
+            "v": "420687_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

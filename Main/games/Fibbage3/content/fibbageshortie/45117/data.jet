@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "doing a puppet show,shaving,waxing his back,eating spaghetti,blindfolded,playing Mario Kart,eating pizza,in another state,pulling his own tooth,building a canoe,watching The Godfather,dressed as a clown,grilling steaks,handling snakes,picking his nose,sleeping,juggling,fending off a robber",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "File Footage",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "montaba un aeropatín",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mientras buscaban en el celular de un dentista alaskeño en abril de 2017, los fiscales encontraron un video de él trabajando en una paciente sedada mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "he rode a hoverboard,riding a hover board,rode a hover board,rode a hoverboard",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]While searching an Alaskan dentist’s phone in April 2017, prosecutors found a video of him working on a sedated patient while <BLANK>.",
+            "t": "A",
+            "v": "606551_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

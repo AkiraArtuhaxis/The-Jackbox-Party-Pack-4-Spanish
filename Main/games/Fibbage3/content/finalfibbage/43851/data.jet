@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "blood|goats,milk|a gorilla,urine|their grandmother,rain|hurricanes,sweat|dads,oil|an old car,tears|a clown,venom|anacondas,water|local toilets,wine|the dead,juice|a rotten banana,spit|the mayor,shampoo|their sister,soup|Panera Bread,the wine|Boone’s Farm,broth|diaper stew,beer|ancestors,snot|their dogs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Drinking",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "semen|hombres jóvenes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como parte de su viaje a la madurez, se espera que los chicos de la tribu de Sambia de Papúa Nueva Guinea beban el <BLANK> de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sperm|young men,semen|boys,sperm|boys",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]So, you typical coming of age story...",
+            "t": "A",
+            "v": "571385_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]As part of their journey to adulthood, boys of the Sambia tribe of Papua New Guinea are expected to drink the <BLANK> of <BLANK>.",
+            "t": "A",
+            "v": "571382_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

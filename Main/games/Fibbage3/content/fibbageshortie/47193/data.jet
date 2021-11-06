@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "plastic bags,toddlers,people named Trent,oversized bananas,short shorts,fanny packs,Donald Trump,Coors Light,Bruno Mars,foreign vodka,hair gel,packages that are ticking,men in fake mustaches,Nintendo games,Jethro Tull,plastic sporks,saltwater taffy,beekeepers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sensible Bans",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Steven Seagal",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En interés de su seguridad nacional, en mayo de 2017 Ucrania prohibió la entrada al país de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "steve seagal,steve segal,seven segal,stephen seagal,stephen segal,steven seagull",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Some say it’s because of Seagal’s associations with Russia, but I’m betting they finally saw “The Glimmer Man.”",
+            "t": "A",
+            "v": "654443_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the interest of national security, Ukraine instituted a May 2017 ban on <BLANK> entering the country.",
+            "t": "A",
+            "v": "654440_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

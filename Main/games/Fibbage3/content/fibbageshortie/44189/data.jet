@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "teenagers,celebrities,giant bugs,the post office,musicians,scientists,foreign citizens,superstition,the working class,random chance,animals,astrologists,bakers,the media,time travelers,college professors,librarians,a baby",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Leadership",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las peores personas posibles",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Inventada en 1829, \"kakistocracia\" es la palabra usada para referirse a una sociedad gobernada por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "people who are the worst,the worst,the worst of us,worst people,bad people",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Timely? You decide.",
+            "t": "A",
+            "v": "580800_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Coined in 1829, “kakistocracy” is the word for a society governed by <BLANK>.",
+            "t": "A",
+            "v": "580797_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

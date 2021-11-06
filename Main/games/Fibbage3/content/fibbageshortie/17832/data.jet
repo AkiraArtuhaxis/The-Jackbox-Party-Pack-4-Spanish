@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pinkie toe,soul,lips,babies,socks,bellybutton lint,fingernail clippings,spit,deodorant,high school essay,hair brush,trash,voice,tears,removed mole,bbq rub,bath water,apricot preserves",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eBay jars",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "breath",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El casino online GoldenPalace.com pagó $523 dólares en eBay por un frasco que contenía el/la <BLANK> de Angelina Jolie.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "breathe,air",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Tough luck if you wanted Angela Bassett’s breath. She’s still waiting to exhale.",
+            "t": "A",
+            "v": "372908_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The online casino GoldenPalace.com paid $523 on eBay for a jar containing Angelina Jolie’s <BLANK>.",
+            "t": "A",
+            "v": "372905_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a farmer named pete,Montana cattle,a washing machine,the cheese industry,Swiffer Wet Jets,people named Paul,U.S.A.,the monster of Boggy Creek,Dolly Parton’s tour bus,the squirrel in Spencer Ham’s attic,college mascots,milk cartons that refuse to open,improper grammar,Charles Barkley’s dining habits,the inflatable gorilla on Oklahoma Access Highway D,Dannon Yogurt,Seasons 22-24 of The Simpsons,life itself",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Supreme Court",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "40 contenedores y 20 barriles de Coca-Cola",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A veces el Tribunal Supremo de los Estados Unidos tiene que encargarse de casos extraños, como el caso número 562, \"EE.UU. contra <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "40 barrels and 20 kegs of coke,forty barrels and twenty kegs of coca cola,forty barrels and twenty kegs of coke,20 kegs and 40 barrels of coca cola,20 kegs and 40 barrels of coke,twenty kegs and forty barrels of coca cola,twenty kegs and forty barrels of coke,forty barrels and twenty kegs of coca-cola,20 kegs and 40 barrels of coca-cola,twenty kegs and forty barrels of coca cola",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Sometimes the U.S. Supreme Court has to take on odd cases, like case no. 562, “U.S. v. <BLANK>.”",
+            "t": "A",
+            "v": "635615_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

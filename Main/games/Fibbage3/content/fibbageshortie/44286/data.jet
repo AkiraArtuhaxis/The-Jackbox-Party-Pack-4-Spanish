@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a Juggler,Vegetarian,a student,a wizard,a mermaid,ambidextrous,a sass mouth,a master chef,a tiny bear,blind,consantly screaming,French,an octopus,a poet,a mathematician,a superhero,a wig maker,a basket weaver",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Royal Statues",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un pingüino",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2005, se erigió una estatua en Edinburgh para honrar a Sir Nils Olav, el primer miembro de la Guardia Real Noruega en ser además <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]His successor, Sir Nils Olav III was promoted to Brigadier. Take that, dad.",
+            "t": "A",
+            "v": "583835_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2005, a statue was erected in Edinburgh to honor Sir Nils Olav, the first member of the Norwegian King’s Guard to also be <BLANK>.",
+            "t": "A",
+            "v": "583832_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

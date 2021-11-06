@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eating nachos|a bathroom stall,getting chocolate|the peanut butter,puking|a cowboy hat,speaking|French,dancing|church,coughing|the school lunch,swearing|a slam poetry contest,leaving the house|that outfit,selling dream catchers|the parking lot,raising his hand|study hall,smoking|the teacher’s lounge,hunting|the off-season,speaking truth|The Man’s face,committing treason|home room,releasing crows|English class,doing close up magic|history class,winning his teacher’s money|craps,taking a puppy|the pool",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Juvie",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "eructar|clase de gimnasia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por allá en el 2011, un estudiante de séptimo grado en Albuquerque fue arrestado por <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "burping|class,belching|class,fake burping|class,fake belching|in class,belching|gym class,fake burping|gym class,fake belching|gym class,belching|gym class",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He got 40 years.",
+            "t": "A",
+            "v": "637638_4",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Back in 2011, a seventh grader was arrested at an Albuquerque middle school for <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "637635_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

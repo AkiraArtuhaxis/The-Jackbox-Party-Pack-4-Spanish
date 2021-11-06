@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sue,aroused,sleepy,unable to sit,“make it weird”,fall in love with you,tell jokes,jealous,laugh,start singing,itchy,crave chocolate,walk funny,think they’re in heaven,relive their childhood,start cursing,think about the cost,clench",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Colonoscopies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "explotar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2007, un equipo de médicos franceses escribió un artículo en el que recomendaban la mejor manera de hacer una colonoscopia que no haría <BLANK> a los pacientes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "blow up",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Since 1952, it’s happened at least 20 times.",
+            "t": "A",
+            "v": "594683_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2007, a team of French doctors wrote a paper advising how best to give a colonoscopy that wouldn’t make patients <BLANK>.",
+            "t": "A",
+            "v": "594680_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

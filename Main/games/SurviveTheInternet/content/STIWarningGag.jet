@@ -1,0 +1,262 @@
+{
+    "content":[
+        {
+            "id":"00000000",
+            "title":"ADVERTENCIA",
+            "text":"Actividad sospechosa. Una chica respondió a tu correo electrónico.",
+            "time":5.0
+        },
+        {
+            "id":"00000001",
+            "title":"ADVERTENCIA",
+            "text":"Estás conectado a una red WiFi que no tiene un nombre divertido.",
+            "time":5.0
+        },
+        {
+            "id":"00000002",
+            "title":"ADVERTENCIA",
+            "text":"¡Los murciélagos existen!",
+            "time":5.0
+        },
+        {
+            "id":"00000003",
+            "title":"ADVERTENCIA",
+            "text":"Carpeta “Fotos de Gillian Anderson” está ocupando el 85% del disco duro.",
+            "time":5.0
+        },
+        {
+            "id":"00000004",
+            "title":"ADVERTENCIA",
+            "text":"Esos pantalones no van con esa blusa.",
+            "time":5.0
+        },
+        {
+            "id":"00000005",
+            "title":"ADVERTENCIA",
+            "text":"Tu teclado es absolutamente repugnante, animal.",
+            "time":5.0
+        },
+        {
+            "id":"00000006",
+            "title":"ADVERTENCIA",
+            "text":"Aún eres alérgico a los arándanos.",
+            "time":5.0
+        },
+        {
+            "id":"00000007",
+            "title":"ADVERTENCIA",
+            "text":"Paul está hoy en uno de esos estados de ánimo.",
+            "time":5.0
+        },
+        {
+            "id":"00000008",
+            "title":"ADVERTENCIA",
+            "text":"La presión arterial alta es hereditaria.",
+            "time":5.0
+        },
+        {
+            "id":"00000009",
+            "title":"ADVERTENCIA",
+            "text":"La computadora está ejecutando un sistema operativo antiguo.",
+            "time":5.0
+        },
+        {
+            "id":"00000010",
+            "title":"ADVERTENCIA",
+            "text":"La computadora se reiniciará siempre que le plazca.",
+            "time":5.0
+        },
+        {
+            "id":"00000011",
+            "title":"ADVERTENCIA",
+            "text":"Se sospecha de hackers. Ok, se pusieron tristes y se fueron.",
+            "time":5.0
+        },
+        {
+            "id":"00000012",
+            "title":"ADVERTENCIA",
+            "text":"La unidad de CD quiere expulsar el CD 'Mix Épico de Fiesta'.",
+            "time":5.0
+        },
+        {
+            "id":"00000013",
+            "title":"ADVERTENCIA",
+            "text":"No tomaste tu vitamina esta mañana.",
+            "time":5.0
+        },
+        {
+            "id":"00000014",
+            "title":"ADVERTENCIA",
+            "text":"Tu leche está a punto de vencer.",
+            "time":5.0
+        },
+        {
+            "id":"00000015",
+            "title":"ADVERTENCIA",
+            "text":"Estoy a punto de spoilear el final de Juego de Tronos.",
+            "time":5.0
+        },
+        {
+            "id":"00000016",
+            "title":"ADVERTENCIA",
+            "text":"Te pareces a Paul Giamatti hoy.",
+            "time":5.0
+        },
+        {
+            "id":"00000017",
+            "title":"ADVERTENCIA",
+            "text":"No has usado pantalones en tres días.",
+            "time":5.0
+        },
+        {
+            "id":"00000018",
+            "title":"ADVERTENCIA",
+            "text":"Tienes algo entre los dientes.",
+            "time":5.0
+        },
+        {
+            "id":"00000019",
+            "title":"ADVERTENCIA",
+            "text":"Te has desconectado del servidor “NENEGRANDE”",
+            "time":5.0
+        },
+        {
+            "id":"00000020",
+            "title":"ADVERTENCIA",
+            "text":"No me llames “cariño”",
+            "time":5.0
+        },
+        {
+            "id":"00000021",
+            "title":"ADVERTENCIA",
+            "text":"La conexión a clubnenestristes.org ha caducado",
+            "time":5.0
+        },
+        {
+            "id":"00000022",
+            "title":"ADVERTENCIA",
+            "text":"Su mouse está cubierto de residuos de queso en polvo.",
+            "time":5.0
+        },
+        {
+            "id":"00000023",
+            "title":"ADVERTENCIA",
+            "text":"Hay adolescentes justo afuera de tu casa.",
+            "time":5.0
+        },
+        {
+            "id":"00000024",
+            "title":"ADVERTENCIA",
+            "text":"No te enamores de mí.",
+            "time":5.0
+        },
+        {
+            "id":"00000025",
+            "title":"ADVERTENCIA",
+            "text":"La vida es inútil.",
+            "time":5.0
+        },
+        {
+            "id":"00000026",
+            "title":"ADVERTENCIA",
+            "text":"NO me hables hasta que haya tomado mi café.",
+            "time":5.0
+        },
+        {
+            "id":"00000028",
+            "title":"ADVERTENCIA",
+            "text":"El gobierno te está mirando en este momento.",
+            "time":5.0
+        },
+        {
+            "id":"00000029",
+            "title":"ADVERTENCIA",
+            "text":"Nadie quiere robar tu identidad.",
+            "time":5.0
+        },
+        {
+            "id":"00000030",
+            "title":"ADVERTENCIA",
+            "text":"Te estás convirtiendo en tu padre",
+            "time":5.0
+        },
+        {
+            "id":"00000031",
+            "title":"ADVERTENCIA",
+            "text":"Ella no regresará",
+            "time":5.0
+        },
+        {
+            "id":"00000032",
+            "title":"ADVERTENCIA",
+            "text":"Estás desperdiciando tu título de sociología.",
+            "time":5.0
+        },
+        {
+            "id":"00000033",
+            "title":"ADVERTENCIA",
+            "text":"Tu Bitcoin no tiene valor.",
+            "time":5.0
+        },
+        {
+            "id":"00000034",
+            "title":"ADVERTENCIA",
+            "text":"Archivo: “Música de Baño” está dañado.",
+            "time":5.0
+        },
+        {
+            "id":"00000035",
+            "title":"ADVERTENCIA",
+            "text":"Archivo: “Música Emo para Conducir Solo” está dañado.",
+            "time":5.0
+        },
+        {
+            "id":"00000036",
+            "title":"ADVERTENCIA",
+            "text":"Archivo: “Música de Chico Lujoso” está dañado.",
+            "time":5.0
+        },
+        {
+            "id":"00000037",
+            "title":"ADVERTENCIA",
+            "text":"Se ha violado casi todo.",
+            "time":5.0
+        },
+        {
+            "id":"00000038",
+            "title":"ADVERTENCIA",
+            "text":"Tu postura es terrible.",
+            "time":5.0
+        },
+        {
+            "id":"00000039",
+            "title":"ADVERTENCIA",
+            "text":"Estás a punto de ingresar a la sección de comentarios.",
+            "time":5.0
+        },
+        {
+            "id":"00000040",
+            "title":"ADVERTENCIA",
+            "text":"Tu guión tiene grandes agujeros en la trama.",
+            "time":5.0
+        },
+        {
+            "id":"00000041",
+            "title":"ADVERTENCIA",
+            "text":"La cámara de la computadora está encendida. Por favor ponte una camisa.",
+            "time":5.0
+        },
+        {
+            "id":"00000042",
+            "title":"ADVERTENCIA",
+            "text":"Tu disco duro está lleno de cosas asquerosas.",
+            "time":5.0
+        },
+        {
+            "id":"00000043",
+            "title":"ADVERTENCIA",
+            "text":"Quitó un dispositivo USB antes de tiempo. Prepárate para explosiones.",
+            "time":5.0
+        }
+    ]
+}

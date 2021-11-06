@@ -1,0 +1,237 @@
+{
+
+    "table":{
+
+    "en": {
+
+        "LANGUAGE_NAME": "English",
+
+        "LANGUAGE": "Language",
+
+        "INTERNET_CONNECTED": "Acabamos de encontrar la internet.",
+
+        "INTERNET_DISCONNECTED": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+
+        "ROOM_DESTROYED": "Se ha producido un error y tu sala se ha desintegrado.<br />Comprueba que tu conexión a Internet funciona correctamente",
+
+        "SOCKET_DISCONNECTED": "Hemos perdido la conexión con los servidores de Jackbox Games.",
+
+        "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+
+        "USER_DISCONNECT": "Te has desconectado del servidor. Vuelve a intentarlo.",
+
+        "LOST_LICENSE": "No hemos encontrado la licencia para este contenido.",
+
+        "STEAM_ERROR": "No hemos podido validar tu licencia de Steam.",
+
+        "TWITCH_PRIME_ERROR": "No hemos podido validar tu licencia de Twitch Prime.",
+
+        "LOST_DLC": "No hemos encontrado la licencia para el contenido descargable. Volviendo al menú principal...",
+
+        "BACK": "ATRÁS",
+
+        "CLOSE": "CERRAR",
+
+        "CANCEL": "CANCELAR",
+
+        "SELECT": "SELECCIONAR",
+
+        "OR": "O",
+
+        "ON": "Sí",
+
+        "OFF": "No",
+
+        "HIDE": "OCULTAR",
+
+        "UNHIDE": "MOSTRAR",
+
+        "JOIN": "¡Únete!",
+
+        "PLAY": "JUGAR",
+
+        "SETTINGS": "AJUSTES",
+
+        "LEADERBOARD": "Estadísticas",
+
+        "BACK_TO_PACK": "ATRÁS",
+
+        "PLAY_DESCRIPTION": "¡Crea una sala y juega!",
+
+        "SETTINGS_DESCRIPTION": "Filtro familiar, opciones de público, y más.",
+
+        "LEADERBOARD_DESCRIPTION": "Mira las estadísticas de tus juegos más recientes.",
+
+        "BACK_TO_PACK_DESCRIPTION": "Volver al Party Pack.",
+
+        "SETTINGS_TITLE": "AJUSTES",
+
+        "LEADERBOARD_TITLE": "ESTADÍSTICAS",
+
+        "CONNECTING": "Conectando a los servicios de Jackbox Games",
+
+        "CONNECTING_DELAY": "La cosa va despacio...<br />Comprueba tu conexión a Internet.",
+
+        "GO_TO": "Ve a",
+
+        "JOIN_ON_YOUR_DEVICE": "en tu dispositivo móvil para unirte",
+
+        "USING_ROOM_CODE": "usando el código de sala",
+
+        "EVERYBODYS_IN": "ESTAMOS TODOS",
+
+        "PRESS": "PULSA",
+
+        "TO_START": "PARA EMPEZAR",
+
+        "TO_CANCEL": "PARA CANCELAR",
+
+        "JOIN_AUDIENCE": "¡Únete como público!",
+
+        "AUDIENCE": "PÚBLICO",
+
+        "PLAY_AGAIN_WITH": "JUGAR OTRA VEZ CON",
+
+        "PLAY_AGAIN": "¿JUGAR DE NUEVO?",
+
+        "SAME_PLAYERS": "MISMOS JUGADORES",
+
+        "LOBBY_OR": "O",
+
+        "NEW_PLAYERS": "NUEVOS JUGADORES",
+
+        "NUMBER_0": "cero",
+
+        "NUMBER_1": "uno",
+
+        "NUMBER_2": "dos",
+
+        "NUMBER_3": "tres",
+
+        "NUMBER_4": "cuatro",
+
+        "NUMBER_5": "cinco",
+
+        "NUMBER_6": "seis",
+
+        "NUMBER_7": "siete",
+
+        "NUMBER_8": "ocho",
+
+        "NUMBER_9": "nueve",
+
+        "NUMBER_10": "diez",
+
+        "FULL_SCREEN": "Pantalla completa",
+
+        "FULL_SCREEN_DESCRIPTION": "Hace que el juego tome toda la...pantalla.",
+
+        "VOLUME": "Volumen maestro",
+
+        "VOLUME_DESCRIPTION": "Haz del juego uno RUIDOSO o CALLADO.",
+
+        "VOLUME_HOST": "Volumen del anfitrión",
+
+        "VOLUME_HOST_DESCRIPTION": "Silencia al anfitrión si quieres estar solo y confundido.",
+
+        "VOLUME_SFX": "Volumen de efectos",
+
+        "VOLUME_SFX_DESCRIPTION": "Trabajamos duro en los sonidos de pedos, pero puedes bajarlos si quieres.",
+
+        "VOLUME_MUSIC": "Volumen de música",
+
+        "VOLUME_MUSIC_DESCRIPTION": "Bájale a nuestra gran música. No nos molesta.",
+
+        "FAMILY_FRIENDLY": "Para toda la familia",
+
+        "FAMILY_FRIENDLY_DESCRIPTION": "Habilitarlo evita el contenido más provocativo...del juego. No podemos controlar a los jugadores.",
+
+        "AUDIENCE_MODE": "Público",
+
+        "AUDIENCE_MODE_DESCRIPTION": "Habilitarlo permite a no participantes unirse y afectar el juego.",
+
+        "TWITCH_REQUIRED": "Requiere Twitch",
+
+        "TWITCH_REQUIRED_DESCRIPTION": "Requiere que los jugadores hayan iniciado sesión en Twitch.",
+
+        "MANUAL_CENSORING": "Censura manual",
+
+        "MANUAL_CENSORING_DESCRIPTION": "Permite al jugador VIP (el primero en unirse) censurar las respuestas de los demás.",
+
+        "POSTGAME_SHARING": "Compartir post-juego",
+
+        "POSTGAME_SHARING_DESCRIPTION": "Permite que los jugadores compartan respuestas y puntajes del juego en redes sociales.",
+
+        "START_GAMEPAD": "Inicio solo con mando",
+
+        "START_GAMEPAD_DESCRIPTION": "Las partidas solo se pueden iniciar desde el mando, no desde los dispositivos de los jugadores.",
+
+        "HIDE_ROOM_CODE": "Código de sala oculto",
+
+        "HIDE_ROOM_CODE_DESCRIPTION": "Permite ocultar el código de sala para evitar que los jugadores se unan tempranamente.",
+
+        "SESSION_STATS": "Estadísticas de la sesión",
+
+        "SESSION_STATS_DESCRIPTION": "Estadísticas de la sesión actual (Se reinician cuando cierras el juego.)",
+
+        "SKIP_TUTORIAL": "Omitir tutoriales",
+
+        "SKIP_TUTORIAL_DESCRIPTION": "Omite los tutoriales si ya sabes cómo jugar.",
+
+        "TWITCH_STATS": "Estadísticas de Twitch",
+
+        "TWITCH_STATS_DESCRIPTION": "Estadísticas de juegos de Twitch (Se guardan aún cuando cierras el juego.)",
+
+        "EXTENDED_TIMERS": "Cronómetros ampliados",
+
+        "EXTENDED_TIMERS_DESCRIPTION": "Habilita tiempos más largos.",
+
+        "PLAYER_NAME": "Jugador",
+
+        "HIGH_SCORE": "Puntaje máximo",
+
+        "AVERAGE_SCORE": "Puntaje promedio",
+
+        "GAMES_PLAYED": "Partidas jugadas",
+
+        "TOTAL_DATES": "Número de citas",
+
+        "AVERAGE_DATES": "Citas promedio",
+
+        
+
+        "BLIND_BRACKET": "DUELO SORPRESA",
+
+        "TRIPLE_BLIND_BRACKET" : "DUELO SORPRESA TRIPLE",
+
+
+
+        "OVERTIME": "¡PRÓRROGA!",
+
+        
+
+        "SCORE": "FINAL",
+
+        "SCORES": "PUNTAJE",
+
+        "FINAL": "PUNTAJE",
+
+        
+
+        "BY": "POR",
+
+        "BRACKET_WINNERS": "GANADORES DE CATEGORÍA"
+
+    },
+
+    "fr": {},
+
+    "it": {},
+
+    "de": {},
+
+    "es": {}
+
+}
+
+}

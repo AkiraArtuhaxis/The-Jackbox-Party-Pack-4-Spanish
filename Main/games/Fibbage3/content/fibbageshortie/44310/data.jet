@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "polite signs,poison spikes,beehives,porcupines,bags of poop,stun guns,hunks of garbage,cobras,lethal germs,missles,boomerang launchers,photos of surgery,very little importance,rusty nails,machine guns,bibles,sonic cannons,dead fish",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Crime Prevention",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lanzallamas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A finales de los 90, el inventor sudafricano Charl Fourie intentó prevenir los robos de autos colocando <BLANK> en los coches.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "flame throwers,flame-throwers,a flamethrower,a flame thrower,a flame-thrower",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Don’t worry though, the inventor insisted that the flames were the “non-lethal” kind.",
+            "t": "A",
+            "v": "584555_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the late 90s, South African inventor Charl Fourie tried to prevent carjackings by attaching <BLANK> to cars.",
+            "t": "A",
+            "v": "584552_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

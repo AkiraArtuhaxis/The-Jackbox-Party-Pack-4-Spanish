@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tourists,dining options,stray cats,free massages,rude monkeys,people giving out free hugs,Tim Allen impersonators,Starbucks,baseball games,ways to eat seafood,beaches,bugs,crabs,zombies,in-jokes he didn’t get,rainbows,cooks,cell phones",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bad Vacation",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "días de lluvia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, un canadiense demandó a la República Dominicana porque mientras estaba de vacaciones allí, hubieron demasiados <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "days when it rained",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And that man...is now the king of the Dominican Republic.",
+            "t": "A",
+            "v": "592701_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, a Canadian man sued the Dominican Republic because while on vacation there, there were too many <BLANK>.",
+            "t": "A",
+            "v": "592698_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "profile pic,snoring,new boyfriend,dancing,Instagram,cooking,driving ability,video game skills,break-up note,bee raising abilities,wardrobe,archery skills,poetry,family tree,text messages,wilderness survival skills,Spotify playlist,hand holding skills",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "girlfriend grades",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "carta de disculpas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Nick Lutz, un estudiante de la Universidad de Stetson, fue noticia luego de que calificara públicamente la <BLANK> de su ex-novia.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "apology note,apology",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She got a D-.",
+            "t": "A",
+            "v": "564846_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Nick Lutz, a student at Stetson University, made headlines after he publicly graded his ex-girlfriend’s <BLANK>.",
+            "t": "A",
+            "v": "564843_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

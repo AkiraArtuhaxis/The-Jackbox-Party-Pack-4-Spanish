@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "teach people about space,annoy foreigners,scare children,interfere with electronics,confuse fans,celebrate Hanukkah,anger their parents,entice toy companies,mock Elton John,enhance sound waves,advertise local tailors,act as parachutes,reflect stage lights,make them jump higher,signal British spies,promote UFO research,serve as pajamas,end poverty",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ABBA Garb",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bajar sus impuestos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según la banda estrella de los 70, ABBA, sus extravagantes disfraces no eran solo una declaración de moda. También estaban pensados para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "lower their tax,lower their tax bill,lower their tax payments,lower their taxes owed,decrease their tax liability,decrease their taxes,save them money,save money",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Swedish tax law said they could only deduct costumes that were too crazy to wear as regular clothes. Apparently they took it as a challenge.",
+            "t": "A",
+            "v": "562342_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to ’70s superstars ABBA, their outrageous costumes weren’t just a fashion statement. They were also meant to <BLANK>.",
+            "t": "A",
+            "v": "562339_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "politician’s faces,other people’s urns,fast food deep fryers,Kim Kardashian’s pool,the Grand Canyon gift shop,Grant’s tomb,every Margaritaville location,a haunted Barnes and Noble,every Pac-10 arena,the Three Stooges’ birthplaces,every Civil War battlefield,a hot air balloon,Dippin’ Dots freezers,a bookmobile,a traveling circus,an F5 tornado,Conan O’Brien’s Mercedes,Forever 21 dressing rooms",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Somber Roadtrips",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "baños de estadios de béisbol",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, un hombre de Nueva York hizo un extraño viaje por el país para esparcir las cenizas de su amigo en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "toilets,stadium toilets,baseball toilets,toilets in stadiums,toilets in baseball stadiums",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]His friend was a plumber...which makes sense because, most people who get buried in coffins were coffin makers.",
+            "t": "A",
+            "v": "608743_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, a New York City man made an odd cross-country journey to scatter his friend’s ashes in <BLANK>.",
+            "t": "A",
+            "v": "608740_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

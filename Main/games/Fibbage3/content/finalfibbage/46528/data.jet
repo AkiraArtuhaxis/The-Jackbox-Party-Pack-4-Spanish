@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beat up|previous year’s winner,marry|pumpkin,eat|live spider,break|promise,tell|white lie,choose|favorite parent,butcher|pig in under an hour,wear|face-covering mask,pull out|tooth from their own mouth,bribe|judge,knit|body suit,earn|Ph.D,drown|prisoner,comfort|grieving horse,shoot down|jet,invent|breakfast pastry,sleep in|pit of spiders,share|dark memory",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pageantry",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "decapitar|serpiente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La ciudad de Sweetwater en Texas organiza un concurso de belleza anual con un giro particular. Todos los concursantes deben <BLANK> una <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "kill|snake,murder|snake,skin|snake,kill|rattlesnake,murder|rattlesnake,skin|rattlesnake,behead|rattleshanke,behead|snake,cut the head off|snake,cut the head off|rattlenanke",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Miss Snake Charmer also has the honor of standing in a pit filled with poisonous snakes.",
+            "t": "A",
+            "v": "645702_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Sweetwater, Texas holds an annual beauty pageant with a unique twist. Every contestant must <BLANK> a <BLANK>.",
+            "t": "A",
+            "v": "645699_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

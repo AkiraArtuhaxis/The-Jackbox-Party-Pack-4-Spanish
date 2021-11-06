@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Drink expired milk,Eat chocolate,Eat meat,Dance,Hold hands in public,Own dogs,Sing out of tune,Wear tall hats,butter their bread,snap their fingers,wear different colored socks,paint their walls “eggshell”,look in mirrors,clap in public,part their hair to the right,sleep on their side,see live magicians,own forks",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Popes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tomaran café",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el siglo XVII, el Papa Clemente VIII fue en contra de sus asesores y declaró aceptable para los católicos que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "have coffee,brew coffee",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Uh, how do you think they’d been making new Catholics?",
+            "t": "A",
+            "v": "573368_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the 17th century, Pope Clement the 8th went against his advisors and declared it acceptable for Catholics to <BLANK>.",
+            "t": "A",
+            "v": "573361_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

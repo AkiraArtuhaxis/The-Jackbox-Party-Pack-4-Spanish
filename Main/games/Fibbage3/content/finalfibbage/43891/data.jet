@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bottles of ensure|baby food,books|iPads,turtlenecks|onesies,black socks|white socks,reading glasses|sunglasses,tombstones|tombstone pizza,scooters|skateboards,funeral plots|video games,bed pans|toilets,stool softeners|actual stools,bow ties|purple hair dye,Blu-Ray player manuals|Blu-Ray players,golf clubs|skateboards,suspenders|belts,Viagra|M&Ms,CDs|MP3s,caskets|baby cribs,dentures|novelty vampire teeth",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Aging",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pañales de adulto|pañales de bebé",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido al envejecimiento de su población, los <BLANK> venden más que los <BLANK> en Japón.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Due to its aging population, <BLANK> outsell <BLANK> in Japan.",
+            "t": "A",
+            "v": "572421_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

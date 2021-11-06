@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "frying chicken,water,yawning,snoring,using air quotes,haircuts,eye rolling,daydreaming,singing in falsetto,Canadians,maple syrup,napping,knock knock jokes,encyclopedias,carrots,speaking English,nose picking,pig wrestling",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bills Bills Bills",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tirar onda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1902, el miembro de la Asamblea de Nueva York Francis G. Landon introdujo un proyecto de ley que haría ilegal <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Luckily, the bill failed to make a pass.",
+            "t": "A",
+            "v": "609698_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1902, New York state assemblyman Francis G. Landon introduced a bill that would criminalize <BLANK>.",
+            "t": "A",
+            "v": "609695_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

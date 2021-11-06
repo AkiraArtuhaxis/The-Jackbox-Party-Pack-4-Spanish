@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Blah,Ho Hum,Tedious,Dreary,Slow,Beck’s last album,Dragging,Cold Mountain,Flaccid,Sadsack,Humdrum,Monotony,Paintdry,Gray,Lackluster,Plain Jane,Yuck,Action",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Boring",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Aburrida",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2012, la ciudad de Aburrido (Boring), Oregón se convirtió en ciudad hermana de una ciudad en Escocia traducida al español llamada <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]There hasn’t been a better pairing since Miami became sister cities with Cocaine Island.",
+            "t": "A",
+            "v": "599397_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2012, Boring, Oregon became sister cities with a town in Scotland named <BLANK>.",
+            "t": "A",
+            "v": "599394_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

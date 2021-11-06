@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beef jerky,adult diapers,morning after pills,toothpicks,methadone,Bibles,caskets,coloring books,scented candles,corn cob holders,toilet seat covers,decorative plates,truck nuts,kids sneakers,bandanas,kids braces,ponytail holders,toothbrushes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mötley Crüe",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vibradores",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el año 2016, Mötley Crüe le dio a sus seguidores lo que siempre han querido, y lanzaron su propia línea de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sex toys",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If your’e not sure whether they’re right for you, please consult Dr. Feelgood.",
+            "t": "A",
+            "v": "646410_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2016, Mötley Crüe gave their fans what they’ve always wanted and released their own line of <BLANK>.",
+            "t": "A",
+            "v": "646407_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

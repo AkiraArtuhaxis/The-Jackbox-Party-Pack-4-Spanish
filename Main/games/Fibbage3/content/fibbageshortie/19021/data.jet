@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mein Kampf,the Kama Sutra,Playboy Magazine,Penthouse,Breaking Bad,Goodfellas,The Silence of the Lambs,The Vagina Monologues,The Book of Mormon,the comedy of George Carlin,the Satanic Bible,Ron Jeremy films,the writings of David Duke,Fight Club,Two Girls, One Cup,dirty limericks,the OJ Simpson trial,the Saw films",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "word search",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "50 sombras de Grey",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cinco estudiantes de la Escuela Secundaria Monessen en Pennsylvania terminaron aprendiendo más de lo que esperaban cuando el buscador les dio sugerencias inspiradas en <i><BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Fifty Shades of Gray,Fifty Shades",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]This just makes me so angry... oh wait, no.  There’s “buttplug”.  I found it.  Nevermind.",
+            "t": "A",
+            "v": "381521_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Five students at Monessen Middle School in Pennsylvania ended up learning more than they bargained for after they were accidentally given a word search inspired by <BLANK>.",
+            "t": "A",
+            "v": "381518_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

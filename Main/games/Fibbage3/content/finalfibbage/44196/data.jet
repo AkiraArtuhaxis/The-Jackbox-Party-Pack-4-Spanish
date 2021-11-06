@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "rabbit head|boar,patch|man-purse,ribbon|tunic,shark tooth|hat,tag|pair of underwear,warning|diseased child,dagger sheath|boddice,wig|man’s scalp,sausage|shield,kitten|hat,dress|nice dress,peasant|nobleman,feather|dog,cheese wheel|cow udder,horn|horse head,piece of armor|bull,wig|pig,cape|pair of underwear",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Medieval Pairings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cerdo|pollo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Inventado en la Edad Media, un \"cockentryce\" es un <BLANK> cosido en un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "chicken|pig,pig|turkey,turkey|pig",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]You’re supposed to cover it in batter and eat it. Nowadays we eat dignified things, like hot dog pizza",
+            "t": "A",
+            "v": "581010_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Invented in the Middle Ages, a “cockentryce” is a <BLANK> sewn onto a <BLANK>.",
+            "t": "A",
+            "v": "581007_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

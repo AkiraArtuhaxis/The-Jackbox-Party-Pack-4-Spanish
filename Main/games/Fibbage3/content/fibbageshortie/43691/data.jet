@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "naked,angry,dumped,hunting,asleep,swimming,drunk,a teenager,in labor,bouncing,old,at a baseball game,upside down,crying,hungover,on the equator,nervous,alone",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Betsy Beer",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "volando",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has bebido la cerveza Betsy Beer? Se elabora específicamente para que sepa mejor cuando estás <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "flyin,on a plane,in an airplane",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Your taste buds apparently change when your at a high altitude and trapped in a cabin of farts.",
+            "t": "A",
+            "v": "567443_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Ever had Betsy Beer? It’s brewed so that it tastes best when you’re <BLANK>.",
+            "t": "A",
+            "v": "567440_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

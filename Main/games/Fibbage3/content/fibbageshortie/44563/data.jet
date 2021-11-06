@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "escape hatch,food supply,Puppy,Crown,Dildo,Chocolate Bar,Rare gem,Rooster skeleton,pie recipe,ghost,Da Vinci painting,sex advice guide,house key,Corset,Cigarette,Revolver,treasure map,monkey’s paw",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mummy Secrets",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Bebé",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando los científicos escanearon el ataúd de Peder Wugup, un obispo del siglo XVII, se sorprendieron al encontrar escondido un <BLANK> adentro.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Fetus,Child,Fedus,Fetis",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The Bishop had a fetus tucked near his feet and nobody knows why.",
+            "t": "A",
+            "v": "591287_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When scientists scanned the coffin of 17th century bishop Peder Winstrup, they were shocked to find a hidden <BLANK>.",
+            "t": "A",
+            "v": "591284_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

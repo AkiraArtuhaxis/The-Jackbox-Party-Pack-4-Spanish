@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "burp the alphabet,orgasm in under a minute,vomit,solve physics problems,read spanish,find Bigfoot,make a lasagna,fart,do a cartwheel,speak German,recite movie quotes,answer basic history questions,poop,do celebrity impressions,explain their health insurance plans,write haikus,sing opera,do the splits",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "porn challenge",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "llorar a proposito",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El sitio para adultos WoodRocket.com filmó un video promocional en 2015 donde actores porno intentaban <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cry",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Because when watching porn, you shouldn’t have to cry alone.",
+            "t": "A",
+            "v": "379619_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The adult site WoodRocket.com shot a 2015 promotional video where porn actors attempted to <BLANK>.",
+            "t": "A",
+            "v": "379616_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

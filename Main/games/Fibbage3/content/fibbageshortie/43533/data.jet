@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vending machine technician,cow inseminator,janitor,milk shake shaker,car washer,Hooters waitress,sandwich artist,turtle breeder,boat salesman,line dance instructor,bowling instructor,toilet inspector,substitute teacher,topless dancer,art class model,lion tamer,radio DJ,shoe salesman",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "300 Hours",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "técnico de shampoo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el estado de Tennessee, debes aprobar un examen escrito y realizar 300 horas de práctica para presentarse como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "shampoo specialist,shampooer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]*scoff* All it is is “Lather, Repeat, Rinse.” Oh, see? That’s why I didn’t get my license.",
+            "t": "A",
+            "v": "564596_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the state of Tennessee, you must complete a written exam and 300 hours of practice in order to hold the position of <BLANK>.",
+            "t": "A",
+            "v": "564593_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

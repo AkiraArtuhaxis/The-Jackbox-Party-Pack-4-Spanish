@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "toothbrush,kitchen,television,iced tea,coffee cup,frisbee,television,steering wheel,crossword puzzle book,shower loofah,soup spoon,crab hammer,paintbrush,pizza slicer,wedding ring,novelty pencil,watch,electric razor",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Large & In Charge",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "iPhone",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según Matt Bonner, el jugador de los San Antonio Spurs, una vez se le inflamó el codo porque su <BLANK> era demasiado grande.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "phone,cellphone,cell phone,mobile phone,mobile",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Apparently, texting with one hand was a strain. Life is tough.",
+            "t": "A",
+            "v": "566008_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]San Antonio Spur Matt Bonner suffered a swollen elbow because, according to him, his <BLANK> was too big.",
+            "t": "A",
+            "v": "566005_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

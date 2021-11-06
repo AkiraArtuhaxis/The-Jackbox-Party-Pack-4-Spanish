@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a green dude she met,a game of Mad Libs,her job at the morgue,one crazy bachelor party,classic Hollywood films,Ben Franklin,big idiots,Nikola Tesla,her uncle Frank,the first successful limb transplant,herself,a Polish myth,dumb men,a stitched together puppet,her huge husband,a chicken with its head cut off,vodka,a dog that came back to life",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Frankenstein",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "patas de rana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el prefacio de Mary Shelley para <i>Frankenstein<\/i> de 1831, la autora explica que la novela fue inspirada en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "frogs’ legs,frog’s legs,a frog’s legs,dead frogs,a dead frog,frogs,frog,a frog",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She’d heard electricity could make frog legs twitch after death.",
+            "t": "A",
+            "v": "650384_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In Mary Shelley’s 1831 preface to <i>Frankenstein<\/i>, the author explains the novel was inspired by <BLANK>.",
+            "t": "A",
+            "v": "650381_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

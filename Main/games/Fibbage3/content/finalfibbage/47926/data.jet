@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cycling|bullies,running|cinder blocks,volleyball|bombs,wrestling|old men,juggling|knives,swimming|sharks,flirting|danger,pushups|fire,kickboxing|bears,dancing|broken heels,surfing|komodo dragons,Drumming|restraint,marching|a carefully balanced egg,Burlesque Dancing|your dog,ballet|catty remarks,boxing|Gary Busey,wall climbing|a picnic lunch,karate|beer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "workout routine",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "yoga|cabras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Quieres cambiar un poco tu rutina de ejercicio? Anótate a una clase de Lainey Morse. Ella enseña <BLANK> con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Want to spice up your workout routine? Sign up for a class with Lainey Morse. She teaches <BLANK> with <BLANK>.",
+            "t": "A",
+            "v": "672471_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

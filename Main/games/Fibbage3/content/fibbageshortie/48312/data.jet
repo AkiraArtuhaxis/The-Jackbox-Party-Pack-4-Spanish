@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "punching Chester A. Arthur,breaking into Buckingham Palace,climbing Mt. Rushmore,hiding in J.D. Rockefeller’s closet,claiming Alaska for England,eating dodo birds,claiming he invented time travel,stealing Mark Twain’s wife,claiming it was the 1890’s,climbing Big Ben in a diaper,finding fake dinosaur bones,digging to Australia,trying to fly to the moon,drawing mustaches on Mt. Rushmore,sneaking into King Tut’s tomb,pretending to be Grover Cleveland at parties,eating an entire car battery,prank calling Teddy Roosevelt",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Get famous",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "saltar de puentes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Alguna vez has oído hablar de Larry Donovan? Intentó hacerse famoso en la década de 1880 al <BLANK> múltiples veces.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "jumping from great heights,leaping off bridges,walking off bridges,making high dives,doing bridge jumps,bridge jumping,bridge-jumping",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It ended about how you’d expect.",
+            "t": "A",
+            "v": "683604_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Ever heard of Larry Donovan? He tried to become famous in the 1880s by repeatedly <BLANK>.",
+            "t": "A",
+            "v": "683601_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

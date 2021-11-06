@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cave,Igloo,Hole,Closet,apple tree,Nest,Cage,Boxcar,Van,Gas Station,Refrigerator Box,Tent,Spa,Beehive,grocery bags,taco truck,Mansion,Five Story Walk-Up",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Doctor (Strange)",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Dumpster",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a su extraña casa temporal, el Dr. Jeff Wilson en la Universidad de Huston-Tillotson en Austin, Texas, fue apodado el Profesor <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Soon his graduate students will know what that’s like.",
+            "t": "A",
+            "v": "375794_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Due to his bizarre temporary home, Dr. Jeff Wilson at Huston-Tillotson University in Austin, TX was nicknamed Professor <BLANK>.",
+            "t": "A",
+            "v": "375791_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

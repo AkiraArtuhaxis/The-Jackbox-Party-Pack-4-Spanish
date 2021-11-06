@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "loved,swindled,raised,robbed,killed,married,dumped,baptized,licked,kidnapped,arrested,taught fencing,shot out of a cannon,impersonated,conceived,hunted on an island,shipwrecked,poisoned",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Piano Men",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ciegos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según algunos historiadores, los compositores Bach y Handel quedaron <BLANK> por el mismo hombre.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "blind,made blind,rendered blind",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The guy, John Taylor, was an eye doctor. Luckily, none of his patients could read the fine print.",
+            "t": "A",
+            "v": "562262_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to some historians, composers Bach and Handel were both <BLANK> by the same man.",
+            "t": "A",
+            "v": "562259_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

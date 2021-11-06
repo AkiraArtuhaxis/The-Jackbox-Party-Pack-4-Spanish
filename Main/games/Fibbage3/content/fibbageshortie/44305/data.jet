@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vice president,personal chef,designated driver,political opponent,piano teacher,jester,car pool buddy,nurse,dog walker,archery instructor,improv scene partner,college study buddy,intramural baseball teammate,bench press spotter,masseuse,Uber driver,defense attorney,math camp rommate",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Political Favors",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "seguidora de Twitter",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2012, el presidente venezolano Hugo Chávez le dio una casa nueva a una mujer de 19 años luego de que se convirtiera en su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "follower on Twitter,friend on Twitter,Twitter friend",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And if you follow me on Twitter, I’ll send you all my non-winning scratch-off tickets!",
+            "t": "A",
+            "v": "584405_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2012, Venezuelan president Hugo Chávez gave a 19 year old woman a new house after she became his <BLANK>.",
+            "t": "A",
+            "v": "584402_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

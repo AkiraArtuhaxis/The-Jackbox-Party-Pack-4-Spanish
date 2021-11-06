@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hair brush,spaceship cockpit,yellowtail sushi,box of high end toothpicks,jar of applesauce,cardboard box,pencil,beach ball,dog food bowl,deck of cards,lollipop,robot dog,cat tree,porcupine leash,piece of gum,$100 bill,Batman mask,set of vampire fangs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Too Much Money",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "helado sundae",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Considera visitar el restaurante Serendipity III de Nueva York, donde puedes comprar <BLANK> por mil dólares.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sundae,ice cream,ice cream sunday",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Or you could donate $1000 to charity... of course, I’m kidding.",
+            "t": "A",
+            "v": "665949_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Have a little throwin’ around money? Well, consider patronizing Serendipity 3 in New York, where you can buy a thousand dollar <BLANK>.",
+            "t": "A",
+            "v": "665946_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

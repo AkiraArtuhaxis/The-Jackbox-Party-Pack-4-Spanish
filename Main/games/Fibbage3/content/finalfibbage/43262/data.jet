@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pancakes|ketchup,dads|suits,feet|bells,chickens|hats,houses|trousers,cats|slippers,children|santa suits,boats|scarves,grandparents|baby clothes,horses|tutus,dogs|tuxedos,government officials|toeless socks,windows|wrapping paper,mothers|wedding dresses,police force|clown shoes,snakes|ties,postal carriers|radiation suits,cars|basketball jerseys",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Morning Rituals",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "burros|pijamas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los habitantes de la Isla de Ré, una isla remota frente a la costa de Francia, tienen una costumbre extraña: Cada mañana visten sus <BLANK> con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "donkeys|pjs,donkyes|pajama pants,donkeys|pajama trousers,donkies|pjs,donkies|pajama pants,donkies|pajama trousers,donkeys|pyjamas,donkeys|pyjama trousers,donkeys|pajama bottoms,donkeys|pyjama bottoms",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And it’s weird cause it’s in the morning! Donkeys should wear pajamas at bed time!",
+            "t": "A",
+            "v": "559598_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The people from Île de Ré, a remote island off the coast of France, have a weird custom: Each morning they dress their <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "559595_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

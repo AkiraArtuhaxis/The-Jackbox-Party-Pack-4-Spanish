@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pee in the ocean,get depressed while snorkeling,sweat too much,befriend dolphins,have tattoos,laugh too loudly,use selfie sticks,leave without paying for lunch,vape underwater,swim while pregnant,talk loudly and slowly to locals,yell at the coral,are stressed out,wear tacky shirts,don’t brush their teeth,try to get their groove back,sit in the exit row on the flight in,have beards",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Coral Reefs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "usan protector solar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio publicado en 2015 en <i>Contaminación ambiental y toxicología<\/i> determinó que los arrecifes de coral pueden verse dañados por turistas que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "use sunscreen,wear sun screen,use sun screen,use sun block,wear sun block,use sunblock,wear sunblock,wore sunscreen,wore sunblock,wore sun screen,wore sun block",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A 2015 study published in <i>Environmental Contamination and Toxicology<\/i> found that coral reefs could be damaged by tourists who <BLANK>.",
+            "t": "A",
+            "v": "651845_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

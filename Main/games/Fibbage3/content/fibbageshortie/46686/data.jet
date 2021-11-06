@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vinyl collection,tank top,“Get into Heaven” coupon book,World of Warcraft account,vacation photos,pet monkey,Super Bowl tickets,workout socks,wooden leg,brisket recipe,recliner,DNA,pope mobile,velcro shoes,pokemon card collection,Walgreens rewards card,beanie babies,Tom Hanks autograph collection",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Charity Auction",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Motocicleta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Papa Francisco recaudó 327 mil dólares para caridad en 2014 cuando subastó su/s <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Harley Davidson,motorcycle,bike",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The last shall be first and the first shall eat my dust (SFX: motorcycle revving)",
+            "t": "A",
+            "v": "648170_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Pope Francis raised $327,000 for charity in 2014 when he auctioned off his <BLANK>.",
+            "t": "A",
+            "v": "648167_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

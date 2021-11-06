@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "selfie sticks,E strings for guitars,busts of U.S. presidents,bottles of mustard,single socks,raw potatoes,beard softener,robot vacuums,phony driver’s licenses,4K televisions,hair ties,used sneakers,gravy,funnels,VR headsets,one man’s possessions,loose M&M’s,insulting fortunes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Vending Machines",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "autos de lujo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En diciembre de 2016, se instaló una máquina expendedora en Singapur que, extrañamente, solo vende <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "expensive cars,cars,luxury cars,car,expensive cars",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The annoying part is when your Lexus gets caught in the machine and you have to buy another one to get it to drop.",
+            "t": "A",
+            "v": "654371_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In December of 2016, a vending machine was installed in Singapore that strangely only sells <BLANK>.",
+            "t": "A",
+            "v": "654368_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

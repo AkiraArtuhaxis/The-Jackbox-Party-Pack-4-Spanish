@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Icees|Slushees,Coke|Pepsi,dogs|cats,Deep Impact|Armageddon,The Beatles|The Stones,biting your tongue|biting your cheek,men|women,orange juice|toothpaste,mars|venus,dorks|nerds,babies|old people,books|movies,The Simpsons|Family Guy,wells|water pipes,Police Academy|Airplane!,Bill Pullman|Bill Paxton,Mt. Dew|Mello Yello,Mario|Wario",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Comparisons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "manzanas|naranjas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El investigador de la NASA Scott A. Sandford publicó un estudio de 1995 que en broma comparaba <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "oranges|apples,apple|orange,orange|apple,an apple|an orange,an orange|an apple",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Who says astrophysicists can’t be hilarious?",
+            "t": "A",
+            "v": "603379_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]NASA researcher Scott A. Sandford published a tongue-in-cheek 1995 study that compared <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "603376_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bart,Brrrrr,Blah Blah Blah,Nombre,Gibberish,Rick,Steve,Yorg,Sven,Six,Linda,Bjorn,Elisabeth,Blessed,Boy,Kevin,Son,Bee",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Swedish Parents",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Albin",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una pareja sueca nombró a su hijo Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, el cual, afirman ellos que se pronunciaba simplemente como “<BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "allbin,al bin,albinn,alben",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I guess the RFXXCCXXM..PCCCCLLLMMMPRXCMCKSSQLBB11111 and 6 are silent.",
+            "t": "A",
+            "v": "320895_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Swedish couple named their son...this...which they claimed was pronounced simply “<BLANK>.”",
+            "t": "A",
+            "v": "320892_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

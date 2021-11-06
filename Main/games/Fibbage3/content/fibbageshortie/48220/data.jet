@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gone to karaoke,gotten drunk,starting dating,watched Law & Order,bathed,gotten haircuts,eaten pizza,made fun of the judge,showered together,shaved their heads,gone to a costume party,played volleyball,gone fishing,spent the night trapped in an elevator,gotten manicures,ordered a giant hoagie,taken an art class,all gotten food poisoning",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Retrial",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "usado una Ouija",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un caso de asesinato en el Reino Unido de 1994, el Tribunal de Apelación se vio obligado a solicitar un nuevo juicio después de saber que los jurados habían <BLANK> antes de emitir el veredicto.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "consulted a Ouija board,played with a Ouija board,used a wega board,used a weegi board,used a oiji board,used a ojo board,used a oija board,used a ooija board,used a oujij board,used a oueja board,used a wija board,used a ouijo board,used a weegee board,used a luigi board,used a quija board,used a weeger board,used a wedgie board,consulted a wega board,consulted a weegi board,consulted a oiji board,consulted a ojo board,consulted a oija board,consulted a ooija board,consulted a oujij board,consulted a oueja board,consulted a wija board,consulted a ouijo board,consulted a weegee board,consulted a luigi board,consulted a quija board,consulted a weeger board,consulted a wedgie board,played with a wega board,played with a weegi board,played with a oiji board,played with a ojo board,played with a oija board,played with a ooija board,played with a oujij board,played with a oueja board,played with a wija board,played with a ouijo board,played with a weegee board,played with a luigi board,played with a quija board,played with a weeger board,played with a wedgie board,asked the victim,asked the ghost,asked a ghost,contacted the victim,contacted a ghost,contacted the ghost",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yeah these people were dumb (quickly moving on) but hey, guess how many wrong ways to spell Ouija we had to account for in this question. It was a lot.",
+            "t": "A",
+            "v": "680878_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In a 1994 UK murder case, the Court of Appeal was forced to call for a retrial after learning that jurors had <BLANK> before delivering the verdict.",
+            "t": "A",
+            "v": "680875_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

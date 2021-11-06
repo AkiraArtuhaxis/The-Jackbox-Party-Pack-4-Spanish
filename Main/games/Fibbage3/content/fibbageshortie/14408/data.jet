@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vaca,Camión,Edificio,Danza,Enemiga,Agolpamiento,Presidenta,Diabla,Godzilla,Con un Tanque,Diarrea,Momia,Fantasma,De otro Señor,Thor,Árbol,Viaje en el Tiempo,Muñeco de Nieve",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Indian Soap Operas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hitler",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Del 2011 al 2013, había una telenovela en India con un título inusual que se traducía como <i>Hermana Mayor <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The last episode really went out with a bang.",
+            "t": "A",
+            "v": "320271_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]From 2011 to 2013, there was a soap opera in India with an unusual title that translated to <i>Big Sister <BLANK><\/i>.",
+            "t": "A",
+            "v": "320268_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

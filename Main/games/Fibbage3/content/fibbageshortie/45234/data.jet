@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "condom,loudmouth,shrinkage,impotence,sexy guys,castration,pregnancy,marriage,fast,diarrhea,an ugly person,eggs,flirting,manscaping,French kissing,studying,oral sex,being a bachelor",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Old English",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "crepúsculo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La palabra de inglés antiguo \"Cockshut\" significa simplemente \"<BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "evening,dusk",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I used to like the Cockshut books, but it was all down hill after Cockshut: New Moon.",
+            "t": "A",
+            "v": "609100_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]“Cockshut” is simply an Old English word meaning <BLANK>.",
+            "t": "A",
+            "v": "609097_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

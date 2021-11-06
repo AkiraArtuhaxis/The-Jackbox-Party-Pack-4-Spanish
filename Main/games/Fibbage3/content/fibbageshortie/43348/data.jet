@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "choking on candy,drinking too much tea,playing golf,falling through a manhole,singing “happy birthday”,going over a smaller waterfall,riding a bike,trying to catch an arrow,punching himself,shaking a vending machine,eating a walnut,licking a toad,swallowing a marble,eating expired meat,getting impaled by an icicle,wearing too tight pants,sleeping too much,locking himself in his car",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "death of a stuntman",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tropezar con una cáscara de naranja",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Bobby Leach, la segunda persona en sobrevivir a un viaje por las Cataratas del Niágara, terminó su vida de una manera mucho menos emocionante: murió después de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tripping on an orange,falling on an orange peel,tripping on an orange peal,tripping,slipping,slipping on an orange peel",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Banana peel would’ve been even funnier, but I’ll take it.",
+            "t": "A",
+            "v": "560988_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Bobby Leach, the second person to survive a trip over Niagara Falls, eventually met his demise in a much less exciting fashion: He died after <BLANK>.",
+            "t": "A",
+            "v": "560985_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

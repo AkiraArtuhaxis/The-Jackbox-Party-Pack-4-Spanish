@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hot critters,Fuego Freddies,flame throwers,Stinging Boyfriends,fire bugs,bitey mcbiteface,hot garbage,freedom ants,nasty ants,official worst ants,Li’l Devils,tiny visitors,creepy cherries,man’s best friend,Hell Babies,micro dogs,Atomic Crawleroos,tasty tots",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "important petitions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chicos picantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si quieres ayudarla a llegar a su objetivo de 150 mil firmas, ingresa a change.org y firma la petición titulada \"¡¡¡Renombren las Hormigas de Fuego a <BLANK>!!!\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "spicey boys,spicy boy,spicy boyz,spicey boyz",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Together we can make a difference.",
+            "t": "A",
+            "v": "561818_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you want to help it reach its goal of 150,000 signatures, log into change.org and sign the petition titled “Rename Fire Ants to <BLANK>!!!”",
+            "t": "A",
+            "v": "561815_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

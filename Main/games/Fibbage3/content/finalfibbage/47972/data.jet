@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "drank|beers,shouted|curse words,dumped|dead squirrels,burned|pairs of underwear,licked|stamps,smoked|cigars,waited|hours,signed|autographs,jumped rope|times,kicked|cans,baked|cookies,performed|spoken word rap songs,listed out|of his LinkedIn connections,followed|people on twitter,high fived|representatives,Talked down to|children,watched|youtube videos at full volume,knitted|blankets",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "civic dissent",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "liberó|chinches",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 2 de junio de 2017, un hombre de Augusta, Maine quería protestar en contra del gobierno de su municipio. Por lo tanto, <BLANK> cien <BLANK> dentro del ayuntamiento.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "let|bed bugs,unleashed|bed bugs,released|bed bugs,let|bedbugs,unleashed|bedbugs",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On June 2, 2017, a man in Augusta, Maine wanted to protest his town government. So, he <BLANK> one hundred <BLANK> inside city hall.",
+            "t": "A",
+            "v": "673922_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

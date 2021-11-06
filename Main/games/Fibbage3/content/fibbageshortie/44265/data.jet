@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eels,cold brew coffee,flashy hats,James Spader autographs,energy drinks,fancy pens to kids,expired soup,boneless chicken wings,retweets,Pepsi at protests,test answers,hope,hot dogs,rocks with googly eyes,bootleg Mountain Dew,unlicensed dentistry,their life story,scalped puppet show tickets",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Finland",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pizza barata",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, la policía finesa lanzó una extraña campaña en las redes sociales en la que pedía al público que reportara a cualquiera que vendiera <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pizza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The campaign was supposed to crack down on tax evasion, but everyone knows snitches don’t get slices.",
+            "t": "A",
+            "v": "583175_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, Finnish police started a strange social media campaign asking the public to report anyone selling <BLANK>.",
+            "t": "A",
+            "v": "583172_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

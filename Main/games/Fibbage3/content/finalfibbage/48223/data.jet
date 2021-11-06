@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hug|lonely librarians,eat|old donuts,wear|capes,shoot|crossbows,look at|old baseball cards,catch|ghosts,find|missing armor,tell|scary stories,research|recipes for gold,marry|puppets,exterminate|giant rats,listen to|condo sales pitches,roadtrip with|literary characters,dress as|vampires,smell|rare flowers,listen to|animal mating calls,scare off|bullies,watch|employees while they ate",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Support Your Library",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "traducir|hechizos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En julio de 2017, la biblioteca Newberry en Chicago tuvo un pedido de ayuda bastante extraño. Necesitaban gente para <BLANK> algunos <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "transcribe|magic spells,read|magic spells,read|spells,transcribe|spells,translate|spells,catalog|magic spells,catalog|spells,catalogue|magic spells,catalogue|spells",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They need help cataloging manuscripts full of old spells, which I’m sure is perfectly safe. (sfx: thunder) Hey, why’s the sky turning red?",
+            "t": "A",
+            "v": "680970_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In July of 2017, the Newberry Library in Chicago put out an unusual call for help. They needed people to <BLANK> some <BLANK>.",
+            "t": "A",
+            "v": "680967_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

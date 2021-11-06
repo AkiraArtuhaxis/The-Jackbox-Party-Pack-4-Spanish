@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "prosthetic noses,cars,dinosaur fossils,porcelain dolls,bunk beds,coffee pods,chicken nuggets,hats,waterbeds,island nations,Seinfeld DVDs,bottles of 5 hour energy,cans of RC Cola,beanie babies,cans of tuna,gummy bears,tubes of crescent rolls,sunglasses",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Johnny Depp",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "algodones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un comentario acerca de sus finanzas personales, Johnny Depp dijo \"Si quiero comprarme 15 mil <BLANK> al día es mi problema\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "balls of cotton,cotton",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I mean he does have a lot of bracelets to polish.",
+            "t": "A",
+            "v": "639780_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Commenting on his personal finances, Johnny Depp said “If I want to buy 15,000 <BLANK> a day, it’s my thing.”",
+            "t": "A",
+            "v": "639777_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

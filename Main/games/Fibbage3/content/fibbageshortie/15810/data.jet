@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Slave,Sister,Woman,receptionist,Worshipper,bartender,Floozy,demon slayer,Drunk,the bee’s knees,Nun,foundry worker,Nanny,magician,Good Girl,Jerk,Husband,burglar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Marriage Lessons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Viuda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Donald Rogers escribió un libro en los cincuenta llamado <i>Enséñale a tu esposa a ser una <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]His followup book was called “Don’t Give Your Wife the Key to the Gun Cabinet.”",
+            "t": "A",
+            "v": "349823_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Donald Rogers wrote a book in the ’50s called <i>Teach Your Wife To Be a <BLANK><\/i>.",
+            "t": "A",
+            "v": "349820_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

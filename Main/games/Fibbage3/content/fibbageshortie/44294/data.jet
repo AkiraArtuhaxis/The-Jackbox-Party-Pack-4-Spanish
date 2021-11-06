@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "four halfpence,a ghost,a pound of meat,an orphan,a bowtie,a sandwich,an opera mask,a brightly colored wig,a trombone,a bicycle,penicillin,a dead body,a turnip,an equally exotic animal,a gun,a rare diamond,your A-game,a funny hat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Exotic",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un perro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante el siglo XVIII, la admisión para ver los animales exóticos en la Ménagerie Real de Londres costaba 3 medio peniques. Pero podías pasar gratis simplemente llevando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dog,dogs,a cat,cats,cat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yeah, they fed dogs and cats to the lions. If you’re going today, just bring them a caserole or something.",
+            "t": "A",
+            "v": "584075_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During the 18th Century, admission to see the exotic animals at London’s Royal Menagerie was three halfpence. But you could avoid the charge if you simply brought <BLANK>.",
+            "t": "A",
+            "v": "584072_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

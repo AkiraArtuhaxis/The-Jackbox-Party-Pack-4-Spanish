@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eat|run,ride hard|wet,park|release,moan|groan,hit it|quit it,click it|lick it,get off|sleep,slide|explode,jam it|ram it,squat|get hot,drive|rub off,crash|go limp,rear end|run,grin|bear it,pull out|pray,flash|crash,sneak|peek,slam your brakes|choke your throttle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sexy South Dakota",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "te toques|conduces",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dakota del Sur tuvo que cancelar una campaña de seguridad pública debido a que la gente la leía como un eufemismo sexual. El mensaje en inglés sonaba como “No <BLANK> mientras <BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]South Dakota had to cancel a public safety campaign due to people reading it as a sexual euphemism. The message was “Don’t <BLANK> and <BLANK>.”",
+            "t": "A",
+            "v": "383495_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

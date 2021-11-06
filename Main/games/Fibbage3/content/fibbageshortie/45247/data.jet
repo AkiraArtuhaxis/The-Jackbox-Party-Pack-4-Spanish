@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "awful dancing,lactose intolerance,goldfish memory loss,rats with mono,female baldness,chimp ADHD,bad taste in music,picky eating,space madness,latex allergies,diabetes,halitosis,bad personalities,jimmy leg,a witch’s curse,stage fright,cancer in lizards,data overload",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Viagra",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el jet lag en hamsters",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un extraño estudio realizado en 2007 por un equipo de investigadores argentinos descubrió que, además de sus usos más populares, el Viagra también sirve para curar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "jet lag in hamsters,jetlag,hamster jetlag,jetlag in hamsters,jet lag",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And that’s why I gave some to Lil Chompers after our vacation. (sfx: horny hamster) There were...side effects.",
+            "t": "A",
+            "v": "609488_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A strange 2007 study by a team of Argentinian researchers found that, in addition to its more popular uses, Viagra can also cure <BLANK>.",
+            "t": "A",
+            "v": "609485_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

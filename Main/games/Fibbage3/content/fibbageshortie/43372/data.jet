@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pudding,vomit,snowboarding,small talk,toad licking,poetry,comic book,cutting,beer,squeezing,three stooges,binge watching,tickle,swallowing,baby talk,singing,Die Hard,dancing",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Alternative Medicine",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "palmadas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un terapeuta chino llamado Xiao Hongchi ofrece un costoso y doloroso tratamiento para la \"sangre envenenada\", conocido como \"terapia de <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "slapping,slaping,the slap",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]My mom was a big believer in this technique.",
+            "t": "A",
+            "v": "561588_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Chinese therapist named Xiao [“shou,” rhymes with “cow”] Hongchi performs an expensive yet painful treatment for “poisoned blood” known as “<BLANK> therapy.”",
+            "t": "A",
+            "v": "561585_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

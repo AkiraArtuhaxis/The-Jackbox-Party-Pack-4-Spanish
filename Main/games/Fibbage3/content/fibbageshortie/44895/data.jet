@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a come-hither glance,enough cash,a fart,aspartame,the learning channel,pictures of its mother,a man in an alligator costume,eyeshadow,freshly killed skunk,poetry,freezing temperatures,show tunes,hot wax,peanut butter,a puppet,James Earl Jones",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Music Notes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una tuba",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La vida era más sencilla en 2007. Teníamos suficiente tiempo libre para descubrir que se puede excitar a un lagarto con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "b flat,tuba,a b flat,the tuba",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]A b flat played on a tuba to be exact. Works for me too. (SFX: tuba) Oooooh there it is.",
+            "t": "A",
+            "v": "600281_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Life was simpler in 2007. Apparently, we had enough free time to discover you can arouse an alligator with <BLANK>.",
+            "t": "A",
+            "v": "600278_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

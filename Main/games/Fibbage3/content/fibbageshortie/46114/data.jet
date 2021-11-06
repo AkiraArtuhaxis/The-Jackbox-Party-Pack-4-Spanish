@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "horse stables,a Wendy’s,dumpsters,a landfill,a Best Western,a parking lot,a better state,a nursing home,your grandma’s house,your shortcomings,a post office,an alleyway,an abandoned Ikea,Joyce DeWitt’s house,a giant ant colony,the last Radio Shack,a dental school,all safety regulations",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Indianapolis",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el tráfico",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tom Battista es la mente maestra detrás de un parque escénico en Indianápolis en desarrollo. Lo extraño es que está diseñado para observar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "highway traffic,interstate traffic,cars",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s actually a beautiful site because you get to see people leaving Indianopolis.",
+            "t": "A",
+            "v": "635346_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Tom Battista is the mastermind behind an upcoming scenic park in Indianapolis. The weird part is it's designed to overlook <BLANK>.",
+            "t": "A",
+            "v": "635343_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

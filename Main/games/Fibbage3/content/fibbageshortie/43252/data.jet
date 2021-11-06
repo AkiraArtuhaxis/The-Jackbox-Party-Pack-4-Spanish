@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "3 pound hairball,painting of a murder,loufa sponge,dimensional portal,obscenely shaped faucet,drawing of aquaman,stone donkey,soap shark,cat sponge,100 year old blood stain,Game of Thrones sword,doggie door,Terminator robot,king cobra,king’s throne,basketball hoop,hockey stick,mini-bar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "shower finds",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mural de Mandy Moore",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando un grupo de neoyorkinos se mudó a su apartamento de Queens en 2017, descubrieron que su nueva ducha incluía un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mandy moore,mandi moore,mandy more,painting of mandy moore,mosaic of mandy moore",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When a group of New Yorkers moved into their Queens apartment in 2017, they discovered their new shower included a <BLANK>.",
+            "t": "A",
+            "v": "559345_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

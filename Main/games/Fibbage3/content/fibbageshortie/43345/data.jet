@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "love in the streets,huge bonfires,poop cakes,pottery,imaginary friends,respectful banners,ugly children,mean greeting cards,bad art,babies hold signs,horses dress like cows,mountains out of trash,breakfast for everyone,bubbles in fountains,candles that smell like pee,insulting paintings,really bad jokes,lewd puppets",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Miracles",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "muñecos de nieve pornográficos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Milagro de 1511 fue un festival en Bruselas, Bélgica donde los ciudadanos mostraron su descontento con el gobierno al hacer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "snowmen,snowpeople,twisted snowmen,naked snowmen,lewd snowmen,dirty snowmen",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Don’t ask where they stuck the carrot.",
+            "t": "A",
+            "v": "560913_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Miracle of 1511 was a festival in Brussels, Belgium where the citizens displayed their displeasure with the government by making <BLANK>.",
+            "t": "A",
+            "v": "560910_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

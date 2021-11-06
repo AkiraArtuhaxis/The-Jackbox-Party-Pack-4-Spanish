@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cosplay,prostitutes,beer,improv classes,marijuana,Packers games,Game of Thrones,pornography,Magic the Gathering,cheese curds,fishing,Wheel of Fortune,Angry Birds,Cheetos,labradoodles,a dominatrix,public cursing,public nudity",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Therapy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un canguro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Va a ser difícil para los discapacitados en Beaver Dam, Wisconsin. A partir de 2015, ya no puedes pedir <BLANK> como ayuda terapéutica.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "kangaroos,kangaroo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]C’mon! They’re great listeners AND they have a special pouch for anti-depressants.",
+            "t": "A",
+            "v": "420640_9",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Tough break for the disabled in Beaver Dam, Wisconsin. As of 2015, you can no longer claim <BLANK> as a therapeutic aid.",
+            "t": "A",
+            "v": "420637_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

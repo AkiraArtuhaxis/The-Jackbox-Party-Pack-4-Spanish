@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Al K. Pone,Brad,Professor Horatio Huffnagel,Prescott Livington,Brother Wright,Ascot McHero,Carmichael Bicycle,Sebasatian Turner,The Contraptionator,The Misanthrope,Billy Q. Awesome,The Gentleman,T.C. Nology,Sir Flyingman,H.G. Whales,The Hipster,Dum Dum Dugan,Orville Wrong",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Villain Gimmicks",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Turner D. Century",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hay un villano de Marvel Comics que lleva ropa de los años 1900 y monta una bicicleta tándem voladora junto a un maniquí femenino de igual vestimenta. Su nombre es, por supuesto, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Turner D Century",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]In Brooklyn, he blends right in.",
+            "t": "A",
+            "v": "561338_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]There’s a Marvel Comics villain who wears clothes from the 1900s and rides a flying tandem bicycle with a similarly dressed female mannequin. His name, of course, is <BLANK>.",
+            "t": "A",
+            "v": "561335_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

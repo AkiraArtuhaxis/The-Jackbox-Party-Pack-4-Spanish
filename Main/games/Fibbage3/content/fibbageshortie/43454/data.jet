@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dump truck,game show,cow,large pizza,roll of bubble wrap,volcano,large picture of Boris Johnson,haunted train,white castle,spaceship,construction site,dare,jet ski,leap year,pizza hut roof,active fault line,dinosaur,web cam",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "free wedding",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "megabus",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Perdiste la oportunidad de participar en los sorteos de “Cásate conmigo en un <BLANK>” de 2017.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mega bus,bus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The upper-decker of weddings.",
+            "t": "A",
+            "v": "562608_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Sorry, but you missed your chance to enter the 2017 “Marry Me on a <BLANK>” sweepstakes.",
+            "t": "A",
+            "v": "562605_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

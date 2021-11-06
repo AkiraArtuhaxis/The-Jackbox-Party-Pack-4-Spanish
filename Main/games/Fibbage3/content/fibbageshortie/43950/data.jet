@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "A neon sign,A showgirl,Dry ice,A space shuttle,Car fumes,A cactus,Rattlesnake venom,Mustard gas,the sun,A flamethrower,A fire swallower’s breath,friction,Fireworks,A cannon,his mind,a laser,a volcano,the Earth’s magnetic field",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cigarette History",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Una bomba nuclear",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1952, Ted Taylor de Nevada, Estados Unidos se convirtió en la primera persona en encender un cigarrillo con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a nuke,a nuclear device",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]When asked for comment Ted declined, cited his lack of a face.",
+            "t": "A",
+            "v": "574023_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1952, Ted Taylor of Nevada became the first person to light a cigarette with <BLANK>.",
+            "t": "A",
+            "v": "574020_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

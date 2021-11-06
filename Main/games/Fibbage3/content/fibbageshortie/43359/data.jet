@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "used condoms,their own vomit,a whale penis,a shark’s mouth,nuclear waste,lobster cages,discarded pornography,human remains,dead dolphins,litter,volcano vents,frozen glaciers,old toilets,sand castles,larger pearlfish,dolphin intestines,sewer pipes,Slurpee machines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sea Real Estate",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el trasero de un pepino de mar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Muchos peces perleros hacen sus hogares dentro de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sea cucumber’s butt,the butt of a sea cucumber,a sea cucumber’s ass,the ass of a sea cucumber",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The worst part? There’s only one bathroom.",
+            "t": "A",
+            "v": "561263_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Think your apartment sucks? Many pearlfish make their homes inside <BLANK>.",
+            "t": "A",
+            "v": "561260_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

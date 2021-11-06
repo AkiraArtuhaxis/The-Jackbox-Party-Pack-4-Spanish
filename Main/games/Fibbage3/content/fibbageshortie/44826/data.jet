@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "organ donor,cadaver,cyborg,pink eye,werewolf,Virgin Mary,sausage-scented,grave digger,Meredith Viera,self-immolation,retired,Anjelica Huston,battle scarred,dystopian future,generalized anxiety,irritable bowel syndrome,vomiting,Wolverine",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Barbie",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Angela Merkel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la sexagésima Feria Internacional del Juguete de Núremberg, Mattel presentó una particular variante de un juguete clásico: la Barbie edición especial de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Angella Merkel,Chancellor of Germany",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The only higher honor than being Chancellor of Germany, is being a Chancellor of Germany Barbie.",
+            "t": "A",
+            "v": "598393_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]At the 60th annual international toy fair in Nuremberg, Mattel presented an odd variant of a classic toy: the special edition <BLANK> Barbie.",
+            "t": "A",
+            "v": "598390_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

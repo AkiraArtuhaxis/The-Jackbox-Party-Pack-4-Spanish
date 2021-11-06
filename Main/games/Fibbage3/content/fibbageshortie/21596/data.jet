@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dress like a hippo,love to lick toes,train camels,operate on brains,study dead languages,refuse to grow up,visit a psychic,eat spoiled foods,refuse to bathe,avoid sex,eat boogers,talk to the dead,obsessively clean everything,only eat tree bark,drink blood,pierce your privates,believe in Greek gods,eat termites",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Definitions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comes carne de caballo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Te consideras \"hipófago\"? Lo eres si <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "eat horses,eat horse",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I can’t eat horse meat. Gives me the trots.",
+            "t": "A",
+            "v": "409003_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Do you engage in “hippophagy”? You do if you <BLANK>.",
+            "t": "A",
+            "v": "409000_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

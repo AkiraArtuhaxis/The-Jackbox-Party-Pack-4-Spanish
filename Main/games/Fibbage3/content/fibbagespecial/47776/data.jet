@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "massage,hanukkah gift,acting lesson,banana bread recipe,script,compliment,Valentine’s Day present,apple pie,soccer pass,bowl of chicken noodle soup,mixtape,tweet,pizza delivery,santa hat,yoga class,prank call,press release,home loan",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mall Santas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "consejo de vida",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Olivia Wilde tuiteó: \"Fuera de broma el mejor <BLANK> que he recibido fue de un Santa de centro comercial\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "12:12 AM<br />13 Dec 2016",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "@oliviawilde",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "advice",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]CELEBRITY TWEET! In December 2016, Olivia Wilde tweeted “No joke the best <BLANK> I ever received was from a mall Santa.”",
+            "t": "A",
+            "v": "667974_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "John Lennon,Calvin & Hobbes,George Carlin,Park Rangers,exterminators who died in the line of duty,the original voice of Scooby Doo,his pet stag beetle,Scatman Crothers,Marilyn Monroe,Airplane II: The Sequel,The Rolling Stones,hand-drawn animation,his wife Beatrice,the Defibrillator from Fibbage 2,Princess Di,planet earth,Frankenstein’s monster,General Patton",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Homemade Statues",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los bichos muertos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1975, el escultor japonés Yoneji Inamura hizo una estatua con 20 mil insectos muertos como memorial en homenaje a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "bugs,insects,dead insects",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He made the memorial to honor the bugs who died for a PREVIOUS dead bug statue he made. See, now it makes sense.",
+            "t": "A",
+            "v": "646380_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1975, Japanese sculptor Yoneji Inamura made a statue out of 20,000 dead bugs as a memorial honoring <BLANK>.",
+            "t": "A",
+            "v": "646377_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

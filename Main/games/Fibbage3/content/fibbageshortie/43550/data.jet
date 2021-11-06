@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a Calgary flames jersey,a shirt as pants,a hazmat suit,exactly two too many pairs of sunglasses,a bunch of mirrors,a jacket made of daisies,an “i’m speeding” shirt,white after Labor Day,a cop uniform,a rival soccer jersey,fingerless gloves,a vest of hot dogs,denim on denim,a radar reflective shirt,a sideways hat,a gorilla costume,a suit of armour,a Viking helmet",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "edmonton police",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un hurón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer en Edmonton fue multada en 2017 después de que fuera observada conduciendo mientras llevaba puesto <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ferret,ferrets",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Guess she couldn’t weasel out of that one.",
+            "t": "A",
+            "v": "565021_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A woman in Edmonton was issued a ticket in 2017 after she was caught driving while wearing <BLANK>.",
+            "t": "A",
+            "v": "565018_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "skin|turn inside out,eyes|leak sugar,wings|grow eyes,babies|sing,stingers|double in size,nests|catch fire,queens|eat the males,males|become paranoid,food|taste weird,legs|explode,brains|melt,mouths|turn inside out,antennae|spin wildly,cooking|get better,eggs|taste like chocolate,mating clicks|sound like salsa music,poetry|reveal too much,feelers|shoot electricity",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cicadas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "traseros|caigan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hongo conocido como <i>Massospora cicadina<\/i> tiene un efecto bizarro en las cigarras. Hace que sus <BLANK> se <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "butt|fall off,butts|disappear,butt|disappear",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I hate to see any butt go to waste",
+            "t": "A",
+            "v": "657419_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A fungus known as Massospora cicadina has a bizarre effect on cicadas. It causes their <BLANK> to <BLANK>.",
+            "t": "A",
+            "v": "657416_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

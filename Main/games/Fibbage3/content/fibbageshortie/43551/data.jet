@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "whiskey,hard drugs,hyperventilating bags,crumpets,guns,airline tickets,zoloft,video games,knight’s armour,shields,kleenex,Guinness,bibles,fish and chips,recording devices,fake passports,punching bags,porn",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "trump science",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelotas antiestrés",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de que el presidente Trump asumiera la presidencia, los científicos de las Entidades de Investigación del Reino Unido decidieron enviar a sus colegas estadounidenses <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "squeeze balls,stress relievers",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They were going to buy their own but it would’ve drained their budget.",
+            "t": "A",
+            "v": "565046_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]After President Trump took office, scientists at the Research Councils UK decided to send their U.S. colleagues <BLANK>.",
+            "t": "A",
+            "v": "565043_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tug of war,cat shaving competition,scrabble game,cow costume-a-thon,flash mob,Star Wars marathon,roast of Australia,nap,bake off,toast to freedom,garage sale,volleyball tournament,Smash Mouth listening party,star gazing,ribbon dance,puppet show,beauty pageant,rubber duck race",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tradition",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Santa secreto",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desde que Sam Elton-Walter inició la tradición en 2010, miles de neozelandeses han participado en un <BLANK> anual por toda la nación.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "gift exchange",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Which in turn started another tradition: the nationwide regifting the thing you got last year.",
+            "t": "A",
+            "v": "585125_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Since the tradition was started by Sam Elton-Walter in 2010, thousands of New Zealanders have participated in an annual nationwide <BLANK>.",
+            "t": "A",
+            "v": "585122_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "straws,radios,breath fresheners,flashlights,floss dispensers,tasers,pistols,soap dispensers,phone chargers,appetite suppressants,bug repellent,Axe Body Sprayers,screwdrivers,vampire fangs,whistles,tongue scrapers,pain killers,nail clippers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fun with Dentistry",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "abrebotellas de cerveza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La agencia publicitaria Ogilvy & Mather le dio a un grupo de jugadores de rugby argentinos unos implantes dentales especiales que también funcionan como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "bottle openers,beer openers,beer bottle opener,beer bttle openers,beer bottle opuners,beer bottle openurs,beer-bottle openers,beer bottle-openers",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Advertising agency Ogilvy & Mather gave a group of Argentinian rugby players special dental implants that also double as <BLANK>.",
+            "t": "A",
+            "v": "405964_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

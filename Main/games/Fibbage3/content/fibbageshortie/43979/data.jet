@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Puppy,Chocolate,Baby,Apples Jacks,Cheerio,Happy Camper,Smiling,Discount,Diaper,Gerbil,Cabbage Head,Kitten,Flower,Perfume,Suppository,Tube Sock,Dandy,Napkin",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mobster Nicknames",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Alcachofa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El mafioso californiano Ciro Terranova causó terror a principios del siglo XX, pero probablemente no te intimidaría si supieras que su apodo era El Rey <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Artechoke,Artachoke",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s the most adorable mob nickname that has the word “choke” in it.",
+            "t": "A",
+            "v": "574868_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]California mobster Ciro Terranova was a terror in the early 1900s, but you probably wouldn’t be intimidated if you knew his nickname was The <BLANK> King.",
+            "t": "A",
+            "v": "574865_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

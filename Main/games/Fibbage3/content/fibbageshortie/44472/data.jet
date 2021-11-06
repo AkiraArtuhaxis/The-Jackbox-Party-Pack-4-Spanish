@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "The Bible,The Young and the Restless,a KFC ad campaign,Bozo the Clown,The Encyclopedia,The Sane Mime Group,Moby Dick,Eat Pray Love,The Great Gatsby,Jerry Seinfeld’s memoirs,a cereal box,The Simpsons,IT,Barnum & Bailey,Grey’s Anatomy,The Magna Carta,JAG,Pee Wee’s Big Adventure",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Judicial Juggalos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sopa de Pollo para el Alma",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La banda Insane Clown Posse fue demandada en 2017 por supuestamente plagiar a <i><BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Chicken Soup for the Sole,Chicken Soup",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The band Insane Clown Posse was sued in 2017 for allegedly plagiarizing from <BLANK>.",
+            "t": "A",
+            "v": "589077_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "our flat Earth,a narwhal’s horn,a soda can,a human’s hearing range,seventeen,the pope’s hat,an eyeball,a meatball,sanity,an orange,a football field,a pie,the known universe,a snare drum,a roller rink,a hockey skate,an iPhone,a tennis ball",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Edge",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "corteza de pizza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Probablemente lo llames de otra manera, pero el término \"cornicione\" se refiere al borde exterior de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pizza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]So remember if you want to sound simultaneously pretentious and like a 5 year, say “I don’t eat the cornicione.”",
+            "t": "A",
+            "v": "593150_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]You probably call it something else, but the term “cornicione” refers to the outer edge of <BLANK>.",
+            "t": "A",
+            "v": "593147_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

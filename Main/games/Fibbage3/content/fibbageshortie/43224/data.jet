@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mosh pits,rats,punks,high liquor prices,improv comedy,fake cocaine,escaped bees,a drinking monkey,Madonna,rude bartenders,Mr. T,surprise orgies,chlamydia,flavored vodka,people with sword canes,Eddie Murphy’s entourage,ninjas,jean jackets",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "undercover cops",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Andre el Gigante",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A mediados de la década de 1980, el NYPD envió un policía especial encubierto a los bares locales para proteger a la gente de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He was over 500 pounds and had a reputation for accidentally falling on people when he got tipsy.",
+            "t": "A",
+            "v": "558623_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the mid-1980s, the NYPD dispatched a special undercover cop to local bars to protect people from <BLANK>.",
+            "t": "A",
+            "v": "558620_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

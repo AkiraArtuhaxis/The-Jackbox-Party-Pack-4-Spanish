@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Game of Thrones,Elvis,cyclops,cactus,frog pond,Quizno’s,pudding,dumpster,Fraggle Rock,mannequin,dentist,ice cube,accountant,Illuminati,Candy Land,surgery,submarine,phone booth",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Borrowed Beds",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "payasos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando pases por Tonopah, Nevada, asegurate de quedarte en el único hotel temático de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "clowns,circus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s fun, but you have to squeeze into your room with 300 other people.",
+            "t": "A",
+            "v": "559623_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When in Tonopah, Nevada, be sure to stay at the unique <BLANK>-themed motel.",
+            "t": "A",
+            "v": "559620_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

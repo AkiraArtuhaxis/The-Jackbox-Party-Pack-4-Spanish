@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "man|bathtub,sandwich|well,mailman|phone booth,dog|larger dog,magician|bikini,hermit|cave,clown|burka,chimp|spacesuit,puppy|basket,Dan Rather impersonator|prom dress,baby|tracksuit,dictator|coma,monkey|tuxedo,gorilla|miniskirt,tiger|cage,flower|vat of liquid nitrogen,construction worker|wheelbarrow,baby|crib",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Miss America Misses",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "marioneta|silla de ruedas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante el Concurso Miss America de 1995, el talento de Miss Colorado fue cantar “Can You Feel the Love Tonight?” a una <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "doll|wheelchair,puppet|wheel chair,doll|wheel chair",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was... not well recieved.",
+            "t": "A",
+            "v": "329126_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During the 1995 Miss America Pageant, Miss Colorado’s talent was singing “Can You Feel the Love Tonight” to a <BLANK> in a <BLANK>.",
+            "t": "A",
+            "v": "329123_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

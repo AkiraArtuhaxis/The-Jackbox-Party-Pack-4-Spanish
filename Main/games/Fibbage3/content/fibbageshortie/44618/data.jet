@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "service dog,Dell PC,peg leg,cold dead hands,catheter,mind’s eye,sousaphone,fake pregnant belly,larger gun,NRA fanny pack,Jell-O mold,fake butt,stuffed deer head,defibrillator,coffin,Santa costume,cooked turkey,My Little Pony backpack",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "TSA",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "títere",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 3 de diciembre de 2013, la Administración de Seguridad en el Transporte en San Luis, Misuri confiscó una pistola del/de la <BLANK> de un pasajero.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "puppet",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The puppet, had a small toy pistol... and a huge chip on his shoulder.",
+            "t": "A",
+            "v": "592671_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On December 3, 2013, TSA in St. Louis confiscated a gun from a passenger’s <BLANK>.",
+            "t": "A",
+            "v": "592668_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

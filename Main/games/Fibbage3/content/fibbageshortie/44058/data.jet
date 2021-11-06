@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gnome,Statue of the Queen,sandwich shop,Ice Cream Stand,school,Whale,Pet Shop,Hotel Room,Coffee Shop,Dance Hall,Apartment,Bowling Alley,Badger,Trousers,Hedge,Scone,Parliamentarian,Light Bulb",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Little Britain",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Estación de policía",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la plaza de Trafalgar en Londres, hay un ornamento de luz que oculta a la <BLANK> más pequeña de Gran Bretaña.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And inside that is Britain’s Smallest Mouse Detective. I assume.",
+            "t": "A",
+            "v": "577106_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In London’s Trafalgar Square, there’s an ornamental light fixture that hides Britain’s Smallest <BLANK>.",
+            "t": "A",
+            "v": "577103_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

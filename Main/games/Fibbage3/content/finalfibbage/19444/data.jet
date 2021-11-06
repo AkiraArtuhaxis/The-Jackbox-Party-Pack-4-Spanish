@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "kittens|his garden,chocolate|popcorn,syrup|his tea,coke|pepsi,a banana|a tailpipe,extra snacks|his backpack,a TV|the bedroom,a heater|the sauna,his children|timeout,toothpaste|his pocket,a coffee pot|his bedroom,floaties|his pool,trash|the fireplace,sugar|coffee,a hornet’s nest|Enrico Fermi’s car,peanut butter|his smoothie,a toaster|his car,bread|the oven",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "solid ideas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un huevo|una sopa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Albert Einstein afirmó una vez que su segunda idea más grande después de la teoría de la relatividad era poner <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "eggs|soup,soup|eggs,soup|an egg,an egg|his soup",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Albert Einstein once claimed that his second greatest idea after the theory of relativity was to put <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "386045_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

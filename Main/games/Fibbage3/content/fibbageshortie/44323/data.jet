@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "newspapers,wisdom,mammoth jerky,loaves of bread,corn nuts,popcorn,coffee,AOL discs,horoscopes,Liquorice gum,lizards,medical degrees,candles,bug spray,milk,train tickets,llama food,Stephen King novels",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Exact Change",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "agua bendita",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La primera máquina expendedora del mundo dispensaba <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was installed at a Greek temple in the first century. And if you tried to tip it over, you’d probably get smited...smote...smitten?",
+            "t": "A",
+            "v": "584945_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The world’s first vending machine dispensed <BLANK>.",
+            "t": "A",
+            "v": "584942_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

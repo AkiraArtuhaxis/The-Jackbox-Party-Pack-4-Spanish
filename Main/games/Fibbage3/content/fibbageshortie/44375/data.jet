@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "public executioner,sniper,pro wrestler,assassin,pimp,Betty White impersonator,seal clubber,prison guard,bodyguard,grave digger,puppeteer,crab fisherman,bootlegger,nuclear physicist,erotic sculptor,jazz musician,bird watcher,hot air balloonist",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bea Arthur",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La Marina",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Aunque no le gusta hablar al respecto, Bea Arthur, la estrella de <i>Los años dorados<\/i>, paso más de dos años de sus 20 en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "US Marine,U.S. Marine,member of the marines",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She typed, drove trucks, and even made staff sergeant. Take that, Betty White!",
+            "t": "A",
+            "v": "586534_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Though she didn’t like talking about it, <i>Golden Girls<\/i> star Bea Arthur spent over two years of her 20s as a <BLANK>.",
+            "t": "A",
+            "v": "586531_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

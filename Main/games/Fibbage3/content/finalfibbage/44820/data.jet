@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Madonna|Britney Spears,Elvis Presley|John Lennon,Leonard Nimoy|The Easter Bunny,Mario|Wario,Joan of Arc|Mary Magdelene,Judas|Jesus,Bill Clinton|George Bush,Santa Claus|Satan,Steve Coogan|Rob Brydon,Quentin Tarantino|Cthulhu,Houdini|Richard Nixon,The Ghostbusters|Beetlejuice,Tony Robbins|a small orange,Katy Perry|Abraham Lincoln,Beyonce|Becky,Taylor Swift|Steven Spielberg,Eminem|Andy Warhol,Sting|the guy from Big Bang Theory",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Anime",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Jesús|Buda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A-1 Pictures produjo una película en 2013 basada en un popular manga japonés que incluye a <BLANK> y <BLANK> viviendo juntos como compañeros de cuarto en Tokio.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Buddha|Jesus,Jesus|Budda,Budda|Jesus,Buda|Jesus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They’re just a couple of wild and holy guys!",
+            "t": "A",
+            "v": "598213_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A-1 Pictures produced a 2013 movie based on a popular Japanese manga that features the unlikely pairing of <BLANK> and <BLANK> living together as roommates in Tokyo.",
+            "t": "A",
+            "v": "598210_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "having sex,getting temporary tattoos,breakdancing,drinking gin,corpse tampering,gambling,setting off fireworks,doing improv comedy,farting,selling beer,having rap battles,ghost hunting,sledding,undressing,rollerbalding,playing with the dead,playing rpg games,singing ABBA",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "grieving grievances",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tomen selfies",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los directores funerarios de Quebec se enfrentan a un extraño desafío: están intentando evitar que las personas <BLANK> durante los servicios.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "taking funeral selfies,taking pictures of themselves,taking pictures,taking photos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If this day isn’t about you then I don’t know what is.",
+            "t": "A",
+            "v": "563783_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Funeral directors in Quebec are facing an odd challenge: They’re trying to stop people from <BLANK> during services.",
+            "t": "A",
+            "v": "563780_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

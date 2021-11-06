@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gross,Smells like Freedom,JK,LOL,Yum!,Oh no!,Weird bug I saw,Kow,Moo,I want,Tilda,Johnny,So arrogant,I love dogs!,Cute,I’ve seen better,Milk is good to drink,his name is Mootha Stewart",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Comentario bovino",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "L",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Martha Stewart tuiteó una imagen de una vaca y escribió: “<BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "10:06 AM<br />5 May 2014",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "@MarthaStewart",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "l",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "643592_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If you don’t get Martha, that’s on you.",
+            "t": "A",
+            "v": "643590_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]CELEBRITY TWEET! In May 2014, Martha Stewart Tweeted a picture of a cow and wrote: <BLANK>.",
+            "t": "A",
+            "v": "643587_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

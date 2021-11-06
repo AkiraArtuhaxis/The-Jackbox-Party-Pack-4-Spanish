@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "death,getting listed as a sex offender,a kegger thrown in your honor,being the Police Chief’s butler,waterboarding,a Shia LaBeouf marathon,getting force-fed a whole goose,paying for the cops’ bar tabs,a butthole waxing,10 years in the salt mines,driving taxis pro bono,getting an “I’m Dumb” tattoo,eating candy corn,being thrown to the police dogs,babysitting Gretchen,a purple nurple,getting stabbed once,a disapproving look",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cruel & Unusual",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "escuchar canciones de Nickelback",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El departamento de policía de Kensington, Canadá se disculpó públicamente en 2016 por su anuncio de que el nuevo castigo por conducir bajo la influencia sería <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Nickelback",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They apologized because a more current music reference would have been The Chainsmokers.",
+            "t": "A",
+            "v": "648830_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The police department of the Canadian town of Kensington publicly apologized for their 2016 announcement that the new punishment for driving drunk would be <BLANK>.",
+            "t": "A",
+            "v": "648827_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

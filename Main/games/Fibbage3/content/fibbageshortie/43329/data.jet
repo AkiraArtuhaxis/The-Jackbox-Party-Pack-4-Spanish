@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dog bites,cat scratches,unwanted bulges,hot laptops,urination,paddles,smelly farts,snakes,pickpockets,humiliation,saggy bottom,perverts,water,ferrets,sunburn,getting crabs,dead phone batteries,pooping their pants",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "In Brief",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "radiación inalámbrica",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si eres un posible comprador de calzoncillos masculinos, una compañía llamada Spartan diseña su ropa interior para protejer a su portador de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "WiFi and cellphone radiation,wifi,wifi radiation,radiation,cellphone radiation,cellphones,cell phones,cell phone radiation,phone radiation,smartphone radiation,smartphones,smart phone radiation,cellphone and wifi radiation",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I tried a pair, but my penis kept missing important texts messages.",
+            "t": "A",
+            "v": "560438_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you’re in the market for men’s briefs, a company called Spartan designs its drawers to protect the wearer from <BLANK>.",
+            "t": "A",
+            "v": "560435_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

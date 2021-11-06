@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "free slice of pie,call,bath,shower,big whiff,nap,wolf,rifle,loaf of bread,book,dive,cookie,bike ride,sip of water,breath,boar,soup,sled",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bold Pleasure",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caminar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El viejo refrán ruso equivalente a \"Negocios antes que placer\" es \"Cuando hayas hecho el trabajo, puedes tomar un audaz <BLANK>.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "diversión",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "564448_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Nothing like a good, bold walk.",
+            "t": "A",
+            "v": "564446_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The old Russian saying that’s equivalent to “Business before pleasure” is “When you have done the job, you may take a <BLANK> boldly.”",
+            "t": "A",
+            "v": "564443_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

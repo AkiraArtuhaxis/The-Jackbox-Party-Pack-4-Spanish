@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "flamethrower,samurai sword,magician’s wand,Gameboy,yo-yo,boomerang,bucket of candy,robot sidekick,“Hug Me” sign,catcher’s mitt,laser pointer,machete,ghost partner,roll of quarters,Super Soaker,magic amulet,utility belt,surface-to-air missle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Police Equipment",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "muñeco de ventriloquía",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El policía de San Francisco Bob Geary tuvo que conseguir un permiso oficial de los votantes de la ciudad para llevar un <BLANK> mientras estaba en servicio.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dummy,puppet,vent figure,ventriloquist dummy,ventriloquist dummie",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He could read you your Miranda rights and never move his lips",
+            "t": "A",
+            "v": "385232_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]San Francisco policeman Bob Geary had to get special permission from city voters to carry a <BLANK> while on duty.",
+            "t": "A",
+            "v": "385229_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

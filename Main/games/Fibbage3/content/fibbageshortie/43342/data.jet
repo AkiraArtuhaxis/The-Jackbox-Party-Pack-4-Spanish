@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "his sperm,Bible verses,his big toe,poison,a stick of dynamite,knives,a baby bald eagle,chocolate money,a stolen painting,Monopoly money,counterfeit gold,marijuana,plans for Fort Knox,stolen watches,plutonium,fake sunglasses,the Magna Carta,guns",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "For Your Trouble",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un diazepam",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un cliente del Casino Sands en Pennsylvania fue detenido después de darle propina a un empleado. Esto se debe a que en lugar de dinero en efectivo o fichas, le dio <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "valium,valium pill,a valium pill,her valium,some valium",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Speaking of which, I also accept tips if anyone’s holding...",
+            "t": "A",
+            "v": "560813_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A customer of the Sands Casino in Pennsylvania was arrested after tipping an employee. That’s because instead of cash or chips, he gave out <BLANK>.",
+            "t": "A",
+            "v": "560810_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

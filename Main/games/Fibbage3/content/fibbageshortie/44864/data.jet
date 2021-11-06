@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "“The Game”,a therapist,a pep talk,a flashy fedora,highlights,kissing lessons,a personal trainer,a butt massage,a tray of oysters,a pink wig,a keg of beer,a nudie magazine,Barry White music,Viagra,yoga lessons,3D glasses,Calvin Klein cologne,Mt. Dew",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Rhinos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un perfil de Tinder",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un intento de conseguir que se apareara, se le dio <BLANK> a un rinoceronte blanco de Kenia llamado Sudán.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a Tinder account,Tinder,a dating profile,access to Tinder",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s to raise money for a fertility treatment. And to catfish lonely hippos.",
+            "t": "A",
+            "v": "599547_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an attempt to get it to mate, a Kenyan white rhino named Sudan was given <BLANK>.",
+            "t": "A",
+            "v": "599544_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

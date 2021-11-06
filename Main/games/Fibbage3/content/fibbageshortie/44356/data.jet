@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Scream in German,laugh non-stop,start fires,denounce God,Self-flagellate,shake for six straight days,Sleep walk,breakdance,Kiss each other,wear shorter dresses,bake rocks,stop blinking,whisper,cry for months,enter showbiz,join the army,go vegan,build nests",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Nun Trouble",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Maullar como gatos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la Edad Media, una misteriosa aflicción apareció en un convento francés, que hizo que todas las monjas comenzaran a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Meow,Mew,act like cats,think they were cats",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]In the name of the Father, the Son, and the Holy Cat. Meow.",
+            "t": "A",
+            "v": "585964_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the Middle Ages, a mysterious affliction struck a French convent, causing all of the nuns to <BLANK>.",
+            "t": "A",
+            "v": "585961_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

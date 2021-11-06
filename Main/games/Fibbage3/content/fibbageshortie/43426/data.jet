@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cocaine,Austrian gold,counterfeit money,lice,frogs,the prime minister of Canada,diamonds,apple sauce,fur coats,his half brother,a French spy,illegal fireworks,the Declaration of Independence,Cuban rum,a buffalo,Babe Ruth,Superman comics,a Picasso painting",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Presidential scandal!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un árbol de Navidad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1902, el hijo del ex-presidente estadounidense Roosevelt, Archie, tenía un gran secreto: había entrado <BLANK> como contrabando en la Casa Blanca.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Roosevelt wasn’t a fan of the tradition, but his son taught him the true meaning of Christmas: killing trees.",
+            "t": "A",
+            "v": "562312_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1902, Teddy Roosevelt’s son Archie had a big secret: He’d smuggled <BLANK> into the White House.",
+            "t": "A",
+            "v": "562309_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

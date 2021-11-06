@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "harboring fugitives,moving to Ohio,the world’s ugliest museum,moving to a cave,hiring children,out of power,lying about coal,destroyed in a cave-in,out of canaries,bought by KFC,becoming a Pizza Hut,against Kentucky basketball,funded by Al Gore,legally a person,running for governor,a mob front,a really good Pokemon gym,adding a drive-thru gift shop",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Museum Surprises",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "utilizar energía solar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los residentes de Kentucky se sorprendieron en 2017 por la noticia de que el Museo de Carbón de Kentucky comenzaría a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "going solar,switching to solar,using solar power,powered by solar,powered by the sun,not powered by coal,not coal-powered",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They’re saving a bundle on all the canaries they used to go through.",
+            "t": "A",
+            "v": "583115_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Residents of Harlan County, KY were surprised in 2017 by news that the Kentucky Coal Mining Museum was <BLANK>.",
+            "t": "A",
+            "v": "583112_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bad Boys,Time Travelers,Metal Drummers,Yogurt Lovers,Y2K Survivors,Future Ghosts,Josh Groban Fans,Vampire Huggers,Unconcerned Citizens,Donkey Kong Enthusiasts,Alien Welcomers,Comet Namers,Soup Eaters,Star Catchers,Turtle Racers,Skinny Dippers,Couch Surfers,Mouth Breathers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Founders",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Gente Muerta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lal Bihari, de Uttar Pradesh, India, es tanto fundador como miembro de la inusual Asociación de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Dead Men,The Dead",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s a group for people who were wrongfully declared dead by the government.",
+            "t": "A",
+            "v": "595941_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Lal Bihari, from Uttar Pradesh, India, is both the founder and a member of the unusual Association of <BLANK>.",
+            "t": "A",
+            "v": "595938_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

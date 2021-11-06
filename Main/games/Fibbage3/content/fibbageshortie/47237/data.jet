@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "imitating an elephant,reading poetry,putting on a lady lion outfit,doing the macarena,talking about politics,building a fire,reflecting light of an iPad,spitting water,releasing a different mountain lion,talking about his podcast,throwing nachos at it,telling a spooky ghost story,playing the spoons,refusing to believe in it,eating his own sock,putting on a No Fear shirt,hiding behind a passing bear,singing showtunes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Close Calls",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "quitarse sus gafas de sol",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En mayo de 2017, un excursionista de las sierras de Santa Carolina en Arizona evitó el ataque de un león agresivo al simplemente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "removing his sunglasses,making eye contact,looking it in the eyes,looking at it",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Mountain lions can be scared off by making eye contact. Kind of like me on a date.",
+            "t": "A",
+            "v": "655049_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In May 2017, a hiker in Arizona’s Catalina Mountains stopped an aggressive mountain lion from attacking by simply <BLANK>.",
+            "t": "A",
+            "v": "655046_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

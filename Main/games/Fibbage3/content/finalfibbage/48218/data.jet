@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "naked|a fountain,pooping|a barn,cheating|a poker game,peeing|an alley,stealing monkeys|Algeria,robbing jewelry|Monaco,swearing|a church,gambling|the oval office,plotting a coup|his basement,drunk|the sewer,punching lions|the zoo,shooting pistols|the Smithsonian,cheating|a spitting contest,stealing bread|the south of France,causing trouble|paradise,making whiskey|a secret cabin,throwing soup|a food kitchen,having an affair|the statue of liberty",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Grant Me a Pardon",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "yendo demasiado rápido|un carruaje",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El presidente Ulysses S. Grant fue arrestado mientras ejercía el cargo. ¿Su crimen? Estaba <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "speeding|his carriage",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]President Ulysses S. Grant was arrested while in office. His crime? He was caught <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "680815_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

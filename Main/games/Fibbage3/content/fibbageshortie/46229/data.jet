@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "France,Warren G. Harding’s house,the Oval Office bathroom,a Quizno’s,a school in rural Montana,the middle of the desert,a women’s restroom,Charlie Chaplin’s film studio,the Lincoln bedroom,a nuclear bunker,the bottom of a quarry,an underwater cave,behind a big tree,the back of a pickup truck,the Canadian embassy,Joseph Pulitzer’s backyard,a public pool,the inside of a volcano",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Capitol Rotunda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el sótano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1921, una estatua que conmemora el voto femenino fue revelada en la rotonda del Capitolio estadounidense. Al día siguiente, el Congreso tomó la extraña decisión de trasladarlo hacia <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the crypt,a basement,underground,a broom closet,the broom closet",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They did eventually put it back on display. 75 years later. And probably underneath a glass ceiling.",
+            "t": "A",
+            "v": "638819_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1921, a statue commemorating women’s suffrage was unveiled in the U.S. Capitol Rotunda. The next day, Congress made the odd decision to move it to <BLANK>.",
+            "t": "A",
+            "v": "638816_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

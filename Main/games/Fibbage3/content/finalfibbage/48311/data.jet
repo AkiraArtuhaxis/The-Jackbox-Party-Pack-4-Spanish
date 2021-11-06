@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sex|are drunk,diarrhea|are texting,accidents|are snapping selfies,arguments|are tired,affairs|are single,apps|are married,confidence|are wrong,charisma|laugh,fatty meals|are sad,fun|don’t care what people think,gas|are in church,brain activity|sneeze,guilt|neglect their pets,useless junk|have a garage,salad|just start dating someone,regrets|live in Reno,back hair|wash with a loofah,ham|think they’re alone",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Most",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "amigos|25 años",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Investigadores en las universidades de Aalto y Oxford estudiaron los registros telefónicos de más de 3.2 millones de europeos y descubrieron que las personas tienen más <BLANK> cuando tienen <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "friends|are 25 years old,friends|are 25-year-olds,friends|are in their 20s,friends|are in their 20’s,friends|are in their twenties",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That’s crazy, I’ve had the same number of friends my whole life. There’s my mom, my cats....umm...and the other several...hundred.",
+            "t": "A",
+            "v": "683574_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Researchers at Aalto and Oxford universities studied the phone records of over 3.2 million Europeans and found that people have the most <BLANK> when they <BLANK>.",
+            "t": "A",
+            "v": "683571_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

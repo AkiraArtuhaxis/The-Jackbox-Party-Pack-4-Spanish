@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eructo,chicharrones,alfombra,bolos,mochila,martes por la tarde,bandana,salami,silencio incómodo,día de bebida, reuniones familiares,pantimedias,viseras,brevedad,Ok,viaje compartido, ex novia, asistente del gerente",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Long Words",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "anticonceptivo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Schwangerschaftsverhütungsmittel es la palabra alemana para “<BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "control de natalidad,preservativos,condones,la píldora",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Congrats to the Germans for making the purchase of condoms even more embarrassing.",
+            "t": "A",
+            "v": "318676_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Schwangerschaftsverhütungsmittel is the German word for “<BLANK>.”",
+            "t": "A",
+            "v": "318673_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

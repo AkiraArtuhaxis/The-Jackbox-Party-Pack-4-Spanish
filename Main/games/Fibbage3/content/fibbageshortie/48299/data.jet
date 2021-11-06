@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "kid,sleep,drug,sex,obesity,comedy,fart,sports,beer,Mario Kart,beef jerky,perfume,shower,pickle,cheeseburger,news,music,torture",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pods",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "esposos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En una intento para atraer más clientes, el centro comercial Global Harbour en Shanghai ha instalado “cabinas para <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "husband storage,husband rest,boyfriend,boyfriend storage,boyfriend rest",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Each pod comes equipped with a chair, a gaming console, and a lifetime of embarrassment.",
+            "t": "A",
+            "v": "683272_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In a bid to lure in customers, the Global Harbour Mall in Shanghai has installed “<BLANK> pods.”",
+            "t": "A",
+            "v": "683269_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "usually drunk,unable to cry,a great swimmer,a practical joker,a talented singer,afraid of its reflection,bad at pooping,not fond of sunsets,deaf and blind,angry all the time,fairly small,obsessed with its farts,a terrible father,afraid of relationships,the best smelling dinosaur,obsessed with oral hygiene,a back sleeper,aware it was doomed",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dino Data",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un amante sensible",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un estudio bastante extraño publicado en <i>Scientific Reports<\/i> en 2017, unos investigadores afirman que el <i>T. rex<\/i> era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a good lover,a caring lover",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]That’s just what the LAMEstream media wants you to believe.",
+            "t": "A",
+            "v": "592794_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Apparently the dinosaurs used their super-sensitive snouts in foreplay. Unlike SOME animals I know.",
+            "t": "A",
+            "v": "592790_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In a rather odd study published in <i>Scientific Reports<\/i> in 2017, researchers claim that the T. rex was <BLANK>.",
+            "t": "A",
+            "v": "592787_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

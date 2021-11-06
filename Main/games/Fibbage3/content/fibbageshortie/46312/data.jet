@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Matrix fanfic,Chuck Connors,YouTube fail videos,Self Help gurus,a brand of green tea,spruce bark beetles,a cranky landlady,candied yams,a Canadian hardcore band,Green Day,maple syrup,road signs,my grandma’s meatloaf,the bachelor life,discontinued fastfood items,Blaxploitation movies,Zsu Zsi Gabor,polka music",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Art Galleries",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un bulldog muerto",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Salón de Zsu Zsi es una galería de arte en Edmonton, Canadá, dedicada exclusivamente al arte inspirado en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a bulldog,a dead dog,a dog,bulldogs,dogs",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]In a way, that dog is still very much alive. (beat) But in a more literal way, it’s totally dead.",
+            "t": "A",
+            "v": "641340_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Hall of Zsu Zsi is an art gallery in Edmonton, Canada that is dedicated solely to art inspired by <BLANK>.",
+            "t": "A",
+            "v": "641337_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

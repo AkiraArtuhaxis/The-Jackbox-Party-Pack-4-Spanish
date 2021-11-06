@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "wasps,cold water,electrical shocks,a rooster,the hounds,warm cookie smell,darts,a dove,sternly worded emails,the sound of a baby crying,Beyonce music,your own snoring,pizza,gasoline,your credit card info,more fire,helium,angry snakes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fire Safety",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "olor fuerte",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2009, un equipo de investigación japonés inventó una alarma contra incendios que, en lugar de hacer ruido, lanza un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "gas,stinging gas,wasabi gas,wasabi",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s made of wasabi and it can sting you awake if you’re hard of hearing.",
+            "t": "A",
+            "v": "594713_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2009, a Japanese research team invented a fire alarm that, instead of making loud noises, releases <BLANK>.",
+            "t": "A",
+            "v": "594710_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

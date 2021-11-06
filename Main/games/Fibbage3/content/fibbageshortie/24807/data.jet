@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "people in Finland and California,bottles of mustard,countries,diseases,books,tv shows,video games,cakes,planes,boats,Walmarts,Mcdonalds,clocks,soccer fans,professors,musicians,skyscrapers,rats",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Conclusions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Estudios",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Extrañamente, un estudio de 2015 realizado por profesores en Finlandia y California llegó a la conclusión de que hay demasiados <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "studys",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]But you shouldn’t believe every study you read.",
+            "t": "A",
+            "v": "425544_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Strangely, a 2015 study conducted by professors in Finland and California came to the conclusion that there are too many <BLANK>.",
+            "t": "A",
+            "v": "425541_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "see,predict the future,salsa dance,smell drugs,escape prison,bobsled,love,play hockey,dodge traffic,find oil,get out of handcuffs,program video games,handle fireworks,knit sweaters,feel colors,predict weather,avoid him,build boats",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Useful Lessons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "disparar armas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, Warren Wethington argumentó bizarramente en el diario <i>Des Moines Register<\/i> que puede enseñarle a personas ciegas como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "shoot a gun,operate a gun,use a gun,use guns",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He’s a Sheriff so he knows what he’s doing. Hopefully.",
+            "t": "A",
+            "v": "423838_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, Warren Wethington made a bizarre claim to the <i>Des Moines Register<\/i>, stating that he can teach blind people how to <BLANK>.",
+            "t": "A",
+            "v": "423835_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

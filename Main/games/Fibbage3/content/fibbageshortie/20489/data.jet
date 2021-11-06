@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fly less,hate music,find light less interesting,be attracted to mirrors,throw up more,be better at problem solving,starve themselves,make love to arm hair,leave humans alone,hallucinate,see more colors,sleep less,fly non-stop,migrate south,rub themselves on vegetation,take it out on their kids,attract predators,become easier to kill",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Frustrated Bugs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chupar más",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un revolucionario informe publicado en la revista <i>Ciencia<\/i> en 2012 afirmó que las moscas sexualmente frustradas tienden a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "drink alcohol,consume more alcohol,consume alcohol,drink more alcohol",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]But you can really tell when they start tearing the label off their beers.",
+            "t": "A",
+            "v": "398774_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A game-changing report published in <i>Science<\/i> magazine in 2012 claimed that sexually frustrated flies tend to <BLANK>.",
+            "t": "A",
+            "v": "398771_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

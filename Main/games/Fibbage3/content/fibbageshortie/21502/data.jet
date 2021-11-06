@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "best friend,underwear,fruit cozy,pants,hammock,wedding dress,parachute,portrait of Pearl Harbor,skinny jeans,voodoo dolls,Mona Lisa,lingerie,diapers,Avengers,Death Star,diploma,coffin,noose",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Expertise",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "kama sutra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dale una mirada al libro de la experta tejedora británica Geraldine Warner, titulado <i>Teje tu propio<\/i> <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "karma sutra,kamasutra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Something tells me that wouldn’t get the job done.",
+            "t": "A",
+            "v": "569631_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Just watch where you stick that needle.",
+            "t": "A",
+            "v": "406986_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Looking to take up knitting? Check out a book by British knitting expert Geraldine Warner titled <i>Knit Your Own<\/i> <BLANK>.",
+            "t": "A",
+            "v": "406983_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

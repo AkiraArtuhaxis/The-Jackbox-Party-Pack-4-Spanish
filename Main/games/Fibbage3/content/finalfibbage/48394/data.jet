@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "loud noises|poop,fear|finish a term paper,3 hours of sleep|get an erection,parents|be born,one day|digest gum,tongues|kiss,butts|poop,food|live,milk|teethe,one hour|make an enemy,four meals a day|think straight,constant reassurance|keep going,a reward|learn,three weeks|be potty trained,70 degree temperatures|sleep soundly,candy|live,a birthday party|remember how old they are,coffee|really wow the new investors",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Animal Needs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "21 segundos|mear",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, un extraño estudio conducido por Patricia Yang, una estudiante de doctorado en Georgia Tech, concluyó que la mayoría de los mamíferos necesitan <BLANK> para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "21 seconds|urinate,the same time|pee,the same time|urinate,the same amount of time|pee,the same amount of time|urinate",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](proud) Well, I’m not most mammals.",
+            "t": "A",
+            "v": "686130_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]An odd 2015 study by Patricia Yang, a PhD student at Georgia Tech, concluded that most mammals need <BLANK> to <BLANK>.",
+            "t": "A",
+            "v": "686127_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

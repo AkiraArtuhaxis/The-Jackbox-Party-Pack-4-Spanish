@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "usar un palito,usar Bing.com,hacer cálculos,hacer una voltereta hacia atrás,hacer batidos,moverse más rápido,jugar mahjongg,llorar,leer mentes,jugar Tetris,quitar la cinta adhesiva de un panel de yeso,usar pantalones,leer música,cortar el pelo,bailar,entender español,odiarse a sí misma,hacer dieta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tortoises",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bostezar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2011, la investigadora británica Anna Wilkinson pasó seis meses enseñando una tortuga a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She reached a breakthrough once La La Land came out on Blu Ray.",
+            "t": "A",
+            "v": "590352_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2011, British researcher Dr. Anna Wilkinson spent six months teaching a tortoise to <BLANK>.",
+            "t": "A",
+            "v": "590349_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Paul Simon,pudding,ice cream,earthquakes,sound waves,a coke bottle,coral reefs,corgis,the ups and downs of life,the designer’s grandmother,flossing,creamy peanut butter,fungus,crazy straws,kangaroo tails,other pretentious buildings,the human throat,this one giraffe",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Skyscrapers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Beyonce",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Curiosamente, el diseño curvo y desgarrador de Premier Tower, un rascacielos de más de 200 metros de altura que se está construyendo en Melbourne, se inspiró en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Beyoncé,Beyoncé Giselle Knowles-Carter,Beyoncé Knowles-Carter,Beyoncé Knowles,Beyonce Giselle Knowles-Carter,Beyonce Knowles-Carter,Beyonce Knowles",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Weirdly enough, the curvy, rippling design of the Premier Tower, a 741 foot skyscraper being built in Melbourne, was inspired by <BLANK>.",
+            "t": "A",
+            "v": "657356_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

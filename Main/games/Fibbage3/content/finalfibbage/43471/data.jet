@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "money|goods and services,Eddie Murphy|Dan Aykroyd,blood|orange juice,Facebook likes|Twitter likes,a cow|magic beans,his voice|one day on dry land,his pants|the cop’s pants,lite syrup|real syrup,10 chickens|an iPhone,drugs|a valid driver’s license,monkey brains|room and board,bags of hair|Disneyland tickets,stolen spanish doubloons|coffee,arcade tokens|parking,pig parts|The Rock’s autograph,the Coca-Cola recipe|a hug,$1 million|a night with Demi Moore,anything|a brief moment of joy",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "indecent proposals",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vodka|galletas de niñas exploradoras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Ardmore, OK fue detenido en febrero de 2017 porque la policía dijo que ofrecía intercambiar <BLANK> por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "vodka|cookies,alcohol|girl scout cookies,liquor|girl scout cookies,booze|cookies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A man in Ardmore, Oklahoma was arrested in February 2017 because police say he offered to trade <BLANK> for <BLANK>.",
+            "t": "A",
+            "v": "563080_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

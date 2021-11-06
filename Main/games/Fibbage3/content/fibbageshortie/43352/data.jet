@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mansion,drive-in movie theater,casino,UFO landing strip,theme park,ball pit,strip club,Hard Rock Cafe,car wash,subway system,dance studio,haunted house,Eiffel Tower replica,fireworks show,iceberg,beach resort,cookie factory,sailboat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "praise the roof",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "montaña",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Zhang Biqing, un excéntrico pequinés, decidió que a su edificio le faltaba algo. Por lo tanto, naturalmente, construyó una <BLANK> en el techo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s still easier to access than most rooftop bars.",
+            "t": "A",
+            "v": "561088_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Eccentric Beijing resident Zhang Biqing decided his apartment building was missing something, so naturally he built a <BLANK> on the roof.",
+            "t": "A",
+            "v": "561085_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "snake|sunglasses,nun|a bikini,child|a wizard costume,deer|a cocktail dress,hawk|a tie,robot|a clown mask,baby|a suit of armor,chimpanzee|a wedding dress,rabbit|perfume,rat|a Superman cape,former President|a fake beard,moose|high heels,dictator|lipstick,squirrel|a tutu,punk band|towels,penguin|a graduate cap,emu|a thong,polar bear|a tuxedo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Beats Flying Alone",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pato|botas rojas y un pañal",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En octubre de 2016, uno de los pasajeros en un vuelo de Charlotte a Asheville era un <BLANK> que llevaba <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "duck|boots,duck|red boots,duck|a diaper,duck|diaper,diaper|duck",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]His name was  Daniel Turducken Stinkerbutt and he kept putting his freakin’ seat back.",
+            "t": "A",
+            "v": "562508_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In October 2016, one of the passengers on a flight from Charlotte to Asheville was a <BLANK> wearing <BLANK>.",
+            "t": "A",
+            "v": "562505_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

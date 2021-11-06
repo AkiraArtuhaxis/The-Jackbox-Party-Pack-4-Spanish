@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "The Dalai Lama,The President,Ruler of his own country,An alien war lord,The inventor of the internet,A time traveler,An Egyptian Pharoah,The Duke of Essex,the son of Bigfoot,The King of Atlantis,Johnny Carson reincarnated,Owner of Television,a Smurf,the heir to the Skittles fortune,Conan O’Brien’s lost brother,A fairy,the inventor of the Matrix,A wizard",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Guys from Kansas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "El Papa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si le preguntas a David Bawden, no es solo un estadounidense de Belvue, Kansas; también es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "The real pope,Pope Michael,Pope",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Pope Michael the first was elected by a small group of followers, including his parents.",
+            "t": "A",
+            "v": "643200_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you ask David Bawden, he’s not just some guy from Belvue, Kansas, he’s also <BLANK>.",
+            "t": "A",
+            "v": "643197_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

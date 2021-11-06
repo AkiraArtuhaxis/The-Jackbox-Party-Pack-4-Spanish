@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "punched|an elf,picked on|the devil,swallowed|a wolf,kidnapped|a troll,clubbed|an ogre,cooked|a witch,choked|a snake,eaten|a spider,slapped|a yeti,trampled|reindeer,spooked|a ghost,tricked|a wizard,stolen|a monster,tickled|a weirdo,pecked|a crow,stabbed|a serial killer,circled|a buzzard,hugged|dead people",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Christmas Clothes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comidos|un gato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El día de Navidad en Islandia, los niños dejan una ofrenda de ropa para que no sean <BLANK> por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "eaten|cat,eaten|cats",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s called the Yule Cat, and if it means avoiding Christmas morning at my Aunt’s house, Yule Cat, take me now.",
+            "t": "A",
+            "v": "573304_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On Christmas Day in Iceland, children leave an offering of clothes so they won’t be <BLANK> by <BLANK>.",
+            "t": "A",
+            "v": "573301_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lady Gaga,thom yorke,Donald Trump,Homer Simpson,Vladimir Putin,The Avengers,Voldemort,The Mona Lisa,Mitch McConnell,a toilet,the littler mermaid,Adam Sandler,beyonce,Frankenstein,guy fieri,Garfield,florida,two dogs kissing",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "expensive cheeto",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Harambe",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 7 de febrero de 2017, un Cheeto Flamin’ Hot se vendió por 99900 dólares en eBay porque se parecía a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "harambe the gorilla,a gorilla,horombe,harambee,harrambee,harrambe",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Don’t all cheetos look like that?",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]*long, disappointed sigh* Oh, internet.",
+            "t": "A",
+            "v": "563808_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On February 7, 2017, a Flamin’ Hot Cheeto sold for $99,900 on eBay because it looked like <BLANK>.",
+            "t": "A",
+            "v": "563805_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

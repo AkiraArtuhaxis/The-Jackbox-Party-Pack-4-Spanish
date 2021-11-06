@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Scotland: It’s Mostly Drinking,Scotland: No You’re Thinking of Ireland,Ya’ll Like Castles?,The Birthplace of Golf,We Have Sean Connery,Islands of Adventure,A Kilt Full of Possibilities,Scotland: There Can Be Only One,There’s No Country Like It,Where the Sass Is,Home of Scroge McDuck,Loch Stock and Barrel,Where dresses are pants!,That terrible sound is bagpipes,Now With Leprechauns,No Brave didn’t happen,Get out,Watch yourself bub",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Scottish Slogans",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Bienvenido a Escocia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2007, Escocia gastó 125.000 libras en una nueva campaña turística. El resultado fue la atractiva eslogan: “<BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "¡Bienvenido a Escocia!,Bienvenido a Escoccia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Worth every penny.",
+            "t": "A",
+            "v": "688242_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2007, Scotland spent 125,000 pounds on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+            "t": "A",
+            "v": "688239_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

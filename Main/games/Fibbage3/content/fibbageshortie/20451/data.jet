@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "scorpions,hot peppers,poop,razor blades,microscopic robots,firecrackers,jumping beans,tapeworms,poisonous snakes,steroids,mercury,ritalin,human flesh,body hair,dog food,booze,uranium,tiny frogs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hitler",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "estrógeno",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2011, se descubrió que espías británicos en la Segunda Guerra Mundial habían formulado un plan para derrotar a Hitler colocando en secreto <BLANK> en su comida.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "hormones,female hormones",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Meaning he would have to trim his little mustache with a pink razor.",
+            "t": "A",
+            "v": "397838_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2011, it was revealed that World War Two British spies formulated a plan to bring down Hitler by slipping <BLANK> into his food.",
+            "t": "A",
+            "v": "397835_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

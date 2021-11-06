@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hand holder,pooper scooper,crusher,nose trimmer,lifter,golf ball finder,trash can,silverware polisher,coffee table,toilet flusher,pet cat,dart catcher,vacuum cleaner,dog sniffer,litter box,taste tester,microphone,pants tester",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hard Work",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "calienta camas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Viktoria Ivachyova tiene un trabajo particular: su título oficial es \"<BLANK> humana\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "bedwarmer,bed warmer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She and my nephew have something in common.",
+            "t": "A",
+            "v": "562633_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Viktoria Ivachyova has a unique job: Her official title is Human <BLANK>.",
+            "t": "A",
+            "v": "562630_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

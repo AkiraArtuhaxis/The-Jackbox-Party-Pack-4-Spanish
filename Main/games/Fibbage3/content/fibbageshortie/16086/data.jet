@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "guitars,a bank,fans’ bras,a scarecrow,a bucket of rakes,a school,money,the river,the Berlin Wall,The Rolling Stones’ bus,bratwursts,a beer,statues,Ringo,children,sausages,an abandoned church,his own picture",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Beatle Crimes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un condón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En los 60, el rockero Paul McCartney fue arrestado en Hamburgo, Alemania por prender fuego <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "condoms",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I guess he really believed that money can’t buy you love.",
+            "t": "A",
+            "v": "355850_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1960, rocker Paul McCartney was arrested in Hamburg, Germany for lighting fire to <BLANK>.",
+            "t": "A",
+            "v": "355847_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

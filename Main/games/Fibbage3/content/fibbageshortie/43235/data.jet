@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "been sick,flown a plane,been to California,made prank calls,eaten processed foods,picked up hitchhikers,played video games,cried,driven a car,lied about her age,microwaved food,eaten sugar cereal,woken up after 7AM,asked a man out,worn sweatpants,laughed at the poor,dunked a basketball,donated to charity",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Martha Stewart",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "golpeada por un rayo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, Martha Stewart hizo la sorprendente confesión de que fue <BLANK> tres veces.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "been struck by lightning,gotten hit by lightning,gotten struck by lightning,been hit by lightening",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And her hair stayed PERFECT.",
+            "t": "A",
+            "v": "558923_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, Martha Stewart made the surprising confession that she has <BLANK> three times.",
+            "t": "A",
+            "v": "558920_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a python,a wheel of cheese,a cream pie,banana peels,garbage,a dress,her house,a party sub,her wife’s hair,100 hockey pucks,a family pack of tube socks,diamonds,brunch,way too close to people in public,live scorpions,a set of 1959 Three Stooges Trading Cards,the sun,an ice sculpture of Vin Diesel",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "slowly eating",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La broma infinita",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La comediante Jamie Loftus comenzó un proyecto muy extraño. Durante más de un año, ha estado comiendo lentamente <i><BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a copy of Infinite Jest",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I only ate the first couple chapters, but I tell everyone I ate the whole thing.",
+            "t": "A",
+            "v": "669223_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Comedian Jamie Loftus took on an odd project. For over a year, she’s been slowly eating <BLANK>.",
+            "t": "A",
+            "v": "669220_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ned Beatty,Albert Einstein,Marilyn Monroe,Karl Marx,a parrot,a snapper,a clownfish,a fox,the Mona Lisa,Lenny Kravitz,Groucho Marx,a bottle of ketchup,a sailboat,a sheep,a sunset,a dog,a tomato,Abraham Lincoln",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "particular pigs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la bandera de Dinamarca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Husum Red Pied es una rara raza de cerdo que fue criada intencionalmente para parecerse a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the denmark flag,a danish flag",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]So when there’s a Danish tragedy, always remember to lower your Husum Red Pied to half-staff.",
+            "t": "A",
+            "v": "559448_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Husum Red Pied is a rare breed of pig that was intentionally bred to resemble <BLANK>.",
+            "t": "A",
+            "v": "559445_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

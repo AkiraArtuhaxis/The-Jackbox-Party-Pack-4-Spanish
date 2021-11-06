@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sculptures of U.S. presidents,a duck pond,bald eagles,concerts,voting booths,political speeches,buffalo,an NPR broadcasting tower,puppet shows,a church,horse races,a ferris wheel,an NSA office,a post office,genetically modified corn,a statue of Lincoln,round-the-clock jazz,a popcorn machine",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Taxable Shelters",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "abejas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ícono del pop Jon Bon Jovi evitó pagar grandes impuestos sobre su mansión de Nueva Jersey albergando <BLANK> en su propiedad.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "honey bees,honeybee,beehives,beehive",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The bees technically made him a farmer. Because he’s a beeboy. On a steel bee he rides.",
+            "t": "A",
+            "v": "405507_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Pop icon Jon Bon Jovi avoided paying hefty taxes on his New Jersey mansion by having <BLANK> on his property.",
+            "t": "A",
+            "v": "405504_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

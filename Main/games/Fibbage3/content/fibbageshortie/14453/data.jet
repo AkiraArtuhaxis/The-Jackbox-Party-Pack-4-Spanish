@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ir de vacaciones,perder quince libras,jugar videojuegos,escribir un libro,tener una cita,comer competitivo,salir de Utah,cazar con un halcón,ir a un sauna,convertirse en médico,convertirse en un estudiante de posgrado,comer sin descanso,llevar más de una mochila,jugar al hacky sack,comer bistec,vivir en el campus,vivir fuera de los dormitorios,andar en bicicleta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Doctor’s Orders",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tener barba",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "De acuerdo con el Código de Honor de la Universidad de Brigham Young, los estudiantes necesitan una carta de un doctor para poder <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tener barba, usar barba, dejarse la barba",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s all part of the Affordable Hair Act (sfx rimshot) Thank you!",
+            "t": "A",
+            "v": "321124_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to the Brigham Young University Honor Code, students need a letter from a doctor in order to <BLANK>.",
+            "t": "A",
+            "v": "321121_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "robot|peed,bull|ate steak,kid|lived in France,ghost|only kids could see,cactus|had died,truck|belonged to Chuck Norris,child|looked old,farmer|wrote romance novels,spy|was from Argentina,cowboy|was in jail,bird|couldn’t fly,scarecrow|was in a dumpster,cowboy|was afraid of cows,war hero|never existed,Republican|was also a Democrat,corpse|never got buried,squid|wore a necktie,vampire|was also a werewolf",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Texas Politics",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cabra|tomaba cerveza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A finales de los años 80, la pequeña ciudad de Lajitas, Texas eligió a Clay Henry como su alcalde. Henry era único en que era una <BLANK> que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "goat|loved beer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I wish he’d run for president.",
+            "t": "A",
+            "v": "590502_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Back in the late 1980s, the small town of Lajitas, TX elected Clay Henry to be their mayor. Henry was unique in that he was a <BLANK> that <BLANK>.",
+            "t": "A",
+            "v": "590499_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

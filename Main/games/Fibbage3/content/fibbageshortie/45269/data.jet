@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pizza,selfish,boy-girl,boring,Gatsby,I LOVE HUNKS,lying,Jesus was an alien,pants,alien,karate,punch drunk,Nintendo,poop,booger,boogie woogie,ketchup or catsup,cat food",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Awkward Parties",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "basura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La mujer escocesa Sally Cogley, se ganó un asiento en sus elecciones locales al ser parte del partido extrañamente llamado Partido <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The Rubbish Party is actually a party of one... just like all my birthday parties ages 8 to 37.",
+            "t": "A",
+            "v": "610148_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Scottish woman, Sally Cogley, won a seat in her local election running as a member of the unusually named <BLANK> party.",
+            "t": "A",
+            "v": "610145_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fighter jets,Mission Impossible 3,stunt harnesses,exoskeletons,tickets to Oprah,hair gel,Lamborghinis,spacecrafts,homemade aspirin,tightie whities,counting cards,reincarnation,alien invasion,excitedly mixing drinks,shirtless volleyball,future crime,showing the money,jumping on couches",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tom Cruise Crimes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sonogramas sin licencia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El proyecto de ley de California AB2360, apodado \"La ley Tom Cruise\", es único en que prohíbe <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ultrasound,home ultrasound,home sonograms,sonograms,sonagrams,personal sonograms,unlicensed ultrasound",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He bought his own ultrasound machine to see if Katie Holmes was having a little wingman or a little winglady.",
+            "t": "A",
+            "v": "385856_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]California Bill AB2360, nicknamed “The Tom Cruise Bill,” is unique in that it outlaws <BLANK>.",
+            "t": "A",
+            "v": "385853_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

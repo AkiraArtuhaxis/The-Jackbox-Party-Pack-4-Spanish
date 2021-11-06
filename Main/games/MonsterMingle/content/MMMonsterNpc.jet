@@ -1,0 +1,26 @@
+{
+    "content":[
+        {
+            "id":"Robot",
+            "frame":"Monster17",
+            "name":"Robot",
+            "role":"Bot",
+            
+            "shortDescription": "",
+            "description":"ROBOT: Elige uno de los jugadores al azar para mensajear e intentar salir cada noche.</br>Al final del juego, si el Robot está en último lugar, no logra comprender las emociones humanas y destruye a la humanidad. (Todos pierden)</br>Robot gana un corazón por CADA jugador que siquiera intenta salir con él cada noche.</br>PERO… también pierde un corazón al final de cada noche.",
+            "selfDescription":"",
+            "powerpopup": {"single": "Invitado a salir por un jugador.",
+                           "multiple": "Invitado a salir por [Number] jugadores.",
+                           "decay": "Robot pierde 1 corazón cada noche",
+                           "destroy": "¡Robot destruye a todos!"},
+            "epitaph": { "nobody": "No fue invitado a salir, ni una vez.",
+                         "singular": "Invitado a salir una vez.",
+                         "plural": "Invitado a salir [Number] veces.",
+                         "destroyer": "<br />Y lamenta destruir la humanidad.",
+                         "winner": "<br />¡Y de alguna manera ganó!",
+                         "loser": "<br />Y no salió último (por suerte)." },
+
+            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Robot"
+        }
+    ]
+}

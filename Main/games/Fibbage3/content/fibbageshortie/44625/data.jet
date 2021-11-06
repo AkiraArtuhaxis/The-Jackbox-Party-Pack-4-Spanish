@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "50 Shades of Grey,DMV,toilet paper,hold music,mayonnaise,style of jazz,CBS sitcom,khaki pant,life,colonoscopy  camera,mouse trap,vasectomy,guillotine,strain of malaria,NPR,Batman,toilet seat,pair of Crocs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bill Gates",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "preservativo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, la Fundación Bill y Melinda Gates ofreció 100 mil dólares para que alguien inventara un <BLANK> más agradable.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "contraceptive",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The reason for the offer was to make you think about Bill Gates while having sex.",
+            "t": "A",
+            "v": "592880_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, The Bill & Melinda Gates Foundation offered $100,000 for someone to invent a more enjoyable <BLANK>.",
+            "t": "A",
+            "v": "592877_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

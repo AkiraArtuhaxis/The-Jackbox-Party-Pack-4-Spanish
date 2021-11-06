@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a T-Rex bone,a gun,a genie’s lamp,a rare doll,a kidney stone,a very old hot dog,a Faberge egg,Hitler’s cigar cutter,a meteorite,a petrified goose egg,fossilized poop,a rod of uranium,a hunk of gold,a Barbie,the Hope Diamond,a CIA spy camera,a whale tooth,a Bratz doll",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cracking Up",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una granada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Shaanxi, China se sorprendió al descubrir que lo que había estado usando como cascanueces era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "grenade,hand grenade,bomb,explosive,an explosive,a bomb",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Perfect for cracking a lot of nuts, and anything else in a 50 foot radius.",
+            "t": "A",
+            "v": "561613_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A man in Shaanxi, China was shocked to find out that the thing he’d been using as a nutcracker was actually <BLANK>.",
+            "t": "A",
+            "v": "561610_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

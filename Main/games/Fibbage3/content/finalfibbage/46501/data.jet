@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nerds|get dates,Ben Jacobs|wear sideways,pandas|disguise themselves,Jackbox|make fun of,hippos|look thinner,goats|eat,lions|to be terrified of,teens|wear while texting,snakes|sleep inside,aunts|disapprove of,frat bros|spike like a football,soccer fans|hide booze in,attractive people|look stupid in,robots|look more human,henchmen|throw at 007,Pharrell|wear unironically,babies|throw up on,your girlfriend|give to Goodwill",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Specialty headware",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "halcones|tengan sexo con él",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Les Boyd es conocido entre sus pares por haber inventado un gorro único en su tipo. Está hecho especificamente para que <BLANK> puedan <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "falcons|hump,falcons|copulate with,falcons|ejaculate into,falcons|ejaculate on,falcons|screw,falcons|mate with,birds|hump,birds|copulate with,birds|ejaculate into,birds|ejaculate on,birds|screw,birds|made with",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The copulation hat, worn by falcon trainers, is considered an excellent way to collect semen, as well as a bold fashion statement.",
+            "t": "A",
+            "v": "645342_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Les Boyd is known among his peers for being the inventor of a one-of-a-kind hat. It’s made specifically for <BLANK> to <BLANK>.",
+            "t": "A",
+            "v": "645339_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

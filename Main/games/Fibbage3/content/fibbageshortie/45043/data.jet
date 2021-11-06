@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "musician,octogenarian,professional woodworking,stupid,deaf,alien,slam poet,computer,mannequin,cat,clown,seven foot,imaginary,chocolate covered,pregnant,reality star,lactose intolerant,Millennial",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "NASA",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gallina chillona",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Camilla Corona, que completó cinco misiones hasta el borde del espacio, fue la primer astronauta <BLANK> de la NASA.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was all part of a wacky mission to put giant Groucho glasses on the moon.",
+            "t": "A",
+            "v": "603349_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Camilla Corona, who went on five missions to the edge of space, was NASA’s first <BLANK> astronaut.",
+            "t": "A",
+            "v": "603346_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

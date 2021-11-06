@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gun,pipe,white flag,letter,wig,shot off leg,tea,pantaloons,arrow,shoe,parrot,fake mole,cannon,shirt,bathtub,desk chair,pen,violin",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cease-fires",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "perro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante una importante batalla de la Guerra Revolucionaria, George Washington ordenó un alto al fuego con el fin de regresarle a un General Británico su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mascota,perro mascota",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And per the missing dog poster, the reward was independence.",
+            "t": "A",
+            "v": "374354_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During a major battle of the Revolutionary War, George Washington ordered a cease-fire in order to return a British General’s <BLANK>.",
+            "t": "A",
+            "v": "374351_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

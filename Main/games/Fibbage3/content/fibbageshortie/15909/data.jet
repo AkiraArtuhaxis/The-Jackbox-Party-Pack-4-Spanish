@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Walmart,Home Depot,Burger King,Disney World,7-11,Bed Bath & Beyond,Taco Bell,Baby Gap,Radio Shack,Rob Schneider,Target,The FBI,McDonald’s,Dave and Buster’s,Old Country Buffet,Bed Bath and Beyond,Denny’s,Lenscrafters",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Kale Demand",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pizza Hut",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que se volviera una tendencia popular en el 2013, el mayor comprador de kale era, sorprendentemente, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They used it as decoration on the salad bars.",
+            "t": "A",
+            "v": "352001_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before it became a huge foodie trend in 2013, the largest buyer of kale was, surprisingly, <BLANK>.",
+            "t": "A",
+            "v": "351998_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

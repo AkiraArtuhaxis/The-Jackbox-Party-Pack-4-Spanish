@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "corporations|gods,pennies|still important,hot dogs|sandwiches,bumper stickers|art,kittens|people,leprechauns|fictional,public restrooms|for people only,corn dogs|American,sidewalk owners|responsible for injuries,vacations|a civil right,oranges|orange,waterbeds|awesome,whales|fish,office romances|legally binding,humans|mammals,cars|a privilege,robots|property,voting booths|private property",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Courting Disaster",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los tomates|vegetales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El polémico caso de la Corte Suprema <i>Nix v. Hedden<\/i> molestó a más de unas pocas personas cuando la corte dictaminó que <BLANK> son <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tomatos|vegetables,vegetables|tomatoes,veggies|tomatoes,tomatoes|veggies,tomatos|veggies,veggies|tomatos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Which is why the bottom of my food pyramid is just pizza sauce and ketchup.",
+            "t": "A",
+            "v": "398678_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The controversial Supreme Court case <i>Nix v. Hedden<\/i> upset more than a few people when the court ruled that <BLANK> are <BLANK>.",
+            "t": "A",
+            "v": "398675_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

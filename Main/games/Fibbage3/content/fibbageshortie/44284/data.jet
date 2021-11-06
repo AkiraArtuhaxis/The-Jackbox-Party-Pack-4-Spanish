@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "circus bear,inflatable doll,skeleton,turkey,screen door,ping pong table,basketball hoop,trampoline,baby elephant,belly dancer,ballet,kaleidoscope periscope,whiskey still,palm tree,tanning bed,phonograph,disco ball,pet dolphin",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dive! Dive!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "reno",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la Segunda Guerra Mundial, la tripulación británica del HMS Trident recibió un inesperado regalo de su almirante ruso. Les consiguió un <BLANK> para su submarino.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pet reindeer,raindeer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The reindeer was apparently very comfortable in the submarine: it even had enough room to prance, gallop, and Trotsky.",
+            "t": "A",
+            "v": "583775_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During World War II, a Russian Admiral gave an unexpected gift to the British crew of the HMS Trident. He got them a <BLANK> for their submarine.",
+            "t": "A",
+            "v": "583772_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

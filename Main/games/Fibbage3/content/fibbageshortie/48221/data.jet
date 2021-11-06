@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lucky Charms cereal,marshmallows,fidget spinners,medium T-shirts,Millennials,top hats,light bulbs,tourists,carrots,clouds,mouse traps,printer ink,soap,love,beer,newspapers,gasoline,bananas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Nevada",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "marihuana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 7 de julio de 2017, el estado de Nevada, EE. UU. tuvo que emitir una \"declaración de emergencia\" porque se estaba quedando sin <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "weed,pot,legal weed,legal pot,legal marijuana",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Apparently they didn’t expect the demand for legal weed to be so HIGH. (to self) Haha nailed it.",
+            "t": "A",
+            "v": "680910_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On July 7, 2017, Nevada had to issue a “Statement of Emergency” because the state was running out of<BLANK>.",
+            "t": "A",
+            "v": "680907_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

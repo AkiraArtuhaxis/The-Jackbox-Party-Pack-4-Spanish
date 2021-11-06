@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "You Shook Me All Night Long,Picasso\u2019s Last Words,Achy Breaky Heart,Y.M.C.A.,Call Me Maybe,Dead Man\u2019s Party,It\u2019s My Life",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Si pudieras elegir una canción para que suene en tu funeral sería \u201c<BLANK>.\u201d",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "funeral",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si <PLAYER> tuviera que elegir una canción para que suene en su propio funeral sería \u201c<BLANK>.\u201d",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Si éste jugador tuviera que elegir una canción para que suene en su propio funeral sería \u201c<BLANK>.\u201d",
+            "t": "A",
+            "v": "360110_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

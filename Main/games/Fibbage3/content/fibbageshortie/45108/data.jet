@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "popping bubble wrap,visualizing fitness,playing ping pong,yodeling,pinching their fat,eating ham,chasing chickens,not eating,laughing,cuddling,baking cookies,combing their hair,drinking whole milk by the gallon,giving haircuts,telling vacation stories,playing hopscotch,yelling,doing ice sculptures",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Shape Up",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dormidos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "David Lloyd Clubs presentó una nueva clase de fitness en 2017 en su local de Sidcup, Londres. Para ponerse en forma, los participantes estuvieron 45 minutos <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sleeping,in bed,snoozing,napping",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]David Lloyd Clubs unveiled a new fitness class in 2017 to their Sidcup, London location. To get in shape, people spent 45 minutes <BLANK>.",
+            "t": "A",
+            "v": "606037_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

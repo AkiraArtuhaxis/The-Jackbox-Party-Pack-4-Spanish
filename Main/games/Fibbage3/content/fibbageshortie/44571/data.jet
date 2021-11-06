@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "water parks,gyms,banks,museums,ping pong tables,video arcades,headquarters,massage parlors,statues,toy stores,watchtowers,paint ball arenas,wifi hotspots,man caves,bunkers,Irish pubs,phones,Taco Bells",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Finnish Military",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "saunas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ejército de Finlandia es único porque proporciona a sus tropas <BLANK> móviles.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sauna,sauna rooms,sauna tents",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I blame the sauna-industrial complex.",
+            "t": "A",
+            "v": "591527_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Finland’s military is unique in that they provide their troops with mobile <BLANK>.",
+            "t": "A",
+            "v": "591524_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

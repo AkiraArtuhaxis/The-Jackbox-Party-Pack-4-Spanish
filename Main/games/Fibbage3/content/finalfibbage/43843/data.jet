@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dogs|orange,plums|prunes,TVs|possessed,blondes|brunettes,coins|magnetized,fruit|fermented,grass|roses,sewage|petrified,pumpkins|watermelons,money|worthless,roosters|hens,hair|curly,cheese|blue,jeans|cutoffs,mailboxes|uprooted,food|tasteless,cows|red,police|military officers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Overnight Developments",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "agua|rosa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los residentes de Onoway, Alberta, Canadá se conmocionaron cuando se despertaron y descubrieron que la totalidad de su <BLANK> se había vuelto <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tap water|pink,water|red,tap water|red",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Residents of Onoway, Alberta, Canada were shocked when they woke up and found that all their <BLANK> had become <BLANK>.",
+            "t": "A",
+            "v": "571085_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

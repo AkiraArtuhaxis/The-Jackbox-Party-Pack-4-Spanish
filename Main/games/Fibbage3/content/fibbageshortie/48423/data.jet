@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "an early draft of the Constitution,a secret sex room,plans for a time machine,letters from 3 different princesses,the score for a musical about cats,a painting of James Madison’s dog,a design for tri-focals,notes for a new religion,a collection of women’s underwear,an escaped zoo crocodile,teenagers making out,a homeless man,wine worth over $1 billion,a Thomas Jefferson robot,four lost Shakespeare plays,hundreds of kites,beautiful hardwood floors,a g-g-g-ghost!",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Franklin Findings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "15 cuerpos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante una reforma en 1998 de la casa de Ben Franklin en Londres, los historiadores se sorprendieron al descubrir <BLANK> en el sótano del padre fundador.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cadáveres humanos,esqueletos,cuerpos,cuerpos humanos,huesos humanos,quince cuerpos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The remains probably came from an anatomy school that shared the building...probably.",
+            "t": "A",
+            "v": "687022_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During a 1998 renovation of Ben Franklin’s London home, historian’s were surprised to uncover <BLANK> in the founding father’s basement.",
+            "t": "A",
+            "v": "687019_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a tank,a submarine,a spacesuit,the weinermobile,a semi,a firetruck,a bulldozer,a helicopter,Airforce One,full riot gear,Justin Bieber’s skin,anime cosplay,a block of ice,a rollercoaster car,a straight jacket,a DeLorean,the Ghostbusters ECTO-1,a giant cockroach",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "prom arrivals",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un ataúd",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Quién necesita una limusina? Pues la adolescente de Nueva Jersey Megan Flaherty no. Ella atrajo la mirada de muchas personas llegando a su baile de egreso en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a hearse,coffin,hearse",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I actually LEFT my prom in a coffin, but that was just a mixup. Haha, funny story. No time for it now though.",
+            "t": "A",
+            "v": "646140_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Who needs a limo? Not New Jersey teen Megan Flaherty. She turned a lot of heads by arriving to her prom in <BLANK>.",
+            "t": "A",
+            "v": "646137_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

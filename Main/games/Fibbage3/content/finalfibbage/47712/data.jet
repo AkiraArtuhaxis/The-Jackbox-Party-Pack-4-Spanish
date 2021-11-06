@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "books|chocolate,DVDs of Halloween|Halloween II,furniture|a job,fun dip|cigarettes,room|board,Moose Tracks ice cream|computer help,college tuition|car payments,a pack of gum|investment advice,a waxing|a manicure,a hardboiled egg|a glass of water,shoes|a dress,a deck of cards|a little bit of magic,hair gel|an old cellphone,a gun|a time machine,a car battery|three live snakes,a picture|a love note,sulfer|human bones,fresh produce|a new juicer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Professional Requests",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "$60|nachos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En noviembre de 2016, una mujer de Ohio publicó un anuncio en Backpage.com fue atrapada por ofrecer sexo a cambio de <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "money|nachos,cash|nachos,$50|nachos,nachos|money,nachos|$60,nachos|$50,chips|money,chips|$60,chips|$50,money|chips,cash|chips,$50|chips",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Hey, you know what, Ohio, there’s nothing wrong with knowing what you want.",
+            "t": "A",
+            "v": "666417_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In November 2016, an Ohio woman who placed an ad on Backpage.com was busted for offering sex in exchange for <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "666414_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

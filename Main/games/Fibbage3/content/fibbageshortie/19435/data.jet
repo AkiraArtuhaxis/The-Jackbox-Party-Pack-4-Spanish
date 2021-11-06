@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "income,fashion,home,pet,vehicle,sense of humor,knees,lawn,hair style,scream,voice,handshake,mail box,career,breath,cough,laugh,sneeze",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Strange Attractions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "intelecto",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un \"sapiosexual\" es alguien que está sexualmente atraído por el <BLANK> de una persona.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "inteligence,smarts,mind,human mind,brain,IQ",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]When I look at that poster of Einstein sticking his tongue out, I get all hot and bothered.",
+            "t": "A",
+            "v": "385832_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A “sapiosexual” is someone who is sexually attracted to a person’s <BLANK>.",
+            "t": "A",
+            "v": "385829_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

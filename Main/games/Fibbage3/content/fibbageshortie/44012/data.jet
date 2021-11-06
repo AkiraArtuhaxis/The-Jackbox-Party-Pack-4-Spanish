@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "seaweed,eel,scorpion,snake,sake,azuki bean,leek,sesame & sorrow,carp,radiation,macaroni,teen angst,sushi,gravy,Godzilla,canker sore,stupid,sunflower",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Eat It",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "avispa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los jibachi senbei son unos peculiares snacks japoneses, también conocidos como galletas de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "digger wasp,wasps",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Oh yeah... I’ve heard the buzz about these.",
+            "t": "A",
+            "v": "575666_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Jibachi senbei are an odd Japanese snack treat also known as <BLANK> crackers.",
+            "t": "A",
+            "v": "575663_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

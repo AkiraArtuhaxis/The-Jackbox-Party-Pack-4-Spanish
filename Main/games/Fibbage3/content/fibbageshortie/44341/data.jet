@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "calligraphy,boxing,time traveling,rodeo,binge eating,kite flying,spelunking,weather,card counting,lumberjack,opera singing,whaling,pottery,wig making,speedwalking,Guys Named Ben,lasso,robotics",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Franklin Fame",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Natación",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En honor a uno de sus logros menos reconocidos, Ben Franklin fue ingresado en 1968 al Salón Internacional de la Fama de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Swim",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]As a teenager Franklin invented a type of swim fins… while when I was a teenager I got banned from the public pool.",
+            "t": "A",
+            "v": "585515_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In honor of one of his lesser known accomplishments, Ben Franklin was a 1968 inductee into the International <BLANK> Hall of Fame.",
+            "t": "A",
+            "v": "585512_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

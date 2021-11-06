@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "butthole,house,mind,bread,dollar sign bag,nose,conscience,tea,glove,heart,map,fuse,thong,penis,mother,shed,safety deposit box,reputation",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Weeth the Berning",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sombrero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La forma rusa de decir \"Una mente culpable se traiciona a sí misma\" se traduciría como \"El <BLANK> de un ladrón está ardiendo.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "566085_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Russian criminals must be easy to spot",
+            "t": "A",
+            "v": "566083_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Russian way to say “A guilty mind betrays itself” translates as “A thief’s <BLANK> is burning.”",
+            "t": "A",
+            "v": "566080_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

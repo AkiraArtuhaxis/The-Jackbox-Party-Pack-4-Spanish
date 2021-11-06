@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "drogas,peluches,cachorros,casetes VHS,abrazos,trabajo de jardín,estéreos,biblias,autos,carne,armas,pantimedias,calaveras,cuchillos,iPads,chaquetas de cuero personalizadas,dinero,tarjetas de béisbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "door-to-door service",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dinamita",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el estado de Arkansas, un hombre llamado Johnny Lee Nichols fue arrestado por ofrecer puerta a puerta intercambiar <BLANK> por sexo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "explosivos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]By the way, no one took him up on the offer.",
+            "t": "A",
+            "v": "320500_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In Rogers, Arkansas, a man named Johnny Lee Nichols was arrested for going door to door offering to trade <BLANK> for sex.",
+            "t": "A",
+            "v": "320497_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

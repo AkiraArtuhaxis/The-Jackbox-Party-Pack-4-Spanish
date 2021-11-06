@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a sensual massage,lollipops,tickets to Six Flags,insider trading tips,Diet Coke,Double-stuffed Oreos,copies of Blade Runner,juggling lessons,whale blood injections,Batman figurines,laser eye surgery,a vidalia onion,judo lessons,a Teen Titans comic book,a drumstick ice cream,an ankle tattoo,a NY Mets baseball hat,ten pounds of corn",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Freebies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una revista porno",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desde 1983, los miembros del Congreso de los Estados Unidos han recibido todos los meses <BLANK> gratis.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Hustler,an issue of Hustler,copies of Hustler,the latest HUstler,Hustler Magazine",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Publisher Larry Flynt sends them as his way to keep Congress well-endowed... informed. I said informed.",
+            "t": "A",
+            "v": "677345_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]You think your job has perks? Once a month since 1983, every member of the U.S. Congress has received <BLANK> absolutely free.",
+            "t": "A",
+            "v": "677342_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "illegal cloning,poaching,driving a Prius drunk,quoting Austin Powers,littering,starting a cult,improper recylcing,accidental cannibalism,starting forest fire,starting a ponzi scheme,spray painting trees,dumping jet fuel into a creek,clubbing a seal,public urination,knocking over a redwood,improper tie dying,tax evasion on a commune,not bathing",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Earth Day",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "compostar a su novia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El cofundador del Día de la Tierra, y maestro de ceremonias en la primera marcha del Día de la Tierra, fue arrestado más tarde por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "killing his girlfriend,murdering his girlfriend,murder,killing and composting his girlfriend",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was a horrific crime but at least he was on brand.",
+            "t": "A",
+            "v": "597913_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The co-founder of Earth Day, and Master of Ceremonies at the first Earth Day rally, was later arrested for <BLANK>.",
+            "t": "A",
+            "v": "597910_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

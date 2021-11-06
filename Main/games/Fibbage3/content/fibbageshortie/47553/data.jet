@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "polar bear death,the world and melting with you,Hummers from starting,the Earth from spinning,ice from melting,people from complaining,the sun from shining,fast cars being so cool,oil from burning,super intelligent insects,baby boomers from littering,meteors with lasers,the evil Looten Plunder,your uncle’s cigar habit,styrofoam parties,trash barges from leaving port,carbon from existing,whiny hippies",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Going Green",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los eructos de vaca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "DSM, una empresa de Holanda, inventó un nuevo producto que podría ayudar a salvar el medio ambiente al detener <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cows from burping,burping cows,cows",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The drug reduces greenhouse gasses from burping cows by 30%.",
+            "t": "A",
+            "v": "662441_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]DSM, a company from the Netherlands, invented a new product that could help save the environment by stopping <BLANK>.",
+            "t": "A",
+            "v": "662438_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

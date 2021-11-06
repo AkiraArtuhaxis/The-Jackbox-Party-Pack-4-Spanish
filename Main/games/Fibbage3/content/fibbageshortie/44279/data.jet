@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "point at,look into the eyes of,spoon,share fries with,slow dance with,shapeshift into,impersonate,mind control,shout at,send business letters to,play music for,give a present to,dream about,cook,disappoint,paint,sue,eat dinner with",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Legalize It",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "molestar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A pesar de ser por 38 años un crimen, en 2014 la ciudad de Grand Rapids oficialmente legalizó el <BLANK> a otra persona.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "bother,bug",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The old law was declared unconstitutional in the case Grand Rapids v. I know you are but what am I.",
+            "t": "A",
+            "v": "583595_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Despite it being a crime for the last 38 years, in 2014 Grand Rapids officially made it legal to <BLANK> another person.",
+            "t": "A",
+            "v": "583592_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

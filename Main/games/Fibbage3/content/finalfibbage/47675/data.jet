@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a can|a keyboard,bottles of relish|pictures of George Bush,glasses|brick walls,her car|piles of stuffed animals,cats|cotton candy,her butt|garbage,action figures|used diapers,strangers|each other,candy|her friend’s mouth,her feet|Elmer’s glue,paint balls|old refrigerators,bald men|trampolines,pictures of Nixon|a blender,your expectations|dust,diamonds|wads of gum,her enemies|cement pylons,robots|government buildings,salt|her open wounds",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Strange Instagrams",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su cara|pan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hay una cuenta de Instagram con más de 170 mil seguidores que consiste solamente una mujer golpeando <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "face|bread,bread|her face,bread|face,her face|different bread",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]We have the internet we deserve.",
+            "t": "A",
+            "v": "665432_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Strangely, there’s an Instagram account with over 170,000 followers that consists of only a woman smashing <BLANK> into <BLANK>.",
+            "t": "A",
+            "v": "665429_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

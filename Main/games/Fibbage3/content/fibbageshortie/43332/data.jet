@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "self-driving cars,teens,loud children,canvassers,Cubs foul balls,rollerbladers,counterfeit pinball machines,door-to-door salesman,cheap public toilets,deer in the city,crazed seagulls,couples that jog together,runaway Segways,state senators,pizzas that are too deep,carnival workers,randy lifeguards,hot dog vendors",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sweet Revenge",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ardillas agresivas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un mes después de denunciar públicamente “<BLANK>”, el concejal de Chicago Howard Brookins resulto gravemente herido en un accidente causado por uno.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "squirrels,squirrel,an aggressive squirrel,aggressive squirrel,a squirrel",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]One month after publicly denouncing “<BLANK>,” Chicago Alderman Howard Brookins was seriously injured in an accident caused by one.",
+            "t": "A",
+            "v": "560560_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

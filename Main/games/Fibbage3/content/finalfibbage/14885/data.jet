@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Love|Dog,Miss|Job,Know|Neighbor,Like|Parents,Eat|Greens,Need|Kidneys,Miss|Grandma,Appreciate|Brain,Wrestle|Pig,Drink|Sorrows,Like|Face,Look|Age,Believe|Senator,Want|Life,Want|Prize,Burn|Toast,Satisfy|Partner,Sleep|Life Away",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Johnny Carson",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Confías|Esposa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "De 1957 a 1962, Johnny Carson fue presentador de un programa de juegos llamado (en español) <i>¿<BLANK> en tu <BLANK>?<\/i>",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Carson was divorced three times.",
+            "t": "A",
+            "v": "329699_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]From 1957 to 1962, Johnny Carson hosted a game show called <i>Do You <BLANK> Your <BLANK>?<\/i>",
+            "t": "A",
+            "v": "329696_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Stormy Eyes,Wacky Wind,No Blowin’,Hurrican’t,Cyclo-Nope,Passing Wind,Anti-Breeze,Weird Weather,Boring Earth,Bad Day for Sailing,Motion of the Ocean,Flannel Earth,Cheeky Moon,Sunday Sundae,Chunky Air,Chapped Lips,Quiet Night,Funky Breeze",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Theorems",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La bola peluda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Existe un teorema algebraico que, cuando se aplica a la meteorología, sugiere que debe haber un punto en la Tierra sin viento. El extraño nombre de esta idea es el teorema de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "harry ball,ball hair,hairy balls,harry balls",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It comes from the idea that you can’t comb all the hair on a ball flat without a cowlick. (sfx: zipper zipping) Believe me. I’ve tried.",
+            "t": "A",
+            "v": "671005_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]There’s an algebraic theorem that, when applied to meteorology, suggests that there must be a spot on Earth with no wind. The odd name of this idea is the <BLANK> Theorem.",
+            "t": "A",
+            "v": "671002_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

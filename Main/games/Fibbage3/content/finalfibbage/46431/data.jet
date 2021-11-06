@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Fred Savage|Frank Sinatra,Prince|Michael Jackson,Fred|Wilma Flintstone,Tom Cruise|Tom Hanks,Jon Hamm|Daniel Radcliffe,Shia LeBeouf|Zac Efron,Ted Danson|a corgi,Sylvester Stallone|Arnold Schwarzenegger,Shari Lewis|Lambchop,Batman|Robin,George|Barbara Bush,Kirk|Picard,Michael Cera|a piece of wood,George Burns|Gracie Allen,Mario|Luigi,Elmo|Dora the Explorer,Brad Pitt|Eddie Murphy,Lady Gaga|Adele",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Property Brothers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "David Bowie|Adam Lambert",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Jonathan y Drew Scott, AKA los \"Hermanos a la obra\", tienen un hermano mayor llamado JD que ha actuado en Las Vegas como un imitador de <BLANK> y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Bowie|Adam Lambert,Adam Lambert|David Bowie,Adam Lambert|Bowie",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]I mean I’m sure he mocks his brothers but he doesn’t get paid for it.",
+            "t": "A",
+            "v": "644374_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Jonathan and Drew Scott, AKA the Property Brothers, have an older brother named JD who has performed in Las Vegas as an impersonator of <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "644367_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

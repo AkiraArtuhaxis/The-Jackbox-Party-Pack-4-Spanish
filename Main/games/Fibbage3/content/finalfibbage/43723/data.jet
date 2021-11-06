@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "assault|senses,Feasting|Undies,horrors|imagination,Melting|snowmen,children|devil,painting|Elvis,the coming|dark lord,yelling|cats,shaming|sinners,Anger|mermaid,the dance|the virgins,raising|voices,waltz|werewolves,fire|belly,flight|fishes,sadness|cactus,Dancing|spiders,tears|Sinbad",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mexican Traditions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Noche|Rábanos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 23 de diciembre en Oaxaca, México, los locales hacen fila por horas para ver exhibiciones extrañas como parte de un evento anual conocido como <BLANK> de los <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Noche|Rabanos,Night|Radish,Festival|Radish,Festival|Radishes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On December 23rd in Oaxaca, Mexico, locals line up for hours to view strange exhibits as part of an annual event known as <BLANK> of the <BLANK>.",
+            "t": "A",
+            "v": "568599_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

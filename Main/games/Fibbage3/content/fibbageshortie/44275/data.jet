@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "braces,flame tattoos,mixtapes,glow-in-the-dark fins,golden lockets,sonar helmets,porn star names,hope,tickets to Sea World,warning bells,a stern lecture,softer teeth,a fear of humans,headaches,free lunches,heavy vests,baseball hats,electric collars",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Shark Problems",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "acceso a twitter",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un intento de reducir los ataques de tiburones, los investigadores del gobierno de Australia les dieron <BLANK> a más de 300 tiburones.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "twitter,twitter accounts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The sharks automatically tweet out their locations. And a lot of fish-related puns to @midnight.",
+            "t": "A",
+            "v": "583475_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an attempt to reduce shark attacks, government researchers in Australia gave over 300 sharks <BLANK>.",
+            "t": "A",
+            "v": "583472_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

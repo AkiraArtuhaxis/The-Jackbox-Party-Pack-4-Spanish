@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "spend the night in a haunted mansion,dress up like Frogger,write a mean letter to Mario,play Crazy Taxi for 24 hours,step in the ring with Mike Tyson,play every Mary Kate and Ashley game,move out of their parents’ house,go on a date with a wrestler,clean up after John Madden,break into their competitor’s office,build a life-size Stargate,eat a Gameboy,do a stunt from Goldeneye,hold their breath for 4 minutes,donate blood,surf blindfolded,get a Smash TV tattoo,marry their CEO",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Desperate Marketing",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "nombrara a su hijo Turok",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2002, para promocionar un videojuego, Acclaim ofreció 10 mil dólares a cualquiera que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "name their kid Turrok,name their child Turock",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Turok or not Turok? That is the question.",
+            "t": "A",
+            "v": "385904_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]To promote a 2002 video game, Acclaim offered $10,000 to anyone who would <BLANK>.",
+            "t": "A",
+            "v": "385901_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

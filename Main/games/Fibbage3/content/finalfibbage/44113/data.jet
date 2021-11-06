@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "kiss|a bench,poop|a lunch tray,jump|some trashcans,pray|a dead yak,skip|trash,sunbathe|an abandoned mall,sing|skateboards,ski|mud mountain,vomit|interns,fight|a landfill,shoot skeet|a submarine,grill burgers|a running car engine,throw darts|iceskates,get drunk|a game show,yell obscenities|a school bus,read poetry|Lenin’s grave,make wine|an abandoned nuclear reactor,flex|a dead bear",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "astronaut traditions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orinan|una llanta de autobús",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los astronautas que salen de Baikonur Cosmodrome en Kazakhstán tienen un ritual raro. Antes de abordar, ellos <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pee|a tire,urinate|a bus tire,urinate|a tire,pee|a tire",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Astronauts leaving from Baikonur Cosmodrome in Kazakhstan have an odd ritual. Before boarding, they <BLANK> on <BLANK>.",
+            "t": "A",
+            "v": "578824_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

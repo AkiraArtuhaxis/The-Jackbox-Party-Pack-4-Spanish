@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Brigham Young’s Scrotum,Frank’s Place,Mt. Helmet,The Tall Guys,Mt. Thrust,The Scary Place,Boobie Butte,Mt. Mormon,The G Spot,Karl’s Malone,Pike’s Penis,The Jazz Palace,Intercourse Hill,Peak Peak,Lubed Peak,Makeout Summit,Testicle Tower,Mt. Death",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dirty, Dirty",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "El pezón de Mollie",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Al menos siete picos de montaña diferentes en Utah comparten el peculiar nombre “<BLANK>.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Mollies Nipple,Mollies Nipples,Molly’s Nipple,Mollys Nipple,Mollys Nipples,Molly’s Nipples,Molly,Mollie",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They get taller in the winter.",
+            "t": "A",
+            "v": "560863_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]At least seven different mountain peaks in Utah share the odd name “<BLANK>.”",
+            "t": "A",
+            "v": "560860_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

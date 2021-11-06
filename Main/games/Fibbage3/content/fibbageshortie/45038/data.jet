@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a majestic mesa,a human surrogate,an abadoned farm,no sleep,the horse’s dung,a slow-moving train,fire wood,shrooms,a football field,two desks pushed together,lots of caffeine,a used rug,ambien,an autoposy table,a trampoline,recycled newspaper,bamboo reeds,loose gravel",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Horse Surgery",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una cama de agua",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Necesitas hacerle cirugía a un caballo? Puede sonar extraño, pero muchos manuales de veterinarios recomiendan colocar al caballo en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "waterbeds,a water bed,water beds",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Because every horse surgery must always begin... with seduction.",
+            "t": "A",
+            "v": "603199_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Need to do some horse surgery? It may seem odd, but many veterinary manuals recommend laying the horse down on <BLANK>.",
+            "t": "A",
+            "v": "603196_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

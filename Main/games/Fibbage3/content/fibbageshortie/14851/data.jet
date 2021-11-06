@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "carros,ropa interior,aviones,observadores de desfiles,bañeras,empleados bancarios,casas en los árboles,observadores de tornados,perros,astronautas,aves,proctólogos,ciegos,observadores de aves,tanques,mirones,peces,alcantarillas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "patented periscopes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ataúdes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1908, George Willems inventó y patentó un periscopio para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tumbas,muertos,cementerios,crematorios,cadáveres,cadaveres,sarcófagos,sarcofagos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was for loved ones to check if you were buried alive. Of course now we just use cell phones.",
+            "t": "A",
+            "v": "329011_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1908, George Willems invented and patented a periscope for <BLANK>.",
+            "t": "A",
+            "v": "329008_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

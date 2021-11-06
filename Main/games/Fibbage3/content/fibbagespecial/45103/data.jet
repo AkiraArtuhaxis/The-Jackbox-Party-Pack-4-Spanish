@@ -1,0 +1,107 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "flavortown,The Aquarium,a Terrible Zoo,dad’s pool,Sea World,some ocean,Poseidon’s Nightmare,water or something,Atlantis,the little mermaid,crazy land,the moon,a Wendy’s,the racetrack,the land of the faeries,my nightmare,the fair grounds,the seahorse fights",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Un viaje",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un Spa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Photo",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Esta ilustración austriaca de 1907 se titula \"Viaje a <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "el spa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "605120_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "v": "605143_1",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I’ve always found it relaxing to torture a sea horse.",
+            "t": "A",
+            "v": "605118_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]This 1907 illustration from Austria is entitled “Trip to <BLANK>.”",
+            "t": "A",
+            "v": "605115_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

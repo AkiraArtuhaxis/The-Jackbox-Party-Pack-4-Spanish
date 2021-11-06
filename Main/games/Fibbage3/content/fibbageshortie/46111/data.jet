@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shoe polishing,grass mowing,pillow fluffing,floor sweeping,toast making,shower cleaning,book humping,waiting in line,knot tying,lizard birthday,lightbulb testing,Chevy Chase conspiracy,flossing,moth watching,extreme blinking,sock naming,gum review,fork testing",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "niche videos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "reventándose granos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si crees que los vídeos de unboxing de productos son raros, entonces claramente no has visto la página de YouTube de Vikram Yadav. Es conocido por subir videos <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "zit-popping,pimple popping,acne,zit,pimple",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]How can people find that entertaining? Now excuse me, there’s a new Russian Grandma Escalator Fails video I need to watch.",
+            "t": "A",
+            "v": "635256_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you think product unboxing videos are weird, then you clearly haven’t checked out Vikram Yadav’s YouTube page. He’s known for uploading <BLANK> videos.",
+            "t": "A",
+            "v": "635253_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

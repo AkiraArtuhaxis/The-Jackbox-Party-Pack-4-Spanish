@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beatbox,destroy the Daily Planet,call Batman “a jerk”,eat the sun,forget his name,move to Brazil,think he’s a cow,join the circus,become afraid of flying,wear denim,marry Lois Lane,destroy his credit rating,reveal his secret identity,quit the Daily Planet,go back to college,write a hit rock song,shave his head,wear a dress",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Superman Trance",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "filmar un video sexual",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los ejemplares de <i>Action Comics<\/i> #592 y #593 son notables porque un villano con poderes psíquicos fuerza a Superman a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "make a porno,be a porn star,be in a porno,have sex,have sex on tape,have sex on film",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And in a tiny thought bubble he thinks, “Just think of Krypton exploding, just think of Krypton exploding.”",
+            "t": "A",
+            "v": "387734_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Action Comics #592 and 593 are notable because a villain with psychic powers forces Superman to <BLANK>.",
+            "t": "A",
+            "v": "387731_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

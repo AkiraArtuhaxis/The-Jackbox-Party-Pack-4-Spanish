@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "antique cannon,Leopard,Panther,Bull,knife throwing machine,Snapping turtle,guillotine,Moose,collection of poisons,circus troupe,fight club,model train set,team of personal assassins,lawn darts,loaded guns,custom sprinkler system,crossbows,dance parties",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dangerous Presidents",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Oveja",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Incluso después de la muerte de un niño en el jardín de la Casa Blanca, Thomas Jefferson se negó a deshacerse de su peligrosa <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Cordero,Borrego",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If he’s remembered for just one thing, let it be this.",
+            "t": "A",
+            "v": "573183_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Even after the death of a child on the White House lawn, Thomas Jefferson refused to get rid of his dangerous <BLANK>.",
+            "t": "A",
+            "v": "573180_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

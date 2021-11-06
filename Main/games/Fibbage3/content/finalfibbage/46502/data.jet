@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cher’s dad|an igloo,a dinosaur|an outhouse,a mariachi band|Pizza Hut,Crocodile Dundee|a zoo bathroom,a gorilla|a Nissan Versa,a rat|his ear,Christopher Colombus|a fanny pack,a vampire|a submarine,all of the Lassies|the bottom of a well,a kangaroo|lingerie,Bigfoot|a lamborghini,a catfish|a beer bottle,Indiana Jones|a refrigerator,lobster man|an Old Navy,a robot alien|a KFC,an Elvis impersonator|a washing machine,a wooly mammoth|a volleyball court,a sabretooth tiger|a coffee can",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Remains",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una ballena|la selva",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En abril de 2017, por las afueras del pequeño pueblo australiano Karunda, un contratista encontró los restos de <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "whale|rainforest,a whale|the rainforest,a whale|the rain forest,a whale|a rain forest",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That story makes me particularly sad because an 8 year old called me a whale after my chair broke at the Rainforest Cafe.",
+            "t": "A",
+            "v": "645372_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In April 2017, outside the small Australian town of Karunda, a contractor found the mysterious remains of <BLANK> in <BLANK>.",
+            "t": "A",
+            "v": "645369_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

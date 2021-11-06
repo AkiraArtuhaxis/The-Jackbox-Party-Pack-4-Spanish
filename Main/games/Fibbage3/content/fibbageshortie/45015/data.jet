@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "panda livers,scented candles,monkey fur,frozen pizzas,tube socks,bottled water,Far Side calendars,Cinnabons,bleached flour,lincoln logs,hand lotion,spaghetti,turtle eggs,go kart parts,almond butter,brazil nuts,tiki totems,kosher salt",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Airport Security",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "carne de yak",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las autoridades del aeropuerto JFK se encontraron con un buen botín en abril de 2017 cuando incautaron más de 300 libras en contrabando ilegal de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "yak",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]C’mon, if the answer was cocaine, would I have even bothered to ask? It’s gonna be something weird. Just...do better.",
+            "t": "A",
+            "v": "602753_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Thank goodness for those yak-sniffing dogs.",
+            "t": "A",
+            "v": "602749_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Authorities at JFK airport made an impressive bust in April 2017 when they seized over 300 pounds of illegally smuggled <BLANK>.",
+            "t": "A",
+            "v": "602746_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

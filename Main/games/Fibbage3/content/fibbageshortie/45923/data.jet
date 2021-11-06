@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "1000 Pete Rose baseball cards,Bill Gate’s drivers license,China,The Istanbul capital building,his twin,10 live condors,an ancient party sub,A spy room,a pit of cobras,a letter from his future self,A rat cave,A sleeping man,Egyptian mummies,The Holy Grail,$1 million,Thousands of diamonds,Stolen Egyptian loot,A copy of The Mona Lisa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Discoveries",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Una ciudad perdida",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mientras renovaba su casa en 1963, un turco en la región de Capadocia se sorprendió al encontrar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a city,city,lost city,forgotten city,a forgotten city,underground city,an underground city",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]While renovating his home in 1963, a Turkish man in the Cappadocia region was surprised to find <BLANK>.",
+            "t": "A",
+            "v": "630354_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

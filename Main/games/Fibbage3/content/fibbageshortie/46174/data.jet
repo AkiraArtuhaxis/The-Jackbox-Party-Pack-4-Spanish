@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "french kissing,John Cusack,pole vaulting,nipples,rednecks,alligators,baby poop,radishes,old people,smelly pee,Ford trucks,jock itch,Spanx,plane crashes,turtle punching,kangaroo detectives,mustache twirling,government spending",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Minecraft",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la crianza de loros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los desarrolladores del videojuego <i>Minecraft<\/i> generaron controversia en 2017 después de que los fanáticos criticaran la representación del juego de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "parrots,parrot,parrot feeding",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was too arousing. I assume.",
+            "t": "A",
+            "v": "637183_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The developers of the video game <i>Minecraft<\/i> drew controversy in 2017 after fans criticized the game’s depiction of <BLANK>.",
+            "t": "A",
+            "v": "637180_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

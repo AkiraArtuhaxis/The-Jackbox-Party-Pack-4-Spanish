@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Corgis,Phil Donahue,Richard Simmons,Garfield,Dilbert,Oprah,Stone Phillips,Madea,themselves,the 1968 U.S. Supreme Court,dinosaur chicken nuggets,ham sandwiches,WNBA legend Lisa Leslie,Tom from MySpace,the first Burger King,Frosty the Snowman,Bono,the drummer from Bon Jovi",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fan Appreciation",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Jar Jar Binks",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Altoona Curve, un equipo de béisbol de las ligas menores, tuvo una promoción realmente extraña para los aficionados en 2016. Sus jugadores llevaban camisetas con imágenes de <BLANK> en ellas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "jar jar binks,jar jar,jarjar binks,jarjar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The Altoona Curve, a minor league baseball team, held a really odd promotional night for fans in 2016. Their players wore jerseys with pictures of <BLANK> on them.",
+            "t": "A",
+            "v": "669130_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

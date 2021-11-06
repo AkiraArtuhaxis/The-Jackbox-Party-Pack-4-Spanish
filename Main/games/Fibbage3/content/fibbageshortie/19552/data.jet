@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "say “I love you”,remember her name,quit laughing,attend in person,pick her up,stop arguing with her dad,open a jar of pickles,stop calling planes sky cars,name the 1987 Buffalo Bills,stop yawning,get a chocolate fountain,look her in the eye,snap his fingers,dance,stand up,find Sri Lanka on a map,juggle,quote Pitch Perfect",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Wedding drama",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "do math",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una novia en Uttar Pradesh, India se fue de su boda cuando el novio no pudo <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "solve a math problem",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He probably couldn’t figure out how many times they’d argued over table settings.",
+            "t": "A",
+            "v": "388649_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A bride in Uttar Pradesh, India stormed out of her wedding when her groom was unable to <BLANK>.",
+            "t": "A",
+            "v": "388646_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

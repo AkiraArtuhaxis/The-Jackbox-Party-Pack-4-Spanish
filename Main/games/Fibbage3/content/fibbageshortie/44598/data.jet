@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hummus,human blood,gold coins,snake venom,rum,fire crackers,shrimp cocktail,hundreds of worms,scotch whiskey,vomit,nerve toxin,starfish semen,crab brains,monkey poop,lizard pee,a fish stomach,Mr. Pibb,Tylenol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "The Philippines",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un embrión de pato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La próxima vez que fiestes demasiado duro, prueba un \"balut\". Es una cura para la resaca en Filipinas que consiste en un huevo relleno con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "an embryo,a duck embryo,a duck fetus,duck,a duck,a fetus,fetus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](snobby, indignant) Personally I’d prefer to have that duck be born, and grow up inside a cage until I eat it, thank you very much.",
+            "t": "A",
+            "v": "592073_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Next time you party a little too hard, try “balut.” It’s a traditional Philippines hangover cure that consists of an egg filled with <BLANK>.",
+            "t": "A",
+            "v": "592070_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

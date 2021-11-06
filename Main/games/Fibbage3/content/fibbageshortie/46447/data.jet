@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "redwood trees,snowglobes,chicken bones,fire,a whisper,starlight,literal clouds,Kingachrome,VHS tapes...but BIGGER!,donkey hair,fortune cookies,bee pollen,THE MOON!,super books,your brain and remember it dummy!,chocolate,page-a-day calendars,a plastic bag",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Data Storage",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "diamantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Investigadores del City College de Nueva York encontraron un nuevo método para almacenar datos durante largos periodos de tiempo: guardar los datos en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a diamond,diamond",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Personally, I store all my Fibbage questions on this top of the line Zip disc. (SFX: old computer failing) Oooo... Oh well, I’ll just make the next one up.",
+            "t": "A",
+            "v": "644850_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Researchers from the City College of New York found a new method to store data for long periods of time: put the data in <BLANK>.",
+            "t": "A",
+            "v": "644847_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

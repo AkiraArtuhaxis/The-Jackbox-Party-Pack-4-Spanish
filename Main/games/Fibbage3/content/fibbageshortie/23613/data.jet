@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a hat,royal robes,a tent,bath towels,a book,a rug,coats for his army,a flag,a blanket,suspenders,rubber bands,a pair of boots,a painting canvas,a tablecloth,a death shroud,violin strings,chewing gum,a treasure map",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "SKIN",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tambores",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El general checo Jan Zizka ordenó a sus tropas antes de morir que quería que se removiera su piel y se utilizara para fabricar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "wardrum,war-drum,a drum,a wardrum,drum",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]No, but he did have thin skin",
+            "t": "A",
+            "v": "567853_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Hey, we should all march to the beat of our own skin.",
+            "t": "A",
+            "v": "415090_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Czech General Jan Zizka gave an order to his troops before he died that he wanted his skin to be removed and used to make <BLANK>.",
+            "t": "A",
+            "v": "415087_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

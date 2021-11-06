@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "osos de peluche,tías,dulces,funcionarios del gobierno,tazas de café,divorciados recientes,cortinas de baño,queso,anteojos,un jefe,niños,un alma,sujetadores,narices,cepillos de dientes,peces de colores,gatos,un recuerdo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Japanese Rentals",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ancianos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el extraño lugar de Ossan Rental en Japón, puedes alquilar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "hombres,hombres de mediana edad,hombres de tercera edad,viejos,personas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Personally, I recommend upgrading to a younger model.",
+            "t": "A",
+            "v": "339775_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]At Japan’s odd Ossan Rental you can rent <BLANK>.",
+            "t": "A",
+            "v": "339772_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

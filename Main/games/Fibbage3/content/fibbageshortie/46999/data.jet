@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a phone charging treadmill,the Fortune Teller machine from BIG,a solar powered Cinnabon,flying lessons,a really nice recycling bin,free hugs,a small nuclear reactor,a Tommy Bahama,Al Gore paintings,complimentary plastic surgery,working sinks,Craig T. Nelson,an animatronic band,actual weather,a mime,android security,a robot JFK,real silverware",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Renovations",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una granja de papas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, JetBlue se convirtió en la primera aerolínea en tener <BLANK> en su terminal del aeropuerto JFK.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a farm,an herb farm,potatoes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]But if you go there for lunch, be prepared for delays.",
+            "t": "A",
+            "v": "651758_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]It took years to accomplish, but in 2015, JetBlue became the first airline to have <BLANK> in their JFK terminal.",
+            "t": "A",
+            "v": "651755_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

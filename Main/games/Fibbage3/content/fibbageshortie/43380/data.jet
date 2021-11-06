@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "squirrel buffet,marijuana field,penny arcade,day care center,jousting school,satanic temple,yoga class,landfill,Arby’s,Starbucks,right wing radio station,UFO visitor’s center,erotic cooking school,taxidermy service,paintball range,tanning salon,bigfoot museum,private cemetery",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Unhand My Squirrels!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el club swinger",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Centro de Recuperación de la Fauna Squirrel Creek en Colorado fue clausurado en 2016. El propietario afirma que fue porque a las autoridades no les gusta <BLANK> que maneja en dicha propiedad.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "swinging club,club for swingers,swing club,swinger’s club,swingers’ club,sex club,brothel",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Oh what those squirrels have seen...",
+            "t": "A",
+            "v": "561728_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Squirrel Creek Wildlife Rescue in Colorado was closed in 2016. The owner claims it was because authorities didn’t like the <BLANK> he runs on the same property.",
+            "t": "A",
+            "v": "561725_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

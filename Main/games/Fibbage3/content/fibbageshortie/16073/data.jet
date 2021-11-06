@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "strip naked,throw pies,sing “The Star-Spangled Banner”,kiss people,eat,lasso sheep,wave,break bottles,dance,hunt deer,read his poetry,teach yoga,perform stand-up,shave his beard,die,eat a goldfish,draw caricatures,mud wrestle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ted Nugent",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "no se presente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Longview, Texas le pagó una vez a Ted Nugent más de 16.000 dólares para que <BLANK> en su celebración del Día de la Independencia de los Estados Unidos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "not play,not show up,not sing",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]For true artists, doing nothing isn’t about the money. It’s about being lazy.",
+            "t": "A",
+            "v": "355570_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Longview, TX once paid Ted Nugent over $16,000 to <BLANK> at their 4th of July celebration.",
+            "t": "A",
+            "v": "355567_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

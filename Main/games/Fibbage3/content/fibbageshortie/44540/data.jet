@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "levantan,educan,felicitan,critican,hablan,dan amor,molestan,dan luz,renuncian,cambian,conversan,pintan,regalan,enseñan un idioma,tatúan,leen,limpian",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ancient Buddhism",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "momifican",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "\"Sokushinbutsu\" es una antigua práctica budista, en la que los monjes se <BLANK> a sí mismos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Their only request was not to be put in a Tom Cruise movie.",
+            "t": "A",
+            "v": "590621_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]“Sokushinbutsu” is an ancient Buddhist practice in which monks would <BLANK> themselves.",
+            "t": "A",
+            "v": "590618_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

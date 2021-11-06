@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "the White House,Mt. Rushmore,the Eiffel Tower,Antarctica,active volcanoes,the Mir space station,the Moon’s craters,Mt. Kilimanjaro,the Vatican,Donald Trump’s golf bag,the Hawaiian Islands,the ocean floor,the Earth’s core,the Roman Coliseum,Mt. Fuji,the Great Wall of China,North Korea,Yankee Stadium",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Secret Gold",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "heces humanas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según el Servicio Meteorológico de los Estados Unidos, cientos de millones de dólares de oro y otros metales preciosos se ocultan en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "poop,shit,human shit,human poop",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That would explain all the prospectors checking out my butt.",
+            "t": "A",
+            "v": "390170_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to the U.S. Geological Survey, hundreds of millions of dollars of gold and other precious metals are hidden in <BLANK>.",
+            "t": "A",
+            "v": "390167_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

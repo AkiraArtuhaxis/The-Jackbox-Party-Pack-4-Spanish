@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "BULLZ RULE,PLAYA,BORT,MACKDADDY,10SNE1,KANYEWEST,OUTATIME,LEVIJEANS,BABABOOEY,HUSTLIN,WINNER,RAPKING,FASTBOY,MCDONALDS,BATMAN,COOLDAD,PICARD,FUN GUY",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Vanity Plates",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "1",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Actualmente, el récord en más dinero gastado en patentes personalizadas lo tiene un hombre de Abu Dabi que, en 2008, gastó unos 14 millones de dólares para que la suya dijera “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "one,number one,number 1,no 1,#1,the number 1",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]A lowercase L mighta been cheaper.",
+            "t": "A",
+            "v": "561943_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The record for the most money spent on vanity license plates is currently held by a man from Abu Dhabi who, in 2008, spent about 14 mill so his could say “<BLANK>.”",
+            "t": "A",
+            "v": "561940_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

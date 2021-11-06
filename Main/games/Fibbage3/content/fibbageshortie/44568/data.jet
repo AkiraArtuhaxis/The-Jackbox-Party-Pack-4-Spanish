@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "political prisoners,comedians auditioning for SNL,hackers,aspiring dictators,visitors to North Korea,pick up artists,pet groomers,his enemies,assassins,barbers,college graduates,gardeners,future U.S. presidents,young couples,busy parents,figure skaters,robots pretending to be human,big game hunters",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Required Reading",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cineastas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mientras no estaba ocupado siendo dictador de Corea del Norte, Kim Jong-il escribió y publicó un libro con consejos para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "film makers,movie makers,movies,film,directors,directing",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He said te camera’s job is to tell truths: like how love is blind and the supreme leader is 6 foot 8 and as strong as 11 Hulk Hogans.",
+            "t": "A",
+            "v": "591437_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When he wasn’t busy being dictator of North Korea, Kim Jong Il wrote and published a book of thoughtful advice for <BLANK>.",
+            "t": "A",
+            "v": "591434_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

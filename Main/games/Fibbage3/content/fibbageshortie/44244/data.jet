@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "facebook profiles,stupid names,texting habits,crossword puzzles,emoji usage,crooked smiles,out of date dictionaries,sense of entitlement,squeaky door hinges,hairy ears,witch problems,vampirism,nightmares,bad cooking,poor manners,webbed feet,habitual lying,addiction to disco",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fixed",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tatuajes mal escritos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, el Instituto Caro y Cuervo, un centro educativo colombiano, ofreció arreglar los <BLANK> de las personas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tattoos,tattoos with typos,tattoo typos,typos in their tattoos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If it were me I’d just tattoo a squiggly red line under the typo.",
+            "t": "A",
+            "v": "582479_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, the Caro y Cuervo Institute, a Colombian educational center, offered to fix people’s <BLANK>.",
+            "t": "A",
+            "v": "582476_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

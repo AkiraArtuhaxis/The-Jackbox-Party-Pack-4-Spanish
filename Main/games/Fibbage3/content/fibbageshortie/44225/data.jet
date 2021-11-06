@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Free Slushie Day,the Star Wars premiere,the Lost finale,America’s election day,National Don’t Vote Day,May the Fourth,the Sabbath,the apocolypse,free comic book day,Trump’s birthday,the nation’s birthday,the solar eclipse,trash day,a surfing contest,free donut day,leg day at the gym,the last election,Marty McFly travels to the future",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Election Day",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un concierto de Britney Spears",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Partido Laborista Israelí cambió la fecha de una elección de 2017 porque caía el mismo día que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a Brittany Spears concert,a concert,a Britney concert,the Britney Spears concert",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Oops I did it again, said the election commisioner, who realized he did the exact same thing last year.",
+            "t": "A",
+            "v": "581880_4",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Proving they understand the needs of the people, the Israeli Labor Party moved the date of a 2017 election because it was on the same day as <BLANK>.",
+            "t": "A",
+            "v": "581877_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Crystals,Warlocks,Buffalo,Wolves,Sheets,Fruit,the Sphynx,Cars,Mannequins,Avatars,Sims,Porn,Pirates,fire hydrants,canteloupes,unicorns,centaurs,aliens",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Love",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Fantasmas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer británica que se llama Amethyst Realm ha decidido dejar de estar con hombres, y ahora prefiere tener relaciones románticas con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "spirits,the dead,dead people",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I consider myself a man in the streets, a ghost in the sheets...haha...wait.",
+            "t": "A",
+            "v": "585844_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A British woman going by the name Amethyst Realm has publicly sworn off men and now prefers romantic relationships with <BLANK>.",
+            "t": "A",
+            "v": "585841_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

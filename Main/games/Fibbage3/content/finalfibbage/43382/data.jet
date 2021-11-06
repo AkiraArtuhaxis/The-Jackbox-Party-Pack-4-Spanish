@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "trash bag|cheese,paper bag|neckties,suitcase|fake fur,sofa|knives,wash tub|bowling balls,iron pipe|bees,backpack|weights,wedding dress|hams,laundry bag|mannequins,shopping cart|party horns,sleeping bag|radios,tuba case|firecrackers,carboard box|used grease,mattress|yogurt cups,minifridge|tripe,hammock|VHS tapes,napsack|quarters,sock|crickets",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cadaver imposter",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "duvet|cocos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En julio de 2015, la policía de Manchester, Inglaterra respondió a una llamada sobre un animal muerto en los canales. Pero no se preocupen. Resultó ser un <BLANK> lleno de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "blanket|coconuts,comforter|coconuts",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In July 2015, police in Manchester, England responded to a call about a dead animal in the canals. But don’t worry. Turns out it was just a <BLANK> stuffed with <BLANK>.",
+            "t": "A",
+            "v": "561755_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

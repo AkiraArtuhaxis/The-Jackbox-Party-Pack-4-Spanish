@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "people,giraffes,elephants,bears,deer,tigers,chimpanzees,Germans,bison,sloths,pandas,chimps,cows,robots,pigs,golfers,cats,lions",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Miniature Helpers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caballos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el 2011, la definición de \"animal de servicio\" de EE. UU. fue actualizada en la Ley para Estadounidenses con Discapacidades. Como alternativa a los perros, la ley ahora permite tener <BLANK> miniatura.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "horse,pony,ponies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Which seems unfair, because they already have a full-time job of looking adorable.",
+            "t": "A",
+            "v": "349497_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2011, the definition of a “service animal” was updated in the Americans With Disabilities Act. As an alternative to dogs, the act now allows miniature <BLANK>.",
+            "t": "A",
+            "v": "349494_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

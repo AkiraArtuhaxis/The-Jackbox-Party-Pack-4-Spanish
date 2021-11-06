@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "smelled by nerds,you’re lonely,they’re upside down,you’re rich,indoors,you have siblings,smelled by rats,they’re next to stinkweed,you’re blindfolded,you smell with your ears,you’ve just watched Full House,you’re told they smell good,banjo music is playing,you don’t know they’re roses,they’re chopped into pieces,they’re called by another name,you know your IQ,cats lick them first",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Roses",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "están en el espacio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1998, una corporación de perfumes, IFF, financió un estudio que descubrió que las rosas huelen diferente cuando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "weightless,there’s no gravity,you’re in space",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Turns out gravity affects smell.",
+            "t": "A",
+            "v": "603469_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1998, a perfume corporation, International Flavors & Fragrances, funded a study that discovered roses smell different when <BLANK>.",
+            "t": "A",
+            "v": "603466_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

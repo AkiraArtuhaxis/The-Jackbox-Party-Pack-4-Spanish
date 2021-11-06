@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "breakdancing,hosting a talkshow,chasing dogs,juggling fire,directing traffic,screaming at a puppet,throwing KFC coupons,making s’mores,caber tossing,challenging people to rap battles,tossing darts,building a pillow fort,smashing watermelons,cosplaying as Mega Man,offering free hugs,selling amish fudge,practicing standup comedy,licking cars",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Street Crime",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comiendo panqueques",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, la policía de Lakewood, Florida recibió una llamada acerca de un hombre que estaba <BLANK> en una calle concurrida.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "eating a pancake,pnck,pan cake,eating",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The real crime was that he was using LITE syrup.",
+            "t": "A",
+            "v": "574628_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, police in Lakewood, Florida were called about a man who was <BLANK> in a busy street.",
+            "t": "A",
+            "v": "574625_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

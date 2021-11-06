@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "competitive eating,breakdancing,tax returns,punk music,juggling,model train sets,archery,sewing,auto repair,voice over acting,comic books,home remodeling,fishing,bowling,trivia,cleaning,dentistry,chemistry",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bendy bendy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cerveza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La instructora de yoga alemana Jhula enseña una clase inusual que combina al yoga tradicional con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "booze,drinking beer,drinking booze,alcohol,drinking",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The most popular position is the downward facing drunk.",
+            "t": "A",
+            "v": "559573_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]German yoga instructor Jhula teaches an unusual class that combines traditional yoga with <BLANK>.",
+            "t": "A",
+            "v": "559570_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

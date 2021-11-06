@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pogs,printed out Tinder profiles,condoms,Big Bang Theory DVDs,vodka,straws,posters of the family,laser pointers,ninja stars,Bibles,adult magazines,non-alcoholic beer,bullets,baby chickens,kittens,yogurt,gold bars,her yearbooks",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "care packages",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "basura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Terri Cox no es como cualquier madre. Envió a su hijo, un estudiante universitario, un paquete lleno de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "garbage,trash bags,refuse",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was his trash and it was to teach him a lesson. The lesson was that his mom is weird.",
+            "t": "A",
+            "v": "564896_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Terri Cox isn’t your typical mother, as evidenced by the time she sent her son, a college student, a care package filled with <BLANK>.",
+            "t": "A",
+            "v": "564893_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

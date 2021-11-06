@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "spoons,chairs,pens,carpet samples,clues to his dastardly crimes,puzzle pieces,Luftballons,bottles of beer on a wall,spelling tests that he aced,reasons why Ringo is the best Beatle,dead flowers,get well soon cards,cupcakes,copies of blade runner on vhs,wheels of cheese,letters he wrote to santa,text messages he never sent,locks of hair",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "99",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "melones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si quieres recuperar algún ex, tal vez no sigas el ejemplo de un estudiante de la Universidad Henan en China. Trato de recuperar a su ex-novia con 99 <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "water melons,watermelon,melons",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yeah, this move doesn’t work unless your ex is Galllagher.",
+            "t": "A",
+            "v": "673104_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you want to win back an ex, maybe don’t follow the lead of a student at Henan University in China. He presented his former girlfriend with 99 <BLANK>.",
+            "t": "A",
+            "v": "673101_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

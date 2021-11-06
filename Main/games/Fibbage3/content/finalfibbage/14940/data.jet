@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "smiled|milk man,screamed|neighbor,whistled|mechanic,barked|dog,curtsied|farmer,waved|baby,blew kisses|husband,swung|sheriff,waved|mayor,swore|preacher,frowned|doctor,stared|mirror,burped|cereal aisle,shot an arrow|husband,yawned|competitors’ shelves,milked a cow|church,camped|factory,threw corn|governor",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Corn Flakes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "winked|grocer",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1907, Kellogg’s tuvo una promoción que ofrecía a las mujeres una caja gratuita de Corn Flakes si <BLANK> a su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "guiñaban el ojo|almacenero",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1907, Kellogg’s had a promotion offering women a free box of Corn Flakes if they <BLANK> at their <BLANK>.",
+            "t": "A",
+            "v": "330872_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sex,Mike’s Hard Lemonade,his tongue,his demon makeup,his unique bass sound,the lava lamp,Mork and Mindy,Watership Down,the color black,men’s hair grease,the fringed jacket,stamp collecting,Twister,the mood ring,chest hair,aviator sunglasses,his recipe for fake blood,spiked knee pads",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Kiss 1974",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el gesto de manos cornudas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El bajista de Kiss, Gene Simmons, diciendo que lo popularizó en los años 70, intentó brevemente registrar <BLANK> en 2017.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "devils horns hand gesture,devil horns hand gesture,devils horn hand gesture,devil horn hand gesture,devil’s horn hand gesture,devils horns,devils horn,devil horn,devil horns,the devils horns hand gesture,the devil horns hand gesture,the devils horn hand gesture,the devil horn hand gesture,the devil’s horn hand gesture,the devils horns,the devils horn,the devil horn,the devil horns",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Unfortunately, the devil sent him a cease and desist.",
+            "t": "A",
+            "v": "670065_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Claiming he’d made it popular in the ‘70s, Kiss bassist Gene Simmons briefly tried to trademark <BLANK> in 2017.",
+            "t": "A",
+            "v": "670062_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

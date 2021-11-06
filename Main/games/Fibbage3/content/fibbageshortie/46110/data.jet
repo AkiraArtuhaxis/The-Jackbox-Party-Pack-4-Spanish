@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a sense of humor,a mouth,a mother,a clue,a real name,a brain,a soul,a bedtime,lungs,to pay taxes,a date to the prom,body odor,memories,a very good user name,object permanence,TV privileges,DNA,fingerprints",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Have-Nots",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "raja del culo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El usuario de Reddit TBoneTheOriginal es conocido como el tipo que no tiene <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a butt crack,a butt,a buttocks,an ass,buttcrack,butt crack,butt,buttocks,ass",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Don’t google him if you aren’t ready for the pictures.",
+            "t": "A",
+            "v": "635226_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Reddit user TBoneTheOriginal is known as the guy who doesn’t have <BLANK>.",
+            "t": "A",
+            "v": "635223_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

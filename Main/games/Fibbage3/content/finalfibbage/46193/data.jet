@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sperm|surrogates,bikini tops|monkeys,candy|babies,dinosaur eggs|the past,sins|demons,Doctor Who episodes|the 1960s,jokes|broke comedians,blood|zookeepers,hamburgers|the Hamburglar,insects|Boston apartments,scary stories|inmates,unused pills|seniors,good karma|lucky people,wool|sick sheep,glitter|mattresses,jewelry|crime scenes,your stuff|your ex’s place,props|failed TV shows",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Odd Jobs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "naves robadas|piratas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "VessEx es un negocio con un mercado bastante pequeño. Colecciona <BLANK> de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ships|pirates,stolen property|pirates,ships|thieves,stolen ships|thieves",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]VessEx is a particularly niche business. It collects <BLANK> from <BLANK>.",
+            "t": "A",
+            "v": "637736_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

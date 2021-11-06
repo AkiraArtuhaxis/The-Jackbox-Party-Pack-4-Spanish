@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "go without underwear,eat an entire ham in six minutes,kiss their sister,catch a bullet with their teeth,take a guitar lesson,read the Lord of the Rings books,do a Christopher Walken impersonation,stop drinking for a week,spend a night in a haunted house,shave their body hair,adopt a child,adopt two cats,learn Portugese,attend a stranger’s wedding,give up their soul,let the government put a chip in their head,pee in front of a clown,strut nude through a public park",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fine print",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer 1000 horas de servicio comunitario",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, quienes se conectaron a wifi con Purple en Inglaterra aceptaron sin saberlo una cláusula legalmente vinculante que establece que deben <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "do community service,community service,do hours of community service,perform community service,perform 1000 hours of community service",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]You should always read the fine print. In 2017, people who connected to Purple wifi in England unknowingly agreed to a legally binding clause that states they must <BLANK>.",
+            "t": "A",
+            "v": "682533_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

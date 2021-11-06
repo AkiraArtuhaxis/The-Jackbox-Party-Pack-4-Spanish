@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gold woman,beaver,unicorn village,silver statue,money tree,door to heaven,fountain of youth,wish-granting cow,pile of money,talking tree,flying bear,elf city,spaceship,fig tree,three-headed bull,pepper mine,walking catfish,eagle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Rumors",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "montaña hecha de sal",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una de las razones por las que Thomas Jefferson estaba entusiasmado con completar la compra de Luisiana es porque había rumores sobre la presencia de un/a gigante <BLANK> en las orillas del río Misuri.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "mountain of salt,salt mountain",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Oh the lengths a man will go for salt.",
+            "t": "A",
+            "v": "609011_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]One of the reasons Thomas Jefferson was excited to complete the Louisiana Purchase is because there were rumors of a giant <BLANK> on the banks of the Missouri River.",
+            "t": "A",
+            "v": "609008_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

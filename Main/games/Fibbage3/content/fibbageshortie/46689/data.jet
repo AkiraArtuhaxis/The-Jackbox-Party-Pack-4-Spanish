@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "their mortality,defeating communism,war,their grade school crush,being fat,the devil,being wealthy,protection from vampires,oppression,space exploration,their mother,the California lifestyle,clowns,a friendly camel,fists,how great sugar tastes,The Depression,centipedes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Golden Arches",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "senos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "McDonald consideró deshacerse de su logotipo con arcos dorados en la década de los 60, hasta que un diseñador dijo que los arcos hacían a los clientes pensar en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "boobs,tits,titties,titty,tittys",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They say it adds Freudian appeal, but I just like McDonald’s because I want to marry my mom. Wait...",
+            "t": "A",
+            "v": "648260_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]McDonald’s considered getting rid of the golden arches logo in the 1960s, until a designer said the arches reminded customers of <BLANK>.",
+            "t": "A",
+            "v": "648257_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

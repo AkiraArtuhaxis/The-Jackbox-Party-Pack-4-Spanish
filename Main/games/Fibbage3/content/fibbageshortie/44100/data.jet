@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "thought of his mom,heard a capella music,yodelled,remembered the sun,ate hot dogs,spoke French,witnessed knitting,watched bad movies,snored,heard children laughing,watched The Simpsons,flew a kite,lost a bet,said his names backward,put on his shoes,mowed the lawn,took a shower,made waffles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Unreasonable Seizures",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacía sudokus",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En diciembre de 2015, los investigadores de la Universidad de Múnich informaron del extraño caso de un estudiante que sufría convulsiones cada vez que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "solved a sudoku,sudoku,did a sudoku puzzle,did sudoku puzzles,solved a sodoku,sodoku,did sodoku,did a sodoku puzzle,did sodoku puzzles",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I get it: My nose bleeds every time I try to do the crossword.",
+            "t": "A",
+            "v": "578437_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In December 2015, Researchers at the University of Munich reported the strange case of a student who had seizures every time he <BLANK>.",
+            "t": "A",
+            "v": "578434_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "moon dust,soul,cookie recipe,X-Files DVDs,recycled glass bottles,Tang,laser pointer,favorite baseball hat,pet chipmunk,dehydrated ice cream,pen,stamp collection,photo of Nixon,space suit,voice,scented candles,hummel figurines,monkey’s paw",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Space Suits",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una vez Neil Armstrong amenazó con demandar a un hombre si no le devolvía al astronauta su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "hair clippings,cut hair,hair cuttings,locko of hair",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Armstrong’s barber sold his hair clippings without permission for $3,000. Which probably means this moon hair I bought for 10 grand is fake...",
+            "t": "A",
+            "v": "583895_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Neil Armstrong once threatened to sue a man if he didn’t return the astronaut’s <BLANK>.",
+            "t": "A",
+            "v": "583892_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

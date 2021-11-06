@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "America,her mom’s fine china collection,her father,George Washington’s hair,himself,salt water taffy,Prince,his creditors,a clown named “Bobo”,Curly Joe DeRita,jeggings,a rabid dog,the Earth,corkboard,a flock of geese,a lost teddy bear,a beached whale,the horseless carriage",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my condolences",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una ardilla",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1772, Benjamin Franklin escribió una carta para alegrar a una amiga triste, en la que decía cosas bonitas acerca de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a dead squirrel,her pet squirrel,her dead squirrel,squirrels",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It began “Alas, poor Mungo...” and somehow had zero nut-related puns.",
+            "t": "A",
+            "v": "641460_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1772, Benjamin Franklin wrote a letter to cheer up a grieving friend in which he said nice things about <BLANK>.",
+            "t": "A",
+            "v": "641457_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

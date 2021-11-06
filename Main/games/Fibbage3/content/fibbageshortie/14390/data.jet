@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "desayunos,HBO,ventanas,visitas conyugales,guardias,una mascota oficial,cañones,comidas preparadas,televisores,mantas y almohadas,cachorros,clases de arte,aire acondicionado,terapia grupal,internet,biblioteca,insectos,retretes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Prison Features",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "duchas con agua caliente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante el tiempo que estuvo abierta, Alcatraz fue la única prisión federal que tenía <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "agua caliente",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That was before SOMEBODY hogged all the hot water. I’m talking to you, Block C.",
+            "t": "A",
+            "v": "319871_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During the time it was open, Alcatraz was the only federal prison that had <BLANK>.",
+            "t": "A",
+            "v": "319868_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

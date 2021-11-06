@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "personal foot masseuse,mustache trimmer,chief bedtime story reader,badger keeper,complimenter general,back hair plucker,traveling narrator,human grocery bag holder,father,bestest friend,toupee washer,fake spouse,hype man,beard comber,friend that isn’t as cool as him,court jester,therapist,microwave attendant",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Facebook contest",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "doble de cuerpo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, el político mexicano Renato Tronco Gomez le ofreció al ganador de un concurso de Facebook el honor particular de servir como su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "stand in,doppelganger,duplicate,double,twin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Must have at least five years experience looking exactly like Renato Tronco Gomez.",
+            "t": "A",
+            "v": "409331_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, Mexican politician Renato Tronco Gomez offered the winner of a Facebook contest the unique honor of serving as his <BLANK>.",
+            "t": "A",
+            "v": "409328_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

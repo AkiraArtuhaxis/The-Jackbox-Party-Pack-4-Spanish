@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "republican|democrat,an astronaut|a cosmonaut,vegetarian|a carnivore,too hot|too cold,young|old,a grandfather|a grandmother,a cowboy|an indian,a U.S. vice president|a British spy,Time Person of the Year|a soviet spy,ambidextrous|missing both hands,always happy|always crying,a dictator|a poet,a teacher|too cool for school,underdressed|overdressed,elected mayor|banned from Hardy’s,born in Ohio|born in Alaska,underappreciated|overpayed,a cake haver|a cake eater",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "complex people",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un enano|un gigante",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Adam Rainer es el único hombre en la historia registrada que es tanto <BLANK> como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "a giant|a dwarf,dwarf|giant,giant|dwarf",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He was 4’8“ at age 19, then he shot up to 7’1” in his 30s due to a hormonal disorder.",
+            "t": "A",
+            "v": "579996_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Adam Rainer is the only man in recorded history to be both <BLANK> and <BLANK>.",
+            "t": "A",
+            "v": "579993_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

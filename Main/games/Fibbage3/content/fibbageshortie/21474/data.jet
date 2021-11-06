@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "steak knives,bras,business cards,perfume,purses,laptops,motorcycles,pepper spray,potato chips,wine,fake nails,brass knuckles,thongs,pasties,guns,viagra,deodorant,gold teeth",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Baby Products",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tacones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Michele Holbrook enojó a muchos padres cuando fundó una compañía que vende <BLANK> para bebés.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "heels,pumps,stilettos,stiletto,heals",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Sure, they might not be able to walk in them, but my god does it make their calves look fantastic.",
+            "t": "A",
+            "v": "406314_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Michele Holbrook angered a lot of parents when she founded a company that sells <BLANK> for babies.",
+            "t": "A",
+            "v": "406311_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

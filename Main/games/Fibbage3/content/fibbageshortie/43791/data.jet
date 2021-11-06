@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "the harlem globetrotters,Riverdance,nsync,the inventors of pogs,the california raisins,the Muppets,the cast of Friends,dolphins that escaped Sea World,the seven dwarves,the animals from Homeword Bound,Mark Mcgwire and Sammy Sosa,the 1974 Baltimore Orioles,The Simpsons,Mary Kate and Ashley Olsen,KISS,the makers of Zima,Pearl Jam,Mr and Mrs MC Hammer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mandela’s Heroes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Las Spice Girls",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1997, Nelson Mandela dijo: \"Estos son mis héroes\". Sorprendentemente, lo dijo al reunirse con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "spice girls",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s nice that he got what he really-really-wanted.",
+            "t": "A",
+            "v": "569552_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1997, Nelson Mandela said, “These are my heroes.” Surprisingly, he was talking about meeting <BLANK>.",
+            "t": "A",
+            "v": "569549_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

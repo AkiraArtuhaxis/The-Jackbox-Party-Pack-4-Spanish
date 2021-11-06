@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Humphrey Bogart’s cigarette ash,Joan Crawford’s bra,Marilyn Monroe’s stockings,Albert Einstein’s pipe,the first betamax player,JFK’s little black book,a toilet from Alcatraz,the first zipper,the first recorded orgasm,a fake Mona Lisa,a US three-dollar bill,a stuffed “jackalope”,Charlie Chaplin’s empty diary,an anatomically correct Barbie doll,a fossilized T-Rex turd,a bad equation for atomic fission,a Martin Luther King autographed napkin,the first plastic water bottle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Auction Treasure",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pene de Napoleón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1977, John J. Lattimer fue a una subasta y adquirió un extraño artículo histórico. En ese día, se convirtió en el orgulloso dueño del <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the penis of Napoleon,Napoleon Bonaparte’s penis",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s actually not as short as you’d think.",
+            "t": "A",
+            "v": "564696_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1977, John J. Lattimer attended an auction and purchased an odd piece of history. That day, he became the proud owner of <BLANK>.",
+            "t": "A",
+            "v": "564693_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

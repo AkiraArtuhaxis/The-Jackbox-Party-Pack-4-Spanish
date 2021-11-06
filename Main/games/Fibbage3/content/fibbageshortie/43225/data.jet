@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a plate shaped like Kentucky,a bowl of dog food,shredded money,a flaming dog collar,a picture of Mr. T,the blade of a helicopter,a brick of gold,a pile of garbage,a bed of rubies,a laserdisc of Reservoir Dogs,an hd tv,the diner’s lap,a buick,silk handkerchiefs,a painting of Orrin Hatch,a moving skateboard,a credit card,the roof",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dog Food",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un iPad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el restaurante de San Francisco \"Quince\", se puede pedir un plato llamado \"El perro en búsqueda de oro\", que consiste en croquetas de trufa blanca servidas en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "iPads,a tablet computer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I refuse to eat off last year’s model.",
+            "t": "A",
+            "v": "558673_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]At the San Francisco restaurant Quince, one can order the dish named “A Dog In Search of Gold,” which is white truffle croquettes served on <BLANK>.",
+            "t": "A",
+            "v": "558670_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

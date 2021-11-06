@@ -1,0 +1,107 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ergonomic steel wool,chainmail short shorts,some dumb piece of stupid history,a wasp habitat,pigeon armor,a cheese grater,a gas mask,beard armor,workout shorts,a coffee strainer,a medieval wig,a bath drain cover,the world’s first dishwasher safe shorts,a bathing suit,a map of the world,a horse brush,a gross washcloth,a rabbit hat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pero qué",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un protector para las axilas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Photo",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Este objeto de la Alemania del siglo XVI puede parecer extraño, hasta que te des cuenta de que es solo <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "armpit armor,arm pit armor,an arm pit protector,armpit mail,arm pit mail",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "649162_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "v": "649185_1",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I wear something like this, but it’s to protect OTHERS from my armpits.",
+            "t": "A",
+            "v": "649160_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]This item from 16th Century Germany may look weird, until you realize it’s just <BLANK>.",
+            "t": "A",
+            "v": "649157_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

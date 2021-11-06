@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beat them,get drafted,break the backboard,drink all the prison’s gatorade,boost prison morale,make them like him,screw up their gambling ring,lose the ball,try to eat the basketball,embarrass himself,start a prison league,lose weight,scuff up the court,look weird in shorts,break a dunking record,escape while everyone’s excited,draw large crowds,want to watch Space Jam afterwards",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Concerns",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "resultara herido",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Funcionarios en la prisión de Utah le negaron el último pedido de jugar basquetbol al condenado a pena de muerte Joseph Mitchell Parsons debido a que, extrañamente, temían que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "get injured,hurt himself,injure himself,suffer an injury",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]If I’m ever on death row, I’m just gonna keep rolling my ankle. I’ll live forever!",
+            "t": "A",
+            "v": "406068_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Utah prison officials denied death row inmate Joseph Mitchell Parsons’ last request to play basketball because they were oddly afraid he would <BLANK>.",
+            "t": "A",
+            "v": "406065_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

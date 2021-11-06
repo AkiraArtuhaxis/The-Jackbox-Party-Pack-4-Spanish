@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "playing You Don’t Know Jack,television,Halloween,dutch elm disease,making s’mores,showering,smelling markers,eating meat,starting fires,watching ants,political science,doing cartwheels,fencing,pretending to be Dutch,making prank calls,scuba diving,outwitting criminals,my own music",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Magical Things",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "volar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dave Matthews tuiteó: \"Cuando era un niño me encantaba <BLANK>. Que mágico era. Todavía me sorprende pero sólo cuando me tomo el tiempo. No me siento nervioso al respecto”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "2:39 PM<br />9 Feb 2009",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "@DaveJMatthews",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "to fly",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "667204_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]CELEBRITY TWEET! In February 2009, Dave Matthews tweeted “When I was a boy I loved <BLANK>. A magical thing it was. I’m still amazed by it but only when I take the time. I am not nervous about it.”",
+            "t": "A",
+            "v": "667199_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

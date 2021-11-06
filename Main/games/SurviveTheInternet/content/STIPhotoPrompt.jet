@@ -1,0 +1,7220 @@
+{
+    "episodeid": 1315,
+    "content": [
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44927,
+            "choices": [
+                {
+                    "id": "Beach",
+                    "text": "una playa"
+                },
+                {
+                    "id": "Mountains",
+                    "text": "las montañas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es el mejor lugar para proponerle matrimonio a alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44928,
+            "choices": [
+                {
+                    "id": "Salmon",
+                    "text": "salmón"
+                },
+                {
+                    "id": "Steak",
+                    "text": "bistec"
+                }
+            ],
+            "prompt": {
+                "text": "Si tuvieras que comer uno de estos alimentos, ¿cuál elegirías?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44930,
+            "choices": [
+                {
+                    "id": "Dog",
+                    "text": "un perro"
+                },
+                {
+                    "id": "Moose",
+                    "text": "un alce"
+                }
+            ],
+            "prompt": {
+                "text": "Si tuvieras que ser uno de estos animales, ¿cuál serías?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48250,
+            "choices": [
+                {
+                    "id": "Airplane",
+                    "text": "un avión"
+                },
+                {
+                    "id": "SubwayCar",
+                    "text": "un subte"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué medio de transporte te hace sentir más incómodo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48251,
+            "choices": [
+                {
+                    "id": "Sailboat",
+                    "text": "poseer un velero"
+                },
+                {
+                    "id": "HotAirBalloon",
+                    "text": "poseer un globo aerostático"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué simboliza un estado superior?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48252,
+            "choices": [
+                {
+                    "id": "Suitcase",
+                    "text": "empacar para unas vacaciones"
+                },
+                {
+                    "id": "Moving",
+                    "text": "empacar para una mudanza"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué tipo de empacado es probable que hagas próximamente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44932,
+            "choices": [
+                {
+                    "id": "Dog",
+                    "text": "un perro"
+                },
+                {
+                    "id": "Moose",
+                    "text": "un alce"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal es más interesante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47402,
+            "choices": [
+                {
+                    "id": "Mexican",
+                    "text": "comida mexicana"
+                },
+                {
+                    "id": "Indian",
+                    "text": "comida india"
+                }
+            ],
+            "prompt": {
+                "text": "Si solo pudieras comer uno de estos estilos de comida el resto de tu vida, ¿cuál elegirías?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47394,
+            "choices": [
+                {
+                    "id": "Park",
+                    "text": "en un parque"
+                },
+                {
+                    "id": "Office",
+                    "text": "en tu escritorio"
+                }
+            ],
+            "prompt": {
+                "text": "Durante el verano, ¿dónde almuerzas con más frecuencia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48254,
+            "choices": [
+                {
+                    "id": "Giraffe",
+                    "text": "ver una jirafa en estado salvaje"
+                },
+                {
+                    "id": "ShootingStar",
+                    "text": "ver una estrella fugaz"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más impresionante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47393,
+            "choices": [
+                {
+                    "id": "Chimpanzee",
+                    "text": "un chimpancé"
+                },
+                {
+                    "id": "Rabbit",
+                    "text": "un conejo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal crees que puedes dibujar mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47392,
+            "choices": [
+                {
+                    "id": "Lion",
+                    "text": "el león"
+                },
+                {
+                    "id": "Horse",
+                    "text": "el caballo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal tiene mejor melena?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47365,
+            "choices": [
+                {
+                    "id": "PostOffice",
+                    "text": "en la fila de la oficina de correos"
+                },
+                {
+                    "id": "Traffic",
+                    "text": "atascado en el tráfico"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías no estar cuando tienes diarrea?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48309,
+            "choices": [
+                {
+                    "id": "Russia",
+                    "text": "Rusia"
+                },
+                {
+                    "id": "Jungle",
+                    "text": "la selva amazónica"
+                }
+            ],
+            "prompt": {
+                "text": "¿A dónde irías si estuvieras exiliado?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47362,
+            "choices": [
+                {
+                    "id": "ParkingTicket",
+                    "text": "obtener una multa de estacionamiento"
+                },
+                {
+                    "id": "Goldfish",
+                    "text": "tragarse un pez dorado"
+                }
+            ],
+            "prompt": {
+                "text": "Si tuvieras que elegir entre los dos, ¿cuál elegirías?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47361,
+            "choices": [
+                {
+                    "id": "CoffeeShop",
+                    "text": "en una cafetería"
+                },
+                {
+                    "id": "Boxing",
+                    "text": "en un combate de boxeo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde hay mejores personas mirando?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48282,
+            "choices": [
+                {
+                    "id": "Wedding",
+                    "text": "una boda"
+                },
+                {
+                    "id": "Minivan",
+                    "text": "un auto"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué deberías gastar más dinero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47360,
+            "choices": [
+                {
+                    "id": "Island",
+                    "text": "tu propia isla"
+                },
+                {
+                    "id": "Steak",
+                    "text": "filete gratis de por vida"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué preferirías ganar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47359,
+            "choices": [
+                {
+                    "id": "Minivan",
+                    "text": "comprar minivans"
+                },
+                {
+                    "id": "AvocadoToast",
+                    "text": "comprar tostadas de aguacate"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más popular entre tus amigos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48361,
+            "choices": [
+                {
+                    "id": "Sunset",
+                    "text": "una puesta de sol"
+                },
+                {
+                    "id": "HorseRace",
+                    "text": "una carrera de caballos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué describe mejor tu estado de ánimo ahora mismo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47358,
+            "choices": [
+                {
+                    "id": "MovieTheater",
+                    "text": "en un cine"
+                },
+                {
+                    "id": "Wrestling",
+                    "text": "en un combate de lucha libre"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es el mejor lugar para romper con alguien?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48281,
+            "choices": [
+                {
+                    "id": "HouseParty",
+                    "text": "alrededor de la gente"
+                },
+                {
+                    "id": "Meditation",
+                    "text": "solo/a"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde sueles sentirte más cómodo/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47357,
+            "choices": [
+                {
+                    "id": "Segway",
+                    "text": "tener un Segway"
+                },
+                {
+                    "id": "Orangutan",
+                    "text": "tener un orangután de mascota"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué impresionaría más a tus amigos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47428,
+            "choices": [
+                {
+                    "id": "SemiTruck",
+                    "text": "un semi"
+                },
+                {
+                    "id": "Segway",
+                    "text": "un Segway"
+                }
+            ],
+            "prompt": {
+                "text": "En el camino de la vida, ¿qué eres?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47355,
+            "choices": [
+                {
+                    "id": "GasStation",
+                    "text": "en una gasolinera"
+                },
+                {
+                    "id": "Airplane",
+                    "text": "en un avión"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías orinar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48313,
+            "choices": [
+                {
+                    "id": "Gym",
+                    "text": "en el gimnasio"
+                },
+                {
+                    "id": "ConcertStage",
+                    "text": "en un concierto al aire libre"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías sudar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47353,
+            "choices": [
+                {
+                    "id": "Convertible",
+                    "text": "que te pasen a buscar en un descapotable"
+                },
+                {
+                    "id": "Museum",
+                    "text": "ir a un museo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te impresionaría más en una cita?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48255,
+            "choices": [
+                {
+                    "id": "London",
+                    "text": "Londres"
+                },
+                {
+                    "id": "Vegas",
+                    "text": "Las Vegas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías tomar tus próximas vacaciones?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47349,
+            "choices": [
+                {
+                    "id": "Indian",
+                    "text": "una comida india"
+                },
+                {
+                    "id": "Volleyball",
+                    "text": "un partido de voleibol"
+                }
+            ],
+            "prompt": {
+                "text": "¿Para qué te acompañarían más de tus amigos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48253,
+            "choices": [
+                {
+                    "id": "Football",
+                    "text": "fútbol"
+                },
+                {
+                    "id": "ApplePicking",
+                    "text": "recolectar manzanas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más atractivo del otoño?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48257,
+            "choices": [
+                {
+                    "id": "RollerCoaster",
+                    "text": "ir a una montaña rusa"
+                },
+                {
+                    "id": "Motorcycle",
+                    "text": "andar en motocicleta"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más emocionante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47345,
+            "choices": [
+                {
+                    "id": "Train",
+                    "text": "un viaje escénico en tren"
+                },
+                {
+                    "id": "Mountains",
+                    "text": "una caminata por la montaña"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te parece una mejor aventura?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44926,
+            "choices": [
+                {
+                    "id": "Beach",
+                    "text": "una playa"
+                },
+                {
+                    "id": "Mountains",
+                    "text": "las montañas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué entorno preferirías tener en tus próximas vacaciones?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47344,
+            "choices": [
+                {
+                    "id": "Hamburger",
+                    "text": "una buena hamburguesa"
+                },
+                {
+                    "id": "RomanticGetaway",
+                    "text": "una escapada romántica"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué preferirías tener ahora?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47342,
+            "choices": [
+                {
+                    "id": "Bicycle",
+                    "text": "andar en bicicleta"
+                },
+                {
+                    "id": "Tennis",
+                    "text": "jugar tenis"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué tipo de ejercicio preferirías ?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48329,
+            "choices": [
+                {
+                    "id": "Puppies",
+                    "text": "perritos"
+                },
+                {
+                    "id": "Kittens",
+                    "text": "gatitos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más fácil de cuidar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47338,
+            "choices": [
+                {
+                    "id": "Baseball",
+                    "text": "el juego de béisbol"
+                },
+                {
+                    "id": "HotDogs",
+                    "text": "el perro caliente"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué estás más interesado/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48355,
+            "choices": [
+                {
+                    "id": "Salad",
+                    "text": "comer ensaladas"
+                },
+                {
+                    "id": "Yoga",
+                    "text": "hacer yoga"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué hábito saludable es más fácil de adoptar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48302,
+            "choices": [
+                {
+                    "id": "Forest",
+                    "text": "un paseo por el bosque"
+                },
+                {
+                    "id": "Rainstorm",
+                    "text": "un día lluvioso adentro"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más relajante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47337,
+            "choices": [
+                {
+                    "id": "FarmHouse",
+                    "text": "en una granja remota"
+                },
+                {
+                    "id": "SemiTruck",
+                    "text": "en un camión"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde te sentirías más seguro en el apocalipsis zombie?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48256,
+            "choices": [
+                {
+                    "id": "Statue",
+                    "text": "una estatua de ti mismo"
+                },
+                {
+                    "id": "Sailboat",
+                    "text": "un velero"
+                }
+            ],
+            "prompt": {
+                "text": "Si fueras muy rico, ¿qué comprarías primero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47336,
+            "choices": [
+                {
+                    "id": "Graduation",
+                    "text": "la graduación de alguien"
+                },
+                {
+                    "id": "BirthdayParty",
+                    "text": "tu fiesta de cumpleaños"
+                }
+            ],
+            "prompt": {
+                "text": "¿Para cuál de estos es más difícil comprar un regalo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44924,
+            "choices": [
+                {
+                    "id": "Cabin",
+                    "text": "una cabaña en el bosque"
+                },
+                {
+                    "id": "Condo",
+                    "text": "un condominio"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías vivir?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47334,
+            "choices": [
+                {
+                    "id": "Motorcycle",
+                    "text": "andar en motocicleta"
+                },
+                {
+                    "id": "Boxing",
+                    "text": "boxeo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál sería más emocionante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44929,
+            "choices": [
+                {
+                    "id": "Salmon",
+                    "text": "salmón"
+                },
+                {
+                    "id": "Steak",
+                    "text": "filete"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué preferirías gastar más dinero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48330,
+            "choices": [
+                {
+                    "id": "Puppies",
+                    "text": "perritos"
+                },
+                {
+                    "id": "Kittens",
+                    "text": "gatitos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuáles están más sobrevalorados?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47318,
+            "choices": [
+                {
+                    "id": "Rainstorm",
+                    "text": "quedar atrapado en una tormenta"
+                },
+                {
+                    "id": "Airplane",
+                    "text": "un retraso de dos horas en el avión"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál sería peor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47314,
+            "choices": [
+                {
+                    "id": "Convertible",
+                    "text": "un descapotable"
+                },
+                {
+                    "id": "Horse",
+                    "text": "un caballo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te gustaría montar en un desfile?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48358,
+            "choices": [
+                {
+                    "id": "Rollerblades",
+                    "text": "en patines"
+                },
+                {
+                    "id": "Segway",
+                    "text": "en un Segway"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es una forma más embarazosa de morir?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48228,
+            "choices": [
+                {
+                    "id": "Wedding",
+                    "text": "asistir a una boda"
+                },
+                {
+                    "id": "Camping",
+                    "text": "ir de campamento"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es normalmente un fin de semana más divertido?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47303,
+            "choices": [
+                {
+                    "id": "ParkingTicket",
+                    "text": "obtener una multa de estacionamiento"
+                },
+                {
+                    "id": "Rainstorm",
+                    "text": "quedar atrapado en una tormenta"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál apesta más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44925,
+            "choices": [
+                {
+                    "id": "Cabin",
+                    "text": "una cabaña en el bosque"
+                },
+                {
+                    "id": "Condo",
+                    "text": "un condominio"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde te ves viviendo en 30 años?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47423,
+            "choices": [
+                {
+                    "id": "Cabin",
+                    "text": "en una cabina"
+                },
+                {
+                    "id": "Island",
+                    "text": "en una isla"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde escribirías tu manifiesto?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47260,
+            "choices": [
+                {
+                    "id": "CoffeeShop",
+                    "text": "una cafetería"
+                },
+                {
+                    "id": "Office",
+                    "text": "la oficina"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde puedes hacer más trabajo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47250,
+            "choices": [
+                {
+                    "id": "Lion",
+                    "text": "un león"
+                },
+                {
+                    "id": "Bear",
+                    "text": "un oso"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal tiene el gruñido más feroz?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48303,
+            "choices": [
+                {
+                    "id": "Football",
+                    "text": "el juego"
+                },
+                {
+                    "id": "Guacamole",
+                    "text": "el guacamole"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es la mejor parte de ver un partido de fútbol?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47247,
+            "choices": [
+                {
+                    "id": "Spider",
+                    "text": "arañas"
+                },
+                {
+                    "id": "Bat",
+                    "text": "murciélagos"
+                }
+            ],
+            "prompt": {
+                "text": "¿De qué tienes más miedo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48314,
+            "choices": [
+                {
+                    "id": "Suitcase",
+                    "text": "al empacar para un viaje"
+                },
+                {
+                    "id": "Gym",
+                    "text": "al empacar para el gimnasio"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuándo eres más olvidadizo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47495,
+            "choices": [
+                {
+                    "id": "Basketball",
+                    "text": "básquetbol"
+                },
+                {
+                    "id": "Hockey",
+                    "text": "hockey"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué juego entiendes mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48027,
+            "choices": [
+                {
+                    "id": "ConcertStage",
+                    "text": "un festival de música"
+                },
+                {
+                    "id": "BBQ",
+                    "text": "una fiesta de costillas"
+                }
+            ],
+            "prompt": {
+                "text": "¿A qué festival preferirías ir?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47246,
+            "choices": [
+                {
+                    "id": "Moose",
+                    "text": "un alce"
+                },
+                {
+                    "id": "Dolphin",
+                    "text": "un delfín"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál de estos animales te gustaría más ver en la naturaleza?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47410,
+            "choices": [
+                {
+                    "id": "Baseball",
+                    "text": "béisbol"
+                },
+                {
+                    "id": "Soccer",
+                    "text": "fútbol"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué deporte es más popular donde creciste?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47654,
+            "choices": [
+                {
+                    "id": "Dolphin",
+                    "text": "Un delfín"
+                },
+                {
+                    "id": "Gyro",
+                    "text": "Un giroscopio"
+                }
+            ],
+            "prompt": {
+                "text": "Si tuvieras que elegir uno, ¿de qué preferirías hacerte un tatuaje?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47503,
+            "choices": [
+                {
+                    "id": "BBQ",
+                    "text": "una barbacoa"
+                },
+                {
+                    "id": "CoffeeShop",
+                    "text": "una cafetería"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías estar ahora?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47491,
+            "choices": [
+                {
+                    "id": "Museum",
+                    "text": "museos"
+                },
+                {
+                    "id": "CoffeeShop",
+                    "text": "cafeterías"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde crees que trabajan más estudiantes de historia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48316,
+            "choices": [
+                {
+                    "id": "FeetOnBeach",
+                    "text": "pies en la playa"
+                },
+                {
+                    "id": "AvocadoToast",
+                    "text": "imagen de la comida"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué tendencia fotográfica es más molesta?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48015,
+            "choices": [
+                {
+                    "id": "Football",
+                    "text": "un partido de fútbol"
+                },
+                {
+                    "id": "ConcertStage",
+                    "text": "un espectáculo de rock"
+                }
+            ],
+            "prompt": {
+                "text": "¿De cuál preferirías comprar un boleto para ir a ver?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47508,
+            "choices": [
+                {
+                    "id": "Mountains",
+                    "text": "en las montañas"
+                },
+                {
+                    "id": "Beach",
+                    "text": "en la playa"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde probablemente escribirías más poesía?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47509,
+            "choices": [
+                {
+                    "id": "IceCream",
+                    "text": "helado"
+                },
+                {
+                    "id": "Pizza",
+                    "text": "pizza"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más probable que comas tarde por la noche?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47534,
+            "choices": [
+                {
+                    "id": "Graduation",
+                    "text": "hablar en una graduación"
+                },
+                {
+                    "id": "Ferret",
+                    "text": "tener un hurón"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué crees que sería más estresante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47525,
+            "choices": [
+                {
+                    "id": "GasStation",
+                    "text": "en una gasolinera"
+                },
+                {
+                    "id": "MovieTheater",
+                    "text": "en un cine"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías orinar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47683,
+            "choices": [
+                {
+                    "id": "Elephant",
+                    "text": "un elefante"
+                },
+                {
+                    "id": "Orangutan",
+                    "text": "un orangután"
+                }
+            ],
+            "prompt": {
+                "text": "Si pudieran hablar, ¿cuál de estos animales probablemente tendría acento inglés?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47989,
+            "choices": [
+                {
+                    "id": "Jeep",
+                    "text": "un jeep"
+                },
+                {
+                    "id": "Motorcycle",
+                    "text": "una motocicleta"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más divertido de conducir?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47582,
+            "choices": [
+                {
+                    "id": "Motel",
+                    "text": "un desayuno de motel"
+                },
+                {
+                    "id": "Airplane",
+                    "text": "un desayuno de avión"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más probable que sea comible?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47662,
+            "choices": [
+                {
+                    "id": "Rollerblades",
+                    "text": "patines"
+                },
+                {
+                    "id": "Segway",
+                    "text": "un Segway"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál de estos te hace parecer un/a idiota más grande?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47996,
+            "choices": [
+                {
+                    "id": "Paris",
+                    "text": "París"
+                },
+                {
+                    "id": "NewYorkCity",
+                    "text": "Ciudad de Nueva York"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué ciudad tiene la mejor comida?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47692,
+            "choices": [
+                {
+                    "id": "Desert",
+                    "text": "un desierto"
+                },
+                {
+                    "id": "Igloo",
+                    "text": "Antártida"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde probablemente sobrevivirías después de una semana?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47652,
+            "choices": [
+                {
+                    "id": "Minivan",
+                    "text": "una minivan"
+                },
+                {
+                    "id": "PickupTruck",
+                    "text": "una camioneta"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál de estos vehículos te parecería más práctico?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47612,
+            "choices": [
+                {
+                    "id": "Mansion",
+                    "text": "una mansión"
+                },
+                {
+                    "id": "Basketball",
+                    "text": "un equipo de básquetbol"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál sería una mejor inversión?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47622,
+            "choices": [
+                {
+                    "id": "Barn",
+                    "text": "en un granero vacío"
+                },
+                {
+                    "id": "MovieTheater",
+                    "text": "en un cine lleno de gente"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde estarías más ansioso/a?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47607,
+            "choices": [
+                {
+                    "id": "Train",
+                    "text": "el tren"
+                },
+                {
+                    "id": "Horse",
+                    "text": "el caballo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué fue más importante para el desarrollo de la civilización humana?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48008,
+            "choices": [
+                {
+                    "id": "Hockey",
+                    "text": "hockey"
+                },
+                {
+                    "id": "Tennis",
+                    "text": "tenis"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué deporte crees que requiere más atletismo para jugar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47610,
+            "choices": [
+                {
+                    "id": "Chinese",
+                    "text": "en una galleta de la fortuna china"
+                },
+                {
+                    "id": "Graduation",
+                    "text": "en un discurso de graduación"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde sueles encontrar más sabiduría?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47606,
+            "choices": [
+                {
+                    "id": "Graduation",
+                    "text": "graduación"
+                },
+                {
+                    "id": "Voting",
+                    "text": "votar por primera vez"
+                }
+            ],
+            "prompt": {
+                "text": "A medida que avanzan los ritos de iniciación, ¿cuál es más importante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48034,
+            "choices": [
+                {
+                    "id": "Gym",
+                    "text": "ir al gimnasio"
+                },
+                {
+                    "id": "Salad",
+                    "text": "comer una ensalada"
+                }
+            ],
+            "prompt": {
+                "text": "Cuando intentas estar sano, ¿qué haces con más frecuencia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47602,
+            "choices": [
+                {
+                    "id": "Island",
+                    "text": "visitar una isla"
+                },
+                {
+                    "id": "Moving",
+                    "text": "mudarse a una isla"
+                }
+            ],
+            "prompt": {
+                "text": "¿Para qué estás más preparado ahora?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47704,
+            "choices": [
+                {
+                    "id": "Convertible",
+                    "text": "un auto deportivo"
+                },
+                {
+                    "id": "Motel",
+                    "text": "una habitación de motel barata"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál preferirías llamar hogar por un mes?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48033,
+            "choices": [
+                {
+                    "id": "BubbleBath",
+                    "text": "tomar un baño de burbujas"
+                },
+                {
+                    "id": "Bonfire",
+                    "text": "estar al lado de un fuego cálido"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué suena más atractivo ahora mismo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47599,
+            "choices": [
+                {
+                    "id": "Train",
+                    "text": "un conductor de tren"
+                },
+                {
+                    "id": "Motel",
+                    "text": "un empleado de noche de un motel"
+                }
+            ],
+            "prompt": {
+                "text": "¿Quién crees que está más solo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47588,
+            "choices": [
+                {
+                    "id": "Voting",
+                    "text": "personas votando por ti"
+                },
+                {
+                    "id": "Pizza",
+                    "text": "tener una pizza con tu nombre"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál sería un honor mayor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47601,
+            "choices": [
+                {
+                    "id": "Salmon",
+                    "text": "el salmón"
+                },
+                {
+                    "id": "Bear",
+                    "text": "el oso"
+                }
+            ],
+            "prompt": {
+                "text": "En los documentales sobre la naturaleza, ¿a quién apoyas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48319,
+            "choices": [
+                {
+                    "id": "ShootingStar",
+                    "text": "una estrella fugaz"
+                },
+                {
+                    "id": "London",
+                    "text": "un guardia real"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué preferirías ver?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48031,
+            "choices": [
+                {
+                    "id": "BookStore",
+                    "text": "libros"
+                },
+                {
+                    "id": "IceCream",
+                    "text": "helado"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué compras con más frecuencia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48026,
+            "choices": [
+                {
+                    "id": "DMV",
+                    "text": "en el DMV"
+                },
+                {
+                    "id": "Laundromat",
+                    "text": "en la lavandería"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías pasar dos horas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48305,
+            "choices": [
+                {
+                    "id": "Suitcase",
+                    "text": "empacar para un viaje"
+                },
+                {
+                    "id": "Gym",
+                    "text": "ir al gimnasio"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué eres peor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48023,
+            "choices": [
+                {
+                    "id": "Kite",
+                    "text": "volar una cometa"
+                },
+                {
+                    "id": "FeetOnBeach",
+                    "text": "relajarse en la playa"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es tu forma preferida de pasar un día de verano?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48304,
+            "choices": [
+                {
+                    "id": "ApplePicking",
+                    "text": "recolectar manzanas"
+                },
+                {
+                    "id": "Camping",
+                    "text": "camping"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es lo más triste de hacer solo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48020,
+            "choices": [
+                {
+                    "id": "Minivan",
+                    "text": "una minivan"
+                },
+                {
+                    "id": "HomeRepair",
+                    "text": "un proyecto de mejoras para el hogar"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más de padre?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48019,
+            "choices": [
+                {
+                    "id": "HouseParty",
+                    "text": "una fiesta en casa"
+                },
+                {
+                    "id": "PoolParty",
+                    "text": "una fiesta en la piscina"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué fiesta preferirías?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48017,
+            "choices": [
+                {
+                    "id": "VR",
+                    "text": "alguien que lleva un visor de realidad virtual"
+                },
+                {
+                    "id": "Segway",
+                    "text": "alguien que viaja en Segway"
+                }
+            ],
+            "prompt": {
+                "text": "¿Quién parece más tonto?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48014,
+            "choices": [
+                {
+                    "id": "VR",
+                    "text": "un dispositivo de realidad virtual"
+                },
+                {
+                    "id": "Paris",
+                    "text": "unas vacaciones en París"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué preferirías gastar mucho dinero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48013,
+            "choices": [
+                {
+                    "id": "SubwayCar",
+                    "text": "un vagón del subte"
+                },
+                {
+                    "id": "BathroomStall",
+                    "text": "un baño público"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué suele ser más sucio?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48334,
+            "choices": [
+                {
+                    "id": "EngagementRing",
+                    "text": "un anillo de compromiso"
+                },
+                {
+                    "id": "VR",
+                    "text": "un visor de realidad virtual"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué deberías gastar más dinero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48007,
+            "choices": [
+                {
+                    "id": "Laundromat",
+                    "text": "lavandería"
+                },
+                {
+                    "id": "HomeRepair",
+                    "text": "pequeñas reparaciones en el hogar"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más molesto hacer?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48005,
+            "choices": [
+                {
+                    "id": "Park",
+                    "text": "los parques"
+                },
+                {
+                    "id": "Skyscraper",
+                    "text": "la arquitectura"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es la parte más hermosa de la ciudad de Nueva York?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48001,
+            "choices": [
+                {
+                    "id": "Vegas",
+                    "text": "Las Vegas"
+                },
+                {
+                    "id": "SanFrancisco",
+                    "text": "San Francisco"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué preferirías visitar próximamente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48000,
+            "choices": [
+                {
+                    "id": "Spider",
+                    "text": "arañas"
+                },
+                {
+                    "id": "RollerCoaster",
+                    "text": "montañas rusas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más aterrador para ti?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47999,
+            "choices": [
+                {
+                    "id": "Kittens",
+                    "text": "gatitos"
+                },
+                {
+                    "id": "Puppies",
+                    "text": "perritos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más lindo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47998,
+            "choices": [
+                {
+                    "id": "Snake",
+                    "text": "una serpiente"
+                },
+                {
+                    "id": "Pig",
+                    "text": "un cerdo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál preferirías tener como mascota?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48336,
+            "choices": [
+                {
+                    "id": "SubwayCar",
+                    "text": "el subte"
+                },
+                {
+                    "id": "Traffic",
+                    "text": "el ruido"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es la peor parte de vivir en la ciudad?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47995,
+            "choices": [
+                {
+                    "id": "Yoga",
+                    "text": "practicando yoga"
+                },
+                {
+                    "id": "ArtMuseum",
+                    "text": "visitando un museo de arte"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cómo preferirías pasar un domingo por la tarde?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48362,
+            "choices": [
+                {
+                    "id": "Hamburger",
+                    "text": "hamburguesas"
+                },
+                {
+                    "id": "Guacamole",
+                    "text": "guacamole"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué comida siempre sabe mejor en un restaurante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47991,
+            "choices": [
+                {
+                    "id": "BabyAnnouncement",
+                    "text": "un anuncio de bebé"
+                },
+                {
+                    "id": "EngagementRing",
+                    "text": "un anuncio de compromiso"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más emocionante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47988,
+            "choices": [
+                {
+                    "id": "Sunset",
+                    "text": "ver la puesta de sol"
+                },
+                {
+                    "id": "Meditation",
+                    "text": "meditar"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más relajante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48322,
+            "choices": [
+                {
+                    "id": "WritingDesk",
+                    "text": "tu escritorio"
+                },
+                {
+                    "id": "CompactCar",
+                    "text": "tu auto"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más difícil de mantener ordenado?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48106,
+            "choices": [
+                {
+                    "id": "Chinese",
+                    "text": "comida china"
+                },
+                {
+                    "id": "Mexican",
+                    "text": "comida mexicana"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué estilo de comida comes con más frecuencia?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48109,
+            "choices": [
+                {
+                    "id": "Yoga",
+                    "text": "yoga"
+                },
+                {
+                    "id": "Indian",
+                    "text": "su estilo de comida"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué parte de la cultura india te interesa más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48110,
+            "choices": [
+                {
+                    "id": "Gorilla",
+                    "text": "gorilas"
+                },
+                {
+                    "id": "Chimpanzee",
+                    "text": "chimpancés"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal preferirías estudiar por el resto de tu vida?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48332,
+            "choices": [
+                {
+                    "id": "Voting",
+                    "text": "votar"
+                },
+                {
+                    "id": "HomeRepair",
+                    "text": "tu casa"
+                }
+            ],
+            "prompt": {
+                "text": "¿De qué te enorgulleces más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48112,
+            "choices": [
+                {
+                    "id": "BathroomStall",
+                    "text": "en el baño"
+                },
+                {
+                    "id": "WritingDesk",
+                    "text": "en tu escritorio"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde revisas más tu teléfono?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48320,
+            "choices": [
+                {
+                    "id": "ParkingTicket",
+                    "text": "obtener una multa de estacionamiento"
+                },
+                {
+                    "id": "BathroomStall",
+                    "text": "un baño desagradable"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te enoja más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48120,
+            "choices": [
+                {
+                    "id": "IceCream",
+                    "text": "comer helado"
+                },
+                {
+                    "id": "Kite",
+                    "text": "volar una cometa"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te hace sentir más como un niño?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48121,
+            "choices": [
+                {
+                    "id": "ConcertStage",
+                    "text": "en el escenario"
+                },
+                {
+                    "id": "Bonfire",
+                    "text": "alrededor de una fogata"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es el mejor lugar para un narrador?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48364,
+            "choices": [
+                {
+                    "id": "AvocadoToast",
+                    "text": "tostada de aguacate"
+                },
+                {
+                    "id": "FeetOnBeach",
+                    "text": "fotos de pies en la playa"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué seguirá estando de moda en 2040?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48124,
+            "choices": [
+                {
+                    "id": "Russia",
+                    "text": "Rusia"
+                },
+                {
+                    "id": "Paris",
+                    "text": "Francia"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué país tiene una historia más interesante?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48308,
+            "choices": [
+                {
+                    "id": "MovieTheater",
+                    "text": "estar solo en una sala de cine"
+                },
+                {
+                    "id": "BathroomStall",
+                    "text": "estar solo en un baño público"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué experiencia es más liberadora?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48125,
+            "choices": [
+                {
+                    "id": "NewYorkCity",
+                    "text": "Ciudad de Nueva York"
+                },
+                {
+                    "id": "SanFrancisco",
+                    "text": "San Francisco"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué ciudad tiene puentes más bonitos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48126,
+            "choices": [
+                {
+                    "id": "Nascar",
+                    "text": "carreras de autos"
+                },
+                {
+                    "id": "Boxing",
+                    "text": "boxeo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál sería más aterrador de probar por primera vez?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48328,
+            "choices": [
+                {
+                    "id": "Meditation",
+                    "text": "meditación"
+                },
+                {
+                    "id": "IceCream",
+                    "text": "atracones"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es una mejor manera de manejar el estrés?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48127,
+            "choices": [
+                {
+                    "id": "Soccer",
+                    "text": "un juego de fútbol de niños"
+                },
+                {
+                    "id": "BirthdayParty",
+                    "text": "una fiesta de cumpleaños infantil"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué evento suena menos atractivo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48325,
+            "choices": [
+                {
+                    "id": "BubbleBath",
+                    "text": "un baño de burbujas"
+                },
+                {
+                    "id": "RomanticGetaway",
+                    "text": "pétalos de rosa"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más romántico?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48306,
+            "choices": [
+                {
+                    "id": "Gym",
+                    "text": "el gimnasio"
+                },
+                {
+                    "id": "Laundromat",
+                    "text": "la lavandería"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es un lugar mejor para conocer a una pareja romántica?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48128,
+            "choices": [
+                {
+                    "id": "Ferret",
+                    "text": "un hurón"
+                },
+                {
+                    "id": "Rabbit",
+                    "text": "un conejo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Quién gana esta pelea?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48129,
+            "choices": [
+                {
+                    "id": "Beach",
+                    "text": "en la playa"
+                },
+                {
+                    "id": "Field",
+                    "text": "en un campo de flores"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde es más relajante leer un libro?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48326,
+            "choices": [
+                {
+                    "id": "BabyAnnouncement",
+                    "text": "que estás esperando un bebé"
+                },
+                {
+                    "id": "EngagementRing",
+                    "text": "que vas a proponer matrimonio"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué secreto es más difícil de guardar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48130,
+            "choices": [
+                {
+                    "id": "ArtMuseum",
+                    "text": "museo de arte"
+                },
+                {
+                    "id": "Museum",
+                    "text": "museo de historia"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué museo te interesa más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48132,
+            "choices": [
+                {
+                    "id": "HotAirBalloon",
+                    "text": "un globo aerostático"
+                },
+                {
+                    "id": "Fireworks",
+                    "text": "un fuego artificial"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cómo describirías tu personalidad?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48331,
+            "choices": [
+                {
+                    "id": "Salad",
+                    "text": "una ensalada"
+                },
+                {
+                    "id": "Traffic",
+                    "text": "tráfico"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más deprimente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48348,
+            "choices": [
+                {
+                    "id": "RomanticGetaway",
+                    "text": "rosas"
+                },
+                {
+                    "id": "Puppies",
+                    "text": "perritos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué huele mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48307,
+            "choices": [
+                {
+                    "id": "FeetOnBeach",
+                    "text": "tus pies en la playa"
+                },
+                {
+                    "id": "Sunset",
+                    "text": "una puesta de sol"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué foto de vacaciones es más probable que hagas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48133,
+            "choices": [
+                {
+                    "id": "Cabin",
+                    "text": "en una cabaña en el bosque"
+                },
+                {
+                    "id": "Island",
+                    "text": "en una isla solo/a"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías pasar una semana de vacaciones?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48335,
+            "choices": [
+                {
+                    "id": "Bonfire",
+                    "text": "la fogata"
+                },
+                {
+                    "id": "HotDogs",
+                    "text": "los perros calientes"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es la mejor parte de acampar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48134,
+            "choices": [
+                {
+                    "id": "Football",
+                    "text": "campo de fútbol"
+                },
+                {
+                    "id": "Field",
+                    "text": "campo de flores"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué campo prefieres?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48352,
+            "choices": [
+                {
+                    "id": "Soccer",
+                    "text": "campamento de fútbol"
+                },
+                {
+                    "id": "Camping",
+                    "text": "campamento de exploradores"
+                }
+            ],
+            "prompt": {
+                "text": "¿A qué campamento de verano preferirías asistir?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48135,
+            "choices": [
+                {
+                    "id": "AvocadoToast",
+                    "text": "tostada de aguacate"
+                },
+                {
+                    "id": "BabyAnnouncement",
+                    "text": "anuncios extravagantes de bebés"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué les gusta más a los millennials?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48324,
+            "choices": [
+                {
+                    "id": "Moving",
+                    "text": "comprar una casa"
+                },
+                {
+                    "id": "BabyAnnouncement",
+                    "text": "tener un hijo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es un hito más importante en la vida?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48136,
+            "choices": [
+                {
+                    "id": "Pizza",
+                    "text": "una fiesta de pizza"
+                },
+                {
+                    "id": "PoolParty",
+                    "text": "una fiesta en la piscina"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué suena más divertido ahora mismo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48346,
+            "choices": [
+                {
+                    "id": "VR",
+                    "text": "casco de realidad virtual"
+                },
+                {
+                    "id": "EngagementRing",
+                    "text": "joyas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué regalo es mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47987,
+            "choices": [
+                {
+                    "id": "HorseRace",
+                    "text": "una carrera de caballos"
+                },
+                {
+                    "id": "Nascar",
+                    "text": "una carrera de autos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué tipo de evento de carreras es más emocionante de ver?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48368,
+            "choices": [
+                {
+                    "id": "Statue",
+                    "text": "una estatua"
+                },
+                {
+                    "id": "ArtMuseum",
+                    "text": "una pintura"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué arte aprecias más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47585,
+            "choices": [
+                {
+                    "id": "BookStore",
+                    "text": "propietario/a de la librería"
+                },
+                {
+                    "id": "Basketball",
+                    "text": "entrenador/a de básquetbol"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es un cambio de vida más probable para ti?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48363,
+            "choices": [
+                {
+                    "id": "Rollerblades",
+                    "text": "patines"
+                },
+                {
+                    "id": "Suitcase",
+                    "text": "maletas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué artículo encuentras con más frecuencia en las tiendas de segunda mano?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48327,
+            "choices": [
+                {
+                    "id": "Fireworks",
+                    "text": "disparar fuegos artificiales"
+                },
+                {
+                    "id": "Ferret",
+                    "text": "tener un hurón de mascota"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te hace peor vecino?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47581,
+            "choices": [
+                {
+                    "id": "RomanticGetaway",
+                    "text": "ir a una escapada romántica"
+                },
+                {
+                    "id": "Dog",
+                    "text": "conseguir un perro"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es la mejor manera de iniciar una relación?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48317,
+            "choices": [
+                {
+                    "id": "Wrestling",
+                    "text": "un luchador"
+                },
+                {
+                    "id": "Rollerblades",
+                    "text": "un adulto en patines"
+                }
+            ],
+            "prompt": {
+                "text": "¿Quién tiene más confianza en sí mismo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47578,
+            "choices": [
+                {
+                    "id": "CompactCar",
+                    "text": "propietario de un auto compacto"
+                },
+                {
+                    "id": "Convertible",
+                    "text": "propietario de un descapotable"
+                }
+            ],
+            "prompt": {
+                "text": "¿A quién respetas más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48359,
+            "choices": [
+                {
+                    "id": "SubwayCar",
+                    "text": "transporte público"
+                },
+                {
+                    "id": "Bicycle",
+                    "text": "bicicleta"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué medio de transporte prefieres?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47574,
+            "choices": [
+                {
+                    "id": "Cat",
+                    "text": "como gatos"
+                },
+                {
+                    "id": "Lion",
+                    "text": "como leones"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cómo crees que se ven más gatos a sí mismos?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47570,
+            "choices": [
+                {
+                    "id": "Steak",
+                    "text": "después de comer filete"
+                },
+                {
+                    "id": "Dentist",
+                    "text": "justo antes de ver al dentista"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuándo la mayoría de la gente usa más hilo dental?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48353,
+            "choices": [
+                {
+                    "id": "Sunset",
+                    "text": "una puesta de sol"
+                },
+                {
+                    "id": "Forest",
+                    "text": "un bosque"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué preferirías pintar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48331,
+            "choices": [
+                {
+                    "id": "Salad",
+                    "text": "una ensalada"
+                },
+                {
+                    "id": "Traffic",
+                    "text": "tráfico"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más deprimente?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48323,
+            "choices": [
+                {
+                    "id": "Yoga",
+                    "text": "hacer yoga"
+                },
+                {
+                    "id": "BubbleBath",
+                    "text": "tomar un baño"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es un mejor reductor de estrés?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47515,
+            "choices": [
+                {
+                    "id": "CondoInterior",
+                    "text": "un condominio en la ciudad"
+                },
+                {
+                    "id": "FarmHouse",
+                    "text": "una granja"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde dormirías mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48366,
+            "choices": [
+                {
+                    "id": "Motel",
+                    "text": "un motel promedio"
+                },
+                {
+                    "id": "RomanticGetaway",
+                    "text": "un hotel de temática romántica"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde preferirías quedarte?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47568,
+            "choices": [
+                {
+                    "id": "HotAirBalloon",
+                    "text": "subir en un globo aerostático"
+                },
+                {
+                    "id": "Parade",
+                    "text": "montar en una carroza"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es más un elemento de tu lista de deseos para ti?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47565,
+            "choices": [
+                {
+                    "id": "Voting",
+                    "text": "votar"
+                },
+                {
+                    "id": "Dog",
+                    "text": "levantar los desechos de sus perros"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te gustaría que hicieran más personas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47562,
+            "choices": [
+                {
+                    "id": "Beach",
+                    "text": "en la playa sin protector solar"
+                },
+                {
+                    "id": "Rainstorm",
+                    "text": "en una tormenta completamente vestido/a"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde te resultaría más incómodo estar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48321,
+            "choices": [
+                {
+                    "id": "BubbleBath",
+                    "text": "en una bañera de burbujas"
+                },
+                {
+                    "id": "BathroomStall",
+                    "text": "en un baño"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es el mejor lugar para llorar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48344,
+            "choices": [
+                {
+                    "id": "Cat",
+                    "text": "un gato"
+                },
+                {
+                    "id": "Moose",
+                    "text": "un alce"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué preferirías reencarnar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48356,
+            "choices": [
+                {
+                    "id": "Yoga",
+                    "text": "un/a instructor/a de yoga"
+                },
+                {
+                    "id": "Cat",
+                    "text": "un gato"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más flexible?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48318,
+            "choices": [
+                {
+                    "id": "Moose",
+                    "text": "un alce"
+                },
+                {
+                    "id": "Ferret",
+                    "text": "un hurón"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal es más majestuoso?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47722,
+            "choices": [
+                {
+                    "id": "Wedding",
+                    "text": "una boda"
+                },
+                {
+                    "id": "CondoInterior",
+                    "text": "un pago inicial de la casa"
+                }
+            ],
+            "prompt": {
+                "text": "¿En qué preferirías gastar más dinero?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47738,
+            "choices": [
+                {
+                    "id": "SemiTruck",
+                    "text": "un remolque de tractor"
+                },
+                {
+                    "id": "Gorilla",
+                    "text": "un gorila"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál de estos sería más genial para que un robot se transformara?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48360,
+            "choices": [
+                {
+                    "id": "HotAirBalloon",
+                    "text": "en un globo aerostático"
+                },
+                {
+                    "id": "Skyscraper",
+                    "text": "encima de un rascacielos"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde tendrías una mejor vista?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47706,
+            "choices": [
+                {
+                    "id": "Dentist",
+                    "text": "ir al dentista"
+                },
+                {
+                    "id": "Airplane",
+                    "text": "volar"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué te da más ansiedad?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47730,
+            "choices": [
+                {
+                    "id": "Elephant",
+                    "text": "un documental sobre elefantes"
+                },
+                {
+                    "id": "Wedding",
+                    "text": "un reality show sobre bodas"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué programa de televisión preferirías ver?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48550,
+            "choices": [
+                {
+                    "id": "Bat",
+                    "text": "un murciélago"
+                },
+                {
+                    "id": "SubwayCar",
+                    "text": "la salida de tu tren"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más difícil de atrapar?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48551,
+            "choices": [
+                {
+                    "id": "Snake",
+                    "text": "alguien con una serpiente de mascota"
+                },
+                {
+                    "id": "Pig",
+                    "text": "alguien con un cerdo de mascota"
+                }
+            ],
+            "prompt": {
+                "text": "¿Quién te asusta más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48552,
+            "choices": [
+                {
+                    "id": "Pig",
+                    "text": "películas sobre un cerdo"
+                },
+                {
+                    "id": "Goldfish",
+                    "text": "películas sobre un pez"
+                }
+            ],
+            "prompt": {
+                "text": "Históricamente, ¿qué tipo de película para niños es superior?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48553,
+            "choices": [
+                {
+                    "id": "PostOffice",
+                    "text": "la oficina de correos"
+                },
+                {
+                    "id": "DMV",
+                    "text": "el DMV"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué evitas más?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48554,
+            "choices": [
+                {
+                    "id": "Jungle",
+                    "text": "el Amazonas"
+                },
+                {
+                    "id": "Igloo",
+                    "text": "la Antártica"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde sobrevivirías más tiempo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48555,
+            "choices": [
+                {
+                    "id": "Barn",
+                    "text": "un granero"
+                },
+                {
+                    "id": "PickupTruck",
+                    "text": "un camión"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál sería un mejor refugio durante un levantamiento zombi?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48556,
+            "choices": [
+                {
+                    "id": "MeatSkewer",
+                    "text": "brochetas"
+                },
+                {
+                    "id": "Guacamole",
+                    "text": "guacamole"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más fácil de hacer?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48557,
+            "choices": [
+                {
+                    "id": "Desert",
+                    "text": "\u201cDesert Rose\u201d"
+                },
+                {
+                    "id": "Kite",
+                    "text": "\u201cVamos a Volar una Cometa\u201d"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es la mejor canción?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48558,
+            "choices": [
+                {
+                    "id": "Parade",
+                    "text": "en un desfile"
+                },
+                {
+                    "id": "Nascar",
+                    "text": "en una carrera de Nascar"
+                }
+            ],
+            "prompt": {
+                "text": "¿Dónde hay mejores personas mirando?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48559,
+            "choices": [
+                {
+                    "id": "MeatSkewer",
+                    "text": "brochetas"
+                },
+                {
+                    "id": "Gyro",
+                    "text": "gyros"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué plato griego es mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48560,
+            "choices": [
+                {
+                    "id": "Volleyball",
+                    "text": "las reglas del voleibol"
+                },
+                {
+                    "id": "Hockey",
+                    "text": "las reglas del hockey"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué comprendes mejor?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48561,
+            "choices": [
+                {
+                    "id": "Kittens",
+                    "text": "jugar con gatitos"
+                },
+                {
+                    "id": "Sailboat",
+                    "text": "ir a navegar"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué suena más atractivo ahora mismo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48562,
+            "choices": [
+                {
+                    "id": "Bear",
+                    "text": "oso"
+                },
+                {
+                    "id": "Giraffe",
+                    "text": "jirafa"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué animal del zoológico está más triste?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48563,
+            "choices": [
+                {
+                    "id": "Jeep",
+                    "text": "vehículo utilitario deportivo"
+                },
+                {
+                    "id": "CompactCar",
+                    "text": "auto de bajo consumo"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué auto se adapta más a tu personalidad?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48564,
+            "choices": [
+                {
+                    "id": "London",
+                    "text": "buena comida en Londres"
+                },
+                {
+                    "id": "GasStation",
+                    "text": "una comida de gasolinera"
+                }
+            ],
+            "prompt": {
+                "text": "¿Cuál es más tu estilo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48565,
+            "choices": [
+                {
+                    "id": "Mansion",
+                    "text": "una mansión en medio de la nada"
+                },
+                {
+                    "id": "NewYorkCity",
+                    "text": "un pequeño condominio en la ciudad de Nueva York"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué preferirías tener?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48566,
+            "choices": [
+                {
+                    "id": "WritingDesk",
+                    "text": "escribir una novela"
+                },
+                {
+                    "id": "Russia",
+                    "text": "aprender ruso"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué suena más difícil?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48567,
+            "choices": [
+                {
+                    "id": "HouseParty",
+                    "text": "ir a una fiesta"
+                },
+                {
+                    "id": "Cat",
+                    "text": "quedarse con el gato"
+                }
+            ],
+            "prompt": {
+                "text": "¿Qué es más tu estilo?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                },
+                {
+                    "text": "",
+                    "type": "Negative"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48568,
+            "choices": [
+                {
+                    "id": "Sailboat",
+                    "text": "un paseo en barco"
+                },
+                {
+                    "id": "Segway",
+                    "text": "un recorrido en Segway"
+                }
+            ],
+            "prompt": {
+                "text": "Cuando visites una ciudad, ¿qué preferirías tomar?"
+            }
+        }
+    ]
+}

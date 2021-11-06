@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Fire hydrants,Vikings,College Boys,The Indigo Girls,The Spice Girls,One Direction,Fast Cars,Worms,Vampires,Short Men,Bald Men,Women with facial hair,British Women,Cats,Paul Rudd,Jennifer Lawrence,Rugby Players,Porkins from Star Wars",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Attraction",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Los gorilas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La política escocesa, Gisela Allen, dijo en 2017 que se encuentra muy atraída a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Goriilas,Gorillaz,Gerillas,monkeys,monkeys,monkey,a gorilla",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Quote: “When I go to a zoo and I see a gorilla my hormones go absolutely crazy.” So...now you know that.",
+            "t": "A",
+            "v": "597733_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Scottish politician Gisela Allen said in 2017 that she finds herself extremely attracted to <BLANK>.",
+            "t": "A",
+            "v": "597730_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

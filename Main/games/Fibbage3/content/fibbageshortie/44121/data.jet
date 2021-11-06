@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shooting cats,burning coats,eating bugs,taunting corn,swallowing swords,shaving cows,egging houses,wearing clothes backwards,wrestling naked,speaking in riddles,throwing coins at orphans,dressing like genies,licking snakes,bathing in tar,fighting an invisible man,watching Don Knotts movies,punching a snowman,painting themselves blue",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Winter in Poland",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ahogar muñecos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante el feriado polaco de Topienie Marzanny, la gente celebra el fin del invierno mediante la peculiar tradición de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "burning dolls,throwing dolls into the lake,drowning a doll,burning a doll,throwing a doll into the lake",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Winter in Poland must be really, really bad.",
+            "t": "A",
+            "v": "579066_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During the Polish holiday of Topienie Marzanny, people celebrate the end of winter through the odd tradition of <BLANK>.",
+            "t": "A",
+            "v": "579063_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

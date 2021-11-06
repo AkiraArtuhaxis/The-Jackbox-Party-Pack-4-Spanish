@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mime,actual giant,money tree,fountain of youth,giraffe,Mandarin-speaking parrot,kangaroo family,working class millionaire,witch cave,sasquatch nest,diamond mine,volcano,dimensional portal,safe space,tar pit,candy factory,buffalo herd,xylophone made of soda cans",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Parks",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "colonia de duendes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mill Ends Park en Portland, Oregón fue fundado en 1948 por Dick Fagan, quien afirmó que contenía la única <BLANK> en Norteamérica.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "leprecan colony,leprechan,leprechans,leprekan family,leprechan family,colony of leprechans",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Mill’s End Park in Portland was founded in 1948 by Dick Fagan, who claimed it was home to the only <BLANK> in North America.",
+            "t": "A",
+            "v": "603892_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

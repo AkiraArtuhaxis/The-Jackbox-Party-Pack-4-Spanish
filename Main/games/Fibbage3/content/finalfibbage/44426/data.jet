@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cartoons|people,smurfs|reptiles,aliens|sexy,light bulbs|edible,cows|psychic,men|lazy,vampires|sparkly,movies|magic,wizards|infertile,movie stars|crazy,action movies|educational,coffee breaks|un-American,politicians|honest,octopuses|from outer space,stuntmen|humble,mole people|controlling the government,apples|dragon eggs,pancakes|the perfect breakfast",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tricky Suits",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los fantasmas|reales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dependiendo del resultado de una extraña demanda presentada en 2017, es posible que Warner Bros. deba pagarle a Gerard Brittle 900 millones de dólares, a menos que puedan probar que <BLANK> son <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "spirits|real,demons|real",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Warner claims The Conjuring ghost movies aren’t based on Brittle’s book, but “historical fact.”",
+            "t": "A",
+            "v": "588013_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Depending on the outcome of an odd lawsuit filed in 2017, Warner Bros. may have to pay Gerard Brittle $900 million unless they can prove that <BLANK> are <BLANK>.",
+            "t": "A",
+            "v": "588010_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

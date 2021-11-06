@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "la gasolina,la proteína,el yoga,la cerveza,el baile cuadrado,el helado,el hip-hop,la medicina para el resfriado,la nieve,el hielo radiactivo,las citas,las tarjetas de béisbol,las calabazas,los perros que se portan bien,el combustible para aviones,los pañales usados,las piezas del cortacésped,los pollos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Supervillain Powers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la cocaína",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Snowflame es un supervillano en el universo de DC que obtuvo sus poderes gracias a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "la coca,drogarse,el crack,demasiada cocaína,inyectarse cocaína",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And yes, he was created in the 80s.",
+            "t": "A",
+            "v": "318708_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Snowflame is a supervillain in the DC universe who got his powers from <BLANK>.",
+            "t": "A",
+            "v": "318705_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

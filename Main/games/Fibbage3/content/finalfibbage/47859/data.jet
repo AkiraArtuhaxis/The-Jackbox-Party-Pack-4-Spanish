@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a clown chauffeur|a tiny car,a tree|a stage play,belittled|a really weird way,a spaghetti chef|a chinese restaurant,a programmer|a pig farm,drawn like Picasso|a compromising position,thrown a party|a warehouse,studied|a phone booth,kicked repeatedly|the shins,dunked|hot pudding,a masseur|an assisted living center,cooked|a big pot,a voice actor|an offensive video game,a general|the British Army,a triangle player|the world’s worst folk band,wrapped|comfy blankets,a sign spinner|a zombie costume,sung to|public",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Enticing Offers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "niñera|una casa embrujada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A pesar de que las últimas cinco personas renunciaron, un anuncio de trabajo de 2017 en Los Fronteras Escocesas ofrecía 50 mil libras a quien estuviera dispuesto a ser <BLANK> en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the nanny|a haunted house",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Even though the last five people quit, a 2017 job posting in the Scottish Borders offered a £50,000 salary to anyone willing to be <BLANK> in a <BLANK>.",
+            "t": "A",
+            "v": "669806_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

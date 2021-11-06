@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "waking up,bored,seeing God,cleaning the house,missing him,questioning his power,afraid of the dark,hungry,forgetting his face,running out of snacks,low on milk,ready for marriage,starting Breaking Bad,about to pee,near a bird that looked like him,using the Wi-FI,thinking about killing him,trying to escape",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cults",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ovulando",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Goel Ratzon era un líder de una secta israelí bizarra que envió celulares a sus seguidores para que pudieran mensajearle cuando estaban <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ovalating,fertile",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Thankfully we have iPhone apps for that now.",
+            "t": "A",
+            "v": "590531_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Goel Ratzon was a bizarre Israeli cult leader who issued his followers cell phones so they could text him when they were <BLANK>.",
+            "t": "A",
+            "v": "590528_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "been making bad music,gotten divorced,forgotten how to breathe,eaten too many mints,found a quarter on the street,adopted an old man,each bought a new pair of shoes,renamed themselves Ooko Yno and Lohn Jennon,joint custody of their fish,a grounded lifestyle,developed time travel,invented a new kind of hat,learned how to swim,gone bankrupt,burned The Beatles masters,switched hair styles,given up on love,that new sound you’ve been looking for",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "April Fools",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comenzado su propio país",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Día de los Inocentes de 1973, Yoko Ono y John Lennon organizaron conferencia de prensa, en la que anunciaron que habían <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "their own country,started a new country,started a country",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I’m still not sure if they were kidding.",
+            "t": "A",
+            "v": "587493_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On April Fool’s Day 1973, Yoko Ono and John Lennon held a press conference, at which they announced they had <BLANK>.",
+            "t": "A",
+            "v": "587490_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

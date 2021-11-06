@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "betting on dog races,telemarketing scams,funerals for his men,mixing up his suitcases,divorce settlements,building his own castle,eating out too much,losing his locker key,leaving it at his ex’s place,investing in AOL,hog futures,unsuccessful golf tournaments,his twin Toby Escobar,vampire hunting,morale-raising pizza parties,refusing to murder his enemies,marketing his own dessert topping,a misplaced decimal",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Money Troubles",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Ratas se comían el dinero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El narcotraficante colombiano Pablo Escobar perdió unos 2 mil millones de dólares debido a que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "rats,water damage",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He couldn’t put it in a bank, so 10% of his fortune was lost to rats and water damage.",
+            "t": "A",
+            "v": "600431_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]It’s hard to believe, but Colombian drug lord Pablo Escobar lost an estimated $2 billion due to <BLANK>.",
+            "t": "A",
+            "v": "600428_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

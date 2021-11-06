@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Scissors,Sticky tack,Tic-Tacs,Hair nets,Blenders,Video tape,Etch-A-Sketch,Monopoly,Scattergories,The Rocking Horse,The Rubix Cube,Snickerdoodles,Wishbone the dog,Boomboxes,Kool-Aid,Fire hydrants,the Easter Bunny,Mensa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tainted Inventions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Los monos marinos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Harold Von Braunhut era un supremacista blanco que le prestó miles de dólares a grupos de odio. Pero extrañamente, también inventó <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Sea monkies,See monkeys,sea-monkeys",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Harold Von Braunhut was a white supremacist who loaned thousands of dollars to hate groups. But weirdly, he also invented <BLANK>.",
+            "t": "A",
+            "v": "612482_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

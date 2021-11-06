@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "god,Weird Al Yankovic,Ken Bone,John Wayne,Matlock,OJ Simpson,Alex Trebek,Roseanne Barr,Barbara Walters,Garfield,Steven Seagal,your worst enemy,Montel Williams,Julius Caesar,Mr. Belding,William Shakespeare,a rooster,Buffy the Vampire Slayer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cherry Coke",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Warren Buffett",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por tiempo limitado en 2017, las latas de Coca-Cola Cherry en China mostraban la cara de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "warren buffet,warren bufett",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The promotion was clearly targeted to kids.",
+            "t": "A",
+            "v": "592641_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]For a limited time in 2017, cans of Cherry Coke in China featured the face of <BLANK>.",
+            "t": "A",
+            "v": "592638_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

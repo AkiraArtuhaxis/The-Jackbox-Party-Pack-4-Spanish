@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sidewalks,tap water,her own fingernails,coffee,berets,rudeness,noise,bad television,beards,baguettes,air,underwear,work,bad news,The Guardians of the Galaxy,France,Benedict Cumberbatch,stop signs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "“allergies”",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "wifi",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, un tribunal francés otorgó a una mujer 900 dólares al mes en beneficios de discapacidad debido a sus supuestas reacciones alérgicas al <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "wi-fi,wireless frequencies,wireless internet",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Considering my download speeds, she wouldn’t get too sick at my place.",
+            "t": "A",
+            "v": "580026_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, a French court awarded a woman $900/month in disability benefits because of her supposed allergic reactions to <BLANK>.",
+            "t": "A",
+            "v": "580023_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

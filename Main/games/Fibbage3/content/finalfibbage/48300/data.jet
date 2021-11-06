@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sandwiches|sammies,pullovers|sweaters,hounds|mutts,ketchup|catsup,chicken|ham,Michigan|hell,the moon|a star,dancing|an act of evil,squirrels|fancy rats,clouds|smoke signals from god,sunrises|miracles,rich people|modern gods,lakes|fat rivers,cheese|fruit,penguins|rabbits,the number 5|an even number,beer|the devil’s blood,churches|foreign soil",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Indiana 1897",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pi|3,2",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1897, La Cámara Baja de Representantes de Indiana aprobó una ley que redefinió a <BLANK> como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the value of pi|3.2,the mathemtical constant pi|3.2,the constant pi|3.2",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Because math is a whole lot easier when it doesn’t have to be correct.",
+            "t": "A",
+            "v": "683304_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1897, the Indiana House of Representatives passed a bill that redefined <BLANK> as <BLANK>.",
+            "t": "A",
+            "v": "683301_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "oil-infused vodka,Mississippi River water,lead shampoo,baby pandas,Nic Cage’s tears,horse urine,Pure Michigan,raccoon brains,liquid courage,American know-how,Texas oil,New Coke,Bigfoot blood,Nic Cage’s snot,water from Narnia,liquified freedom,squirrel paws,children’s laughter",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "China",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Aire británico",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El emprendedor Leo De Watts ha ganado mucho dinero vendiendo botellas de <BLANK> a China por 115 dólares.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "air from England,air from the UK,air from the U.K.,U.K. air,UK air",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](taking a deep sniff) Ah, you can really smell the terrible food being cooked.",
+            "t": "A",
+            "v": "597111_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Entrepreneur Leo De Watts has made a hefty sum selling $115 bottles of <BLANK> to China.",
+            "t": "A",
+            "v": "597108_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

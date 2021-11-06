@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "keep out stray cats,prevent alien invasions,deter illegal immigrants,keep out prostitutes,television reception,tourism,stop people moving away,with their giant dome surplus,keep in that new town smell,discourage skydiving,rained out baseball games,increase rainbows,astronomers,old people get out more,Stephen King’s writing,the fruit trees,preserve historical landmarks,fireworks shows",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Domes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "abaratar las facturas de calefacción",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1979, la ciudad estadounidense de Winooski propuso construir una cúpula protectora que cubriría toda la zona. Creían que esto ayudaría a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "reduce heating bills,decrease heating bills,lower heating costs,reduce heating costs,decrease heating costs,lower the cost of heating,decrease the cost of heating,reduce the cost of heating,lower the heating bills,decrease the heating bills,reduce the heating bills,lower the town’s heating bills,reduce the town’s heating bills,decrease the town’s heating bills",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And as a bonus: all the dead birds you could eat!",
+            "t": "A",
+            "v": "635316_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1979, Winooski, VT proposed building a protective dome that would cover the entire town. They thought this would help <BLANK>.",
+            "t": "A",
+            "v": "635313_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

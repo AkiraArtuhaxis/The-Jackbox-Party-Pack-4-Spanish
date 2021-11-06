@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Get Out,Pee Pee,Witch’s Teat,Sod Off,Soccer Hooligan,Get Bent,Butt Whole,Goat Kisser,Green Puke,Ugly Mother,Cheap Meat,Screw This,Small Phart,Salty Mouth,Butt Grab,Infected Sore,Drunk Man,Rotten Meat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Stadium Names",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cerveza Barata",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de cambiar su nombre a The Help for Heroes Stadium o \"Estadio de ayuda para los héroes\", la instalación de futbol en Norwich, Inglaterra era conocida por el título menos elegante de \"Estadio <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Booze",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Maybe they figured out that 4 pounds for a beer isn’t much of a bargain.",
+            "t": "A",
+            "v": "571355_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before changing its name to The Help for Heroes Stadium, the soccer facility in Northwich, England was known by the less classy title <BLANK> Stadium.",
+            "t": "A",
+            "v": "571352_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

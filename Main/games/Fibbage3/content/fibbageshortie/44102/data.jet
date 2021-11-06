@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Good Christians,Immoral,Bad Girl,Moral Behavior,Naughty,I’m No Angel,Arrest Me,Jailbird,Silk Undies,Broads and Brassieres,Drink Milk & Go to Church,Come Up & See Me Naked Sometime,She Mae or Mae Not,Billy’s Big One,The Silly Policeman,Icy Uranus,Go West Young Man,Let’s Sacrifice a Baby",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Immoral Plays",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sexo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En abril de 1927, la actriz Mae West fue declarada culpable de producir una obra inmoral y condenada a diez días de cárcel. El título de la obra era <i><BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Sex!",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I mounted a revival of the play, but it only lasted two minutes.",
+            "t": "A",
+            "v": "578497_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In April 1927, actress Mae West was convicted of producing an immoral play and sentenced to ten days in jail. The title of the play was <i><BLANK><\/i>.",
+            "t": "A",
+            "v": "578494_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

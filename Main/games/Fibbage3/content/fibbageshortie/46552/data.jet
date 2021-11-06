@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "no King Lear,Siri,a roomba,wrestlers,20 babies,more speeches,minions,pie fights,Skype,klingons,the cast of Hamilton,dunk tanks,The Oakland A’s,fish,parking attendants,Monty Python,dogs,no words",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Shakespearience",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ovejas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2014, una inusual adaptación de Shakespeare se estrenó en Londres titulada <i>El rey Lear con <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "lambs,sheeps,lamb",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]As if that play needed help putting you to sleep.",
+            "t": "A",
+            "v": "646470_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2014, an unusual Shakespeare adaptation premiered in London titled <i>King Lear with <BLANK><\/i>.",
+            "t": "A",
+            "v": "646467_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

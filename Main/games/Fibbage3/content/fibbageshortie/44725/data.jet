@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "love Taz,don’t speak,have an MBA,quote The Simpsons,hiccup,fart,are billingual,have big feet,don’t shave,have ten or more tattoos,have a short name,connect on an emotional level,talk about football,look like a relative,blackmail their clients,talk about sex,are from that town,wear a man’s suit",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Lap Dances",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ovulan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2007, investigadores de la Universidad de Nevada descubrieron que las bailarinas eróticas profesionales obtienen mejores propinas cuando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "are ovulating,are fertile",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Remember folks: What happens in Vegas... is diligently recorded and published in science journals.",
+            "t": "A",
+            "v": "595491_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2007, researchers at the University of Nevada found that professional lap dancers earn higher tips when they <BLANK>.",
+            "t": "A",
+            "v": "595488_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

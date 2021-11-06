@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mary Kate and Ashley Olsen,Bob Saget,John Goodman,Cher,Jay Leno,Tom Selleck,Bill Murray,Big Bird,an unknown juggler,The Backstreet Boys,a small town sheriff,Adam Sandler,Don Knotts,Donald Trump,Dolly Parton,Chevy Chase,Michael Jackson,Shaquille O’Neal",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Movie Time",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Frank Sinatra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que Bruce Willis lo obtuviera, el primer actor al que le ofrecieron el papel protagónico en <i>Duro de matar<\/i> fue <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Sinatra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was based on a novel and the 73 year old had acquired the rights of first refusal decades before. What a pity.",
+            "t": "A",
+            "v": "607993_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Before it went to Bruce Willis, the first actor to be offered the lead role in <i>Die Hard<\/i> was <BLANK>.",
+            "t": "A",
+            "v": "607990_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

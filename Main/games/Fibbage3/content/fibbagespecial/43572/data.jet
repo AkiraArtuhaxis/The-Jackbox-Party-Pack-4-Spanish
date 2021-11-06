@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a tank,his body as a baby,his own body,Kelly Ripa,Judge Ito,a goldfish,Aquaman,a toilet bowl,a snake,a vampire,a unicorn,a starfish,a hippo’s butt,the moon,the Empire State Building,a dolphin,Elsa from Frozen,a vodka bottle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "50 Sentidos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Superman",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "50 Cent escribió la descripción: \"Mood: Estoy en mi m**rda, así que fuera de mi camino. Lo gracioso es que crees que estoy bromeando. #EFFENVODKA #FRIGO.\" Esto era una referencia a una foto con su cara photoshopeada sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "July 14, 2016",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "@50cent",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Super man",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]Sit tight a sec, I gotta check my feed...",
+            "t": "A",
+            "v": "565525_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]CELEBRITY INSTAGRAM! In July 2016, 50 Cent wrote the caption: “Mood: I’m on my s**t, so stay outta my way. The funny part is you think I’m playing. #EFFENVODKA #FRIGO.”This was in reference to a pic of his face Photoshopped onto <BLANK>.",
+            "t": "A",
+            "v": "565520_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

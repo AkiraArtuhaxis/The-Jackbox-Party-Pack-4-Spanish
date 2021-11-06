@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Snow shoes,Condoms,Clown Noses,Bombs,child parachutes,cigarettes,malt liquors,Babies for health class,switchblades,bibles,sex toys,chewing tobacco,dialysis machines,bomb shelters,survival rations,edible underwear,wide-mouth wall sockets,toilet seats",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Disturbing Disney",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "máscaras de gas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la década de 1940, Walt Disney trabajó con una compañía asociada para diseñar una línea algo atemorizante de <BLANK> de Mickey Mouse.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Gas Mask,Children’s Gas Masks,gas masks for kids,gas masks for children",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Ya know, to make World War II fun for kids!",
+            "t": "A",
+            "v": "612277_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the 1940s, Walt Disney worked with a partner company to design a line of somewhat disturbing Mickey Mouse <BLANK>.",
+            "t": "A",
+            "v": "612274_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

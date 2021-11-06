@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "DY-NO-MITE,spaceship,Where’s the beef?,selfie,restaurant,pumpkin,calzone,relish,Clint Eastwood,mercury,president,spaghetti,pumpernickel,platypus,Coca Cola,tambourine,Florida,Bologna",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mispellings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Wookiee",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, <i>The Dallas Morning News<\/i> se disculpó por un error ortográfico que cometieron 40 años atrás. En 1977, el diario escribió mal “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Wookee,Wokiee,Wookie",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It’s like they say: May the Fjord be witch yule",
+            "t": "A",
+            "v": "652953_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, <i>The Dallas Morning News<\/i> apologized for a spelling error they made forty years earlier. In 1977, the paper misspelled <BLANK>.",
+            "t": "A",
+            "v": "652950_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

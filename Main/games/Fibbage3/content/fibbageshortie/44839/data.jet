@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Egg Toss,Cupcake Baking,snapping,Play-Doh Molding,cup stacking,Station Wagon Racing,Nail Polish Design,Barista,Corn Shucking,Thumb War,Arm Wrestling,Pizza Dough Spinning,cleaning,Quiplash,Pun,donkey basketball,staring,silent treatment",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Championship",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Piedra papel o tijera",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2007, ESPN realmente llevó la definición de \"deporte\" al límite cuando emitió el campeonato nacional de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Rock, Paper, Scissors",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The prize was $50,000. *sigh* I remember when it was about the love of the game.",
+            "t": "A",
+            "v": "598783_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]ESPN really pushed the definition of “sports” in 2007 when they aired the National <BLANK> Championship.",
+            "t": "A",
+            "v": "598780_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

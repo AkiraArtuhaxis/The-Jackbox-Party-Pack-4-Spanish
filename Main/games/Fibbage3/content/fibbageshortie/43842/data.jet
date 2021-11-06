@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "The Plow King,The New York Yankees,Ben Affleck,Mr. Peanut,Big Bird,people in Garfield costumes,Ronald McDonald,army tanks,The Batmobile,Stephen King,Optimus Prime,the mob,rodeo clowns,lobster fisherman,Trump impersonators,the Rockettes,Cards Against Humanity,McDonalds",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Snow Job",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pornhub.com",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En marzo de 2017, los residentes de Boston fueron sorprendidos por una tormenta de nieve masiva. Quedaron aun más sorprendidos cuando vieron que la nieve de sus calles estaba siendo barrida por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Pornhub,a porn site",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Now they know where to go for a good plowing.",
+            "t": "A",
+            "v": "571059_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In March 2017, Boston residents were surprised  by a massive snowstorm. They were even more surprised when they found their streets being plowed by <BLANK>.",
+            "t": "A",
+            "v": "571056_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

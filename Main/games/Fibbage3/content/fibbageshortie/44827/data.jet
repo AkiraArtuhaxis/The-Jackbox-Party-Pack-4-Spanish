@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "his songs,a Wiggles song,off key,backwards,with auto-tune,a Spice Girls song,Smash Mouth,in Swedish,while gargling,with a ventriloquists dummy,in a really high octave,like Donald Duck,gibberish,country music,through his nose,on tape,a lullaby,disco",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Boo!",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "El himno nacional de Alemania",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El rockero inglés Pete Doherty fue abucheado fuera del escenario en un concierto en Alemania por cantar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "their national anthem,the national anthem,the German national anthem",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The first two verses are banned in Germany because of their association to the Nazi party.",
+            "t": "A",
+            "v": "598423_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]English rock musician Pete Doherty was booed off stage at a concert in Germany for singing <BLANK>.",
+            "t": "A",
+            "v": "598420_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

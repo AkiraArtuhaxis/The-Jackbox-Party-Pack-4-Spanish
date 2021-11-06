@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "feo,flaco,muerto,calvo,borracho,sexy,cojo,peludo,tonto,parlante,sin pelo,inteligente,negro,de cera,alto,comido,eructado,descompuesto",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Wot’s Weeth The Sheep?",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "scabby",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una frase Rusa similar a “Una manzana podrida echa a perder el cesto\" se traduce como “La <BLANK> oveja echa a perder a todo el rebaño”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "scabbed",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "563937_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Ew.",
+            "t": "A",
+            "v": "563935_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Russian phrase similar to “One bad apple spoils the whole bunch” translates to “The <BLANK> sheep spoils the whole flock.”",
+            "t": "A",
+            "v": "563932_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Indiana Pacer,Booger,Nervy,Jazzy,Worrywart,Trouser,Gleek,Soft Shoe,Slapper,Pocket Check,Spitter,Pen Thief,Fake Punch,Desk Butt,Skipping,Red Cheeks,Headlock,Finger Guns",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Johnsons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Lámpara",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a un hábito que tenía mientras viajaba por los pasillos de la Casa Blanca, el presidente Lyndon B. Johnson se ganó el apodo “<BLANK> Johnson.”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He turned off lights left on by his staff. Personally I’d have gone with “Electric Johnson”.",
+            "t": "A",
+            "v": "558948_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Due to a habit he had while roaming the halls of the White House, President Lyndon B. Johnson earned the nickname “<BLANK> Johnson”.",
+            "t": "A",
+            "v": "558945_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

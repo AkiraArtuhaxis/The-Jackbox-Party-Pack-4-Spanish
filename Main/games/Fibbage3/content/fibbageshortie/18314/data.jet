@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "crocodiles,hippos,sharks,baby frogs,dolphins,another endangered monkey,its zookeeper,walruses,piranhas,bacteria,Anthony Bourdain,its parents,school children,the mayor’s wife,a visitor’s service dog,jellyfish,lobsters,dragonflies",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "zoo life",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "otters",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el 2015, un mono en peligro de extinción en el Zoológico de Bristol Gardens en Gran Bretaña tuvo un final trágico cuando fue accidentalmente devorado por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "oters,otter,a pack of otters,ravenous otters,some otters,hungry otters",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The monkey fell into their pond and they went to town. Aw, but I just can’t stay mad at otters.",
+            "t": "A",
+            "v": "376388_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, an endangered monkey at Bristol Zoo Gardens in Britain met with a tragic end when it was accidentally eaten by <BLANK>.",
+            "t": "A",
+            "v": "376385_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

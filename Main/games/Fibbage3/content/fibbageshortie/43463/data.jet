@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "condoms,apology cards,their grandparents,Michael Bolton music,maid services,porn site subscriptions,gum,their boss,pastrami,male enhancement pills,socks,antidepressants,lotion,scented candles,bed sheets,Nutella,carpet,movie rentals",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sexy lovin’ day",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su mascota",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "De acuerdo a las estadísticas peculiares ofrecidas por el motor de búsqueda Bing, en 2016, la persona promedio gasto 26 dólares en <BLANK> para el día de San Valentín.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "their pets,a pet,pets",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And it most likely led to some heavy petting.",
+            "t": "A",
+            "v": "562833_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to some odd stats provided by the search engine Bing, in 2016, the average person spent $26 on <BLANK> for Valentines Day.",
+            "t": "A",
+            "v": "562830_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

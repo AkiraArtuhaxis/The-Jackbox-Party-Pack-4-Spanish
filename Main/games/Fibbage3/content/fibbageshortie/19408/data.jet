@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ESP,a series of winks,erotic touching,talking,waving,screaming,changing color,swimming in circles,dying,rolling their eyes,belching,peeing,flaring their nostrils,sarcasm,shedding scales,spontaneously combusting,licking their lips,sign language",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Excellent Herring",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pedos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Al viajar en un cardumen numeroso, se cree que los arenques pueden comunicarse instantaneamente mediante <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "farts,flatulence,passing gas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Birds of a feather flock together, while fish just fart.",
+            "t": "A",
+            "v": "385112_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Traveling in large schools, herring are believed to instantaneously communicate by <BLANK>.",
+            "t": "A",
+            "v": "385109_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

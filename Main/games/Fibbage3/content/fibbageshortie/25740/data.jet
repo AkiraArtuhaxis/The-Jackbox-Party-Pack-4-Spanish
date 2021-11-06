@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fart,start dancing,explode,begin to cry,vanish,melt,grow,scream,come back to life,vomit,shrink,turn yellow,whisper,undress,run away,sing a hymn,blush,start humming",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Very superstitious",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se desangraría",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los primeros detectives en la Edad Media creían en la “cruentación\", una creencia supersticiosa de que el cuerpo de una víctima asesinada <BLANK> en presencia del asesino.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "start to bleed,begin to bleed,start bleeding",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]Seriously, guys? Please grow up. (sfx FART)",
+            "t": "A",
+            "v": "567833_0f",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Early detectives in the Middle Ages believed in “cruentation,” a superstitious belief that the body of a murder victim would <BLANK> in the presence of the murderer.",
+            "t": "A",
+            "v": "431846_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

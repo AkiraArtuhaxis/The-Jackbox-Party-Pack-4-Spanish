@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Norwacky,Raven,tubular,Charlie Sheen,corn muffin,Viking,crumb sauce,Pac-Man,basket trash,peanuts,Rush Limbaugh,Mt. Dew,desert time,totes totes,Dennis Quaid,Ozzy Osbourne,Depp,Santa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Norway",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Texas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En Noruega, una manera común de describir una situación alocada es decir que es \"totalmente <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]As an American, I find that offensivee. The phrase should be “totally Florida.”",
+            "t": "A",
+            "v": "585395_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]It’s Norwegian slang time! In Norway, a common way to describe a crazy situation is to say it’s “totally <BLANK>.”",
+            "t": "A",
+            "v": "585392_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

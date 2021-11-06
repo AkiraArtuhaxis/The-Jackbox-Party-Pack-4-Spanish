@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "love,private jet,yacht,Macy’s spending account,Bengal tiger,art collection,dinosaur fossil,designer shoes,magical amulet,Lamborghinis,hair,gym membership,backrubs,breast implants,original songs,personal chef,baby,life-size statue of her",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Now That’s Bitter",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "riñón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un médico de Long Island demandó a su exesposa, exigiendo que le pague 1,5 millones de dólares o devuelva el <BLANK> que le había dado.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "donated kidney",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host][sigh] In a divorce, it’s always the internal organs that suffer...",
+            "t": "A",
+            "v": "566292_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A doctor in Long Island sued his ex-wife, demanding she either pay him $1.5 million or return the <BLANK> he had given her.",
+            "t": "A",
+            "v": "566289_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

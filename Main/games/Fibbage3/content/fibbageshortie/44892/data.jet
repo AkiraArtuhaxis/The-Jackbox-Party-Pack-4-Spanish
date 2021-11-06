@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Noodles & Co.,hat shop,music store,light fixture supply shop,BMW dealership,post office,shoe store,hotline to heaven,pork bun stand,pretzel kiosk,credit union,vacation resort,architectural tours,popemobile rental,clothing line,banana stand,barbershop,used book store",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pope Inc.",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lavandería",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En abril de 2017, el Papa Francisco llegó a las noticias cuando abrió su propio/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "laundry,laundery service,laundry mat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]“Pope Francis’ Laundy” is a free laundromat for Rome’s homeless population.",
+            "t": "A",
+            "v": "600191_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In April 2017, Pope Francis made headlines when he opened up his own <BLANK>.",
+            "t": "A",
+            "v": "600188_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

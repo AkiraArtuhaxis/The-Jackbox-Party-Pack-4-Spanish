@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ballyhoo,Fun Meats,Good Times,Nick-Nacks,Chew Goods,Yum Yums,Noms,Bunches,Boop Boops,Twinkies,Gut Munchies,Fun Chunks,Mighty Meats,Proteinies,Roosevelt Roasters,Victory Links,Cowboy Fritters,Beef Boys",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Meat",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cositas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la Segunda Guerra Mundial, el Centro Nacional de Investigación intentó hacer que las vísceras resultaran más atractivas para los estadounidenses renombrándolas a “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tid bits,variety meats,variety",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]They were also called “variety meats,” due to the variety of faces your family would make as they choked them down.",
+            "t": "A",
+            "v": "580470_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]During WWII, the National Research Center attempted to make organ meats more appealing to Americans by renaming them <BLANK>.",
+            "t": "A",
+            "v": "580467_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

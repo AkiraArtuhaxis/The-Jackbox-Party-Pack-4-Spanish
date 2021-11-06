@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Stink,Dummy,illiterate,Fast Food,Social Media,Rural,Big Word,Republican,Lil Wayne,Mediocre,Bovine,Griffin,Tumblr,Bro,Whale Song,Fake News,Van Art,Apple Pencil",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "College Courses",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Taco",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si estudiaste en la Universidad de Kentucky en 2016, podrías haber asistido a “Estudios Retóricos, Digitales y de Escritura 422”, un curso también conocido como “Literatura de <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]You can take the course either pass, fail, or al pastor.",
+            "t": "A",
+            "v": "649934_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you attended the University of Kentucky in 2016, you could have taken “Writing, Rhetoric, and Digital Studies 422,” a course also known as “<BLANK> Literacy.”",
+            "t": "A",
+            "v": "649931_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "used napkins,Speed 2,jean shorts,RC cola cans,money,mouse traps,their two cents,prom tuxedos,back scratchers,goat cheese,Jnco jeans,Kool-Aid packets,their children,the Hairspray soundtrack,old boxes of chinese takeout food,ugly scarves,anything flannel,Grape Escape",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Unwanted Donations",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "El código Da Vinci",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, una tienda de caridad en Swansea, Gales tuvo que poner un cartel solicitando que la gente dejara de donar <i><BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Da Vinci Dode,The Davinci Code,Davinci code",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Hmm..all those people giving away the same lousy book? I smell a conspiracy.",
+            "t": "A",
+            "v": "635468_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, a charity shop in Swansea, Wales had to put up a sign requesting that people stop donating <BLANK>.",
+            "t": "A",
+            "v": "635465_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

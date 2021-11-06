@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "librarian,high school kid,stunt artist,dumb scientist,magician,professional dancer,Tom Hanks impersonator,birthday clown,brain surgeon,car wash owner,dishwasher,circus acrobat,Twitch streamer,high school quarterback,child,dog walker,dog,construction worker",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Humble Beginnings",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "conserje",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los Cheetos Flamin’ Hot no fueron inventados por un científico brillante, sino por un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "custodian",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]He’s now an executive vice president, so work hard and eat lots of snacks, kids!",
+            "t": "A",
+            "v": "564921_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Believe it or not, Flamin’ Hot Cheetos were not invented by a brilliant scientist, but rather a <BLANK>.",
+            "t": "A",
+            "v": "564918_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

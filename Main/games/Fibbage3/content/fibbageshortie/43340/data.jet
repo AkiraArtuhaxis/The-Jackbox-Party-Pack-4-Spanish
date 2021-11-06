@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a way back to the future,cigarettes,a rocket launcher,their sign,their fingers,some dating advice,their phone numbers,canned ham,their obituaries,their teeth,Beyonce tickets,a piece of gum,a Freaky Friday,a ligther,their greatest fears,the president’s space ship,their addresses,the best place to cut them",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "No More Questions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "queso en rebanadas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los empleados de una farmacia de CVS en Virginia se encerraron en un cuarto detrás del mostrador y llamaron a la policía luego de que un cliente les pidió <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cheese",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Normally, I might give you a little context to explain why this happened, but I honestly have no idea.",
+            "t": "A",
+            "v": "560763_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The employees of a CVS pharmacy in Virginia locked themselves in a back room and called police after a customer asked one of them for <BLANK>.",
+            "t": "A",
+            "v": "560760_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Let’s get crazy,My house or yours?,Like what you see?,It doesn’t matter,No dorks allowed,Eat your fill,Back off,Enough already,Kiss Rules,Sweet,You Looking At Me?,Let’s See How This Goes,Ben Was Here,Come Back Later,Too Soon to Tell,Don’t Count On It,Aye Carumba!,Get Bent",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Old Money",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Ocúpate de tus asuntos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El primer centavo estadounidense, llamado el centavo Fugio, mostraba al sol brillando junto a una frase corta que simplemente decía “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Mind Your Own Business",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yeah, ya jerks.",
+            "t": "A",
+            "v": "686160_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The original US penny, called the Fugio cent, featured the sun shining on a short phrase which simply read “<BLANK>.”",
+            "t": "A",
+            "v": "686157_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Came back to life,wrote her own bio,Appeared on film,ate 80 hotdogs,Walked through walls,had a lawyer,could eat,taught dance lessons,was convicted of a crime,couldn’t wail,haunted a bathroom,ran for mayor,had a baby,went to college,fought a bear,won the lottery,went to space,got married",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Notable Ghosts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Resolvió su propio asesinato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El fantasma en Zona Heaster Shue, también llamado el fantasma de Greenbrier de Virginia Occidental, es conocido como el único fantasma que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Solved her murder,Helped a trial,Gave testimony in court,gave testimony",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Yet Casper’s killer remains at large.",
+            "t": "A",
+            "v": "574838_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The ghost of Zona Heaster Shue, AKA The Greenbrier Ghost of West Virginia, is known as the only ghost who <BLANK>.",
+            "t": "A",
+            "v": "574835_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

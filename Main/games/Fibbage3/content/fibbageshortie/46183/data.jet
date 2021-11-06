@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Teddy bear maker,Cheese maker,Farmer,Chess champion,Scrabble player,Bird enthusiast,Wind sailor,Taekwondo instructor,pig farmer,Filmmaker,Musician for weddings,Surgeon,party clown,Computer programmer,Video game designer,Roller coaster enthusiast,Disney fan,Rural cop",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Fun Hobbies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Piloto comercial",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2017, los medios holandeses descubrieron que el rey Willem-Alexander había vivido una doble vida como un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pilot,pilot for commercial planes,co-pilot,commercial co-pilot",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]That’s nothing. I heard Prince Charles drives an Uber.",
+            "t": "A",
+            "v": "637458_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2017, Dutch media discovered that King Willem-Alexander had been living a double life as a <BLANK>.",
+            "t": "A",
+            "v": "637455_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

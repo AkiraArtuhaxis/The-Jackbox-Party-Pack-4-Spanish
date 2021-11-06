@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "smelling good,growing teeth,catching fire,farting,magically healed,sprouting leaves,shaped like constellations,bleeding whiskey,producing paint,talking,quickly shrinking,attracting deer,moving around their bodies,stage makeup,not worth writing home about,pre-existing conditions,cooler than others,whistling Dixie",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Battle Wounds",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "brillando azul",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la Batalla de Shiloh, en 1862, los soldados heridos se sorprendieron al descubrir que algunas de sus heridas estaban <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "blue",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was caused by a local bacterium that actually helped clean out the wounds.",
+            "t": "A",
+            "v": "587253_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]At the Battle of Shiloh in 1862, injured soldiers were shocked to discover that some of their wounds were <BLANK>.",
+            "t": "A",
+            "v": "587250_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

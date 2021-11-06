@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "drink baby urine,eat expired tuna,gargle cobra venom,shower in tiger’s milk,swim in symbiotic fluid,inhale giraffe urine,rub himself with gasoline,taste test vodka,make pureed poison sumac,snort laundry detergent,listen to egg whites,inject Coca-Cola into his veins,knit hemp blankets,churn butter,lick elephant dung,clip coupons for bleach,hangglide naked,watch Darkwing Duck",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Dictator Beauty Routines",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se bañaba en sangre de delfín",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como creía que lo mantenía joven, el dictador birmano Ne Win a veces <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "soak in dolphin’s blood,soak in dolphin blood,bathe in dolphins’ blood,bathe in dolphins blood,bathe in the blood of dolphins,dolphin blood,dolphins’ blood,the blood of dolfin,dolfin blood,dolfin’s blood,dolfins’ blood",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Dolphin’s blood doesn’t make you younger, but it does make a mean Bloody Mary. (SFX sipping sounds)",
+            "t": "A",
+            "v": "415915_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Because he believed it kept him youthful, Burmese dictator Ne Win would sometimes <BLANK>.",
+            "t": "A",
+            "v": "415912_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

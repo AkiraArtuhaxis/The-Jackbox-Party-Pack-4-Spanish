@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "big daddy,the android,all night long,the newsanator,stamina joe,Wolverine,camera hog,mr. no stop,marathon man,Geraldine,long boy Lester,the Energizer bunny,no bladder,mr sugar rush,daddy go go,long lasting lester,Cal Ripken,the juggernaut",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a boy named lester",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pantalones de hierro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a su habilidad para permanecer al aire durante horas, el reportero de NBC Lester Holt se ha ganado el apodo de <BLANK> entre sus compañeros.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ironpants,iron-pants",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Big deal. I’ve hosted three whole Fibbage games without changing these pants. ...I’m stuck to the chair.",
+            "t": "A",
+            "v": "562237_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Because of his ability to stay on-air for hours, NBC newsman Lester Holt has earned the nickname <BLANK> from his colleagues.",
+            "t": "A",
+            "v": "562234_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Loose teeth,Bloating,Giddiness,Orgasms,Small pox,Elongated Feet,Public urination,Pregnancy,Atheism,Seizures,Love,Fevers,Sudden Lobotomies,Whooping cough,Super intelligence,Weakening of the bones,Boring stories,“Train Leg”",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Trains",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Locura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A medida que el transporte ferroviario creció en popularidad en la era victoriana, también lo hizo la creencia de que viajar en tren podía causar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Insanty,In sanity,craziness,you to go insane,people to go insane,you to go crazy,people to go crazy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Actually, this only happens when you fly coach.",
+            "t": "A",
+            "v": "623038_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]As railroad travel grew in popularity in the Victorian era, so did a belief that riding trains could cause <BLANK>.",
+            "t": "A",
+            "v": "623035_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

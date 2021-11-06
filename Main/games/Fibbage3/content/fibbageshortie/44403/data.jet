@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bails of hay,uncooked pasta,snake eggs,a bible,angry bees,baby hair,hummingbird brains,small rocks,raw onions,stork feathers,Pokemon cards,passive aggressive notes,crackers,cutoff jeans,spoons,M&M’s,brushes,pogs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Just a Tribute",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "limones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En una extraña forma de tributo, los visitantes de la tumba del General de la Guerra Civil de Estados Unidos \"Stonewall Jackson\" suelen dejar <BLANK> en lugar de flores.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "lemon,a lemon,whole lemons",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]As the saying goes, “If life gives you lemons, you’re probably dead.”",
+            "t": "A",
+            "v": "587373_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an odd form of tribute, visitors to the grave of U.S. Civil War General “Stonewall Jackson” often leave <BLANK> instead of flowers.",
+            "t": "A",
+            "v": "587370_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ugly people,a snake,commoners,a memory,big hairy bear,your hand,your own grandma,boiled cabbage,an evil witch,bad vodka,some jerk,a snowstorm,a skeleton,a pair of underwear,the devil,mud,a scarecrow,a snowman",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "El mal de amor",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una cabra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La traducción literal rusa a la expresión \"El amor es ciego\" sería \"El amor es malvado; amarás incluso <BLANK>.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "cabra,cabras",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "v": "564423_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Hey don’t knock it til you’ve tried it.",
+            "t": "A",
+            "v": "564421_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The literal Russian translation for the expression “Love is blind” is “Love’s evil; you’ll love even <BLANK>.”",
+            "t": "A",
+            "v": "564418_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

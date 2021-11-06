@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fart smells,millennials,ingrown toenails,pudding skin,ghosting,beef jerky,Curly’s Gold,why people love the 90s,the human gag reflex,Bigfoot pregnancy,the popularity of IPAs,the Wright Bros. murder,squirrel telepathy,why onions make your eyes water,the freshman fifteen,cargo shorts,the disappearance of Des Moines,erotic crop circles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mysterious",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las vaginas de delfines",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dara Orbach de la Universidad de Dalhousie ha dedicado su vida a un campo de estudio interesante: resolver el misterio de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "dolphins’ vaginas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She’s one of few marine scientists with this particular specialty.",
+            "t": "A",
+            "v": "606375_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Dara Orbach of Dalhousie University has dedicated her life to an interesting field of study: solving the mystery of <BLANK>.",
+            "t": "A",
+            "v": "606372_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

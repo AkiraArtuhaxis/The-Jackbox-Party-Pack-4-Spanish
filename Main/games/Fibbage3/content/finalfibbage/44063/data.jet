@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pirate|bombs,cloud|wasabi,ghost|marshmallow,ninja|mud,biker|motor oil,gang member|starfish,demon|lava,police officer|bullets,banshee|swamp water,surfer|sand,clown|sawdust,alien|bad breath,werewolf|tar,vampire|smaller vampires,caveman|butterflies,mailman|letters,doctor|needles,professor|razor blades",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Villainy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Nazi|abejas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los mejores villanos Spider-Man nunca llegan a las películas. Como el malvado Fritz von Meyer, que es un <BLANK> hecho de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Man|bees,Monster|bees,Jerk|bees,Nazi|wasps,man|wasps,monster|wasps",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Talk about a PR nightmare for bees.",
+            "t": "A",
+            "v": "577256_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The best Spider-Man villains never make it to the movies. Like the evil Fritz von Meyer who is a <BLANK> made of <BLANK>.",
+            "t": "A",
+            "v": "577253_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

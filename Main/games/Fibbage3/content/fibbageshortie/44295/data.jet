@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dinosaur bones,expired lunch meat,New York subway spit,Jurassic mold,his toe fungus,pop tarts,better whiskey,bubble gum,locker room towels,mastodon tusks,old popcorn,hurricane water,dead whales,polar bear pee,meteorites,sewage water,old comic books,ghost peppers",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Drink up",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orina de diabéticos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2010, el investigador biomédico británico James Gilpin embotelló y destiló su propia marca de whisky puro de malta que fermentó usando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "pee,urine,pee from diabetics,urine from diabetics",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Giving whole new meaning to the term “piss drunk.”",
+            "t": "A",
+            "v": "584105_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2010, British biomedical researcher James Gilpin bottled and distilled his own brand of single malt whiskey that’s fermented using <BLANK>.",
+            "t": "A",
+            "v": "584102_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

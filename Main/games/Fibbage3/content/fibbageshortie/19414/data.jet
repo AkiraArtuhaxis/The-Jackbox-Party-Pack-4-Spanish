@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "no teeth,three arms,super intelligence,twenty fingers,super short tongues,bat ears,prehensile tails,cloven feet,sabreteeth,night vision,heat vision,purple hair,smelling like skunk,orange eyes,nine inch thumbs,psychic abilities,really neat hair,backwards elbows",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Inbreeding",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tener piel azulada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como producto de la endogamia, todos los miembros de la familia Fugate en Troublesome Creek, Kentucky compartían el rasgo de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "being blue,blue,blueness",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Until that Avatar sequel comes out, they’re the next best thing.",
+            "t": "A",
+            "v": "385256_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Thought to be the result of inbreeding, the Fugate family of Troublesome Creek, Kentucky all shared the trait of <BLANK>.",
+            "t": "A",
+            "v": "385253_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

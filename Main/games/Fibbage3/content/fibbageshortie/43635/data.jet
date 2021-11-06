@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "talking to the dead,feeding pigeons,farting in the library,skinnydipping in public,skydiving blindfolded,flipping off other drivers,impersonating Mary Tyler Moore,dancing on Main Street,calling soda “pop”,recycling light bulbs,throwing manure,tossing gum on sidewalks,selling rat milk,dining and dashing,depantsing a judge,making snow angels on public property,singing in city hall,cursing at babies",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "#Resist",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "masajear caballos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A pesar de las amenazas de multas costosas y tiempo en la cárcel, Laurie Wheeler, una mujer de Tennessee, dice que no parara de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "giving massages to horses,giving horses massages",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]She looked her oppressors in the eye and said “neigh.”",
+            "t": "A",
+            "v": "566742_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Despite being threatened with hefty fines and jail time, Laurie Wheeler of Leiper’s Fork, TN says she will not stop <BLANK>.",
+            "t": "A",
+            "v": "566739_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

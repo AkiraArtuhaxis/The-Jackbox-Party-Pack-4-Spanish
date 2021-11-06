@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dog|serious petting,butt|to quit,son|a hobby,mouth|a scrubbing,head|a brain,mom|a gun,cat|to die,sister|to mind her business,purse|more pockets,nose|a finger,libido|some cold water,house|some loving,shoe|a sock,bedroom|some action,kid|to shut up,teacher|to stop flirting,sandwich|horse meat,bikini zone|some attention",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Urgent Needs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cara|golpeada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes una \"backpfeifengesicht\"? Es alemán, se traduce a \"una <BLANK> que necesita ser <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "face|a punch",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host][DOUBLE BLANK] Do you have a “backpfeifengesicht?” From German, it translates to “a <BLANK> that needs <BLANK>.”",
+            "t": "A",
+            "v": "585572_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

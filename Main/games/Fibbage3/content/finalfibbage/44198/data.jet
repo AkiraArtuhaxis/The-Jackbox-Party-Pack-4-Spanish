@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "churches|bars,dogs|cats,children|demons,stars|angels,thumbs|fingers,vampires|sexy,butts|divine,blessings|tax deductible,noses|little mouths,doves|baby angels,trees|Earth’s hair,witches|really fun,nipples|the windows to the soul,belly buttons|a punishment from above,snowglobes|little universes,horses|people,geese|evil,practical jokers|god’s favorite",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Catholic Rules",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los castores|peces",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el siglo XVII, respondiendo a una pregunta del Bishop de Quebec, la Iglesia Católica declaró oficialmente que <BLANK> eran <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It then declared all cats were girls, dogs were boys, and lizards were snakes with prosthetics.",
+            "t": "A",
+            "v": "581070_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In the 17th century, responding to a question from the Bishop of Quebec, the Catholic Church officially declared that <BLANK> were <BLANK>.",
+            "t": "A",
+            "v": "581067_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

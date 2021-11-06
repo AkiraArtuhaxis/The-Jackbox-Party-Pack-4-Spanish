@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "quit|jobs,slap|butts,shame|dogs,throw out|cheese,burn|tongues,drink|toilet water,burn|houses,eat all|figs,change|names,swap|spouses,give away|money,plug|ears,yell at|kids,curse|ancestors,lick|feet,pierce|nipples,twirl|mustaches,smell|bread",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cat Mourning",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "afeitaban|cejas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando un gato mascota moría en el antiguo Egipto, sus propietarios tenían una extraña forma de luto. Ellos <BLANK> sus <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "shaved|eyebrows,removed|eyebrows,shaved|brows,shave|brows,remove|eyebrows",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]I’m pretty sure that’s why the crazy cat lady next door always draws her’s on.",
+            "t": "A",
+            "v": "585305_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When a pet cat died in ancient Egypt, its owners had a weird way of mourning. They would <BLANK> their <BLANK>.",
+            "t": "A",
+            "v": "585302_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

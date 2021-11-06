@@ -1,0 +1,208 @@
+﻿{
+    "credits":[
+        {
+            "Title": "TRADUCCIÓN PRINCIPAL",
+            "Name": "AKIRA896"
+        },  
+        {
+            "Title": "TRADUCCIÓN ASISTENTE",
+            "Name": "RAÚL MORA"
+        },
+        {
+            "Title": "TRADUCCIÓN ASISTENTE",
+            "Name": "ARTUHAXIS"
+        },
+        {
+            "Title": "LOGO",
+            "Name": "FIXED FUN"
+        },
+        {
+            "Title": "DIRECTOR",
+            "Name": "MARK TUROWETZ"
+        },
+        {
+            "Title": "INGENIERO LÍDER",
+            "Name": "BEN JACOBS"
+        },
+        {
+            "Title": "DIRECTOR DE ARTE",
+            "Name": "ALLARD LABAN"
+        },
+        {
+            "Title": "LÍDER DE ARTE",
+            "Name": "ALAIN HELMERS"
+        },
+        {
+            "Title": "DIRECTOR DE AUDIO",
+            "Name": "BRIAN CHARD"
+        },
+        {
+            "Title": "ANFITRIÓN",
+            "Name": "PHIL RIDARELLI"
+        },
+        {
+            "Title": "DIRECTOR DE EDITORIAL",
+            "Name": "ARNIE NIEKAMP"
+        },
+        {
+            "Title": "ESCRITOR LÍDER",
+            "Name": "WARREN ARNOLD"
+        },   
+        {
+            "Title": "ESCRITOR LÍDER",
+            "Name": "SPENCER HAM"
+        },   
+        {
+            "Title": "ESCRITORA",
+            "Name": "MARLA CACERES"
+        },		
+        {
+            "Title": "ESCRITOR",
+            "Name": "DANNY GALLAGHER"
+        },
+        {
+            "Title": "ESCRITORA",
+            "Name": "STEPHANIE WEBER"
+        },		
+        {
+            "Title": "ESCRITOR CONTRIBUYENTE",
+            "Name": "BRIAN CHARD"
+        },   
+        {
+            "Title": "ESCRITOR CONTRIBUYENTE",
+            "Name": "RYAN DIGIORGI"
+        },		
+        {
+            "Title": "ESCRITOR CONTRIBUYENTE",
+            "Name": "BRIAN MCGOVERN"
+        },
+        {
+            "Title": "ESCRITOR CONTRIBUYENTE",
+            "Name": "ANDY POLAND"
+        },
+        {
+            "Title": "GERENTE DE PROYECTO",
+            "Name": "LUKE CODY"
+        }, 
+        {
+            "Title": "ARTISTA TÉCNICO",
+            "Name": "MARK TUROWETZ"
+        },        
+        {
+            "Title": "ARTISTA",
+            "Name": "NOLAN DOWNS"
+        },
+        {
+            "Title": "ARTISTA",
+            "Name": "HECTOR M PADILLA"
+        },     
+        {
+            "Title": "INGENIERO DE SOFTWARE",
+            "Name": "EVAN JACOVER"
+        },
+        {
+            "Title": "INGENIERO DE SOFTWARE",
+            "Name": "JORDAN ORELLI"
+        }, 
+        {
+            "Title": "INGENIERO DE SOFTWARE",
+            "Name": "PASCAL POCHOL"
+        },
+        {
+            "Title": "INGENIERO DE SOFTWARE",
+            "Name": "ALEX SWAN"
+        },  
+        {
+            "Title": "INGENIERO DE SOFTWARE",
+            "Name": "MIKE ZUBA"
+        },        
+        {
+            "Title": "INTERNA DE INGENIERÍA DE SOFTWARE",
+            "Name": "STASHA BLANK"
+        },
+        {
+            "Title": "INTERNA DE INGENIERÍA DE SOFTWARE",
+            "Name": "JEANNETTE FORBES"
+        },
+        {
+            "Title": "INTERNA DE INGENIERÍA DE SOFTWARE",
+            "Name": "APRIL MARTIN"
+        },        
+        {
+            "Title": "ASISTENTE DE AUDIO",
+            "Name": "TOM BARRETT"
+        },
+	{
+            "Title": "CORRECTORA",
+            "Name": "ELAINE FRIEDBERG"
+        },
+        {
+            "Title": "LÍDER DE CONTROL DE CALIDAD",
+            "Name": "STEVE “WAT” PAKAL"
+        },
+        {
+            "Title": "CONTROL DE CALIDAD",
+            "Name": "JACOB MOONEY"
+        }, 
+        {
+            "Title": "CONTROL DE CALIDAD",
+            "Name": "EM K REISHUS"
+        },
+        {
+            "Title": "CONTROL DE CALIDAD",
+            "Name": "RILEY HALLIGAN"
+        },
+        {
+            "Title": "CONTROL DE CALIDAD",
+            "Name": "KEVIN VEKONY"
+        },        
+        {
+            "Title": "CONSEJERO LEGAL",
+            "Name": "KURT HIRSCH"
+        },
+        {
+            "Title": "MANDO",
+            "Name": "ANNA WODYNSKI"
+        },
+        {
+            "Title": "RECURSOS HUMANOS, GERENTE DE OFICINA Y CONTADOR",
+            "Name": "ROB ALLETTO"
+        },
+        {
+            "Title": "CEO",
+            "Name": "MIKE BILDER"
+        },
+        {
+            "Title": "VP CREATIVO",
+            "Name": "ALLARD LABAN"
+        },
+        {
+            "Title": "VP INGENIERO",
+            "Name": "EVAN JACOVER"
+        },
+        {
+            "Title": "AGRADECIMIENTOS ESPECIALES",
+            "Name": "ADAM CHARNEY"
+        },     
+        {
+            "Title": "AGRADECIMIENTOS ESPECIALES",
+            "Name": "GREG GRETSCH"
+        },
+        {
+            "Title": "AGRADECIMIENTOS ESPECIALES",
+            "Name": "DAVE INNIS"
+        },
+        {
+            "Title": "AGRADECIMIENTOS ESPECIALES",
+            "Name": "ROB JOHNSON"
+        },
+        {
+            "Title": "AGRADECIMIENTOS ESPECIALES",
+            "Name": "OWEN WATSON"
+        },
+        {
+            "Title": "FUNDADOR DE JACKBOX GAMES",
+            "Name": "HARRY GOTTLIEB"
+        }
+    ]
+}

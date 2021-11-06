@@ -1,0 +1,1006 @@
+{
+    "content":[
+        {
+            "id":"00000000",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Por favor, recoge algunas toallitas desechables para papá.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No puedo hablar ahora.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"Bueno, la última vez se te olvidó y le salió una erupción en el trasero.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000001",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¡Me encanta mi nuevo corte de pelo!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"genial :)",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Gracias de nuevo. Te daré una mñn.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"k",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000002",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Qué llevarás puesto para la boda?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No sé. Probablemente un traje y Chuck Taylors.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¿Un traje con zapatillas?",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Eres la persona más genial que conozco.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000003",
+            "windowTitle":"Mensaje de Dee23",
+            "messages":[
+                { 
+                    "from":"Dee23",
+                    "text":"Hola cariño ;)",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Hola...¿te conozco?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dee23",
+                    "text":"mirame en chicasdeviedeojuegossolas.biz",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Lo haré más tarde. ¡Gracias por la invitación, señorita!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000004",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"LucyAmaElHilo42",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¿Qué estás haciendo, mamá?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"LucyAmaElHilo42",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡Aquí NO es donde va tu contraseña, Mamá!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000005",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Cuando tengas un segundo, ¿puedes venir aquí?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No voy a volver a checkear a Papá buscando garrapatas.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡Solo necesito ayuda con los muslos!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000006",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Lo buscaste?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Sí.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡¿Y?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Tom Petty no tiene un hijo llamado Manny.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000007",
+            "windowTitle":"Mensaje para Mamá",
+            "messages":[
+                { 
+                    "from":"Todd",
+                    "text":"¿Cómo estuvo ayer?",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡Bien! Hice mucha terapia de compras",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Compraste mucho, ¿eh?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"No, pero me desahogué con la vendedora sobre tu padre",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000008",
+            "windowTitle":"Mensaje para Papá",
+            "messages":[
+                { 
+                    "from":"Todd",
+                    "text":"Escuché que ustedes compraron un colchón nuevo.",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Papá",
+                    "text":"Sí. GRAN error.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¿Por qué?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Papá",
+                    "text":"Fui a la tienda de colchones con sueño y gasté de más",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000009",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Estás libre mañana por la noche?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡Sí! ¿Qué pasa?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡Tengo un programa de improvisación!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Oh, espera... estoy ocupado. Sí, definitivamente ocupado.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000010",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Perdón por hacerme el fantasma anoche en la fiesta.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Está bien.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Solo desearía que no hubieras cortado mi sábana.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":":(",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000011",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Funcionó?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No. Tampoco darkweb.org o darkweb.gov",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡¿Cómo accedemos entonces?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No tengo ni idea.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000012",
+            "windowTitle":"Mensaje de Papá",
+            "messages":[
+                { 
+                    "from":"Papá",
+                    "text":"Hola, hijo.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Hola, papá.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Papá",
+                    "text":"Ok, buena charla.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Papá",
+                    "text":"Tengo que irme.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000013",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"¿Sigues jugando a ese juego?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No es solo un “juego” mamá.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"ES. MI. VIDA.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"Lo que sea. Solo recuerda traer papel higiénico a casa.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000014",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Alguna vez has jugado a otros juegos?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"De vez en cuando.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Ocasionalmente.",
+                    "behavior":"send",
+                    "timeTilNextMessage":2.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"A veces.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000015",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Espero que estés teniendo un buen día, cariño. Con amor, mamá.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Gracias, mamá, pero no es necesario que firmes con tu nombre.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Sé que me estás escribiendo.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"OH, ya veo. Con amor, mamá.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000016",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"¡Finalmente descubrí los emojis!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"&:X=:=",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Eso no funcionó.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡Demonios! ¡Oh, lo descubrí! &:X=:=",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000017",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"¿Tu computadora fue hackeada?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No. ¿Por qué?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"Te vi publicar un buen comentario en mi muro.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000018",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Sí, a veces Todd puede ser realmente molesto.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Eh...",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡Oh jajaja mentira! ¡Solo estoy divirtiéndome un poco!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡Definitivamente no estoy charlando con Susan en este momento!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000019",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¡Ey!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡Oye!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¿Qué pasa?",
+                    "behavior":"send",
+                    "timeTilNextMessage":2.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"nada",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000020",
+            "windowTitle":"Mensaje de Papá",
+            "messages":[
+                { 
+                    "from":"Papá",
+                    "text":"Estoy orgulloso de ti, hijo.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"...¿Mamá?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¿Eres tú?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Papá",
+                    "text":"¡Puede que no lo diga, pero en serio lo implica!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000021",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¡Sarah me preguntó si vives en el gimnasio!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡¿Ah, sí?!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡Supongo que soy musculoso!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Ella preguntó porque pensaba que no tenías casa. :(",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000022",
+            "windowTitle":"Mensaje para Mamá",
+            "messages":[
+                { 
+                    "from":"Todd",
+                    "text":"¿Cómo fue la venta de garaje?",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡Bien! Vendimos todas las cosas que dejaste aquí.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡¿Qué?!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡Es broma! Solo tu ropa y tus DVD.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000023",
+            "windowTitle":"Mensaje de Dee23",
+            "messages":[
+                { 
+                    "from":"Dee23",
+                    "text":"¿qué vas a hacer ma5trde? chicasdeviedeojuegossolas.biz",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"uh, ey. Estoy pensando en leer un poco de Thoreau",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dee23",
+                    "text":"suena calientte. Quiero escuchar todo sobre ello.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Bueno, se muda a este estanque y decide plantar frijoles...",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000024",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Vamos esta noche?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Te dije que no.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡Vamos!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"No puedo disfrazarme de Ángel a menos que seas Buffy.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000025",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Pensé que estabas atrapado en Alemania.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¿Qué? No. He estado aquí todo el tiempo.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡¿Entonces a quién le envié $10,000?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000026",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Querido diario, volví a tener ese sueño con Antonio.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡Mamá, este no es tu diario!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"Me encontró en la cocina, empapado por la lluvia.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000027",
+            "windowTitle":"Mensaje de Liz",
+            "messages":[
+                { 
+                    "from":"Liz",
+                    "text":"Ahora aprieta la llave hexagonal y tu futón estará completo.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"¡Gracias! Me alegra que su empresa haga esto.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Y perdón por llorar cuando no pude encontrar una llave.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Liz",
+                    "text":"Ocurre todo el tiempo.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000028",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"¿Borraste WordPuttz de mi teléfono?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Ya nadie juega eso",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¡No me importa! ¡Me encanta!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000029",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"¿Tú también tienes un día difícil?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Sí. Anoche fue una locura.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡¿Por qué bebimos tantos Mr. Pibbs?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000030",
+            "windowTitle":"Mensaje de Walt",
+            "messages":[
+                { 
+                    "from":"Walt",
+                    "text":"¡Oye, Todder!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Hola Tío Walter.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Walt",
+                    "text":"Casi escribo TOLDE :)",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"...eso nunca deja de ser gracioso",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000031",
+            "windowTitle":"Mensaje de Dee23",
+            "messages":[
+                { 
+                    "from":"Dee23",
+                    "text":"¡Oye lindo! ¿Qué pasa? Chicasdeviedeojuegossolas.biz",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Haciendo algo de gazpacho",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dee23",
+                    "text":"¡Suena caliente!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No, es gazpacho. Es frío.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000032",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Tengo una pregunta sobre la computadora.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Lo siento, estoy ocupado. ¿Quizás más tarde?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"Ok, espero que el fuego se apague.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000033",
+            "windowTitle":"Mensaje de Mamá",
+            "messages":[
+                { 
+                    "from":"Mamá",
+                    "text":"Tu primo está aquí.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"¿Cuándo vienes?",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Después del juego.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mamá",
+                    "text":"Por favor, date prisa. Me asusta.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000034",
+            "windowTitle":"Mensaje de Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Tuve ese sueño otra vez...",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Pensé que habíamos acordado no hablar de eso.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"¡Tiene que significar algo!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Tengo que irme.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        }
+    ]
+}

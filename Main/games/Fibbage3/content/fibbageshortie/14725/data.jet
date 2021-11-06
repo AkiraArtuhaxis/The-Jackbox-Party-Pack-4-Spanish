@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un bong,una pistola,un machete,una pipa con cocaína,una escopeta,un sitio porno,un celular,un auto a control remoto,su PS3,un palo saltarín,una prostituta,una máquina de café,un sitio de citas,un gameboy,un deshidratador de alimentos,gafas de rayos X,un rascador de espalda,un sitio de fútbol fantasy",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bad-boy judges",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un alargador del pene",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El juez Donald Thompson recibió una condena de 4 años entre las rejas en 2006 luego de ser observado usando <BLANK> durante varios juicios.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "un alargador de pene,alargador de pene,alargapenes,una bomba de vacío para el pene,bomba de vacío para el pene,bomba peniana,una bomba peniana",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Still, four years seems like an inflated sentence.",
+            "t": "A",
+            "v": "326636_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]District Judge Donald Thompson was given a four-year prison sentence in 2006 after he was caught using <BLANK> during several trials.",
+            "t": "A",
+            "v": "326633_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

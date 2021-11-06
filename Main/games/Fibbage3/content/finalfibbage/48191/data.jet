@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "wipe|butt,change|baby,pet|cat,plant|garden,drive|bus,wash|dog,compose|polka song,start and maintain|conga line,poach|perfect egg,raise|family on a budget,nurse|monkey,mock|terrible idea,pour|perfect Guinness,impregnate|killer whale,lead|marching band,write|gripping novel,build|LEGO Death Star,console|loved one",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "VES-4",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ordeñar|escorpión",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desarrollado por científicos en Morocco, el robot VES-4 fue diseñado para <BLANK> un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "extra venom from|scorpion,milk|scorpions,get venom from|scorpion,shock|scorpion,electrocute|scorpion",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Eight years in scorpion milking school down the drain.",
+            "t": "A",
+            "v": "680002_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Here’s a sign the robots are taking over. Developed by scientists in Morocco, the V-E-S-4 robot is designed to <BLANK> a <BLANK>.",
+            "t": "A",
+            "v": "679999_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

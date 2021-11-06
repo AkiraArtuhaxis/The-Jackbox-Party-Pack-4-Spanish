@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "overweight|bacon,depressed|online dating,aroused|phone sex,descended|Genghis Khan,ten minutes|a mental breakdown,upset|a sporting event,tired|partying,sitting on a chair|china,hidden|view,smart|going to school,sick|eating burgers,100 years|death,happy|just living life man,thinking about aliens|outer space,Jenny|the block,Luka|the second floor,enchanted|seeing live theater,busy|2pm to 4pm",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "90 Percent",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "15 minutos|un Walmart",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según un artículo en CNBC.com de octubre de 2016, aproximadamente un 90 por ciento de personas en Estados Unidos están a <BLANK> de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "15 minutes|a Wal-Mart,Fifteen minutes|a Wal-Mart,Fifteen minutes|a WalMart,15 minutes|Wal-Mart,Fifteen minutes|Wal-Mart,Fifteen minutes|WalMart,15 minutes away|a Wal-Mart,Fifteen minutes away|a Wal-Mart,Fifteen minutes away|a WalMart,15 minutes away|Wal-Mart,Fifteen minutes away|Wal-Mart,Fifteen minutes away|WalMart",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]According to an October 2016 article on CNBC.com, approximately 90 percent of people in the U.S. are <BLANK> from <BLANK>.",
+            "t": "A",
+            "v": "673756_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

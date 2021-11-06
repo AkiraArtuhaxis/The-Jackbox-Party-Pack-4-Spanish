@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beber vino blanco,tomar asprinas,comer col rizada,tomar duchas calientes,hacer flexiones,cantar en falsete,andar en bicicleta,fumar cigarros,alimentar pájaros,inhalar gases,dormir 12 horas,correr,beber leche,bañarse en whisky,nadar,saltar a través del vidrio,mirar al sol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Swedish crime",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tomar café",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para demostrar que era peligroso, el rey Gustavo III de Suecia castigó a un prisionero obligándolo a <BLANK> cada día por el resto de su vida.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "tomar cafe,beber una taza de café,beber una taza de cafe,beber cafe,beber café",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Worst of all: it was instant.",
+            "t": "A",
+            "v": "573150_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In order to prove it was dangerous, King Gustav III of Sweden once punished a prisoner by forcing him to <BLANK> every day for the rest of his life.",
+            "t": "A",
+            "v": "573147_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

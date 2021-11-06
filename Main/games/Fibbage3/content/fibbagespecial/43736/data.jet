@@ -1,0 +1,106 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "child,draft,horror movie monster,wad of gum,Bob,model airplane,turnip,Christmas present,burger,mud pile,sculpture,cracker in the box,cheese wheel,idea,noodle,haircut,glob,pile of garbage",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Yuri Can’t Cook",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tortita",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Russian",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un dicho ruso sobre cosas que no siempre funcionan la primera vez se traduce como \"La primera <BLANK> es siempre una masa sin forma.\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "blini,blinis,pancakes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]Fun fact: Fibbage was based an old Russian trivia game. Ya buy that? Well, anyway...",
+            "t": "A",
+            "v": "568835_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]When I cook, it’s the first pancake, the first steak, the first pot of water... [trail off]",
+            "t": "A",
+            "v": "568833_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Russian saying about things not always working the first time is translated as “The first <BLANK> is always a blob.”",
+            "t": "A",
+            "v": "568830_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

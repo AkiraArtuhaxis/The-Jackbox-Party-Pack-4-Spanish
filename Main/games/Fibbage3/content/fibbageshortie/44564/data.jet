@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "French,smoking pot,obese,ripping up a tax form,reading a book,dreaming about mice,holding a rat,crying into a fountain,leaning to the left,punching the Devil,drinking a beer,throwing tomatoes,under an umbrella,eating ice cream,jazz scatting,playing a washboard,watching Home Improvement reruns,modelled after James Gandolfini",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cool Statues",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "haciendo pis",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hay una estatua famosa cerca del ayuntamiento de Bruselas que se dice que simboliza el espíritu de la ciudad. Esta muestra a un niño pequeño que está <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "urinating,pissing",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]So Brussels has the same spirit as a bootleg Calvin sicker on the back of a pickup.",
+            "t": "A",
+            "v": "591317_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]There’s a famous statue near the Brussels town hall that’s said to embody the spirit of the city. It depicts a little boy who is <BLANK>.",
+            "t": "A",
+            "v": "591314_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

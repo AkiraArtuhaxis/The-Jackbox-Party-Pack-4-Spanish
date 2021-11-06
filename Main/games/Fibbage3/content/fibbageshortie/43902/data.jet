@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sell his piano,Teach Capone to play,Learn a new instrument,Get them into a jazz club,Dance with them,Play classical music,run booze,Join their gang,Speak Spanish,Dress in drag,Sell his clothes,Take a picture,Sign an autograph,Do “Free Bird”,Lighten up,meet his son,Endorse him for mayor,Loan him five bucks",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Al & Fats",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fuera a su cumpleaños",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los matones de Al Capone una vez tuvieron a Fats Waller de rehén porque querían que el músico del jazz <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "Perform at Capone’s birthday party,Play at his birthday party,Go to his party,come to his birthday,come to his party,party with him,party with capone",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Oh Al, when will you learn you don’t need guns to make friends. Just be yourself!",
+            "t": "A",
+            "v": "572753_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Al Capone’s goons once held Fats Waller at gunpoint because they wanted the jazz musician to <BLANK>.",
+            "t": "A",
+            "v": "572750_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

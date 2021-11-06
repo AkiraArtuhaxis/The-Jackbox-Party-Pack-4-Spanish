@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "rum,sunscreen,lube,moonshine,shampoo,fake tan spray,bourbon,quarters,chapstick,teeth whitener,wine,laxative,glitter,ketchup,contact solution,George Clooney’s sweat,olive oil,Red Bull",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Oscar Swag",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Limpiacristales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A los nominados al Óscar en el 2013 se les dio una bolsa de regalos que contenía un set de cuidados faciales de 5.000 dólares, un paquete de vacaciones de 3.300 dólares y una botella de 4 dólares de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "glass cleaner,cleaner",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Celebrities: they’re just like us!",
+            "t": "A",
+            "v": "352406_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Oscar nominees in 2013 were given a gift bag that included a five thousand dollar facelift set, a thirty-three hundred dollar vacation package, and a four dollar bottle of <BLANK>.",
+            "t": "A",
+            "v": "352403_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

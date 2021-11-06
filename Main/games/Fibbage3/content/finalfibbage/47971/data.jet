@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eat|deep dish pizza,win|hot dog eating contest,sculpt|statue,remove|splinter,write|screenplay,play|one man band,Jump on|trampoline,bake|cake,win|spelling bee,fake|magic trick,improvise|one woman show,finish|sudoku puzzle,type|paper on bees,grill|brat,perfectly wrap|bean burrito,drink|gallon of milk,list|mattress on craigslist,change|tire",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Space Space Space",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "correr|maratón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 16 de abríl de 2007, la astronauta Sunita Williams se convirtió en la primera persona en <BLANK> una <BLANK> en el espacio.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "finish|marathon,complete|marathon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]So that’s why the space shuttle has an obnoxious “26.2” sitcker on it.",
+            "t": "A",
+            "v": "673895_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]On April 16, 2007, astronaut Sunita Williams became the first person to <BLANK> a <BLANK> in space.",
+            "t": "A",
+            "v": "673892_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

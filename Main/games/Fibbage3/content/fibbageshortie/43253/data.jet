@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nuns,hijackers,a smoking pilot,Hugh Jackman,a loose cat,an exploding cellphone,a koala with a cigar,a melting Nintendo DS,crying babies,the friction of a couple making out,a passenger’s toaster oven,an old man rubbing his knees,the meals,a nearby marmite factory,someone smoking a pipe,a spy from a competing airline,Arnold Schwarzenegger,harmonica music",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "emergency landing",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una oveja pedorra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, un vuelo de carga desde Australia a Kuala Lumpur tuvo que hacer un aterrizaje inesperado cuando la alarma de incendios se activó por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "sheep farting,sheep gas,gas from sheep,farting,gas,a farting sheep,a sheep farting",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2015, a cargo flight from Australia to Kuala Lumpur had to make an unexpected landing after the fire alarm was set off by <BLANK>.",
+            "t": "A",
+            "v": "559370_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

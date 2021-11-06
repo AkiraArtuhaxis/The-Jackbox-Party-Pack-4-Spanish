@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tattoo,scar,unibrow,nose ring,crossbow,body cast,gang sign,cod piece,swimming suit,pair of sunglasses,bow tie,cow mask,cup of coffee,pitchfork,mohawk,top hat,gun,bowl cut",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Crucified",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "barba",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando visites Praga, asegúrate de visitar la Capilla de Nuestra Señora de Dolores, que muestra una mujer crucificada con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Hopefully her soul was shaved.",
+            "t": "A",
+            "v": "388601_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]When in Prague, be sure to check out the Chapel of Our Lady of Sorrows, which features a crucified woman sporting a <BLANK>.",
+            "t": "A",
+            "v": "388598_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

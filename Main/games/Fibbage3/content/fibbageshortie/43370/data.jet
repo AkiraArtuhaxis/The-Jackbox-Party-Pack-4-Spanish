@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "meatloaf,scarecrows,omelettes,tubs of nacho cheese,pancakes,vienna sausages,pumpkins,a massive banana split,peanuts,pizza,M&Ms,elephant ears,candy canes,a sofa,marshmallows,chili dogs,old cassette tapes,steak",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Vienna Elephants",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "árboles de navidad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una vez al año, a los elefantes en el zoológico de Vienna se les permite comer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "trees",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]And when it leaves their body it looks like a wreath.",
+            "t": "A",
+            "v": "561538_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Once a year, the elephants in Vienna’s zoo are allowed to eat <BLANK>.",
+            "t": "A",
+            "v": "561535_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

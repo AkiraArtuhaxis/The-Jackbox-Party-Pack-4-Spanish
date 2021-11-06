@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "children|small wolves,bad information|the vice squad,manure|the mayor,candy|local women,fingers|kittens,gingerbread|werewolves,pretzels|vampires,cupcakes|goblins,stale bread|fire fighters,moldy cake|school teachers,mushrooms|drunk people,puppies|dragons,people’s shoes|a sea monster,local paintings|a griffin,old butter|skeletons,compliments|old people,rotten meat|farmers,live ducks|sleeping men",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Witch Hobbies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "avena|penes robados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1486, el clérigo alemán Heinrich Kramer publicó un libro afirmando que las brujas estaban dándole de comer, entre otras cosas, <BLANK> a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "corn|stolen penises,oats and corn|stolen penises,corn and oats|stolen penises,oats|penises,corn|penises,oats and corn|penises,corn and oats|penises",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Uh oh. Was I supposed to be feeding mine?",
+            "t": "A",
+            "v": "683678_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1486, German clergyman Heinrich Kramer published a book claiming that witches were, among other things, feeding <BLANK> to <BLANK>.",
+            "t": "A",
+            "v": "683675_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

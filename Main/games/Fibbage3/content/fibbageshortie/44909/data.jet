@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Twinkies,light choking,drama,magic mushrooms,meth-laced honey,human flesh,panda porn,EDM,reality shows,smart phones,energy drinks,getting haircuts,spandex,lotion,French New Wave,s’mores,Dance Dance Revolution,porcupine venom",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bears",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "aspirar gasolina",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los osos que viven en la reserva natural Kronotski en Rusia han desarrollado una adicción inesperada a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "jet fuel,huffing gasoline,huffing gas,gasoline,kerosene",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host](ala Smokey the Bear) Only you can prevent me from doing drugs.",
+            "t": "A",
+            "v": "600701_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Bears living on the Kronotsky Nature Reserve in Russia have developed an unexpected addiction to <BLANK>.",
+            "t": "A",
+            "v": "600698_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

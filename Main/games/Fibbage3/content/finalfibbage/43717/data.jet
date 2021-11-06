@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "smell|cheese,hear|a wolf,eat|a horse,taste|a snake,jump|a frog,drive|an astronaut,think|a dog,snore|a bear,swim|a fish,look|Harrison Ford,walk|an Egyptian,spend|there’s no tomorrow,sleep|duck,learn|a baby,dress|sailor,sweat|an elephant,see|a deer,walk|John Goodman",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Replacements",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hablas|Scooby Doo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2014, el Dr. Steven Long de la Universidad de Marquette acuñó el término \"reemplazo rótico\". Puede que tengas este trastorno si <BLANK> como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "charlas|Scooby Doo,conversas|Scooby,dialogas|Scooby,discutes|Scooby-Doo,platicas|Scooby-Doo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The only known treatment is a “Rooby Rack.” (Scooby Snack)",
+            "t": "A",
+            "v": "568263_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2014, Dr. Steven Long of Marquette University coined the term “rhotic replacement.” You may have this disorder if you <BLANK> like <BLANK>.",
+            "t": "A",
+            "v": "568260_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "horny dolphins,strong winds,sea turtles with herpes,global warming,pantsing pirates,synchronized swimming,complaints from a nearby church,manatees,Danish perverts,ufo sightings,surprise circumcisions,penis drag,semen-tracking sharks,prudish lifeguards,new surveillance cameras,frozen pubic hair,squid mating season,curious narwhals",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Drawstring",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "peces come-testículos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un profesor de Copenhague advirtió a los nadadores masculinos en Escandinavia que mantengan sus trajes de baño bien ajustados debido a los/las <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "ball-eating fish,testicle eating fish,beall eating fish,testicle fish,fish that eat testicles,fish that eat your balls",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Unless you’re an open fly fisherman.",
+            "t": "A",
+            "v": "348396_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]A Copenhagen professor warned male swimmers in Scandinavia to keep their swimsuits well tied because of <BLANK>.",
+            "t": "A",
+            "v": "348393_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

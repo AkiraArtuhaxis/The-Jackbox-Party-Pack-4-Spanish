@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "the crown jewels,the deed to Australia,Excalibur,Merlin’s hat,a dead parrot,a Yorkshire terrier,the Magna Carta,King James’ teeth,the prince’s glass eye,figgy pudding,a cookbook,the royal family’s toothbrushes,a duck,a Da Vinci painting,hot coals,cobras,mousetraps,four and twenty blackbirds",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Palace Malice",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la ropa interior de la reina",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1838, un criminal británico llamado Boy Jones entró en el Palacio de Buckingham. Cuando la policía lo capturó, descubrieron que tenía <BLANK> en sus pantalones.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "underwear,queen’s underwear,a pair of underwear,the queen’s panties,Queen Victoria’s underwear,Queen Vicotria’s panties",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]No one knows what the boy was going to do with them, especially considering Craigslist hadn’t been invented yet.",
+            "t": "A",
+            "v": "607267_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 1838, a British teenaged criminal named Boy Jones broke into Buckingham Palace. When police captured him, they found that he had <BLANK> stuffed in his pants.",
+            "t": "A",
+            "v": "607264_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

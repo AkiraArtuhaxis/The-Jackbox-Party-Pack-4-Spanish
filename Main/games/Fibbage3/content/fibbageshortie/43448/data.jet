@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "learn the fiddle,to bowl three perfect games,eat all the ice cream,be elected state representative,whistle non-stop,perform heart surgery,rob an accordion store,carve a guitar out of ice,record a country album,buy 1000 cowboy boots,punch Toby Keith,impersonate a professor,eat four chickens,invent a new musical style,line dance the entire time,eat 12 steaks,steal Hank Williams’ guitar,start a law firm",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tired of Reading",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cometer 11 crímenes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si alguna vez te encuentras con nueve horas sin nada que hacer en Nashville, podrías hacer lo que William Todd hizo en ese tiempo en 2012, que fue <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "felonies,felonys,crimes,crime,commit felonies,commit crimes,commit crime,get arrested",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]One was crapping on a law office desk. About which I have mixed feelings.",
+            "t": "A",
+            "v": "562458_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If you ever find yourself with nine hours to kill in Nashville, you could do what William Todd did in that time in 2012, which was <BLANK>.",
+            "t": "A",
+            "v": "562455_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

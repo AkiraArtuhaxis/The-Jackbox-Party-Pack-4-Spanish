@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "breastfeed|baby,sleep with|boss,wrap|presents,find|inner child,grill|cat,grow|own pigs,make|pants,build|own time machine,clean|bathtub,find|genie,love|colon,write|rock opera,perfect|pancakes,fund|porno,avoid|government,scam|grandparents,murder|spirit animal,bake|brownies",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Jazzy Authors",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gato|sus necesidades",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La leyenda del jazz Charles Mingus escribió una guía sobre cómo hacer que tu <BLANK> haga <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "train|cat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Call me when he can get them to put the seat down afterwards.",
+            "t": "A",
+            "v": "570760_4",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Oddly enough, jazz legend Charles Mingus penned a guide on how to <BLANK> your <BLANK>.",
+            "t": "A",
+            "v": "570757_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

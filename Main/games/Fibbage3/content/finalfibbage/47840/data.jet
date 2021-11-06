@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dance|roofs,default|loans,sprinkle salt|doorsteps,post anti-lion signs|land,pray|knees,put scary masks|farmhands,sit|hands,jump|stumps,sing|own christmas album,hop|pops,hang garlic|cows’ necks,rub cinnamon|cows’ tails,eat breakfast|front porch as a fun change,think hard|life goals,raise lions|farms instead,put salt|cows’ udders,install alarms|fences,give up|dreams",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cows & Lions",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pintaran ojos|traseros de las vacas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Al doctor Neil Jordan se le ocurrió una forma creativa de proteger al ganado de Botswana de ataques de leones. Hizo que los granjeros <BLANK> en los <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "paint eyes|cows butts,paint eyes|butts,paint eyes|butt,paint eyes|cows’ rumps,paint eyes|cows rumps,paint eyes|rumps,paint eyes|rump,paint eyes|cows’ assess,paint eyes|cows assess,paint eyes|asses,paint eyes|ass,draw eyes|cows butts,draw eyes|butts,draw eyes|butt,draw eyes|cows’ rumps,draw eyes|cows rumps,draw eyes|rumps,draw eyes|rump,draw eyes|cows’ assess,draw eyes|cows assess,draw eyes|asses,draw eyes|ass",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]Lions don’t like to be seen by their prey. Kind of like how I avoid eye contact with a roast duck.",
+            "t": "A",
+            "v": "669343_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]Dr. Neil Jordan came up with an inventive way to protect cattle in Botswana from lion attacks. He had farmers <BLANK> on their <BLANK>.",
+            "t": "A",
+            "v": "669340_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

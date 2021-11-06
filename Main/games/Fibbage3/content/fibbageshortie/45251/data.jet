@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "A cartoon character,two people with the same name,someone named Harris,a corporation,Frank Sinatra,a professional chef,Pablo Picasso,Babe Ruth,Karl Marx,a nun,John Wayne,an entire town,a car,a dog,a foley artist,a future President,the Earth,someone other than Streep",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Oscar Firsts",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el gobierno de los Estados Unidos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un extraño giro de los acontecimientos, los Premios de la Academia de 1965 marcaron el único año en que un Oscar fue ganado por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "the United States government,the government,the federal government,USA,the USA,the U.S.A.",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]The film, Nine From Little Rock, was a documentary commissioned by the head of the United States Information Agency.",
+            "t": "A",
+            "v": "609608_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In an odd turn of events, the 1965 Academy Awards marked the only year an Oscar was won by <BLANK>.",
+            "t": "A",
+            "v": "609605_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

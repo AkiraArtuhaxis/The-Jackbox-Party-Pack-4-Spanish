@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tombstones,vice presidents,pizza toppings,guys named Mike,Vine stars,the Minions,Disney Princesses,the Charmin Bears,selfies,vampires,donuts,muppets,imaginary friends,chickens,zoo animals,trees,British people,socks",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Personalities",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las piedras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, la revista científica <i>Marketing Theory<\/i> publicó un extraño estudio que evaluó las personalidades de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]It was determined that the rocks had slightly more personality than the people who published the study.",
+            "t": "A",
+            "v": "594533_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]In 2013, <i>Marketing Theory<\/i> published an odd study that assessed the personalities of <BLANK>.",
+            "t": "A",
+            "v": "594530_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}
