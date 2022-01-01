@@ -58,7 +58,7 @@
         "FULL_SCREEN": "Pantalla completa",
         "FULL_SCREEN_DESCRIPTION": "Hace que el juego tome toda la... pantalla.",
         "VOLUME": "Volumen maestro",
-        "VOLUME_DESCRIPTION": "Haz del juego uno RUIDOSO o CALLADO.",
+        "VOLUME_DESCRIPTION": "Haz del juego uno FUERTE o CALLADO.",
         "VOLUME_HOST": "Volumen del anfitrión",
         "VOLUME_HOST_DESCRIPTION": "Silencia al anfitrión si quieres estar solo y confundido.",
         "VOLUME_SFX": "Volumen de efectos",
@@ -118,7 +118,7 @@
         
         "TRASH_BIN": "Papelera",
         "MY_COMP": "Mi PC",
-        "SURVIVE_THE_INTERNET": "Sobrevive al internet",
+        "SURVIVE_THE_INTERNET": "Sobrevive al Internet",
         
         "SCORES": "Puntajes",
         "CURRENT_SCORES": "PUNTAJES ACTUALES",
