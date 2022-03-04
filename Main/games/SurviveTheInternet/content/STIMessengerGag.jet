@@ -294,7 +294,7 @@
             "messages":[
                 { 
                     "from":"Gene",
-                    "text":"Perdón por hacerme el fantasma anoche en la fiesta.",
+                    "text":"Perdón por hacerme el fantasma en la fiesta.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
@@ -726,7 +726,7 @@
                 },
                 { 
                     "from":"Gene",
-                    "text":"No puedo disfrazarme de Ángel a menos que seas Buffy.",
+                    "text":"No me disfrazaré de Ángel a menos que seas Buffy.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -750,7 +750,7 @@
                 },
                 { 
                     "from":"Mamá",
-                    "text":"¡¿Entonces a quién le envié $10,000?!",
+                    "text":"¡¿Entonces a quién le envié $10.000?!",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
