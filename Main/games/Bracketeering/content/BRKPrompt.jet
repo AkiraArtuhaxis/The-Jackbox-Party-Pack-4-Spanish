@@ -477,17 +477,17 @@
             "category": "Super",
             "twists": [
                 {
-                    "text": "Superhéroe/heroína o supervillano/a en el/la que más confías para hacer bien tu pedido de comida"
+                    "text": "Superhéroe o supervillano en quien que más confiarías para hacer bien tu pedido de comida"
                 },
                 {
-                    "text": "Mira a los dos villanos y dime cuál sería el más necesitado/a de un cambio de imagen"
+                    "text": "Mira estos dos héroes o villanos y dime quién necesitaría más un cambio de imagen"
                 },
                 {
-                    "text": "Superhéroe/heroína o supervillano/a que debería decir “Soy atrevido/a” más a menudo"
+                    "text": "Superhéroe o supervillano que debería decir “Soy atrevido” más a menudo"
                 }
             ],
             "prompt": {
-                "text": "Nombra cualquier superhéroe/heroína o supervillano/a"
+                "text": "Nombra cualquier superhéroe o supervillano"
             },
             "facts": []
         },
@@ -8199,7 +8199,7 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "La mejor pose que puedes hacer en una foto de último año escolar"
+                    "text": "Lo mejor que puedes hacer en una foto de último año escolar"
                 }
             ],
             "prompt": {
