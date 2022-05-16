@@ -73,7 +73,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "Se vería ridículo/a si tuviera el hashtag:",
+                "belowBlackBox" : "Quedaría en ridículo si tuviera el hashtag:",
                 "caret" : true
             },
             "controllerInputSpec":{
