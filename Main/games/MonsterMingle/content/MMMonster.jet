@@ -314,7 +314,7 @@
             "role": "Danger",
             "minimumPlayers": 5,
             "shortDescription": "[Player] es un",
-            "description": "[Player] es un HOMBRE LOBO.<br/>En una luna llena los Hombres Lobo obtienen un corazón bonus por salir... ¡y convierten a su cita en un Hombre Lobo! Pero si un Hombre Lobo es rechazado en una luna llena pierde medio corazón.",
+            "description": "[Player] es un HOMBRE LOBO.<br/>En una luna llena los Hombres Lobo obtienen un corazón bonus por salir... ¡y convierten a su cita en un Hombre Lobo! Pero si un Hombre Lobo es rechazado en una luna llena, pierde medio corazón.",
             "selfDescription": "En luna llena obtienes un corazón extra por tener citas... ¡y tu cita también se convierte en un hombre lobo! Pero si te rechazan en luna llena, pierdes medio corazón.",
             "powerpopup": {
                 "newInfection": "[Player] es ahora un Hombre Lobo",
