@@ -215,7 +215,7 @@
                 "triggered_multiple": "<div>Dejaste [Number] jugadores plantados y saliste con alguien más.</div><div>Obtienes [Number] corazones bonus</div>"
             },
             "epitaph": {
-                "nobody": "Nunca rechazó a nadie.< br/>No muy Careta.",
+                "nobody": "Nunca rechazó a nadie.<br />No muy Careta.",
                 "singular": "Rechazó 1 jugador.<br />Pero nunca ganó un corazón bonus.",
                 "singularsingular": "Rechazó 1 jugador.<br />Y ganó un corazón bonus.",
                 "plural": "Rechazó a otros jugadores [Rejection Number] veces.<br />Pero nunca ganó un corazón bonus.",
