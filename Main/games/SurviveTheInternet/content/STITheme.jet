@@ -130,7 +130,7 @@
         {
             "id":"FriendFeed",
             "name":"FriendFeed",
-            "url":"/circulos-sociales",
+            "url":"/círculos-sociales",
             "promptContentType":"STIPrompt",
             "bgFrame":"SocialNetwork",
 
@@ -171,7 +171,7 @@
         {
             "id":"CrowdFund",
             "name":"CrowdFund",
-            "url":"/recaudacion-de-fondos",
+            "url":"/recaudación-de-fondos",
             "promptContentType":"STIPrompt",
             "bgFrame":"Crowdfunding",
             

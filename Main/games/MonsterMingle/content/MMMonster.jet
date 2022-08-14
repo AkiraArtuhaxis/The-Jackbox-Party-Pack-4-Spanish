@@ -234,7 +234,7 @@
             "role": "DateEveryone",
             "minimumPlayers": 5,
             "shortDescription": "[Player] es un",
-            "description": "[Player] es un VAMPIRO.<br/>Todos los que salgan con el vampiro se convierten en vampiro. ¡Y también lo hacen los que salgan con ellos! Al final, éste vampiro consigue medio corazón bonus por cada vampiro en el juego.",
+            "description": "[Player] es un VAMPIRO.<br/>Todos los que salgan con el vampiro se convierten en vampiro. ¡Y también lo hacen los que salgan con ellos! Al final, este vampiro consigue medio corazón bonus por cada vampiro en el juego.",
             "selfDescription": "Todos los que exitosamente salgan contigo se vuelven vampiros. ¡Y también lo hacen los que salgan con ellos! Al final del juego recibes medio corazón bonus por cada vampiro en el juego. (¡Así que crea vampiros!)",
             "powerpopup": {
                 "newInfection": "[Player] es ahora un Vampiro",
@@ -246,12 +246,12 @@
                 "nobody": "¡No mordió a nadie!",
                 "mine": "Creó 1 vampiro.",
                 "allmine": "Creó [Number] vampiros.",
-                "extendedsingularsingular": "Creó 1 vampiro directamente.<br />Y éste creó 1 vampiro más.",
-                "extendedsingularplural": "Creó 1 vampiro directamente.<br />Y éste creó [Other Number] vampiros más.",
+                "extendedsingularsingular": "Creó 1 vampiro directamente.<br />Y este creó 1 vampiro más.",
+                "extendedsingularplural": "Creó 1 vampiro directamente.<br />Y este creó [Other Number] vampiros más.",
                 "extendedsingular": "Creó [Number] vampiros directamente.<br />Y éstos crearon 1 vampiro más.",
                 "extendedplural": "Creó [Number] vampiros directamente.<br />Y éstos crearon [Other Number] vampiros más.",
                 "everyonemine": "Hizo a todos vampiros directamente.",
-                "everyonesingular": "Creó 1 vampiro directamente.<br />Y éste convirtió a todos los demás.",
+                "everyonesingular": "Creó 1 vampiro directamente.<br />Y este convirtió a todos los demás.",
                 "everyoneplural": "Creó [Number] vampiros directamente.<br />Y éstos convirtieron a todos los demás."
             },
             "hint": {
@@ -268,7 +268,7 @@
             "minimumPlayers": 3,
             "shortDescription": "[Player] es un",
             "description": "[Player] es un FANTASMA VENGATIVO.<br/>El Fantasma Vengativo comienza el juego con un corazón bonus. Cuando el Fantasma Vengativo pide una cita a alguien y es rechazado... esa persona pierde un corazón.",
-            "selfDescription": "Comienzas el juego con un corazón bonus. Si le pides una cita a alguien y te rechaza... éste pierde un corazón.",
+            "selfDescription": "Comienzas el juego con un corazón bonus. Si le pides una cita a alguien y te rechaza... este pierde un corazón.",
             "powerpopup": {
                 "rejection": "[SUITOR] rechazó al Fantasma Vengativo.<br/>Pierde un corazón.",
                 "triggered": "<div>[SUITOR] te rechazó.</div><div>Pierde un corazón.</div>"
@@ -329,12 +329,12 @@
                 "nobody": "¡No mordió a nadie en luna llena!",
                 "mine": "Creó 1 hombre lobo.",
                 "allmine": "Creó [Number] hombres lobo.",
-                "extendedsingularsingular": "Creó 1 hombre lobo directamente.<br />Y éste hizo 1 hombre lobo más.",
-                "extendedsingularplural": "Creó 1 hombre lobo directamente..<br />Y éste creó [Other Number] hombres lobo más.",
+                "extendedsingularsingular": "Creó 1 hombre lobo directamente.<br />Y este hizo 1 hombre lobo más.",
+                "extendedsingularplural": "Creó 1 hombre lobo directamente..<br />Y este creó [Other Number] hombres lobo más.",
                 "extendedsingular": "Creaste [Number] hombres lobo directamente.<br />Y éstos hicieron 1 hombre lobo más.",
                 "extendedplural": "Creaste [Number] hombres lobo directamente.<br />Y éstos crearon [Other Number] hombres lobo más.",
                 "everyonemine": "Convertiste personalmente a todos en hombre lobo.",
-                "everyonesingular": "Creó 1 hombre lobo directamente.<br />Y éste convirtió a todos los demás en hombres lobo.",
+                "everyonesingular": "Creó 1 hombre lobo directamente.<br />Y este convirtió a todos los demás en hombres lobo.",
                 "everyoneplural": "Creaste [Number] hombres lobo directamente.<br />Y éstos convirtieron a todos los demás en hombres lobo."
             },
             "hint": {
@@ -387,12 +387,12 @@
                 "nobody": "No pudo hacer ningún otro zombi.",
                 "mine": "Infectó 1 jugador con el virus zombi.",
                 "allmine": "Infectó [Number] jugadores con el virus zombi.",
-                "extendedsingularsingular": "Infectaste directamente a 1 jugador con el virus zombi.<br />Y éste infectó a 1 jugador más.",
-                "extendedsingularplural": "Infectaste directamente a 1 jugador.<br />Y éste infectó [Other Number] jugadores más",
+                "extendedsingularsingular": "Infectaste directamente a 1 jugador con el virus zombi.<br />Y este infectó a 1 jugador más.",
+                "extendedsingularplural": "Infectaste directamente a 1 jugador.<br />Y este infectó [Other Number] jugadores más",
                 "extendedsingular": "Infectaste directamente a [Number] jugadores con el virus zombi.<br />Y ellos infectaron a 1 jugador más.",
                 "extendedplural": "Infectaste directamente a [Number] jugadores.<br />Y ellos infectaron [Other Number] jugadores más",
                 "everyonemine": "Infectaste directamente a todos.",
-                "everyonesingular": "Infectaste directamente a 1 jugador.<br />Y éste infectó a todos los demás.",
+                "everyonesingular": "Infectaste directamente a 1 jugador.<br />Y este infectó a todos los demás.",
                 "everyoneplural": "Infectaste directamente a [Number] jugadores.<br />Y ellos infectaron a todos los demás."
             },
             "hint": {
