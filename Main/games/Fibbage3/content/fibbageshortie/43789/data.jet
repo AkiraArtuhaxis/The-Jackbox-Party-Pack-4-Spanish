@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "peanut butter,yogurt,urinals,hackeysack,condoms,belly button lint,adult diapers,ingrown toenails,tissues,giving birth,slippers,earwax,vomiting,pinkeye,lemonade,a hangover,baseball,ice cream",
+            "v": "mantequilla de maní,yogur,urinarios,fútbol,condones,pelusa del ombligo,pañales para adultos,uñas encarnadas,pañuelos,dar a luz,zapatillas,cerumen,vómitos,conjuntivitis,limonada,resaca,béisbol,helado",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "\"Grandgore\" es un apodo común en Escocia utilizado para <BLANK>.",
+            "v": "\"Grandgore\" es el apodo escocés común para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "syphillis,syphillas,syphalas",
+            "v": "sifilis,sifílis,sifilís",
             "n": "AlternateSpellings"
         },
         {

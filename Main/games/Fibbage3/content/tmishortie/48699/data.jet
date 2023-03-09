@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dejar pescado en un casillero,meter papas en el caño de escape,mostrar las nalgas en un partido,meterle la cabeza a alguien en el inodoro,hacer un super calzón chino,hice tropezar a un amigo,tirar un pie en la cara",
+            "v": "dejar pescado en un casillero,meter papas en el tubo de escape,mostrar las nalgas en un partido,meterle la cabeza a alguien en el inodoro,hacer un super calzón chino,hice tropezar a un amigo,tirar una torta en la cara de alguien",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La mejor broma que <PLAYER> vio o de la que participó fue <BLANK>.",
+            "s": "[category=host]The best prank <PLAYER> has ever seen or taken part in was <BLANK>.",
             "t": "A",
             "v": "694838_1",
             "n": "QuestionAudio"

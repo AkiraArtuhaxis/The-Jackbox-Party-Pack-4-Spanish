@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Madonna|Britney Spears,Elvis Presley|John Lennon,Leonard Nimoy|The Easter Bunny,Mario|Wario,Joan of Arc|Mary Magdelene,Judas|Jesus,Bill Clinton|George Bush,Santa Claus|Satan,Steve Coogan|Rob Brydon,Quentin Tarantino|Cthulhu,Houdini|Richard Nixon,The Ghostbusters|Beetlejuice,Tony Robbins|a small orange,Katy Perry|Abraham Lincoln,Beyonce|Becky,Taylor Swift|Steven Spielberg,Eminem|Andy Warhol,Sting|the guy from Big Bang Theory",
+            "v": "Madonna|Britney Spears,Elvis Presley|John Lennon,Leonard Nimoy|el conejo de Pascua,Mario|Wario,Juana de Arco|María Magdalena,Judas|Jesús,Bill Clinton|George Bush,Papá Noel|Satanás,Stanley Kubrick|Chaplin,Quentin Tarantino|Cthulhu,Houdini|Richard Nixon,Los Cazafantasmas|Beetlejuice,Salvador Allende|Napoleón Bonaparte,Katy Perry|Abraham Lincoln,Beyoncé|Harry Styles,Taylor Swift|Steven Spielberg,Eminem|David Bowie,Sting|Bender Rodríguez",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Buddha|Jesus,Jesus|Budda,Budda|Jesus,Buda|Jesus",
+            "v": "Buda|Jesús,Jesús|Budda,Budda|Jesús,Buda|Jesus,Jesus|Buda",
             "n": "AlternateSpellings"
         },
         {

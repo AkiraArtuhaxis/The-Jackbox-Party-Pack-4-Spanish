@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "mosh pits,rats,punks,high liquor prices,improv comedy,fake cocaine,escaped bees,a drinking monkey,Madonna,rude bartenders,Mr. T,surprise orgies,chlamydia,flavored vodka,people with sword canes,Eddie Murphy’s entourage,ninjas,jean jackets",
+            "v": "mosh pits,ratas,punks,licores caros,comedia de improvisación,cocaína falsa,abejas fugitivas,un mono bebedor,Madonna,cantineros groseros,Mr. T,orgías sorpresa,clamidia,vodka saborizado,gente con bastones espada,el séquito de Eddie Murphy,ninjas,chaquetas vaqueras",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Andre el Gigante",
+            "v": "André el Gigante",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A mediados de la década de 1980, el NYPD envió un policía especial encubierto a los bares locales para proteger a la gente de <BLANK>.",
+            "v": "A mediados de la década de 1980, la policía de Nueva York envió un policía especial encubierto a los bares locales para proteger a la gente de <BLANK>.",
             "n": "QuestionText"
         },
         {

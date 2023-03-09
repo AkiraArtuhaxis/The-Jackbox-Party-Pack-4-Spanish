@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "No te rindas,Para un rato,Aprende a cocinar,Pegale una llamada,Cancela el cable,Comprá mucho plástico,Dame un momento",
+            "v": "No te rindas,Para un rato,Aprende a cocinar,Pégale una llamada,Cancela el cable,Compra mucho plástico,Espera un momento",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué consejo de tres palabras te darías a tí mismo dos años atrás?",
+            "v": "¿Qué consejo de tres palabras te habrías dado hace dos años?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El consejo de tres palabras que <PLAYER> le daría al <PLAYER> de dos años atrás es <BLANK>.",
+            "v": "El consejo de tres palabras que <PLAYER> le habría dado al <PLAYER> de hace dos años es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El consejo de tres palabras que <PLAYER> se daría a sí mismo dos años atrás es <BLANK>.",
+            "s": "[category=host]The two-word advice <PLAYER> would give themselves two years ago is <BLANK>.",
             "t": "A",
             "v": "611885_0",
             "n": "QuestionAudio"

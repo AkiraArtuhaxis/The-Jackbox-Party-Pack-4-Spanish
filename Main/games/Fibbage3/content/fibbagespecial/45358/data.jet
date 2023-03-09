@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a knock knock joke,breakfast is not complimentary,his wig is ugly,the war has begun,Wassssuuuup?,the citizens are revolting,his mom has to leave,the manor is on fire,hobo’s aren’t allowed at this cafe,his visitors are witches,“My favorite food is bread!”,his laundry is done,his friend is a murderer,there aren’t anough chairs,pork prices have fallen,plumbing has been invented,his credit has been denied,he’s wearing the tablecloth",
+            "v": "un chiste de toc toc,que el desayuno no es de cortesía,que su peluca es fea,que la guerra ha comenzado,¿Qué pasaaaaaa?,que los ciudadanos se están rebelando,que su madre tiene que irse,que la mansión se está quemando,que los vagabundos no están permitidos en este café,que sus visitantes son brujas,\"¡Mi comida favorita es el pan!\",que su lavado de ropa está listo,que su amigo es un asesino,que no hay suficientes sillas,que los precios del cerdo han bajado,que la fontanería se ha inventado,que su crédito ha sido denegado,que está usando el mantel",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "su prostituta está aquí",
+            "v": "que llegó su prostituta",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según The Met, el sirviente le está diciendo al caballero que <BLANK>.",
+            "v": "Según el Museo Metropolitano de Arte, el sirviente dirigiéndose al caballero le dice <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the woman is a prostitute,his hooker is here,the woman is a hooker",
+            "v": "la mujer es una prostituta,su puta llegó,la mujer es una puta",
             "n": "AlternateSpellings"
         },
         {

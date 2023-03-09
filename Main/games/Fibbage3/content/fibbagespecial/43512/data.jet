@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "idiot,bartender,baby,maid,spy,fisherman,dairy farmer,toilet scrubber,schoolgirl,mailman,prisoner,pilot,cafeteria worker,farmer,widow,swineherder,corpse,drummer",
+            "v": "idiotas,cantineros,bebés,criados,espías,pescadores,granjeros lecheros,limpiadores de inodoro,estudiantes,carteros,prisioneros,pilotos,trabajadores de comedores,granjeros,viudos,presidentes,cadáveres,bateristas",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "Hoo Dahzent Noh Thet?",
+            "v": "¿Khién noh zave ehso?",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Al describir un secreto mal guardado, los rusos utilizan una frase que se traduce como \"Todos los <BLANK> lo saben.\"",
+            "v": "Al describir un secreto mal guardado, los rusos utilizan una frase que se traduce como \"Todos los <BLANK> lo saben\".",
             "n": "QuestionText"
         },
         {

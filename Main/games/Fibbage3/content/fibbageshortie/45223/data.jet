@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "drain clogger,fly catcher,flexible ear plug,chewing gum,tire sealer,hair gel,pencil holder,paper weight,bullet polisher,flexible wallet,thick gravy alternative,memory aid,pudding substitute,fish scaler,hair remover,pen eraser,digestive aid,cheese substitute",
+            "v": "desatascador,atrapa moscas,tapón flexible para los oídos,chicle,sellador de neumáticos,gel para el pelo,portalápices,pisapapeles,pulidor de balas,billetera flexible,alternativa a la salsa espesa,ayuda memoria,sustituto del pudín,raspador de pescado,depilador,borrador de bolígrafo,ayuda digestiva,sustituto del queso",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antes de que se comercializara como un juguete para niños, Play-Doh fue diseñado como <BLANK>.",
+            "v": "Antes de convertirse en un juguete para niños, Play-Doh fue diseñado como <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cleaner for wallpaper,wallpaper cleanser",
+            "v": "limpiador para papel tapiz,limpiador papel tapiz",
             "n": "AlternateSpellings"
         },
         {

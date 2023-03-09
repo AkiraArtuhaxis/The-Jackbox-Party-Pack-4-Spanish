@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "El mundo sería un lugar mejor si tuviera más <BLANK>.",
+            "v": "El mundo sería un lugar mejor si tuviéramos más <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "<PLAYER> piensa que el mundo sería un lugar mejor si tuviera más <BLANK>.",
+            "v": "<PLAYER> piensa que el mundo sería un lugar mejor si tuviéramos más <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> piensa que el mundo sería un lugar mejor si tuviera más <BLANK>.",
+            "s": "[category=host]<PLAYER> thinks the world would be a better place with more <BLANK>.",
             "t": "A",
             "v": "682819_0",
             "n": "QuestionAudio"

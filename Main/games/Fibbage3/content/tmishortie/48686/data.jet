@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "una grabadora de CDs,un Game Boy,un walkman,un reproductor vhs,un Family Game,una laptop de hace 10 años,una casetera",
+            "v": "una grabadora de CDs,un Game Boy,un walkman,un reproductor VHS,un Atari,una laptop de hace 10 años,una casetera",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es el dispositivo tecnológico más anticuado que tienes?",
+            "v": "¿Cuál es la tecnología más anticuada que tienes?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El dispositivo tecnológico más anticuado que <PLAYER> tiene es <BLANK>.",
+            "v": "La tecnología más anticuada que <PLAYER> tiene es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El dispositivo tecnológico más anticuado que <PLAYER> tiene es <BLANK>",
+            "s": "[category=host]The most outdated piece of technology that <PLAYER> owns is <BLANK>",
             "t": "A",
             "v": "694422_0",
             "n": "QuestionAudio"

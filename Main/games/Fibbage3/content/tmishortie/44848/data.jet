@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "tejer,videojuegos,escuchar podcasts en el baño,una buena siesta,una caminata por el bosque,limpiar,cocinar",
+            "v": "tejer,videojuegos,escuchar pódcasts en la tina,una buena siesta,una caminata por el bosque,limpiar,cocinar",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Algo que te ayuda a relajarte es <BLANK>.",
+            "v": "Algo que te relaja mucho es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que ayuda a relajarse a <PLAYER> es <BLANK>.",
+            "v": "Algo que le relaja mucho a <PLAYER> es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que a éste jugador lo ayuda a relajarse es <BLANK>.",
+            "s": "[category=host]What really relaxes this player is <BLANK>.",
             "t": "A",
             "v": "599074_0",
             "n": "QuestionAudio"

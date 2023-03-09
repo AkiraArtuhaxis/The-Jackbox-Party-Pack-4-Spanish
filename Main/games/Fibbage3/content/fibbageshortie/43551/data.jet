@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "whiskey,hard drugs,hyperventilating bags,crumpets,guns,airline tickets,zoloft,video games,knight’s armour,shields,kleenex,Guinness,bibles,fish and chips,recording devices,fake passports,punching bags,porn",
+            "v": "whisky,drogas duras,bolsas de hiperventilación,bollos,armas,pasajes de avión,sertralina,videojuegos,armaduras de caballero,escudos,papel higiénico,cerveza,biblias,pescado y papas fritas,equipos de grabación,pasaportes falsos,sacos de boxeo,porno",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Después de que el presidente Trump asumiera la presidencia, los científicos de las Entidades de Investigación del Reino Unido decidieron enviar a sus colegas estadounidenses <BLANK>.",
+            "v": "Tras la toma de posesión del presidente Trump, los científicos de los Consejos de Investigación del Reino Unido decidieron enviarle <BLANK> a sus colegas estadounidenses.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "squeeze balls,stress relievers",
+            "v": "bolas de presión,calmantes de estrés",
             "n": "AlternateSpellings"
         },
         {

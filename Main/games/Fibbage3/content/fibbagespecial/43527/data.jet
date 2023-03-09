@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "free slice of pie,call,bath,shower,big whiff,nap,wolf,rifle,loaf of bread,book,dive,cookie,bike ride,sip of water,breath,boar,soup,sled",
+            "v": "comer torta,llamar,lavar,bañarte,beber alcohol,tomar una siesta,ser un lobo,disparar,comer pan,leer,bucear,hacer galletas,andar en bicicleta,tomar agua,respirar,cazar,enjabonarte,andar en trineo",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Bold Pleasure",
+            "v": "Placer audaz",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "caminar",
+            "v": "pasear",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El viejo refrán ruso equivalente a \"Negocios antes que placer\" es \"Cuando hayas hecho el trabajo, puedes tomar un audaz <BLANK>.\"",
+            "v": "El viejo refrán ruso equivalente a \"Negocios antes que placer\" es \"Cuando hayas hecho el trabajo, puedes <BLANK> con audacia\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "diversión",
+            "v": "divertirte",
             "n": "AlternateSpellings"
         },
         {

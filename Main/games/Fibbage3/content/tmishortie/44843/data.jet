@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Jugar rol,Jugar ajedrez,coleccionar figurillas,leer sobre estampas,buscar fuentes,reorganizar mis DVDs,los crucigramas del diario",
+            "v": "jugar rol,jugar ajedrez,coleccionar figuritas,leer sobre estampas,buscar tipografías,reorganizar mis DVDs,los crucigramas del diario",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "La cosa más nerd que te gusta hacer es <BLANK>.",
+            "v": "Lo más ñoño que te gusta hacer es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cosa más nerd que a <PLAYER> le gusta hacer es <BLANK>.",
+            "v": "Lo más ñoño que a <PLAYER> le gusta hacer es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La cosa más nerd que a éste jugador le gusta hacer es <BLANK>.",
+            "s": "[category=host]The nerdiest thing this player likes to do is <BLANK>.",
             "t": "A",
             "v": "598926_0",
             "n": "QuestionAudio"

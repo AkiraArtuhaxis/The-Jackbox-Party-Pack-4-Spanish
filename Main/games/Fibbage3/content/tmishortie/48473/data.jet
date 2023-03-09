@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Química,Sociedad y Estado,Educación Física,Física,Matemática,Geografía,Historia",
+            "v": "química,lenguaje,educación física,física,matemática,geografía,historia",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál era tu peor materia en la escuela?",
+            "v": "¿Cuál era tu peor asignatura en la escuela?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La peor materia de <PLAYER> en la escuela era <BLANK>.",
+            "v": "La peor asignatura de <PLAYER> en la escuela era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La peor materia de <PLAYER> en la escuela era <BLANK>.",
+            "s": "[category=host]<PLAYER>’s worst subject in school was <BLANK>.",
             "t": "A",
             "v": "688423_0",
             "n": "QuestionAudio"

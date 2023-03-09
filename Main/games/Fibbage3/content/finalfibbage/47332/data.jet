@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "skin|turn inside out,eyes|leak sugar,wings|grow eyes,babies|sing,stingers|double in size,nests|catch fire,queens|eat the males,males|become paranoid,food|taste weird,legs|explode,brains|melt,mouths|turn inside out,antennae|spin wildly,cooking|get better,eggs|taste like chocolate,mating clicks|sound like salsa music,poetry|reveal too much,feelers|shoot electricity",
+            "v": "tejidos|den vuelta,ojos|goteen azúcar,alas|vuelvan ojos,bebés|pongan a cantar,aguijones|dupliquen de tamaño,nidos|incendien,reinas|coman a los machos,machos|vuelven paranoicos,alimentos|vuelvan insípidos,patas|desprendan,cerebros|derritan,bocas|pongan al revés,antenas|giren salvajemente,habilidades de cocina|mejore,huevos|transformen en chocolate,chasquidos de apareamiento|confundan con la conga,poesías|expongan al mundo,antenas|conviertan en armas de electricidad",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un hongo conocido como <i>Massospora cicadina<\/i> tiene un efecto bizarro en las cigarras. Hace que sus <BLANK> se <BLANK>.",
+            "v": "Un hongo conocido como <i>Massospora cicadina<\/i> tiene un efecto extraño en las cigarras. Hace que sus <BLANK> se <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "butt|fall off,butts|disappear,butt|disappear",
+            "v": "culos|caigan,traseros|desaparezcan,trasero|desaparezca,culo|caiga,culos|desaparezcan,culo|desaparezca",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "doggie toilet,automatic dog feeder,robotic puppy,toddler scuba tank,automatic boot licker,nightmare machine,dog poop incinerator,storage hoodie,dog bone sharpener,home hand dryer,novelty flamethrower,animal biology playset,game console tote,easy-fit pet carrier,child parachute,doggy vitamin dispenser,puppy TV,soul stealer",
+            "v": "el inodoro para perros,el comedero automático para perros,el cachorro robótico,el tanque de buceo para niños,el lava botas automático,la máquina de pesadillas,el incinerador de caca de perro,la camiseta con capucha,el afilador de huesos de perro,el secador de manos casero,el lanzallamas novedoso,el set de juegos de biologia animal,la bolsa para consolas de juegos,el transportador de mascotas fácil de ajustar,el paracaídas para niños,el dispensador de vitaminas para perros,la TV para cachorros,los robaalmas",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Furry Patents",
+            "v": "Patentes peludas",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Mochila de Halloween",
+            "v": "la mochila de Halloween",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta patente pertenece a Deborah A. Morphet, orgullosa inventora del <BLANK>.",
+            "v": "Esta patente pertenece a Deborah A. Morphet, orgullosa inventora de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Bolsa de Halloween,Bolso de Halloween",
+            "v": "bolsa de Halloween,bolso de Halloween",
             "n": "AlternateSpellings"
         },
         {

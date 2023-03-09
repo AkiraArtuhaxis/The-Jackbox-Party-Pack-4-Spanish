@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Adam West,Arnold Schwarzenegger,Michael J. Fox,Homero Simpson,Derek Jeter,Michael Jeter,Oprah",
+            "v": "Adam West,Arnold Schwarzenegger,Michael J. Fox,Homero Simpson,Britney Spears,Robin Williams,Jim Carrey",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué celebridad/persona tenías muchas ganas de conocer cuando tenías 10 años?",
+            "v": "¿A qué celebridad/persona querías conocer cuando tenías 10 años?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando tenía diez, <PLAYER> tenía muchas ganas de conocer a <BLANK>.",
+            "v": "Cuando tenía 10 años, <PLAYER> quería conocer a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Cuando tenía diez, <PLAYER> tenía muchas ganas de conocer a <BLANK>.",
+            "s": "[category=host]When they were ten years old, <PLAYER> wanted to meet <BLANK>.",
             "t": "A",
             "v": "691720_0",
             "n": "QuestionAudio"

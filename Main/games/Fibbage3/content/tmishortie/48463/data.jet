@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "finales de hockey,reunión de Amas de Casa Desesperadas,reporte del clima,la final de los Kardashian,los playoffs de la NBA,cuando se cortó la luz,el final de Game of Thrones",
+            "v": "la final del fútbol,reunión de Malcolm el de enmedio,informe del clima,la final del reality show,la final del mundial,cuando se cortó la luz,el final de Juego de Tronos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuándo fue la última vez que gritaste a la televisión?",
+            "v": "¿Cuándo fue la última vez que le gritaste a tu televisor?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La última vez que <PLAYER> le gritó a la televisión fue <BLANK>.",
+            "v": "La última vez que <PLAYER> le gritó a su televisor fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La última vez que <PLAYER> le gritó a la televisión fue <BLANK>.",
+            "s": "[category=host]The last time <PLAYER> yelled at their television was <BLANK>",
             "t": "A",
             "v": "688119_0",
             "n": "QuestionAudio"

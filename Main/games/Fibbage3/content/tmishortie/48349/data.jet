@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "robar un diamante,robar un submarino,matar una foca en peligro de extinción,arruinar el medio ambiente,pintar sobre la Mona Lisa,ir a 200 por hora en la ruta,mear en público",
+            "v": "robaría un diamante,robaría un submarino,mataría una foca en peligro de extinción,arruinaría el medio ambiente,pintaría sobre la Mona Lisa,iría a 200 km/h en la autopista,mearía en público",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la actividad ilegal que realizarías si todo crimen fuera legal por un día?",
+            "v": "¿Qué actividad ilegal cometerías si todos los delitos fueran legales por un día?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si todo crimen fuera legal por 24 horas, <PLAYER> probablemente <BLANK>.",
+            "v": "Si todos los delitos fueran legales por 24 horas, <PLAYER> probablemente <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si todo crimen fuera legal por 24 horas, <PLAYER> probablemente <BLANK>.",
+            "s": "[category=host]If all crime was legal for 24 hours, <PLAYER> would probably <BLANK>.",
             "t": "A",
             "v": "684511_0",
             "n": "QuestionAudio"

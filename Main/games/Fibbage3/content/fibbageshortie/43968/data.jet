@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "the Prime Minister,a tim hortons commercial,Marcus Welby MD,Star Wars,a documentary about Star Trek,Canadian Star Trek,rats chewing a cable,Lost in Space,a meteor hitting the antenna,an ad for the Canadian Space Agency,Doctor Who fans hijacking the signal,a fake alien invasion,a 2-year-old daughter singing,hockey,the discovery of Pluto,Leonard Nimoy’s birthday,a special on Roswell,My Goldfish is Evil",
+            "v": "el Primer Ministro,un anuncio de Tim Hortons,Marcus Welby MD,La guerra de las galaxias,un documental sobre Star Trek,Star Trek canadiense,ratas masticando un cable,Perdidos en el espacio,un meteorito golpeando la antena,un anuncio de la Agencia Espacial Canadiense,fanáticos de Doctor Who secuestrando la señal,una falsa invasión alienígena,una niña de 2 años cantando,hockey,el descubrimiento de Plutón,el cumpleaños de Leonard Nimoy,un especial sobre Roswell,El Hombre Increíble",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "la llegada a la luna",
+            "v": "el alunizaje",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Quince personas en Ottawa mandaron sus quejas a su estación de televisión local cuando una emisión de <i>Star Trek<\/i> fue interrumpida por <BLANK>.",
+            "v": "Quince personas en Ottawa, Canadá, se quejaron a su cadena de televisión local cuando una emisión de <i>Star Trek<\/i> fue interrumpida por <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "moon landing,apollo 11,the apollo moon landing,the first man on the moon",
+            "v": "alunizaje,Apollo 11,el alunizaje de Apollo,el primer hombre en la luna",
             "n": "AlternateSpellings"
         },
         {

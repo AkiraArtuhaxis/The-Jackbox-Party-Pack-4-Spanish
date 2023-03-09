@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Heladería Grido,McDonalds,un buen Starbucks,Mostaza,Librería,parque para mascotas,casa embrujada",
+            "v": "una heladería,un McDonald's,un buen Starbucks,un restaurante chileno,una librería,un parque para mascotas,una casa embrujada",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Desearías vivir más cerca de un <BLANK>.",
+            "v": "Desearías vivir más cerca de <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> desearía vivir más cerca de <BLANK>.",
+            "s": "[category=host]<PLAYER> wishes they lived closer to a <BLANK>.",
             "t": "A",
             "v": "632283_0",
             "n": "QuestionAudio"

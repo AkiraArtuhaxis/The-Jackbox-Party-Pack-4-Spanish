@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fresh squeezed orange juice,grass,febreze,soap,lavender,burnt rubber,feet,garlic,freshly baked cookies,really good man,a Newfie,wet dog,ammonia,lemons,vinegar,cedar,tuna,gasoline",
+            "v": "jugo de naranja recién exprimido,pasto,ambientador,jabón,lavanda,goma quemada,pies,ajo,galletas recién horneadas,un muy buen hombre,franceses,perro mojado,amoníaco,limones,vinagre,cedrón,atún,gasolina",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "miel",
+            "v": "jarabe de arce",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2013 surgió una controversia en torno al nuevo billete de 100 dólares. Muchos decían que olía a <BLANK>.",
+            "v": "En 2013, hubo una controversia en torno al nuevo billete de 100 dólares de Canadá. Muchos afirmaron que olía a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "maple,syrup,pancakes,pancake syrup",
+            "v": "arce,jarabe,panqueques,jarabe de panqueque",
             "n": "AlternateSpellings"
         },
         {

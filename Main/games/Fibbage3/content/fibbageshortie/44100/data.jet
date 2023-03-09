@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "thought of his mom,heard a capella music,yodelled,remembered the sun,ate hot dogs,spoke French,witnessed knitting,watched bad movies,snored,heard children laughing,watched The Simpsons,flew a kite,lost a bet,said his names backward,put on his shoes,mowed the lawn,took a shower,made waffles",
+            "v": "pensaba en su mamá,escuchaba música a capella,cantaba yodel,recordaba el sol,comía perritos calientes,hablaba francés,presenciaba un tejido de punto,veía películas malas,roncaba,oía reír a los niños,veía Los Simpson,volaba una cometa,perdía una apuesta,decía su nombre al revés,se ponía zapatos,cortaba el césped,se duchaba,hacía waffles",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En diciembre de 2015, los investigadores de la Universidad de Múnich informaron del extraño caso de un estudiante que sufría convulsiones cada vez que <BLANK>.",
+            "v": "En diciembre de 2015, los investigadores de la Universidad de Múnich informaron del extraño caso de un estudiante que tenía convulsiones cada vez que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "solved a sudoku,sudoku,did a sudoku puzzle,did sudoku puzzles,solved a sodoku,sodoku,did sodoku,did a sodoku puzzle,did sodoku puzzles",
+            "v": "resolvía sudokus,sudoku,hacía un puzzle sudoku,hacía puzzles sudoku,resolvía un sudoku,sodoku,hacía dodoku",
             "n": "AlternateSpellings"
         },
         {

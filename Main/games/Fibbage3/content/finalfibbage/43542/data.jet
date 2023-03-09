@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "travel|a fanny pack,brush their teeth|their finger,shower|a showercap,flush the toilet|their foot,share their room|drifters,make forts|pillows,watch TV|no pants on,pick up the remote|a plastic bag,scan the bed|a black light,check for cameras|a bug detector,bless the room|with a prayer,drink from the faucet|their hands,have sex|their imaginary friends,clog the toilets|hotel towels,watch adult movies|guests from next door,flatten their money|the hotel iron,pick their ears|hotel pens,wipe their butts|the hotel curtains",
+            "v": "viaja|una riñonera,se cepilla los dientes|el dedo,se ducha|un gorro de ducha,tira la cadena|el pie,comparte la habitación|vagabundos,hace fortalezas|almohadas,ve la televisión|nada de ropa abajo,toma el control remoto|una bolsa de plástico,escanea la cama|una luz negra,comprueba si hay cámaras|un detector de insectos,bendice la habitación|una oración,bebe de la llave|sus manos,tiene sexo|sus amigos imaginarios,atasca los inodoros|las toallas del hotel,ve películas para adultos|los huéspedes de al lado,aplasta su dinero|la plancha del hotel,hurga en sus orejas|los bolígrafos del hotel,se limpia el trasero|las cortinas del hotel",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "duermen|un osito de peluche",
+            "v": "duerme|un osito de peluche",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cadena de hoteles Travelodge encuestó a 6.000 adultos británicos y descubrió que el 35% de ellos habitualmente <BLANK> con <BLANK>.",
+            "v": "La cadena hotelera Travelodge encuestó a 6.000 adultos británicos y descubrió que el 35% de ellos habitualmente <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sleep|a teddybear,sleep|a bear,sleep|a stuffed animal,sleep|stuffed animals,sleep|plush animals,sleep|a plush animal,sleep|a stuffed bear,sleepl|stuffed bears,sleep|teddy bears",
+            "v": "duerme|un osito,duerme|un oso,duerme|un animal de peluche,duerme|animales de peluche,duerme|peluches,duerme|un peluche",
             "n": "AlternateSpellings"
         },
         {

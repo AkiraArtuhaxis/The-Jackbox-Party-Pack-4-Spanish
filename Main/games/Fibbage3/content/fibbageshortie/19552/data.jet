@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "say “I love you”,remember her name,quit laughing,attend in person,pick her up,stop arguing with her dad,open a jar of pickles,stop calling planes sky cars,name the 1987 Buffalo Bills,stop yawning,get a chocolate fountain,look her in the eye,snap his fingers,dance,stand up,find Sri Lanka on a map,juggle,quote Pitch Perfect",
+            "v": "decir “Te amo”,recordar el nombre de ella,dejar de reírse,ir en persona,ir a buscarla,dejar de discutir con el padre de ella,abrir un frasco de pepinillos,dejar de decirle autos del cielo a los aviones,nombrar a un equipo deportivo,dejar de bostezar,conseguir una fuente de chocolate,dejar de mirarla a los ojos,chasquear los dedos,bailar,pararse,encontrar Sri Lanka en el mapa,hacer malabares,citar Diario de una pasión",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "do math",
+            "v": "hacer cálculos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una novia en Uttar Pradesh, India se fue de su boda cuando el novio no pudo <BLANK>.",
+            "v": "Una novia en Uttar Pradesh, India, se fue de su boda cuando el novio no pudo <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "solve a math problem",
+            "v": "resolver un problema matemático,resolver un problema de matemáticas",
             "n": "AlternateSpellings"
         },
         {

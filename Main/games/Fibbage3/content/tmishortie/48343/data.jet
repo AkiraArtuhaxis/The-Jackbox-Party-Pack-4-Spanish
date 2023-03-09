@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Kim Kardashian,Ryan Reynolds,Scarlett Johansson,Tom Cruise,Julia Roberts,Tom Hanks,Katy Perry",
+            "v": "Angelina Jolie,Ryan Reynolds,Scarlett Johansson,Tom Cruise,Julia Roberts,Tom Hanks,Katy Perry",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál fue el primer famoso al que le tuviste ganas?",
+            "v": "¿Cuál fue la primera celebridad de la que te enamoraste?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La primera celebridad a la que <PLAYER> le tuvo ganas fue <BLANK>.",
+            "v": "La primera celebridad de la que <PLAYER> se enamoró fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La primera celebridad a la que <PLAYER> le tuvo ganas fue <BLANK>.",
+            "s": "[category=host]The first celebrity that <PLAYER> had a crush on was <BLANK>.",
             "t": "A",
             "v": "684355_0",
             "n": "QuestionAudio"

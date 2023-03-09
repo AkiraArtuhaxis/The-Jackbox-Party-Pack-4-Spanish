@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "children|small wolves,bad information|the vice squad,manure|the mayor,candy|local women,fingers|kittens,gingerbread|werewolves,pretzels|vampires,cupcakes|goblins,stale bread|fire fighters,moldy cake|school teachers,mushrooms|drunk people,puppies|dragons,people’s shoes|a sea monster,local paintings|a griffin,old butter|skeletons,compliments|old people,rotten meat|farmers,live ducks|sleeping men",
+            "v": "niños|los pequeños lobos,información errónea|la brigada antivicio,estiércol|el alcalde,caramelos|las mujeres locales,dedos|los gatitos,pan de jengibre|los hombres lobo,pretzels|los vampiros,magdalenas|los duendes,pan rancio|los bomberos,pastel mohoso|los profesores de escuela,champiñones|los borrachos,perritos|los dragones,los zapatos de la gente|un monstruo marino,pinturas locales|un grifo,mantequilla vieja|los esqueletos,cumplidos|los ancianos,carne podrida|los granjeros,patos vivos|los hombres dormidos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "avena|penes robados",
+            "v": "avena|los penes robados",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1486, el clérigo alemán Heinrich Kramer publicó un libro afirmando que las brujas estaban dándole de comer, entre otras cosas, <BLANK> a <BLANK>.",
+            "v": "En 1486, el clérigo alemán Heinrich Kramer publicó un libro en el que afirmaba que las brujas, entre otras cosas, alimentaban con <BLANK> a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "corn|stolen penises,oats and corn|stolen penises,corn and oats|stolen penises,oats|penises,corn|penises,oats and corn|penises,corn and oats|penises",
+            "v": "maíz|los penes robados,avena y maíz|los penes robados,maíz y avena|los penes robados,avenas|los penes,maíz|los penes,avenas y maíz|los penes,maíz y avenas|los penes",
             "n": "AlternateSpellings"
         },
         {

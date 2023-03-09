@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "child,draft,horror movie monster,wad of gum,Bob,model airplane,turnip,Christmas present,burger,mud pile,sculpture,cracker in the box,cheese wheel,idea,noodle,haircut,glob,pile of garbage",
+            "v": "niño,borrador,monstruo de película de terror,fajo de chicles,Bob,modelo de avión,nabo,regalo de Navidad,perrito caliente,montón de barro,monumento,envase de galletas,pedazo de queso,ideal,fideo,corte de pelo,intento de empanada,montón de basura",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tortita",
+            "v": "panqueque",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un dicho ruso sobre cosas que no siempre funcionan la primera vez se traduce como \"La primera <BLANK> es siempre una masa sin forma.\"",
+            "v": "Un dicho ruso sobre que las cosas no siempre funcionan a la primera se traduce como \"El primer <BLANK> es siempre una masa amorfa\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "blini,blinis,pancakes",
+            "v": "panqueque ruso,panqueques rusos,paqueques,panqué,panqués",
             "n": "AlternateSpellings"
         },
         {

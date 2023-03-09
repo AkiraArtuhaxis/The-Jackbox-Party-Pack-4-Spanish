@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "seaweed,eel,scorpion,snake,sake,azuki bean,leek,sesame & sorrow,carp,radiation,macaroni,teen angst,sushi,gravy,Godzilla,canker sore,stupid,sunflower",
+            "v": "algas,anguila,escorpión,serpiente,sake,judía azuki,puerro,sésamo y pena,carpa,radiación,macarrones,angustia adolescente,sushi,salsa,Godzilla,afta,estúpidos,girasol",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los jibachi senbei son unos peculiares snacks japoneses, también conocidos como galletas de <BLANK>.",
+            "v": "Los jibachi senbei son una extraña golosina japonesa también conocida como galletas de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "digger wasp,wasps",
+            "v": "avispa excavadora,avispas",
             "n": "AlternateSpellings"
         },
         {

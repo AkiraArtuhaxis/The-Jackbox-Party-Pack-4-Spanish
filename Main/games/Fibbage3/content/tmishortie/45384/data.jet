@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Tomás,un niño solitario que busca un amigo,Christina Ricci,mi profesora de Matemática de secundaria,un viejo que odia la Navidad,George Lucas,Mike Dukakis",
+            "v": "Tomás,un niño solitario que necesita un amigo,Christina Ricci,mi profesora de matemáticas de secundaria,un viejo que odia la Navidad,George Lucas,Kim Jong-un",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué persona visitarías después de tu muerte si pudieras solo para espantarla?",
+            "v": "¿A qué persona visitarías después de tu muerte, si pudieras, solo para espantarla?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una persona a la que <PLAYER> visitaría luego de su muerte solo para espantarla sería <BLANK>.",
+            "s": "[category=host]One person <PLAYER> would come back to haunt after death is <BLANK>.",
             "t": "A",
             "v": "613361_0",
             "n": "QuestionAudio"

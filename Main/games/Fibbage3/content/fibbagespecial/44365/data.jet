@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Man in the Iron Mask,Titanic,Ladies Man,Notebook,Artist,Avengers,Dark Knight Rises,Zero Dark Thirty,Girl With the Dragon Tattoo,Caddyshack,Raiders of the Lost Ark,Rock,Lord of the Rings,Avatar,Cruel Intentions,Vicky Christina Barcelona,Secretary,Do The Right Thing",
+            "v": "El hombre de la máscara de hierro,Titanic,El terror de las chicas,Diario de una pasión,El artista,Los Vengadores,El caballero de la noche asciende,La noche más oscura,La chica del dragón tatuado,Los locos del golf,Los cazadores del arca perdida,rock,El señor de los anillos,Avatar,Juegos sexuales,American Pie,50 sombras de Grey,Haz lo correcto",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Jurassic Park",
+            "v": "Parque Jurásico",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El antiguo luchador de wrestling The Iron Sheik tuiteó: \"El vídeo sexual de Hulk Hogan es la película de Stuart Little y mi vídeo sexual es <BLANK>\"",
+            "v": "El ex luchador profesional The Iron Sheik tuiteó: \"El video sexual de Hulk Hogan es la película de Stuart Little y mi video sexual es la película de <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Jerassic Park,The Jurassic Park,Jurassick Park,Jurassik Park,Jerassick Park,Jurassic",
+            "v": "Jurassic Park,The Jurassic Park,el Parque Jurásico,Jurassik Park,Jerassick Park,Jurassic",
             "n": "AlternateSpellings"
         },
         {

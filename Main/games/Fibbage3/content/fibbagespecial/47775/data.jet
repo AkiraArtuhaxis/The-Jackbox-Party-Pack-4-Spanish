@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "throw up,tie a cherry stem,count the teeth,pour syrup,put the gerbil,stuff pennies,gargle salt water,shove hot pockets,bite the skin,catch gnats,put balled up socks,chew on bacon,hear the CIA,console the wizard,choke on the words,put her mouth,play with the ulcer,scold the leprechaun",
+            "v": "vomito,ato un tallo de cereza,cuento los dientes,vierto jarabe,pongo el hámster,echo monedas,hago gárgaras de agua salada,pongo pizza,muerdo la piel,atrapo mosquitos,arreglo calcetines enrollados,mastico tocino,escucho a la CIA,consuelo al mago,me ahogo con las palabras,pongo su boca,juego con la úlcera,increpo al duende",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "chorreo pasta de dientes",
+            "v": "me echo dentífrico",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "eat toothpaste,squirt tooth paste,squeeze toothpaste,squeeze tooth paste",
+            "v": "como dentífrico,chorreo dentífrico,aprieto el dentífrico,aprieto dentífrico",
             "n": "AlternateSpellings"
         },
         {

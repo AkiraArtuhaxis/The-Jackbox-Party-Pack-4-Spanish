@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Humphrey Bogart’s cigarette ash,Joan Crawford’s bra,Marilyn Monroe’s stockings,Albert Einstein’s pipe,the first betamax player,JFK’s little black book,a toilet from Alcatraz,the first zipper,the first recorded orgasm,a fake Mona Lisa,a US three-dollar bill,a stuffed “jackalope”,Charlie Chaplin’s empty diary,an anatomically correct Barbie doll,a fossilized T-Rex turd,a bad equation for atomic fission,a Martin Luther King autographed napkin,the first plastic water bottle",
+            "v": "la ceniza del cigarrillo de Humphrey Bogart,el sostén de Joan Crawford,las medias de Marilyn Monroe,la pipa de Albert Einstein,el primer reproductor betamax,la pequeña libreta negra de JFK,un inodoro de Alcatraz,la primera cremallera,el primer orgasmo grabado,una Mona Lisa falsa,un billete de tres dólares de EE.UU.,un \"lebrílope\" de peluche,el diario vacío de Charlie Chaplin,una muñeca Barbie anatómicamente correcta,un excremento fosilizado de T-Rex,una mala ecuación para la fisión atómica,una servilleta autografiada por Martin Luther King,la primera botella de agua de plástico",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pene de Napoleón",
+            "v": "el pene de Napoleón",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1977, John J. Lattimer fue a una subasta y adquirió un extraño artículo histórico. En ese día, se convirtió en el orgulloso dueño del <BLANK>.",
+            "v": "En 1977, John J. Lattimer asistió a una subasta y adquirió un extraño artículo histórico. Ese día se convirtió en el orgulloso propietario de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the penis of Napoleon,Napoleon Bonaparte’s penis",
+            "v": "pene de Napoleón,verga de Napoleón",
             "n": "AlternateSpellings"
         },
         {

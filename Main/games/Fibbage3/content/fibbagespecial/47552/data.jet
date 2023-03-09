@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "brew wine,get a sweet sip o’ toilet water,unclog your toilet,disguise your voice,make music,recover something you flushed,communicate secretly,potty train your child,pee through your mouth,vomit without flushing,gargle on a budget,refill the aquarium,look like a doof,attract toilet snakes,take a good hard look at yourself,smoke in the house,flush a broken toilet,get your act together",
+            "v": "preparar vino,tomar un sorbo de agua del inodoro,desatascar el inodoro,encubrir la voz,hacer música,recuperar algo que has tirado por el inodoro,comunicarte en secreto,enseñarle a tu hijo a ir al baño,orinar por la boca,vomitar sin tirar de la cadena,hacer gárgaras con poco dinero,rellenar el acuario,parecer un idiota,atraer a las serpientes del inodoro,mirarte bien a los ojos,fumar en la casa,tirar de la cadena rota,ponerte las pilas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Este invento de William O. Holmes fue diseñado para ser utilizado cuando necesitas <BLANK>.",
+            "v": "Este invento de William O. Holmes fue diseñado para ser utilizado cuando necesites <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "breathe,survive a fire,survive fire",
+            "v": "respirar,sobrevivir a un incendio,sobrevivir un incendio",
             "n": "AlternateSpellings"
         },
         {

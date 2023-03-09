@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Mein Kampf,the Kama Sutra,Playboy Magazine,Penthouse,Breaking Bad,Goodfellas,The Silence of the Lambs,The Vagina Monologues,The Book of Mormon,the comedy of George Carlin,the Satanic Bible,Ron Jeremy films,the writings of David Duke,Fight Club,Two Girls, One Cup,dirty limericks,the OJ Simpson trial,the Saw films",
+            "v": "Mi lucha,Kama sutra,la revista Playboy,la revista Penthouse,Breaking Bad,Buenos muchachos,El silencio de los inocentes,Los monólogos de la vagina,El Libro de Mormón,la comedia de George Carlin,la Biblia Satánica,las películas de Quentin Tarantino,los escritos de David Duke,El club de la pelea,2 Girls 1 Cup,rimas obscenas,the juicio de OJ Simpson,las películas de Saw",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "50 sombras de Grey",
+            "v": "Cincuenta sombras de Grey",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cinco estudiantes de la Escuela Secundaria Monessen en Pennsylvania terminaron aprendiendo más de lo que esperaban cuando el buscador les dio sugerencias inspiradas en <i><BLANK><\/i>.",
+            "v": "Cinco estudiantes de la secundaria de Monessen, Pensilvania, terminaron aprendiendo más de lo que esperaban después de que se les diera accidentalmente una sopa de letras inspirada en <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Fifty Shades of Gray,Fifty Shades",
+            "v": "50 sombras de Grey,50 sombras,Cincuenta sombras",
             "n": "AlternateSpellings"
         },
         {

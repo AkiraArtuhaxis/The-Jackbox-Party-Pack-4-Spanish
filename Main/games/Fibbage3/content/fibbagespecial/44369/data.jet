@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cure for my hiccups,super smart baby,perfect milk shake,better harmonica,lady Larry King,place to park my car,baby boss,unicorn,ripe tomato,humble athlete,person named Chad who is nice,flying cat,flip phone,tasty burrito,VHS player,intelligent goldfish,place to rent out canes,talking car",
+            "v": "la cura para mi hipo,un bebé superinteligente,el batido perfecto,la mejor armónica,la señora Larry King,el lugar donde estacionar mi auto,un jefe bebé,un unicornio,un tomate maduro,un atleta humilde,una persona llamada Chad que es simpática,el gato volador,un teléfono plegable,un burrito sabroso,un reproductor de VHS,un pez dorado inteligente,un lugar para alquilar bastones,un auto que hable",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "perro parlante",
+            "v": "un perro parlante",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Larry King tuiteó: \"De alguna manera, en algún lugar tiene que haber un <BLANK>\"",
+            "v": "Larry King tuiteó: \"De alguna manera, en algún lugar, tiene que existir <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "perro que puede hablar,perro que habla",
+            "v": "un perro que pueda hablar,un perro que habla",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cowboy hats|marry other cowboy hats,waitresses|use the bathroom,Texans|shoot at the moon,Friday Night Lights|become real,the Spice Girls|buy a cattle ranch,restaurants|serve armadillo meat,minors|drink up to six beers,nudists|herd cattle,politicians|be real dumb,doctors|also be naked,students|stop paying student loans,Waffle House|serve pancakes,oil rig workers|marry oil rigs,belt buckles|be made of uranium,the Dallas Cowboys|donate to his campaign,postal workers|read your mail,strippers|take it all off,a basement be added|the Alamo",
+            "v": "los sombreros de vaquero|se casen con otros sombreros de vaquero,camareras|usaran el baño,tejanos|le dispararan a la Luna,Sabrina la bruja adolescente|fuera real,las Spice Girls|compraran un rancho ganadero,restaurantes|sirvieran carne de armadillo,menores|beban hasta seis cervezas,nudistas|pastorearan ganado,políticos|sean más tontos aún,los médicos|también estén desnudos,los estudiantes|dejen de pagar sus préstamos,KFC|sirvan carne de vacuno,los trabajadores de las plataformas petrolíferas|se casen con plataformas petrolíferas,las hebillas de los cinturones|sean de uranio,los equipos deportivos|quisieran recibir donaciones,los trabajadores de correos|lean tu correo,las bailarinas exóticas|se lo quiten todo,las cárceles|se añada un sótano",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1997, el gobernador de Texas George W. Bush autorizó un proyecto de ley popular, la regla 81.35. Permitía a <BLANK> que <BLANK>.",
+            "v": "En 1997, el gobernador de Texas, George W. Bush, autorizó un proyecto de ley popular, la norma 81.35. Permitía a <BLANK> que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "astronauts|vote,astronauts|vote early",
+            "v": "astronautas|voten,astronautas|voten antes",
             "n": "AlternateSpellings"
         },
         {

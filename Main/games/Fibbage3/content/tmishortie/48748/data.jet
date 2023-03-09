@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "milanesa y mayonesa,queso y cheddar,jamón y donas,coco y bruselas,salamín y salchichas,queso azul y salsa ranchera,pan con pan",
+            "v": "filete y mayonesa,cheddar y mozzarella,jamón y rosquillas,coco y bruselas,salame y salchichas,queso azul y salsa ranchera,pan con pan",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si hubiera un sánguche nombrado en tu honor, ¿cuáles serían sus dos ingredientes principales?",
+            "v": "Si le pusieran tu nombre a un sándwich, ¿cuáles serían los dos ingredientes principales?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> tuviera un sánguche nombrado en su honor, sus dos ingredientes principales serían <BLANK>.",
+            "v": "Si le pusieran el nombre de <PLAYER> a un sándwich, sus dos ingredientes principales serían <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> tuviera un sánguche nombrado en su honor, sus dos ingredientes principales serían <BLANK>.",
+            "s": "[category=host]If this person had a sandwich named after them, the two main ingredients would be <BLANK>.",
             "t": "A",
             "v": "696242_0",
             "n": "QuestionAudio"

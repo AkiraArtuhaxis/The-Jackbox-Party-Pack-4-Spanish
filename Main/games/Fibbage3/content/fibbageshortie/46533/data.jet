@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "anti-vaccine,Skrillex,furry,Black Eyed Peas,murder,slam poetry,Fyre,butt touching,Sinbad apprecation,marionette,penis,garbage eating,moist,used wig,sociopath,black magic,suicide,Google Translate",
+            "v": "antivacunas,Skrillex,furros,Black Eyed Peas,asesinatos,poesías populares,Fyre,tocar el culo,apreciación de Sinbad,títeres,penes,comer basura,humedad,pelucas usadas,sociópatas,magia negra,suicidios,Google Translate",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "clítoris",
+            "v": "el clítoris",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un pequeño pueblo en el norte de España intentó realizar anuncios en línea para su festival de alimentos en 2015. Desafortunadamente, debido a un error de traducción de Google, promovió accidentalmente un festival del <BLANK>.",
+            "v": "Un pequeño pueblo en el norte de España intentó realizar anuncios en línea para su festival gastronómico en 2015. Por desgracia, debido a un error de traducción de Google, promovió accidentalmente un festival de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "clit",
+            "v": "el clit,clítoris,clit",
             "n": "AlternateSpellings"
         },
         {

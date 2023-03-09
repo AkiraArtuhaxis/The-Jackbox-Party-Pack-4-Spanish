@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "drunk,lazy,slow,wet,furry,sad,dead body,baby,yo-yo,wig,senior citizen,blimp,bad,chess,LSD,calculus,baby koala,insult",
+            "v": "borrachos,perezosos,lentos,mojados,peludos,tristes,cadáveres,bebés,yo-yos,pelucas,ancianos,dirigibles,malvados,ajedreces,LSD,cálculos,bebés koala,insultos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Tony Gemignani es el 12 veces campeón del inusual deporte de acrobacias de <BLANK>.",
+            "v": "Tony Gemignani ha sido 12 veces campeón del insólito deporte de acrobacias de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pizza tossing,pizza throwing",
+            "v": "lanzamiento de pizza,arrojamiento de pizza",
             "n": "AlternateSpellings"
         },
         {

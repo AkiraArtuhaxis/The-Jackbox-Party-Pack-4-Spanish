@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "ropa interior,una lagartija,sorbetes,juguetes de colección de Voltron,un horno de pan,grillos,la escritura de una mansión",
+            "v": "ropa interior,una lagartija,un cerdo vivo,juguetes de colección de Voltron,un horno de pan,grillos vivos,la escritura de una mansión",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es una de las cosas más extrañas que has comprado en linea?",
+            "v": "¿Qué es lo más raro que has comprado por Internet?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Será raro, pero una vez <PLAYER> compró <BLANK> en línea.",
+            "v": "Puede parecer extraño, pero una vez <PLAYER> compró <BLANK> en Internet.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Será raro, pero una vez <PLAYER> compró <BLANK> en linea.",
+            "s": "[category=host]It may seem weird, but <PLAYER> once bought <BLANK> online.",
             "t": "A",
             "v": "615341_1",
             "n": "QuestionAudio"

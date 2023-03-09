@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "jog drunk,play video games,train after midnight,wear tight jeans,are blindfolded,drink just a little bit of gasoline,don’t sweat,journal daily,listen to “Mambo No. 5”,drink gravy,are named David,speak in a phony accent,milk cows,study physics,read science fiction,stare at the color blue,are filled with guilt,wear expensive sneakers",
+            "v": "corres borracho,juegas a videojuegos,entrenas después de medianoche,usas pantalones ajustados,tienes los ojos vendados,bebes solo un poco de gasolina,no sudas,llevas un diario,escuchas \"Mambo nº 5\",bebes salsa,te llamas David,hablas con acento falso,ordeñas vacas,estudias física,lees ciencia ficción,miras fijamente el color azul,estás lleno de culpa,usas zapatillas caras",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "utilizas malas palabras",
+            "v": "dices palabrotas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un estudio de 2017 de la Universidad de Keele en el Reino Unido afirma que puedes obtener un mejor aspecto físico si <BLANK>.",
+            "v": "Un estudio de 2017 de la Universidad de Keele, en Reino Unido, afirma que puedes tener mejor forma física si <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "swear,curse,swear a lot,use profanity,yell profanity,say fuck,say shit",
+            "v": "maldices,usas malas palabras,maldices mucho,usas palabrotas,gritas palabrotas,dices verga,dices mierda",
             "n": "AlternateSpellings"
         },
         {

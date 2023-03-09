@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sex|are drunk,diarrhea|are texting,accidents|are snapping selfies,arguments|are tired,affairs|are single,apps|are married,confidence|are wrong,charisma|laugh,fatty meals|are sad,fun|don’t care what people think,gas|are in church,brain activity|sneeze,guilt|neglect their pets,useless junk|have a garage,salad|just start dating someone,regrets|live in Reno,back hair|wash with a loofah,ham|think they’re alone",
+            "v": "sexo|alcohol en el cuerpo,diarrea|que enviar mensajes de texto,accidentes|ganas de tomarse selfies,discusiones|cansancio,aventuras amorosas|estado de solteros,aplicaciones|un matrimonio actual,confianza|argumentos falsos,carisma|ganas de reírse,comidas grasosas|pena,diversión|menos miedo a la verguenza,gases|que estar en la iglesia,actividad cerebral|que estornudar,culpa|que descuidar a sus mascotas,basura|un garaje,más probabilidad de comer ensalada|que empezar a salir con alguien,arrepentimientos|que vivir en Estados Unidos,pelo en la espalda|que lavarse con una esponja vegetal,jamón|la idea de que están solos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Investigadores en las universidades de Aalto y Oxford estudiaron los registros telefónicos de más de 3.2 millones de europeos y descubrieron que las personas tienen más <BLANK> cuando tienen <BLANK>.",
+            "v": "Investigadores de las universidades de Aalto y Oxford estudiaron los registros telefónicos de más de 3.2 millones de europeos y descubrieron que las personas tienen más <BLANK> cuando tienen <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "friends|are 25 years old,friends|are 25-year-olds,friends|are in their 20s,friends|are in their 20’s,friends|are in their twenties",
+            "v": "amigos|25 años de edad,amigos|25,amigos|veinticinco años,amigos|entre 20 y 30 años",
             "n": "AlternateSpellings"
         },
         {

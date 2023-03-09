@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "punched|an elf,picked on|the devil,swallowed|a wolf,kidnapped|a troll,clubbed|an ogre,cooked|a witch,choked|a snake,eaten|a spider,slapped|a yeti,trampled|reindeer,spooked|a ghost,tricked|a wizard,stolen|a monster,tickled|a weirdo,pecked|a crow,stabbed|a serial killer,circled|a buzzard,hugged|dead people",
+            "v": "golpeados|un elfo,elegidos|el diablo,tragados|un lobo,secuestrados|un trol,apaleados|un ogro,cocinados|una bruja,estrangulados|una serpiente,comidos|una araña,abofeteados|un yeti,pisoteados|un reno,asustados|un fantasma,engañados|un mago,llevados|un monstruo,tocados|un bicho raro,picoteados|un cuervo,apuñalados|un asesino en serie,rodeados|un buitre,abrazados|un muerto",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "eaten|cat,eaten|cats",
+            "v": "comidos|gato,comidos|gatos",
             "n": "AlternateSpellings"
         },
         {

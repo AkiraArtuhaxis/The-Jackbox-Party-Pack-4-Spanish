@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Icees|Slushees,Coke|Pepsi,dogs|cats,Deep Impact|Armageddon,The Beatles|The Stones,biting your tongue|biting your cheek,men|women,orange juice|toothpaste,mars|venus,dorks|nerds,babies|old people,books|movies,The Simpsons|Family Guy,wells|water pipes,Police Academy|Airplane!,Bill Pullman|Bill Paxton,Mt. Dew|Mello Yello,Mario|Wario",
+            "v": "El rey león|Kimba el león blanco,Coca-Cola|Pepsi,perros|gatos,Impacto profundo|Armageddon,The Beatles|The Rolling Stones,morderse la lengua|morderse la mejilla,hombres|mujeres,jugo de naranja|pasta de dientes,Marte|Venus,mensos|ñoños,bebés|ancianos,libros|películas,Los Simpson|Padre de familia,pozos|tubos de agua,Locademia de policía|¿Y dónde está el piloto?,Ace Ventura|La máscara,Resident Evil|Silent Hill,Mario|Wario",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "oranges|apples,apple|orange,orange|apple,an apple|an orange,an orange|an apple",
+            "v": "naranjas|manzanas,manzana|naranja,naranja|manzana,una manzana|una naranja,una naranja|una manzana",
             "n": "AlternateSpellings"
         },
         {

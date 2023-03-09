@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "El mundo de Ángela,Mi nombre es Earl,Yin Yang Yo!,Futurama,Deadwood,Firefly,Jóvenes y rebeldes",
+            "v": "Malcolm el de en medio,Alf,Yin Yang Yo!,Futurama,El laboratorio de Dexter,El lagarto Juancho,Drake & Josh",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué serie de televisión crees que tiene que volver o conseguir un reboot?",
+            "v": "¿Qué serie de televisión crees que debería volver o tener una nueva versión?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una serie que a <PLAYER> le gustaría que vuelva al aire u obtenga un reboot es <i><BLANK><\/i>.",
+            "v": "Una serie de televisión que a <PLAYER> le gustaría que vuelva u tenga una nueva versión es <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una serie que a <PLAYER> le gustaría que vuelva al aire u obtenga un reboot es <BLANK>.",
+            "s": "[category=host]A TV show <PLAYER> would like to see brought back or rebooted is <BLANK>.",
             "t": "A",
             "v": "694934_0",
             "n": "QuestionAudio"

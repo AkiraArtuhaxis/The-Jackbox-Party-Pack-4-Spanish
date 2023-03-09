@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Breathe,Open my eyes,See straight,Tweet,Dance,Stand,Watch Netflix,Sleep,Stop,Sing,Scream,Think,Go to McDonalds,Drink coffee,Make a smoothie,Eat kale,Eat a cupcake,Find my good phone",
+            "v": "respirar,abrir los ojos,ver bien,tuitear,bailar,pararme,ver Netflix,dormir,detenerme,cantar,gritar,pensar,ir a McDonald's,tomar café,hacer un batido,comer pizza,comer una magdalena,encontrar mi teléfono bueno",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Tirarme un pedo",
+            "v": "tirarme un pedo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Katy Perry tuiteó: \"tan cansada que ni puedo <BLANK>\".",
+            "v": "Katy Perry tuiteó: \"estoy tan cansada que ni siquiera puedo <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Farrt",
+            "v": "tirarme pedos",
             "n": "AlternateSpellings"
         },
         {

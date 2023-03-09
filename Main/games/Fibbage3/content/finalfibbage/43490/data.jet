@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a toilet|a tv,a baby|a can opener,a dildo|a toy sword,a PS4|a breast pump,a grenade|a Nintendo DS,a puppy|a goldfish,a pony|a snake,a dirty diaper|a Dr. Seuss book,a car|a bike,a fried turkey|a vegetarian cookbook,an etch-a-sketch|an ipad,a fishing pole|a laxative,cyanide tablets|Flinstone’s gummies,a DVD of Titanic|whiskey,bras|socks,a beer keg|a sex swing,dynamite|play-doh,a suppository|a wooden spoon",
+            "v": "un inodoro|un televisor,un bebé|un abrelatas,un consolador|una espada de juguete,una PS4|un extractor de leche,una granada|una Nintendo DS,un perrito|un pez dorado,un poni|una serpiente,un pañal sucio|un libro del Dr. Seuss,un auto|una bicicleta,un pavo frito|un libro de cocina vegetariana,una pizarra mágica|un iPad,una caña de pescar|un laxante,pastillas de cianuro|gomitas de los Picapiedra,un DVD de Titanic|whisky,sostenes|calcetines,un barril de cerveza|un columpio sexual,dinamita|plastilina,un supositorio|una cuchara de madera",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante la fiebre navideña de 2016, UPS sorprendió a una pareja de Nueva York cuando entregó accidentalmente <BLANK> en lugar de <BLANK>.",
+            "v": "Durante el ajetreo navideño de 2016, UPS sorprendió a una pareja de Nueva York cuando entregó accidentalmente <BLANK> en lugar de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a gun|a toy,a gun|a toy plane,a rifle|a toy plane,a rifle|a toy,gun|toy plane",
+            "v": "un arma|un juguete,un arma|un avión de juguete,un rifle|un avión de juguete,un rifle|un juguete,arma|avión de juguete",
             "n": "AlternateSpellings"
         },
         {

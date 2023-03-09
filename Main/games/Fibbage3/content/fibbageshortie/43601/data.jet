@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a snake,a nail file,a Christmas ornament,a Ty Cobb playing card,a Rubik’s cube,a straight razor,a pistol,a tiny bottle of gin,a Calvin Coolidge pin,a tobacco tin,a cheese knife,his lucky rabbit’s foot,an engagement ring,his locker key,a pair of scissors,a tube of ointment,metal jacks,a box of suppositories",
+            "v": "una serpiente,una lima de uñas,un adorno navideño,un naipe de Ty Cobb,un cubo de Rubik,una navaja de afeitar,una pistola,una pequeña botella de gin,un pin de Calvin Coolidge,una lata de tabaco,un cuchillo para el queso,su pata de conejo de la suerte,un anillo de compromiso,la llave de su casillero,unas tijeras,un tubo de pomada,matatenas de metal,una caja de supositorios",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1923, el jugador de los Boston Red Sox Clarence Blethen se rebanó la nalga al deslizarse a segunda base con <BLANK> en su bolsillo.",
+            "v": "En 1923, el jugador de los Boston Red Sox, Clarence Blethen, se cortó la nalga al deslizarse a segunda base con <BLANK> en su bolsillo.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "false teeth,dentures,his dentures",
+            "v": "dientes postizos,dentadura,su dentadura",
             "n": "AlternateSpellings"
         },
         {

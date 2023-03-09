@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Mildred,Mustafa,Cassandra,Phoenix,Prince,Ciborg,Esmeralda,Blaine,Sherezade,Penélope",
+            "v": "Shrek,Mustafa,Cassandra,Fénix,Prince,Ciborg,Esmeralda,Blaine,Sherezade,Penélope",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si tuvieras que cambiar tu nombre, ¿cuál sería el nuevo nombre que escogerías?",
+            "v": "Si tuvieras que cambiar tu nombre, ¿qué nombre nuevo elegirías?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> se fuera a cambiar el nombre, se lo cambiaría a <BLANK>.",
+            "s": "[category=host]If <PLAYER> had to pick a new first name, it’d be <BLANK>.",
             "t": "A",
             "v": "680485_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Goofy,Supreme Court,Don Rickles,Cap’n Crunch,Walter Cronkite,Putin,Golden Girls reunion,Ronald McDonald,Antonio Canova,Will Ferrell,hybrid of Kate Upton and Thor,Prince,Pat Sajak,werewolf,Homer Simpson,Richard Nixon,Oprah,Chef Boyardee",
+            "v": "Goofy,el Tribunal Supremo,Don Rickles,el tigre Tony,Walter Cronkite,Putin,la reunión de las Chicas de Oro,Ronald McDonald,Antonio Canova,Will Ferrell,un híbrido de Kate Upton y Thor,Prince,Pat Sajak,un hombre lobo,Homero Simpson,Richard Nixon,Oprah,Chef Boyardee",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, la Colección Frick de Nueva York puso en exposición una estatua realizada por Antonio Canova que mostraba a un <BLANK> desnudo/a.",
+            "v": "En 2017, la Colección Frick de Nueva York puso en exposición una estatua realizada por Antonio Canova que mostraba a <BLANK> en total desnudez.",
             "n": "QuestionText"
         },
         {

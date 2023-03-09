@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eat|run,ride hard|wet,park|release,moan|groan,hit it|quit it,click it|lick it,get off|sleep,slide|explode,jam it|ram it,squat|get hot,drive|rub off,crash|go limp,rear end|run,grin|bear it,pull out|pray,flash|crash,sneak|peek,slam your brakes|choke your throttle",
+            "v": "la carrera|una pista de gusanos,gemir|una iglesia,la competencia|muletas,explotar neumáticos|los asientos del público,el lanzamiento|altura de celulares,el salto|traje de baño y corbata,la carrera de sacos|patines,el lanzamiento de zapatos|bicicleta,la carrera de relevos|tacones altos,comer sushi|una bañera llena de salsa de soya,la carrera de obstáculos|agua congelada,comer hamburguesas|una piscina de kétchup,chocar|monopatín,escabullirse|la caja fuerte del banco,mirar fijamente|la oscuridad de un cementerio,salir ileso|el lanzamiento aficionado de cuchillos,lanzarse|neumáticos de tractor,aguantar la respiración|agua congelada",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "te toques|conduces",
+            "v": "la lucha|puré de papas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dakota del Sur tuvo que cancelar una campaña de seguridad pública debido a que la gente la leía como un eufemismo sexual. El mensaje en inglés sonaba como “No <BLANK> mientras <BLANK>.”",
+            "v": "Dakota del Sur celebra cada año en agosto un extraño día, donde su principal evento es <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {

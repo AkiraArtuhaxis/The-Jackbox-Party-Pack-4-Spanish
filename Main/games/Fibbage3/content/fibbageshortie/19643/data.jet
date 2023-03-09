@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dogs sniffing butts,unibrows,cosplay,mimes,firecrackers,their address,dead relatives,air guitar,their belly buttons,fast food,puns,unshaven body parts,Kim Kardashian,sad clowns,robots,butt cracks,penguins,ninjas",
+            "v": "perros oliendo colas,unicejas,cosplay,mimos,petardos,su dirección,familiares fallecidos,guitarra de aire,sus ombligos,comida rápida,juegos de palabras,partes del cuerpo no afeitadas,Kim Kardashian,payasos tristes,robots,rayas de trasero,pingüinos,ninjas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "underboob",
+            "v": "la parte baja de los pechos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, Thailand advirtió a los ciudadanos que están violando el Acta de Crímenes Computacionales si se toman selfies que contienen <BLANK>.",
+            "v": "En 2015, Tailandia advirtió a sus ciudadanos que están violando el Acta de Crímenes Computacionales si se toman selfies que contienen <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "under boob,under-boob",
+            "v": "parte baja de pechos,lo bajo de los pechos",
             "n": "AlternateSpellings"
         },
         {

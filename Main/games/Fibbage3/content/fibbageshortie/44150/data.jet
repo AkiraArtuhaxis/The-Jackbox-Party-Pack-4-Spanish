@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sidewalks,tap water,her own fingernails,coffee,berets,rudeness,noise,bad television,beards,baguettes,air,underwear,work,bad news,The Guardians of the Galaxy,France,Benedict Cumberbatch,stop signs",
+            "v": "aceras,agua de llave,sus propias uñas,café,boinas,grosería,ruido,televisión basura,barbas,baguettes,aire,ropa interior,trabajo,malas noticias,Los Guardianes de la Galaxia,Francia,Benedict Cumberbatch,señales de pare",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "wifi",
+            "v": "WiFi",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, un tribunal francés otorgó a una mujer 900 dólares al mes en beneficios de discapacidad debido a sus supuestas reacciones alérgicas al <BLANK>.",
+            "v": "En 2015, un tribunal francés otorgó a una mujer 900 dólares al mes en beneficios de discapacidad debido a sus supuestas reacciones alérgicas a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "wi-fi,wireless frequencies,wireless internet",
+            "v": "wifi,Wifi,Wi-Fi,frecuencias inalámbricas,internet inalámbrico",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sandwiches|sammies,pullovers|sweaters,hounds|mutts,ketchup|catsup,chicken|ham,Michigan|hell,the moon|a star,dancing|an act of evil,squirrels|fancy rats,clouds|smoke signals from god,sunrises|miracles,rich people|modern gods,lakes|fat rivers,cheese|fruit,penguins|rabbits,the number 5|an even number,beer|the devil’s blood,churches|foreign soil",
+            "v": "los perritos calientes|sándwich,chaquetas|chalecos,sabuesos|perros,kétchup|cátsup,pollo|jamón,La guerra de las galaxias|tortura,la Luna|una estrella,bailar|un acto de maldad,ardillas|ratas elegantes,nubes|señales de humo de dios,amaneceres|milagros,gente rica|dioses modernos,lagos|ríos gordos,queso|fruta,pingüinos|conejos,el número 5|un número par,cerveza|la sangre del diablo,iglesias|territorio extranjero",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pi|3,2",
+            "v": "pi|\"3,2\"",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the value of pi|3.2,the mathemtical constant pi|3.2,the constant pi|3.2",
+            "v": "el valor de pi,\"3,2\",la constante matemática pi|\"3,2\",la constante pi|\"3,2\"",
             "n": "AlternateSpellings"
         },
         {

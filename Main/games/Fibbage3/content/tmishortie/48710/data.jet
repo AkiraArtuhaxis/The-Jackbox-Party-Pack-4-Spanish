@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sarcástico gracioso borracho,diva piola graciosa,loco ruidoso gracioso,grande bello brillante,pequeño inteligente afilado,valiente ruidoso e inteligente,gracioso sarcástico ruidoso",
+            "v": "sarcástico gracioso borracho,diva relajada graciosa,loco ruidoso gracioso,grande bello brillante,pequeño inteligente misterioso,valiente ruidoso inteligente,gracioso sarcástico ruidoso",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando le pidieron que se describa en tres palabras, <PLAYER> escribió \u201c<BLANK>.\u201d",
+            "v": "Cuando le pidieron que se describa en tres palabras, <PLAYER> escribió “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Cuando le pidieron que se describa en tres palabras, <PLAYER> escribió \u201c<BLANK>.\u201d",
+            "s": "[category=host]Asked to describe themselves in three words, <PLAYER> wrote “<BLANK>.”",
             "t": "A",
             "v": "695082_0",
             "n": "QuestionAudio"

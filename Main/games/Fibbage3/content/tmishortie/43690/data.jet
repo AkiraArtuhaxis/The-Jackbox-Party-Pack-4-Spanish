@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Gastón,Jessica Rabbit,Bella,Alf pero la versión animada,Sonic,El Gran Gazú,Mario",
+            "v": "Tarzán,Jessica Rabbit,Bella,Alf pero la versión animada,Sonic,El Gran Gazú,Mario",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un personaje animado con el que no te molestaría tener una cita.",
+            "v": "Un personaje animado con el que te gustaría tener una cita.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un personaje animado con el que <PLAYER> no le molestaría tener una cita.",
+            "v": "Un personaje animado con el que <PLAYER> le gustaría tener una cita.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un personaje animado con el que éste jugador no le molestaría tener una cita.",
+            "s": "[category=host]An animated character this player would totally date.",
             "t": "A",
             "v": "567415_0",
             "n": "QuestionAudio"

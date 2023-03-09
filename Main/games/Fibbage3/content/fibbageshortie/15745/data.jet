@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "horny dolphins,strong winds,sea turtles with herpes,global warming,pantsing pirates,synchronized swimming,complaints from a nearby church,manatees,Danish perverts,ufo sightings,surprise circumcisions,penis drag,semen-tracking sharks,prudish lifeguards,new surveillance cameras,frozen pubic hair,squid mating season,curious narwhals",
+            "v": "los delfines lujuriosos,los fuertes vientos,las tortugas marinas con herpes,el calentamiento global,los piratas baja pantalones,la natación sincronizada,las quejas de una iglesia cercana,los manatíes,los daneses pervertidos,los avistamientos de OVNIs,las circuncisiones sorpresa,el arrancamiento de pene,los tiburones con seguimiento seminal,los salvavidas mojigatos,las nuevas cámaras de vigilancia,el pelo púbico congelado,la temporada de apareamiento de calamares,los narvales curiosos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "peces come-testículos",
+            "v": "los peces come testículos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un profesor de Copenhague advirtió a los nadadores masculinos en Escandinavia que mantengan sus trajes de baño bien ajustados debido a los/las <BLANK>.",
+            "v": "Un profesor de Copenhague advirtió a los nadadores masculinos en Escandinavia que mantuvieran sus trajes de baño bien ajustados debido a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ball-eating fish,testicle eating fish,beall eating fish,testicle fish,fish that eat testicles,fish that eat your balls",
+            "v": "los peces come testiculos,peces come testículos,peces come testiculos,peces come bolas,pez come bolas,pez come testículos,pez come testiculos,pez testículo,pez testiculo,pez que come testículos,pez que come tus bolas,pez que come testiculos,pez que se come tus bolas",
             "n": "AlternateSpellings"
         },
         {

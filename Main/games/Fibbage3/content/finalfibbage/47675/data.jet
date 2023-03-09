@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a can|a keyboard,bottles of relish|pictures of George Bush,glasses|brick walls,her car|piles of stuffed animals,cats|cotton candy,her butt|garbage,action figures|used diapers,strangers|each other,candy|her friend’s mouth,her feet|Elmer’s glue,paint balls|old refrigerators,bald men|trampolines,pictures of Nixon|a blender,your expectations|dust,diamonds|wads of gum,her enemies|cement pylons,robots|government buildings,salt|her open wounds",
+            "v": "una lata|un teclado,botellas de kétchup|fotos de George Bush,lentes|paredes de ladrillo,su auto|montones de peluches,gatos|algodón de azúcar,su trasero|la basura,figuras de acción|pañales usados,desconocidos|frente de otros desconocidos,caramelos|la boca de su amiga,sus pies|pegamento,bolas de pintura|neveras viejas,calvos|camas elásticas,fotos de Nixon|una licuadora,tus expectativas|el polvo,diamantes|chicles,a sus enemigos|pilares de cemento,robots|edificios gubernamentales,sal|sus heridas abiertas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Hay una cuenta de Instagram con más de 170 mil seguidores que consiste solamente una mujer golpeando <BLANK> en <BLANK>.",
+            "v": "Hay una cuenta de Instagram con casi 170.000 seguidores que consiste solamente en una mujer golpeando <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "face|bread,bread|her face,bread|face,her face|different bread",
+            "v": "cara|pan,pan|su cara,pan|cara,su cara|panes distintos",
             "n": "AlternateSpellings"
         },
         {

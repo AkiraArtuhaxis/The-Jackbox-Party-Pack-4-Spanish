@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "A neon sign,A showgirl,Dry ice,A space shuttle,Car fumes,A cactus,Rattlesnake venom,Mustard gas,the sun,A flamethrower,A fire swallower’s breath,friction,Fireworks,A cannon,his mind,a laser,a volcano,the Earth’s magnetic field",
+            "v": "un letrero de neón,una corista,hielo seco,un transbordador espacial,los gases de un auto,un cactus,el veneno de una serpiente cascabel,gas mostaza,el sol,un lanzallamas,el aliento de un tragafuegos,fricción,fuegos artificiales,un cañón,su mente,un láser,un volcán,el campo magnético de la Tierra",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Una bomba nuclear",
+            "v": "una bomba nuclear",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1952, Ted Taylor de Nevada, Estados Unidos se convirtió en la primera persona en encender un cigarrillo con <BLANK>.",
+            "v": "En 1952, Ted Taylor de Nevada, Estados Unidos, se convirtió en la primera persona en encender un cigarrillo con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a nuke,a nuclear device",
+            "v": "un arma nuclear,un dispositivo nuclear",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a lifetime,a tent,playing air guitar,looking confused,my mother,cool haircut guy,liberal arts student,a traffic cone,a small round pyramid,man who has no idea what’s going on,guy who is terrible at hide and seek,a badminton mascot,man with odd fingers,man who really loves those cone paper cups,a man turning into a potato,a man who never high fived another person,father christmas,a disturbing cousin",
+            "v": "toda una vida,una tienda de campaña,tocar la guitarra de aire,mirar confundido,mi madre,un tipo de corte de pelo genial,un estudiante de artes liberales,un cono de tráfico,una pequeña pirámide redonda,el hombre que no tiene idea de lo que está pasando,un tipo que es terrible escondiéndose,una mascota de bádminton,el hombre con los dedos raros,el hombre que ama los vasos de papel de cono,un hombre convirtiéndose en una papa,un hombre que nunca chocó los cinco con otra persona,el padre de la Navidad,un primo perturbador",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según The Met, esta pieza se llama <i>Actor no identificado en el Rol de <BLANK><\/i>.",
+            "v": "Según el Museo Metropolitano de Arte, esta obra se llama <i>Actor no identificado en el rol de <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "an umbrella,Umbrella Monster,umbrella",
+            "v": "un paraguas,monstruo paraguas,paraguas",
             "n": "AlternateSpellings"
         },
         {

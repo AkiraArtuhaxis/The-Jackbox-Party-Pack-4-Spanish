@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "antique cannon,Leopard,Panther,Bull,knife throwing machine,Snapping turtle,guillotine,Moose,collection of poisons,circus troupe,fight club,model train set,team of personal assassins,lawn darts,loaded guns,custom sprinkler system,crossbows,dance parties",
+            "v": "cañón antiguo,leopardo,pantera,toro,máquina lanzadora de cuchillos,tortuga mordedora,guillotina,alce,colección de venenos,compañía de circo,club de lucha,maqueta de tren,equipo de asesinos personales,dardo para el césped,pistola cargada,sistema de aspersión personalizado,ballesta,fiesta de baile",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Oveja",
+            "v": "oveja",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Incluso después de la muerte de un niño en el jardín de la Casa Blanca, Thomas Jefferson se negó a deshacerse de su peligrosa <BLANK>.",
+            "v": "Incluso después de la muerte de un niño en el jardín de la Casa Blanca, Thomas Jefferson se negó a deshacerse de su <BLANK> que causa estragos.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Cordero,Borrego",
+            "v": "cordero,borrego",
             "n": "AlternateSpellings"
         },
         {

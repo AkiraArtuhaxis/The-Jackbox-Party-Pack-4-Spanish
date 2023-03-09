@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "people,giraffes,elephants,bears,deer,tigers,chimpanzees,Germans,bison,sloths,pandas,chimps,cows,robots,pigs,golfers,cats,lions",
+            "v": "gente,jirafas,elefantes,osos,ciervos,tigres,chimpancés,alemanes,bisontes,perezosos,pandas,monos,vacas,robots,cerdos,golfistas,gatos,leones",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el 2011, la definición de \"animal de servicio\" de EE. UU. fue actualizada en la Ley para Estadounidenses con Discapacidades. Como alternativa a los perros, la ley ahora permite tener <BLANK> miniatura.",
+            "v": "En el 2011, la definición de \"animal de servicio\" de EE. UU. se actualizó en la Ley de Estadounidenses con Discapacidades. Como alternativa a los perros, la ley ahora permite tener <BLANK> miniatura.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "horse,pony,ponies",
+            "v": "caballo,poni,ponis",
             "n": "AlternateSpellings"
         },
         {

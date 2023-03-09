@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "diapers,her pee,bees,baby ducks,potato chips,bullets,toy trucks,spoiled milk,tampons,old toast,grass clippings,flaming balls,used yogurt containers,bubbles,cat hair,beer bottles,old bath water,water balloons",
+            "v": "pañales,su orina,abejas,patitos,papas fritas,balas,camiones de juguete,leche rancia,tampones,tostadas viejas,pasto recortado,bolas de fuego,envases de yogur usados,burbujas,pelo de gato,botellas de cerveza,agua de baño,globos de agua",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Jemima Packington tiene una habilidad única y especial. Ella afirma que puede predecir el futuro usando <BLANK>.",
+            "v": "Jemima Packington tiene una habilidad especial y única. Afirma que puede predecir el futuro mediante el uso de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "asperagus,aspearagus",
+            "v": "espárrago,esparrago,esparragos",
             "n": "AlternateSpellings"
         },
         {

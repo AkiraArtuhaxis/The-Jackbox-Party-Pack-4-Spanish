@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "hacer una vuelta de carnero,jugar con los cubiertos,silbar y tararear al mismo tiempo,perder un chongo en 10 días,hacer flan,hackear el mundo,instalar el wifi",
+            "v": "hacer una vuelta de carnero,jugar con los cubiertos,silbar y tararear al mismo tiempo,cocinar arroz,hacer flan,hackear al mundo,configurar el WiFi",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo que crees recordar como se hace, pero no haces hace mucho tiempo?",
+            "v": "¿Qué es algo que crees recordar cómo se hace, pero no haces hace mucho tiempo?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> cree recordar cómo se hace lo siguiente: <BLANK>.",
+            "s": "[category=host]<PLAYER> thinks they remember how to <BLANK>.",
             "t": "A",
             "v": "633422_2",
             "n": "QuestionAudio"

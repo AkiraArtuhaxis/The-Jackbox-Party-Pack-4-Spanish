@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "tug of war,cat shaving competition,scrabble game,cow costume-a-thon,flash mob,Star Wars marathon,roast of Australia,nap,bake off,toast to freedom,garage sale,volleyball tournament,Smash Mouth listening party,star gazing,ribbon dance,puppet show,beauty pageant,rubber duck race",
+            "v": "tirar la cuerda,un concurso de afeitar gatos,un juego de palabras,un maratón de disfraces de vaca,un flash mob,un maratón de películas de Stanley Kubrick,un asado australiano,una siesta,un concurso de repostería,un brindis por la libertad,una venta de garaje,un torneo de vóleibol,una fiesta para escuchar a Smash Mouth,una observación de estrellas,un baile de cintas,un espectáculo de títeres,un concurso de belleza,una carrera de patitos de goma",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Santa secreto",
+            "v": "un amigo secreto",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Desde que Sam Elton-Walter inició la tradición en 2010, miles de neozelandeses han participado en un <BLANK> anual por toda la nación.",
+            "v": "Desde que Sam Elton-Walter inició la tradición en 2010, miles de neozelandeses han participado en <BLANK> anual a escala nacional.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "gift exchange",
+            "v": "un intercambio de regalos",
             "n": "AlternateSpellings"
         },
         {

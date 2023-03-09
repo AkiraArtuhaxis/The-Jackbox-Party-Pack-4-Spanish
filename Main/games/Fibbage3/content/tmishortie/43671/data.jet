@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "La lista de Schindler,Los locos del golf,Vacaciones de Navidad,Fletch el extraordinario,Tommy Boy,Billy Madison,Hot Fuzz Super policías",
+            "v": "La lista de Schindler,Shrek,Vacaciones de Navidad,Ace Ventura,Ricky Ricón,Billy Madison,Hot Fuzz Super policías",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "La película que siempre te hace reir a carcajadas es <BLANK>.",
+            "v": "La película que siempre te hace reír a carcajadas es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La película con la que éste jugador siempre se ríe a carcajadas es <BLANK>.",
+            "s": "[category=host]The movie that never fails to make this player laugh is <BLANK>.",
             "t": "A",
             "v": "566940_0",
             "n": "QuestionAudio"

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Imanes,Crecimiento de la población,La música disco,Hombres con pelo en bollo,Perros robot,Esas arañas que son muy grandes,Millenials",
+            "v": "Imanes,Crecimiento de la población,La música disco,Hombres con pelo en el trasero,Perros robot,Esas arañas que son muy grandes,Millenials",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Algo que ya con pensarlo te vuela la cabeza es <BLANK>.",
+            "v": "Algo que solo con pensarlo te deja sin palabras es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que ya con pensarlo le vuela la cabeza a <PLAYER> es <BLANK>.",
+            "v": "Algo que solo con pensarlo deja sin palabras a <PLAYER> es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que ya con pensarlo le vuela la cabeza a <PLAYER> es <BLANK>.",
+            "s": "[category=host]One thing that blows <PLAYER>’s mind just to think about it is <BLANK>.",
             "t": "A",
             "v": "611825_0",
             "n": "QuestionAudio"

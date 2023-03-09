@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "wireless routers,roses,holy water,hot sauce,cantaloupe,wine,robes,stereos,groceries,slow cookers,mp3s,knives,phone chargers,custom t-shirts,Bitcoins,Indulgences,laptops,lottery tickets",
+            "v": "enrutadores inalámbricos,rosas,agua bendita,salsa picante,melones,vino,batas,parlantes,abarrotes,ollas de cocción lenta,MP3s,cuchillos,cargadores de teléfono,camisetas presonalizadas,Bitcoins,indulgencias,computadoras portátiles,billetes de lotería",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "ink and toner",
+            "v": "tinta y tóner",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los monjes del Monasterio de Nuestra Señora del Banco de Primavera de Cistercian Abbey ganaron dinero vendiendo <BLANK> en línea.",
+            "v": "Los monjes de Nuestra Señora del Banco de Primavera en la Abadía de Císter ganaron dinero vendiendo <BLANK> en internet.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ink and toner cartridges,ink,toner,ink cartridges,toner cartridges,ink cartriges,toner cartriges,printer cartridges,printer supplies",
+            "v": "cartuchos de tinta y tóner,cartuchos de tinta y toner,tinta,tóner,toner,cartuchos de tinta,cartuchos de tóner,cartuchos de impresora,suministros de impresora,recambio de tinta",
             "n": "AlternateSpellings"
         },
         {

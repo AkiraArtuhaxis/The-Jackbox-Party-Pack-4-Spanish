@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Cake,Leather,a wig,a grudge,Chicken,Fritos,A bad day,A dark past,A puppy,A loving mom,A girlfriend,My perfume,Lip balm,Turtles,rabies,back hair,children,an outie belly button",
+            "v": "torta,cuero,una peluca,rencor,pollo,fritura,un mal día,un pasado oscuro,un cachorro,una madre cariñosa,una novia,mi perfume,bálsamo labial,tortugas,rabia,pelo en la espalda,hijos,un ombligo salido",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Caries",
+            "v": "caries",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Kim Kardashian tuiteó que tiene un talento especial. \"Puedo oler cuando alguien tiene <BLANK>\"",
+            "v": "Kim Kardashian tuiteó que tiene un talento especial. \"Puedo oler cuando alguien tiene <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Cavaties",
+            "v": "carie",
             "n": "AlternateSpellings"
         },
         {

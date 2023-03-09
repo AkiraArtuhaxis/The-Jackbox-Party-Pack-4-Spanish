@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "feo,flaco,muerto,calvo,borracho,sexy,cojo,peludo,tonto,parlante,sin pelo,inteligente,negro,de cera,alto,comido,eructado,descompuesto",
+            "v": "fea,flaca,muerta,calva,borracha,sensual,coja,loba,tonta,parlante,lampiña,inteligente,negra,de cera,alta,comida,eructada,en descomposición",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "scabby",
+            "v": "sarnosa",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una frase Rusa similar a “Una manzana podrida echa a perder el cesto\" se traduce como “La <BLANK> oveja echa a perder a todo el rebaño”",
+            "v": "Una frase rusa similar a “Una manzana podrida echa a perder el cesto\" se traduce como “La oveja <BLANK> echa a perder a todo el rebaño”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "scabbed",
+            "v": "con sarna",
             "n": "AlternateSpellings"
         },
         {

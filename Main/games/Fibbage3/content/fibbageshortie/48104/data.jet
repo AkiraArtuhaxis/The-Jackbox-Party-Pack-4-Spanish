@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a sensual massage,lollipops,tickets to Six Flags,insider trading tips,Diet Coke,Double-stuffed Oreos,copies of Blade Runner,juggling lessons,whale blood injections,Batman figurines,laser eye surgery,a vidalia onion,judo lessons,a Teen Titans comic book,a drumstick ice cream,an ankle tattoo,a NY Mets baseball hat,ten pounds of corn",
+            "v": "un masaje sensual,caramelos,entradas para un parque de atracciones,consejos de información privilegiada,Coca-Cola light,galletas Oreo con relleno doble,copias de Blade Runner,clases de malabares,inyecciones de sangre de ballena,figuritas de Batman,cirugía ocular con láser,una cebolla,clases de judo,una historiera de los Teen Titans,un helado de baqueta,un tatuaje en el tobillo,una camiseta de los Chicago Bulls,cinco kilos de maíz",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Desde 1983, los miembros del Congreso de los Estados Unidos han recibido todos los meses <BLANK> gratis.",
+            "v": "Desde 1983, los miembros del Congreso de los Estados Unidos han recibido <BLANK> gratis todos los meses .",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Hustler,an issue of Hustler,copies of Hustler,the latest HUstler,Hustler Magazine",
+            "v": "porno,un ejemplar de revista porno,copias de porno,la última porno,la revista porno",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Lady Gaga,thom yorke,Donald Trump,Homer Simpson,Vladimir Putin,The Avengers,Voldemort,The Mona Lisa,Mitch McConnell,a toilet,the littler mermaid,Adam Sandler,beyonce,Frankenstein,guy fieri,Garfield,florida,two dogs kissing",
+            "v": "Lady Gaga,Thom Yorke,Donald Trump,Homero Simpson,Vladímir Putin,Los Vengadores,Voldemort,la Mona Lisa,James Hetfield,un baño,la Sirenita,Adam Sandler,Beyoncé,Frankenstein,Jim Carrey,Garfield,el estado de Florida,dos perros besándose",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 7 de febrero de 2017, un Cheeto Flamin’ Hot se vendió por 99900 dólares en eBay porque se parecía a <BLANK>.",
+            "v": "El 7 de febrero de 2017, un Cheeto Flamin’ Hot se vendió por 99.900 dólares en eBay porque se parecía a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "harambe the gorilla,a gorilla,horombe,harambee,harrambee,harrambe",
+            "v": "Harambe el gorila,un gorila,gorila,Horombe,Harambee,Harrambee,Harrambe,horombe,harambee,harrambee,harrambe",
             "n": "AlternateSpellings"
         },
         {

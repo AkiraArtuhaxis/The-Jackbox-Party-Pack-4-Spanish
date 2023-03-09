@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Deadpool,Melissa McCarthy,Amy Poehler,Kanye,Abe Lincoln,un oso parlante,Andy Dick",
+            "v": "Deadpool,Melissa McCarthy,Emma Watson,Kanye,Abe Lincoln,un oso parlante,Jim Carrey",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es una persona (real o ficticia) que sería buen compañera en un viaje?",
+            "v": "¿Quién sería un buen compañero de viaje (real o ficticio)?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "<PLAYER> piensa que <BLANK> sería buen compañero en un viaje.",
+            "v": "<PLAYER> piensa que <BLANK> sería buen compañero de viaje.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> piensa que <BLANK> sería buen compañero en un viaje.",
+            "s": "[category=host]<PLAYER> thinks <BLANK> would make a good road trip companion.",
             "t": "A",
             "v": "613121_0",
             "n": "QuestionAudio"

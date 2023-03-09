@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "his 24th birthday party,the world’s largest hoagie,a kid smashing a Zac Effron piñata,Yoshi eating Koopas,his favorite dance number from Cats,Matlock solving the case,a snake wearing a tiny sweater,a turtle trying to eat a strawberry,a baby goat napping,clips of him smiling in movies,Home Improvment bloopers,toddlers doing High School Musical,his first singing lesson,his prom night,Nicolas Cage eating a peach,a kid confusing him for Justin Bieber,the new Star Wars trailer,the Mr. Microphone commercial",
+            "v": "su fiesta de cumpleaños,la hamburguesa más grande del mundo,un niño destrozando una piñata de Zac Effron,Yoshi comiendo Koopas,su número de baile favorito de Cats,El mentalista resolviendo un caso,una serpiente con una camiseta diminuta,una tortuga intentando comer una frutilla,una cabra bebé durmiendo la siesta,clips de él sonriendo en las películas,escenas graciosas de Mejorando la casa,niños pequeños haciendo High School Musical,su primera clase de canto,su noche de graduación,Nicolas Cage comiendo un durazno,un niño confundiéndolo a él con Justin Bieber,el nuevo tráiler de La guerra de las galaxias,el anuncio de La voz",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "su nombre en la rueda de la fortuna",
+            "v": "su nombre en la Rueda de la fortuna",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Zac Efron tuiteó \"Mamá me envió esto- hay que amarlo [heart]\". Lo que le envió su madre fue un video de <BLANK>.",
+            "v": "Zac Efron tuiteó \"Mi mamá me envió esto- me encanta [heart]\". Lo que le envió su madre fue un video de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "his name as a Wheel of Fortune puzzle,him on Wheel of Fortune,Wheel of Fortune",
+            "v": "su nombre en un rompecabezas de la Rueda de la fortuna,él en la Rueda de la fortuna,la Rueda de la fortuna",
             "n": "AlternateSpellings"
         },
         {

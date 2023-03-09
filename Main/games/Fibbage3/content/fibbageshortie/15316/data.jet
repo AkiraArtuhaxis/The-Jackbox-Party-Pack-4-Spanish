@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Enemigo,lechero,Asesino,pescadero,Viuda,Gemelo,Profesora,suegra,Hermano,peluche,Instructor de fitness,Cavernícola,Bañera,Vendedor de casas,Vecino,Consejero,Protector,Tercer pezón",
+            "v": "enemigo,lechero,asesino,pescadero,viuda,gemelo,profesora,suegra,hermano,peluche,instructor de fitness,cavernícola,bañera,vendedor de casas,vecino,consejero,protector,tercer pezón",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Hijastro",
+            "v": "hijastro",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "hijastra",
+            "v": "hijastro,hijo adoptivo",
             "n": "AlternateSpellings"
         },
         {

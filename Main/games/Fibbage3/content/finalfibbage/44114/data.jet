@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "butt|horse,placenta|pig,inside|locker room,regret|one night stand,cigar|grandfather,fart|baby,inside|New York cab,fumes|magic marker,bathroom|plane,armpit|lumberjack,chlorine|swimming pool,fresh cut grass|suburban lawn,leather|new car,rubber gloves|dentist,ink|bubblejet printer,breath|puppy,head|toddler,stench|crushing defeat",
+            "v": "el trasero|un caballo,la placenta|un cerdo,el interior|vestidor,arrepentimiento|la aventura de una noche,puro|abuelo,pedo|bebé,interior|taxi de Nueva York,humos|marcador mágico,baño|avión,axila|leñador,cloro|piscina,pasto recién cortado|jardín suburbano,cuero|auto nuevo,guantes de goma|dentista,tinta|impresora,aliento|cachorro,cabeza|niño pequeño,pestilencia|fracaso rotundo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pelaje|gatito",
+            "v": "el pelaje|un gatito",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En marzo de 2017, la Demeter Fragrance Library lanzó su nuevo perfume, que huele al <BLANK> de un <BLANK>.",
+            "v": "En marzo de 2017, la Demeter Fragrance Library lanzó su nuevo perfume, que huele como <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "fir|kitten,hair|kitten,fur|cat,fir|cat,hair|cat",
+            "v": "el pelo|un gatito,el cabello|un gatito,el pelaje|un gato,el pelo|un gato,el cabello|un gato",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Jeff Sessions,coolest dog,Smokebot 311,Blunt Enforcer,Against Twenty,Phishing Pole,Sensitive Neighbor,Space Cowboy,Doper Scoper,Narc Nose,Weed-B-Gone,Weed Seeking Missle,Pot Popper,Skunk Sniffer,Mr. Nose,The Spliffer Sniffer,The Bong Show,Willie Nelson",
+            "v": "Sesiones Jeff,perro más genial,Humobot 311,Sicario de porros,Contra veinte,Poste de phishing,Vecino sensible,Vaquero espacial,Identifica dopados,Nariz narcótica,Hierba-C-Va,Misil busca hierba,Hierba adicto,Olfateador de mota,Sr. Nariz,El olfateador de porros,El espectáculo de pipa,Perro Snoop",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Nasal Ranger",
+            "v": "Comando nasal",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Para detectar niveles ilegales de olor a humo de marihuana, la policía de Denver, EE. UU. utiliza un dispositivo llamado <BLANK>.",
+            "v": "Para detectar niveles ilegales de olor a humo de marihuana, la policía de Denver, EE. UU. utiliza un dispositivo llamado <BLANK> (en español).",
             "n": "QuestionText"
         },
         {

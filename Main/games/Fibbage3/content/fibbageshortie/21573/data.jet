@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "jerks,pescetarians,Yankees fans,hairy men,swingers,hardcore gamers,Magic the Gathering enthusiasts,people afraid of people,ghosts,people who love feet,drug addicts,golfers,nudists,people who like to shower together,people with smelly feet,fans of Lady Gaga,men with gas,people going to hell",
+            "v": "idiotas,pescetarianos,fanáticos de los Yankees,hombres peludos,gente que intercambia pareja,jugadores empedernidos,entusiastas de Magic: El encuentro,gente que teme a la gente,fantasmas,gente que ama los pies,drogadictos,golfistas,nudistas,gente que le gusta ducharse juntos,gente con pies malolientes,fanáticos de Lady Gaga,hombres con gases,gente que va al infierno",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un auto-descrito salvador llamado Maestro Adonis ha comenzado su propia religión llamada \"Adonitología\", que se describe como \"Una nueva religión para <BLANK>\".",
+            "v": "Un autoproclamado salvador, llamado Maestro Adonis, ha comenzado su propia religión llamada \"Adonitología\", que se describe como \"Una nueva religión para <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "curvy women,plump women,ladies with curves,curvy ladies",
+            "v": "mujeres curvilíneas,mujeres gorditas,damas con curvas,damas curvilíneas",
             "n": "AlternateSpellings"
         },
         {

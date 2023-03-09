@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sense of humor,ability to speak,teeth,short term memory,vision,musical ability,sense of smell,keys,hearing,love for family,balance,sense of style,fingernails,ability to whistle,ability to snore,moral compass,heartbeat,creativity",
+            "v": "el sentido del humor,el habla,los dientes,la memoria de corto plazo,la visión,la habilidad musical,el sentido del olfato,las llaves,la escucha,el amor por la familia,el equilibrio,el sentido del estilo,las uñas,la habilidad de silbar,la habilidad de roncar,la brújula moral,los latidos del corazón,la creatividad",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "huellas dáctiles",
+            "v": "sus huellas dactilares",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Estudios médicos han demostrado que el uso de la capecitabina puede hacer que los pacientes pierdan temporalmente sus <BLANK>.",
+            "v": "Estudios médicos han demostrado que el uso del fármaco capecitabina puede hacer que los pacientes pierdan temporalmente <BLANK>.",
             "n": "QuestionText"
         },
         {

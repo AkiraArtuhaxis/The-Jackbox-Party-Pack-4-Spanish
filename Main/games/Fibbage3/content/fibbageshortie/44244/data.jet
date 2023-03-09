@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "facebook profiles,stupid names,texting habits,crossword puzzles,emoji usage,crooked smiles,out of date dictionaries,sense of entitlement,squeaky door hinges,hairy ears,witch problems,vampirism,nightmares,bad cooking,poor manners,webbed feet,habitual lying,addiction to disco",
+            "v": "perfiles de Facebook,nombres estúpidos,hábitos de envío de mensajes de texto,crucigramas,el uso de emojis,sonrisas torcidas,diccionarios obsoletos,el sentido del derecho,bisagras de puertas chirriantes,orejas peludas,problemas con brujas,el vampirismo,las pesadillas,la mala habilidad en la cocina,los malos modales,los pies palmeados,el hábito de mentir habitualmente,adicción a la música disco",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, el Instituto Caro y Cuervo, un centro educativo colombiano, ofreció arreglar los <BLANK> de las personas.",
+            "v": "En 2015, el Instituto Caro y Cuervo, un centro educativo colombiano, ofreció arreglar <BLANK> de las personas.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tattoos,tattoos with typos,tattoo typos,typos in their tattoos",
+            "v": "tatuajes,tatuajes con mala ortografía,tatuaje con mala escritura,mala ortografía en sus tatuajes",
             "n": "AlternateSpellings"
         },
         {

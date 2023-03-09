@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "personal foot masseuse,mustache trimmer,chief bedtime story reader,badger keeper,complimenter general,back hair plucker,traveling narrator,human grocery bag holder,father,bestest friend,toupee washer,fake spouse,hype man,beard comber,friend that isn’t as cool as him,court jester,therapist,microwave attendant",
+            "v": "masajista personal de pies,recortador de bigote,jefe de lectura de cuentos para dormir,guardián del tejón,complaciente general,depilador de espalda,narrador viajero,soporte para bolsas de supermercado humano,padre,mejor amigo,lavador de peluquín,esposa falsa,hombre de apoyo,comedero de barba,amigo que no es tan genial como él,bufón de la corte,terapeuta,asistente de microondas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, el político mexicano Renato Tronco Gomez le ofreció al ganador de un concurso de Facebook el honor particular de servir como su <BLANK>.",
+            "v": "En 2015, el político mexicano Renato Tronco Gómez le ofreció al ganador de un concurso de Facebook el honor particular de servir como su <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "stand in,doppelganger,duplicate,double,twin",
+            "v": "sustituto,Doppelgänger,duplicado,doble,gemelo",
             "n": "AlternateSpellings"
         },
         {

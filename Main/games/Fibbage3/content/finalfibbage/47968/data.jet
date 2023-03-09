@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "promise|a kiss,jar|honey,bag|coins,peek|their butt,hint|danger,glimpse|the future,guarantee|fame,vision|god,reminder|their childhood,basket|chocolate,taste|celebrity,bag|meat,idea|the time involved,offer|immortality,big glass|root beer,ghostly visit|Dickensian proportion,handful|dimes,earful|nagging",
+            "v": "una promesa|beso,un frasco|miel,una bolsa|monedas,un vistazo|su trasero,una advertencia|peligro,un vistazo|su futuro,una garantía|fama,una visión|dios,un recordatorio|su infancia,una cesta|chocolate,un sabor|celebridad,una bolsa|carne,una idea|el tiempo implicado,una oferta|inmortalidad,un vaso grande|cerveza de raíz,una ruleta|enormes proporciones,un puñado|monedas,una consola|regalo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "aroma|pan fresco",
+            "v": "una fragancia|pan fresco",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un peculiar estudio, investigadores de la Universidad de Bretaña Sur en Francia descubrieron que es más probable que las personas ayuden a un extraño si primero sienten un <BLANK> a <BLANK>.",
+            "v": "En un peculiar estudio, investigadores de la Universidad de Bretaña Sur en Francia descubrieron que es más probable que las personas ayuden a un extraño si antes de eso les llega <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "scent|baked bread,smell|baked bread,scent|baked goods,whiff|baked bread,whiff|baked goods,smell|fresh baked bread,scent|fresh baked goods,whiff|fresh baked bread,smell|fresh bread,whiff|fresh baked bread,smell|fresh-baked bread,scent|fresh-baked goods,whiff|fresh-baked bread,smell|fresh-bread,whiff|fresh-baked bread",
+            "v": "una fragancia|pan horneado,un olor|pan horneado,una fragancia|cosas horneadas,un olor|cosas horneadas,una fragrancia|cosas recién horneadas,un olor|cosas recién horneadas",
             "n": "AlternateSpellings"
         },
         {

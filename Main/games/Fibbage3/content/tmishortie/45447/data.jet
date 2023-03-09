@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Eructo más fuerte,Más ''choque los cinco'' consecutivos,perro más tonto,Más plantas muertas,Mejores pasos de baile,Colección de bufandas más extensa,Más vueltas de carnero en 5 minutos",
+            "v": "Eructo más fuerte,Mayor número de ''choca esos cinco'' consecutivos,perro más tonto,Plantas de interior más muertas,Mejores pasos de baile,Colección de bufandas más extensa,Más vueltas de carnero en 5 minutos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un record Guinness qué crees que podrías llegar a romper es <BLANK>.",
+            "v": "Un récord Guinness que crees que podrías llegar a romper es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El récord mundial Guinness que <PLAYER> piensa que podría llegar a romper es <BLANK>.",
+            "v": "El récord mundial Guinness que <PLAYER> cree que podría llegar a romper es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El record mundial Guinness que <PLAYER> piensa que podría llegar a romper es <BLANK>.",
+            "s": "[category=host]The Guinness World Record <PLAYER> thinks they have a shot at breaking is <BLANK>.",
             "t": "A",
             "v": "615251_0",
             "n": "QuestionAudio"

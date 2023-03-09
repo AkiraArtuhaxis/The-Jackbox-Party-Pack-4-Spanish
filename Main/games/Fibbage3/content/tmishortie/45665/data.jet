@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "igual de raro,un gato durmiendo en la estufa,con una altura de 3 metros y furioso,el hijo de Will Smith,un loro muy ocurrente,un firme sauce,bastante molesto",
+            "v": "igual de raro,un gato durmiendo en la estufa,un monstruo furioso de 3 metros,el hijo de Will Smith,un loro sabelotodo,un roble imponente,bastante molesto",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> reencarnara, en su próxima vida probablemente sería <BLANK>.",
+            "s": "[category=host]If <PLAYER> gets reincarnated, in the next life they’ll probably be <BLANK>.",
             "t": "A",
             "v": "622735_0",
             "n": "QuestionAudio"

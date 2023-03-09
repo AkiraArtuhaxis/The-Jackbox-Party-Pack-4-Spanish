@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "water parks,gyms,banks,museums,ping pong tables,video arcades,headquarters,massage parlors,statues,toy stores,watchtowers,paint ball arenas,wifi hotspots,man caves,bunkers,Irish pubs,phones,Taco Bells",
+            "v": "parques acuáticos,gimnasios,bancos,museos,mesas de tenis de mesa,salas de videojuegos,cuartel general,salones de masaje,estatuas,jugueterías,torres de vigilancia,estadios de paint ball,puntos de acceso WiFi,cuevas,búnkeres,pubs irlandeses,teléfonos,Taco Bells",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sauna,sauna rooms,sauna tents",
+            "v": "sauna,habitaciones sauna,carpas sauna",
             "n": "AlternateSpellings"
         },
         {

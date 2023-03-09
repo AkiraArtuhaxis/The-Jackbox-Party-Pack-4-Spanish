@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sue,aroused,sleepy,unable to sit,“make it weird”,fall in love with you,tell jokes,jealous,laugh,start singing,itchy,crave chocolate,walk funny,think they’re in heaven,relive their childhood,start cursing,think about the cost,clench",
+            "v": "los demanden,se exciten,tengan sueño,no puedan sentarse,\"lo hagan raro\",se enamoren de ti,cuenten chistes,tengan celos,se rían,empiecen a cantar,tengan picor,se antojen de chocolate,caminen divertido,piensen que están en el cielo,revivan su infancia,empiecen a maldecir,piensen en el costo,aprieten",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2007, un equipo de médicos franceses escribió un artículo en el que recomendaban la mejor manera de hacer una colonoscopia que no haría <BLANK> a los pacientes.",
+            "v": "En 2007, un equipo de médicos franceses redactó un documento en el que aconsejaba la mejor forma de realizar una colonoscopia para evitar que los pacientes <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "blow up",
+            "v": "explotar",
             "n": "AlternateSpellings"
         },
         {

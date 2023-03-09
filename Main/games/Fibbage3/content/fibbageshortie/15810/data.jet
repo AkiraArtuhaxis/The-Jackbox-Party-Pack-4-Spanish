@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Slave,Sister,Woman,receptionist,Worshipper,bartender,Floozy,demon slayer,Drunk,the bee’s knees,Nun,foundry worker,Nanny,magician,Good Girl,Jerk,Husband,burglar",
+            "v": "esclava,hermana,mujer,recepcionista,adoradora,cantinera,fulana,asesina de demonios,borracha,lo máximo,monja,obrera de fundición,niñera,maga,buena chica,idiota,esposa,ladrona",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Viuda",
+            "v": "viuda",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Donald Rogers escribió un libro en los cincuenta llamado <i>Enséñale a tu esposa a ser una <BLANK><\/i>.",
+            "v": "Donald Rogers escribió un libro en los años 50 titulado <i>Enséñale a tu esposa a ser <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {

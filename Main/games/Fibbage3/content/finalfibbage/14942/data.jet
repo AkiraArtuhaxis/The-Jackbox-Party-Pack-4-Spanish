@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Fritos|oranges,car oil|rubber,vanilla|Old Spice,champagne|cheese,clean sheets|pumpkin,wet dog|febreeze,gasoline|lemons,cedar|pasta sauce,chocolate|sausage,wood smoke|bacon,lavender|burlap,nacho cheese|mint,popcorn|Axe Body Spray,new car smell|cumin,curry|grass,cut grass|popcorn,roses|new books,orange zest|peppermint",
+            "v": "fritura|naranjas,aceite de auto|caucho,vainilla|Old Spice,champán|queso,sábanas limpias|calabaza,perro mojado|ambientadores,gasolina|limones,cedro|pasta,chocolate|salchichas,humo de leña|tocino,lavanda|sopa,queso de nacho|menta,palomitas|desodorantes,olor a auto nuevo|comino,curry|pasto,pasto cortado|palomitas,rosas|libros nuevos,ralladura de naranja|hierbabuena",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La Fundación de Tratado e Investigación de Olores y Gustos concluyó que el aroma que más atrae sexualmente a las mujeres es una mezcla de <BLANK> y <BLANK>.",
+            "v": "La Fundación de Tratado e Investigación de Olores y Sabores concluyó que el aroma que más atrae sexualmente a las mujeres es una mezcla de <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "licorice|cucumber,cucumbers|licorice,licorice|cucumbers",
+            "v": "regaliz|pepino,pepinos|regaliz,regaliz|pepinos",
             "n": "AlternateSpellings"
         },
         {

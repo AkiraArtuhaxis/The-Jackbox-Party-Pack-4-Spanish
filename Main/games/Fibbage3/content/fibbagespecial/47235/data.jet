@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "look now,tickle gramma,look me in the eyes,think too hard about this,talk to the gnome,bargain with a witch,fall asleep,underestimate me,touch that,mock your elders,toss her,make it weird,ruin this for me,laugh,block the emergency exit,feed the trolls,draw at 3am,admit your faults",
+            "v": "mires ahora,le hagas cosquillas a la abuela,me mires a los ojos,lo pienses demasiado,hables con el gnomo,regatees con una bruja,te duermas,me subestimes,toques eso,te burles de tus mayores,la lances,lo hagas raro,me lo arruines,te rías,bloquees la salida de emergencia,alimentes a los trols,dibujes a las 3 de la mañana,admitas tus defectos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "grites, tonta",
+            "v": "grites, estúpida",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El extraño título de esta pieza española es <i>No <BLANK><\/i>.",
+            "v": "El extraño título de esta obra española es <i>No <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "scream stupid,scream",
+            "v": "grites estúpida,grites",
             "n": "AlternateSpellings"
         },
         {

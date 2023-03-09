@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "thieves,royalty,murderers,insane,farmers,Vikings,Irish,arrested,double-jointed,mummies,clergy,immigrants,priests,musicians,lepers,poor,malnourished,abducted by UFOs",
+            "v": "ladrones,de la realeza,asesinos,dementes,granjeros,vikingos,irlandeses,presos,cojos,momias,clérigos,inmigrantes,sacerdotes,músicos,leprosos,pobres,muertos de hambre,ovnis",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2016, la Biblioteca Wellcome en Londres publicó el manuscrito 3658 en línea, que ayuda a la gente de ascendencia escocesa a determinar si alguno de sus antepasados eran <BLANK>",
+            "v": "En 2016, la Biblioteca Wellcome de Londres publicó en línea el Manuscrito 3658, que ayuda a la gente de ascendencia escocesa a determinar si alguno de sus antepasados eran <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "whitches,witch,wiches",
+            "v": "brujaz,bruja,bruga",
             "n": "AlternateSpellings"
         },
         {

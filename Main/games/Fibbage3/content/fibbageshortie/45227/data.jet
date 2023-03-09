@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fireworks,cut off shorts,cooked hot dogs,Canadian citizens,the color orange,bras,flag waving,Ronald Reagan,pagan rituals,frisbees,cheering,fancy mustard,his annoying neighbor,children,Harrison Ford,blue potato chips,his ex-wife,Jeff Goldblum",
+            "v": "fuegos artificiales,pantalones cortos,perritos calientes cocidos,ciudadanos canadienses,el color naranja,sostenes,ondear la bandera,Ronald Reagan,rituales paganos,frisbees,vitoreos,mostaza de fantasía,su vecino molesto,niños,Harrison Ford,papas fritas azules,su ex mujer,Jeff Goldblum",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El secretario del Interior James Watt enfureció a los estadounidenses cuando prohibió la presentación de <BLANK> en las celebraciones del Día de la Independencia de 1983.",
+            "v": "El Secretario de Interior, James Watt, enfureció a los estadounidenses cuando prohibió la presencia de <BLANK> en las celebraciones del Día de la Independencia de 1983.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "beach boys,beachboys,rock,rock bands,rock music,rock and roll,rock ‘n roll,rock & roll",
+            "v": "beach boys,beachboys,rock,bandas de rock,música rock,rock and roll,rock ‘n roll,rock & roll",
             "n": "AlternateSpellings"
         },
         {

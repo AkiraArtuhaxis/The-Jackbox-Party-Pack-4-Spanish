@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "popping bubble wrap,visualizing fitness,playing ping pong,yodeling,pinching their fat,eating ham,chasing chickens,not eating,laughing,cuddling,baking cookies,combing their hair,drinking whole milk by the gallon,giving haircuts,telling vacation stories,playing hopscotch,yelling,doing ice sculptures",
+            "v": "reventando plástico de burbujas,visualizando la forma física,jugando tenis de mesa,cantando yodel,pellizcando la grasa,comiendo jamón,persiguiendo pollos,sin comer,riendo,acurrucándose,horneando galletas,peinándose,bebiendo leche entera a litros,cortándose el pelo,contando historias de vacaciones,jugando a la rayuela,gritando,haciendo esculturas de hielo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "dormidos",
+            "v": "dormida",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "David Lloyd Clubs presentó una nueva clase de fitness en 2017 en su local de Sidcup, Londres. Para ponerse en forma, los participantes estuvieron 45 minutos <BLANK>.",
+            "v": "David Lloyd Clubs estrenó una nueva clase de fitness en 2017 en su sede de Sidcup, Londres. Para ponerse en forma, la gente pasaba 45 minutos <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sleeping,in bed,snoozing,napping",
+            "v": "durmiendo,en la cama,dormitando,durmiendo una siesta",
             "n": "AlternateSpellings"
         },
         {

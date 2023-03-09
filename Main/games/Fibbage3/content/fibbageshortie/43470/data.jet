@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "divorce,overdose,womanizing,pyramid scheme,dysentery,shot in the street,widow,leprosy,cholera,deceitful butler,genocide,fitful spasm,dog murder,insomnia,missing child,accidental drowning,crying ghost,spontaneous combustion",
+            "v": "divorcio,sobredosis,mujeriego,esquema piramidal,disentería,disparado en la calle,viuda,lepra,cólera,mayordomo engañoso,genocidio,espasmo irregular,asesinato de perros,insomnio,niño desaparecido,ahogo accidental,fantasma llorón,combustión espontánea",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "suicida",
+            "v": "suicidio",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando Milton Bradley introdujo por primera vez en 1860 su Juego de la Vida en Casillas, los jugadores con mala suerte podían caer en una casilla <BLANK>.",
+            "v": "Cuando Milton Bradley introdujo por primera vez su Juego de la vida en casillas en 1860, los jugadores con mala suerte podían caer en una casilla de <BLANK>.",
             "n": "QuestionText"
         },
         {

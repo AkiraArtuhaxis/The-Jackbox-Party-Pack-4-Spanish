@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "murder,marry,sculpt,prank,clone,get lunch with,turn himself into,prompose to,shrink,imitate,lick,smell,rename,humiliate,take a roadtrip with,high five,eat,freeze",
+            "v": "asesinar,amenazar,esculpir,hacerle bromas,clonar,invitar a almorzar,degollar,pedirle la mano,encoger,imitar,lamer,oler,renombrar,humillar,invitarle a un viaje,chocarle los cinco,comerse,congelar",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "William Thornton era un reconocido físico y arquitecto estadounidense, pero su contribución más extraña en la historia probablemente fue su plan detallado para <BLANK> a George Washington.",
+            "v": "William Thornton fue un destacado médico y arquitecto estadounidense, pero su contribución más extraña a la historia probablemente fue su plan detallado para <BLANK> a George Washington.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "zombify,reanimate,bring back from the dead",
+            "v": "zombificar,reanimar,traer de entre los muertos",
             "n": "AlternateSpellings"
         },
         {

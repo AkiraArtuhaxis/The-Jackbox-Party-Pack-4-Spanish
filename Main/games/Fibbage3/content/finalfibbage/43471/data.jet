@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "money|goods and services,Eddie Murphy|Dan Aykroyd,blood|orange juice,Facebook likes|Twitter likes,a cow|magic beans,his voice|one day on dry land,his pants|the cop’s pants,lite syrup|real syrup,10 chickens|an iPhone,drugs|a valid driver’s license,monkey brains|room and board,bags of hair|Disneyland tickets,stolen spanish doubloons|coffee,arcade tokens|parking,pig parts|The Rock’s autograph,the Coca-Cola recipe|a hug,$1 million|a night with Demi Moore,anything|a brief moment of joy",
+            "v": "dinero|bienes y servicios,a Eddie Murphy|Will Smith,sangre|jugo de naranja,me gusta de Facebook|me gusta de Twitter,una vaca|habichuelas mágicas,su voz|un día en tierra firme,sus pantalones|los pantalones del policía,jarabe dietético|jarabe de verdad,10 pollos|un iPhone,drogas|una licencia de conducir válida,cerebros de mono|una habitación y comida,bolsas de pelo|entradas para Disneylandia,doblones españoles robados|café,fichas de arcade|un estacionamiento,partes de cerdo|el autógrafo de La Roca,la receta de la Coca-Cola|un abrazo,un millón de dólares|una noche con Demi Moore,cualquier cosa|un breve momento de felicidad",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un hombre en Ardmore, OK fue detenido en febrero de 2017 porque la policía dijo que ofrecía intercambiar <BLANK> por <BLANK>.",
+            "v": "Un hombre en Ardmore, Oklahoma, fue arrestado en febrero de 2017 porque la policía dijo que ofrecía intercambiar <BLANK> por <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "vodka|cookies,alcohol|girl scout cookies,liquor|girl scout cookies,booze|cookies",
+            "v": "vodka|galletas,alcohol|galletas de niñas exploradoras,licor|galletas de niñas exploradoras,trago|galletas",
             "n": "AlternateSpellings"
         },
         {

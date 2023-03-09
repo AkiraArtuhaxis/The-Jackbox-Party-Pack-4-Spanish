@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "beat them,get drafted,break the backboard,drink all the prison’s gatorade,boost prison morale,make them like him,screw up their gambling ring,lose the ball,try to eat the basketball,embarrass himself,start a prison league,lose weight,scuff up the court,look weird in shorts,break a dunking record,escape while everyone’s excited,draw large crowds,want to watch Space Jam afterwards",
+            "v": "lo golpearan,lo reclutaran,rompiese el tablero,se tomase toda la bebida energética de la prisión,estimulara la moral de la prisión,conviertiese a los demás como él,arruinase sus apuestas del partido,perdiese la pelota,intentase comer el balón,se avergonzara a sí mismo,empezase una liga en la prisión,perdiese peso,rayara la cancha,se viese raro con pantaloncillos,rompiese un récord de clavadas,escapase mientras todos estuviesen emocionados,trajera muchos espectadores,después quisiese ver Space Jam",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Funcionarios en la prisión de Utah le negaron el último pedido de jugar basquetbol al condenado a pena de muerte Joseph Mitchell Parsons debido a que, extrañamente, temían que <BLANK>.",
+            "v": "Funcionarios en la prisión de Utah denegaron la última voluntad al condenado a pena de muerte Joseph Mitchell Parsons de jugar baloncesto debido a que, extrañamente, temían que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "get injured,hurt himself,injure himself,suffer an injury",
+            "v": "se lastimara,se dañara,se lesionara,se lesione a sí mismo,se dañe a sí mismo,sufriera una lesión",
             "n": "AlternateSpellings"
         },
         {

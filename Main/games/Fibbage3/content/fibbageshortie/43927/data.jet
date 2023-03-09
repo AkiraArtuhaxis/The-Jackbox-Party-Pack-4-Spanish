@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Bigfoot,Vampire,Grizzly bear,Giant Rat,Yeti,Snowman,Wolfman,Hawk,republican,basketball player,nanny,garden gnome,dog,salesman,mailman,mormon,child,supermodel",
+            "v": "Pie Grande,vampiro,oso grizzly,ratón gigante,yeti,hombre de nieve,hombre lobo,halcón,republicano,jugador de baloncesto,niñero,enano de jardín,perro,vendedor,cartero,mormón,niño,supermodelo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Hombre Lagarto",
+            "v": "hombre lagarto",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En los 80 y los 90, múltiples habitantes del condado de Lee en Carolina del Sur, EEUU, afirmaron que sus autos fueron atacados y despedazados por un <BLANK> de más de dos metros.",
+            "v": "En los años 80 y los 90, varios residentes del condado de Lee, en Carolina del Sur, EE. UU., afirmaron que sus autos fueron atacados y destrozados por un <BLANK> de dos metros de altura.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Lizard-Man,lizard,lizard creature,half man half lizard",
+            "v": "Hombre lagarto,lagarto,criatura lagarto,mitad hombre mitad lagarto",
             "n": "AlternateSpellings"
         },
         {

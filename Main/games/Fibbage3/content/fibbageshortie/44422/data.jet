@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pamphlets that explain what books are,sunglasses,bread,massage tables,tiny lincoln log houses,baby ducks,goldfish,jean shorts,baseball hats,bowling balls,bumper stickers,gym clothes,coffee makers,air fresheners,pogo sticks,lollipops,silverware,shark repellant",
+            "v": "folletos que explican qué son los libros,gafas de sol,pan,camillas de masaje,casitas de troncos,patitos,peces dorados,pantalones cortos,gorras de béisbol,bolas de bolos,pegatinas de parachoques,ropa de gimnasia,cafeteras,ambientadores,palos de pogo,caramelos,cubiertos,repelente de tiburones",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "marionetas gigantes",
+            "v": "títeres gigantes",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un intento inusual de atraer a sus miembros, la biblioteca de Braddock, Pensilvania anunció en 2017 que comenzarían a alquilar <BLANK>.",
+            "v": "En un intento inusual de atraer a sus miembros, la biblioteca de Braddock, Pensilvania, anunció que en 2017 comenzarían a prestar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "puppets,pupets,puppet,pupet",
+            "v": "títeres,titeres,marionetas,marioneta,títere,titere",
             "n": "AlternateSpellings"
         },
         {

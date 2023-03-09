@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "flower pot,weak bird,boomerang,diamond ring,copper mug,flaming log,newspaper,tea kettle,soccer ball,pot of garlic,bone,big rock,school uniform,book,maid,violin,grandfather,wooden leg",
+            "v": "un florero,un pájaro débil,un bumerán,un anillo de diamantes,una taza de cobre,un palo ardiendo,un periódico,una tetera,un balón de fútbol,una olla de ajo,un hueso,una gran roca,un uniforme escolar,un libro,una criada,un violín,un abuelo,una pierna de madera",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Heev Hogh",
+            "v": "Hechar de la casa",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "potato",
+            "v": "una papa",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un sabio dicho ruso sobre asuntos del corazón se traduce como \"El amor no es un <BLANK>; no se puede arrojarlo por la ventana.\"",
+            "v": "Un sabio dicho ruso sobre los asuntos del corazón se traduce como \"El amor no es <BLANK>; no puedes tirarlo por la ventana\".",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "people in Finland and California,bottles of mustard,countries,diseases,books,tv shows,video games,cakes,planes,boats,Walmarts,Mcdonalds,clocks,soccer fans,professors,musicians,skyscrapers,rats",
+            "v": "personas en Finlandia y California,frascos de mostaza,países,enfermedades,libros,series de TV,videojuegos,tortas,aviones,botes,Walmarts,McDonald's,relojes,fanáticos de fútbol,profesores,músicos,rascacielos,ratas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Estudios",
+            "v": "estudios",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Extrañamente, un estudio de 2015 realizado por profesores en Finlandia y California llegó a la conclusión de que hay demasiados <BLANK>.",
+            "v": "Curiosamente, un estudio realizado en 2015 por profesores de Finlandia y California llegó a la conclusión de que hay un exorbitante número de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "studys",
+            "v": "Estudios",
             "n": "AlternateSpellings"
         },
         {

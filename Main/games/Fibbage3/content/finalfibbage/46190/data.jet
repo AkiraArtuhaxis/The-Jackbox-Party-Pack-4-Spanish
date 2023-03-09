@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a baby chick|mouth,a cockroach|ear,a fly|soup,a Cheeto|nostril,a Lincoln impersonator|trunk,a Bible|butt,Ferrero Rocher|eye socket,a stick of dynamite|hair,a Chumbawamba CD|stereo,a king cobra|glovebox,a baby tiger|trunk,a picture of the cop|half of the amulet,a bag of Pop Rocks|underwear,a gallon of beer|gas tank,Doritos|CD player,human flesh|teeth,gall stones|necklace,pieces of the Berlin Wall|ponytail",
+            "v": "un pollito|boca,una cucaracha|oreja,una mosca|sopa,un Cheeto|fosa nasal,a un imitador de Lincoln|maletero,una biblia|trasero,un Ferrero Rocher|cuenca del ojo,un cartucho de dinamita|pelo,un CD de Chumbawamba|radio,una cobra rey|caja de guantes,un tigre bebé|maletero,una foto del policía|la mitad del amuleto,una bolsa de papas fritas|ropa interior,medio litro de cerveza|tanque de gasolina,Doritos|reproductor de CD,carne humana|diente,cálculos biliares|collar,trozos del Muro de Berlín|cola de caballo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando la policía de Taunton, Massachusetts arrestó a una mujer por conducir bajo la influencia en mayo de 2017, descubrieron que tenía <BLANK> en su <BLANK>.",
+            "v": "Cuando la policía de Taunton, Massachusetts, arrestó a una mujer por conducir ebria en mayo de 2017, descubrieron que tenía <BLANK> en su <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a bearded dragon|bra,lizard|bra",
+            "v": "una iguana|sostén,lagarto|sostén",
             "n": "AlternateSpellings"
         },
         {

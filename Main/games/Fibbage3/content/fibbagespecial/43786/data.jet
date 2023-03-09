@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "revenge,dogs,summer rain,angry emails,hot milk,goat spit,lava,shoes,dead spiders,vicious birds,frozen rain,gutter water,dog’s breath,sour milk,enemy arrows,boxed wine,sorrow,gravy",
+            "v": "venganza,perros,lluvia de verano,correos enfadados,leche caliente,saliva de cabra,lava,zapatos,arañas muertas,pájaros viciosos,lluvia congelada,agua de alcantarilla,aliento de perro,leche agria,flechas enemigas,vino en caja,pena,salsa",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si quieres utilizar la versión rusa de la frase “Se recoge de lo que se siembra\", dirías \"El gato acabará eventualmente en una lluvia de <BLANK>.\"",
+            "v": "Si quisieras utilizar la versión rusa de la frase \"Todo cae por su propio peso\", dirías \"Al gato le acabará cayendo un diluvio de <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mice tears,mice teardrops,mice’s teardrops,mouse tears,mouse teardrops,mouse’s tears,mouse’s teardrops,rat tears,rat teardrops,rat’s teardrops,rat’s tears",
+            "v": "lágrimas roedoras,lágrimas de ratas,lágrimas de ratón,lágrimas de rata",
             "n": "AlternateSpellings"
         },
         {

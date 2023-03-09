@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "frying chicken,water,yawning,snoring,using air quotes,haircuts,eye rolling,daydreaming,singing in falsetto,Canadians,maple syrup,napping,knock knock jokes,encyclopedias,carrots,speaking English,nose picking,pig wrestling",
+            "v": "freír pollo,el agua,bostezar,roncar,usar comillas de aire,los cortes de pelo,poner los ojos en blanco,soñar despierto,cantar en falsete,a los canadienses,el jarabe de arce,la siesta,los chistes de \"tu mamá\",las enciclopedias,las zanahorias,hablar inglés,hurgarse la nariz,luchar con cerdos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tirar onda",
+            "v": "coquetear",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1902, el miembro de la Asamblea de Nueva York Francis G. Landon introdujo un proyecto de ley que haría ilegal <BLANK>.",
+            "v": "En 1902, el asambleísta del estado de Nueva York Francis G. Landon presentó un proyecto de ley que penalizaría <BLANK>.",
             "n": "QuestionText"
         },
         {

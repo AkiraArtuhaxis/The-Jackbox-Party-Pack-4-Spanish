@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "straws,radios,breath fresheners,flashlights,floss dispensers,tasers,pistols,soap dispensers,phone chargers,appetite suppressants,bug repellent,Axe Body Sprayers,screwdrivers,vampire fangs,whistles,tongue scrapers,pain killers,nail clippers",
+            "v": "pajillas,radios,refrescadores de aliento,linternas,dispensadores de hilo dental,pistolas eléctricas,pistolas,dispensadores de jabón,cargadores de teléfonos,supresores del apetito,repelente de insectos,rociadores corporales Axe,destornilladores,colmillos de vampiro,silbatos,raspadores de lengua,analgésicos,cortaúñas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "abrebotellas de cerveza",
+            "v": "destapador de cerveza",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "bottle openers,beer openers,beer bottle opener,beer bttle openers,beer bottle opuners,beer bottle openurs,beer-bottle openers,beer bottle-openers",
+            "v": "destapadores,destapadores de botella,destapadores de cerveza,abrebotellas",
             "n": "AlternateSpellings"
         },
         {

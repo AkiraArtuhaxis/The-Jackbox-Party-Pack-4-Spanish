@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "illegal cloning,poaching,driving a Prius drunk,quoting Austin Powers,littering,starting a cult,improper recylcing,accidental cannibalism,starting forest fire,starting a ponzi scheme,spray painting trees,dumping jet fuel into a creek,clubbing a seal,public urination,knocking over a redwood,improper tie dying,tax evasion on a commune,not bathing",
+            "v": "clonación ilegal,caza furtiva,conducir borracho,citar a Austin Powers,tirar basura donde no corresponde,iniciar una secta,reciclaje inadecuado,canibalismo accidental,iniciar un incendio forestal,iniciar un esquema ponzi,pintar árboles con aerosol,verter combustible de aviación en un arroyo,apalear a una foca,orinar en público,derribar una secuoya,usar una corbata horrible,evasión de impuestos,no bañarse",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El cofundador del Día de la Tierra, y maestro de ceremonias en la primera marcha del Día de la Tierra, fue arrestado más tarde por <BLANK>.",
+            "v": "El cofundador del Día de la Tierra, y maestro de ceremonias de la primera manifestación del Día de la Tierra, fue arrestado posteriormente por <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "killing his girlfriend,murdering his girlfriend,murder,killing and composting his girlfriend",
+            "v": "matar a su novia,asesinar a su novia,asesinar,matar y compostar a su novia",
             "n": "AlternateSpellings"
         },
         {

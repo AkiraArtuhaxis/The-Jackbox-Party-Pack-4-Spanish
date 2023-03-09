@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dump truck,game show,cow,large pizza,roll of bubble wrap,volcano,large picture of Boris Johnson,haunted train,white castle,spaceship,construction site,dare,jet ski,leap year,pizza hut roof,active fault line,dinosaur,web cam",
+            "v": "un camión volquete,un programa de juegos,una vaca,una pizza grande,un rollo de papel de burbujas,un volcán,una foto grande de Boris Johnson,un tren fantasma,un castillo blanco,una nave espacial,un sitio de construcción,una apuesta,un jet ski,un año bisiesto,un techo de Pizza Hut,una línea de falla activa,un dinosaurio,una cámara web",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "megabus",
+            "v": "un megabus",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Perdiste la oportunidad de participar en los sorteos de “Cásate conmigo en un <BLANK>” de 2017.",
+            "v": "Perdiste la oportunidad de participar en el sorteo “Cásate conmigo en <BLANK>” de 2017.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mega bus,bus",
+            "v": "un mega bus,un bus",
             "n": "AlternateSpellings"
         },
         {

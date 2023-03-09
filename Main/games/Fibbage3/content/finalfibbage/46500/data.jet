@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "skull|a real Pikachu,Origin|the Ninja Turtles,seeds|a living tree monster,weirdest|warts,tongue|the first auctioneer,Duke|Cats,ghost|Colonel Sanders,Sport|Kings,footprint|a dinosaur-human hybrid,last of|the mohicans,only photo|Santa,beard|a viking,track|the moon beast,coolest|dudes,proof|fairies,world’s rudest|monkey,bucket|holy tears,cadillac|cars",
+            "v": "cráneos|un Pikachu de verdad,orígenes|las Tortugas Ninja,simientos|un monstruo arbóreo viviente,más raros|los enanos,labios|el primer subastador,duques|los gatos,fantasmas|el Coronel Sanders,deportes|los reyes,rastros|un híbrido dinosaurio-humano,últimos|los mohicanos,únicos registros|Papá Noel,pelos de barba|un vikingo,rastros|la bestia lunar,tipos|mejor actitud,documentos|la existencia de las hadas,monos más grosero|el mundo,baldes|lágrimas sagradas,autos|los Supersónicos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si coordinaras un encuentro en el templo Ryuguji en Fukuoka, Japón, verías lo qué una leyenda local dice que son los <BLANK> de <BLANK>.",
+            "v": "Si programaras una cita en el templo Ryuguji en Fukuoka, Japón, verías lo que una leyenda local afirma que son los <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "bone|a mermaid,bones|mermaids,skeleton|a mermaid,bone|mermaid",
+            "v": "hueso|una sirena,huesos|sirenas,esqueleto|una sirena,hueso|sirena",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "organ donor,cadaver,cyborg,pink eye,werewolf,Virgin Mary,sausage-scented,grave digger,Meredith Viera,self-immolation,retired,Anjelica Huston,battle scarred,dystopian future,generalized anxiety,irritable bowel syndrome,vomiting,Wolverine",
+            "v": "donante de órganos,cadáver,ciborg,conjuntivitis,hombre lobo,Virgen María,con olor a salchicha,sepulturera,Meredith Viera,autoinmolación,jubilada,Anjelica Huston,cicatrices de batalla,futuro distópico,ansiedad generalizada,síndrome del intestino irritable,vómitos,Wolverine",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En la sexagésima Feria Internacional del Juguete de Núremberg, Mattel presentó una particular variante de un juguete clásico: la Barbie edición especial de <BLANK>.",
+            "v": "En la 60ª Feria Internacional del Juguete de Núremberg, Mattel presentó una extraña variante de un juguete clásico: la edición especial de Barbie <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Angella Merkel,Chancellor of Germany",
+            "v": "Angella Merkel,Canciller de Alemania",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "50 Shades of Grey,DMV,toilet paper,hold music,mayonnaise,style of jazz,CBS sitcom,khaki pant,life,colonoscopy  camera,mouse trap,vasectomy,guillotine,strain of malaria,NPR,Batman,toilet seat,pair of Crocs",
+            "v": "Cincuenta sombras de Grey,un Departamento de vehículos motorizados,un papel higiénico,una música de espera,una mayonesa,un estilo de jazz,una comedia de situación de la CBS,un pantalón caqui,una vida,una cámara de colonoscopia,una trampa para ratones,una vasectomía,una guillotina,una cepa de malaria,una radio nacional,un Batman,un asiento de inodoro,un par de sandalias",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "preservativo",
+            "v": "un condón",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2013, la Fundación Bill y Melinda Gates ofreció 100 mil dólares para que alguien inventara un <BLANK> más agradable.",
+            "v": "En 2013, la Fundación Bill y Melinda Gates ofreció 100 mil dólares para que alguien inventara <BLANK> más agradable.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "contraceptive",
+            "v": "anticonceptivo",
             "n": "AlternateSpellings"
         },
         {

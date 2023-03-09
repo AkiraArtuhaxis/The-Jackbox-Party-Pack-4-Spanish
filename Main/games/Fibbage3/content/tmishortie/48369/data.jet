@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Star Wars VIII,Zapatos gratis,un autógrafo de La Roca,tickets a la gran final,una audición de La Voz,seguridad del aeropuerto,tickets para Lady Gaga",
+            "v": "La guerra de las galaxias VIII,zapatos gratis,un autógrafo de La Roca,entradas a la gran final,una audición de TV,seguridad del aeropuerto,entradas para Lady Gaga",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "La fila más larga en la que estuviste parado fue para <BLANK>.",
+            "v": "La fila más larga en la que has estado fue para <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La fila más larga en la que <PLAYER> estuvo parado fue para <BLANK>.",
+            "v": "La fila más larga en la que <PLAYER> estuvo fue para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La fila más larga en la que <PLAYER> estuvo parado fue para <BLANK>.",
+            "s": "[category=host]The longest line <PLAYER> has stood in was for <BLANK>.",
             "t": "A",
             "v": "685047_0",
             "n": "QuestionAudio"

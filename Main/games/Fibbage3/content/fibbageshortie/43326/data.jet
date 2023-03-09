@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a coughing fit,a new table delivered,a leg cramp,his fortune read,deja vu,a phone call from the past,an inhaler malfunction,his blood cycled,50 McNuggets,his 90th birthday,his tonsils taken out,temporary blindness,his car stolen,the same thing happen the day before,a 20 hour nap,surfing lessons,an entire White Castle Crave Case,an angry call with Comcast",
+            "v": "un ataque de tos,una entrega de mesa,un calambre en la pierna,su lectura de la fortuna,un déjà vu,una llamada telefónica del pasado,una avería en el inhalador,una donación de sangre,que comer 50 McNuggets,su cumpleaños 90,una operación para sacarle las amígdalas,ceguera temporal,su auto robado,la misma experiencia el día anterior,una siesta de 20 horas,clases de surf,una caja entera de White Castle Crave,una llamada furiosa con Comcast",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El ex-jugador de las Grandes Ligas de Béisbol Glenallen Hill una vez se lastimó al caer en una mesa de vidrio. Estaba desorientado, porque había tenido recientemente <BLANK>.",
+            "v": "El ex jugador de las Grandes Ligas de Béisbol Glenallen Hill una vez se lastimó al caer en una mesa de vidrio. Estaba desorientado, porque recientemente había tenido <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a nightmare,a night mare,a dream,a bad dream,a bad dreams,a scary dream,scary dreams,a dream about spiders",
+            "v": "una pesadilla,pesadilla,un sueño,un mal sueño,malos sueños,un sueño terrible,sueños terribles,un sueño sobre arañas",
             "n": "AlternateSpellings"
         },
         {

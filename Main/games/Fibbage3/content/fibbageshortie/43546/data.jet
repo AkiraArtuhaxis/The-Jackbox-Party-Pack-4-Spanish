@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "librarian,high school kid,stunt artist,dumb scientist,magician,professional dancer,Tom Hanks impersonator,birthday clown,brain surgeon,car wash owner,dishwasher,circus acrobat,Twitch streamer,high school quarterback,child,dog walker,dog,construction worker",
+            "v": "bibliotecario,niño de secundaria,artista de acrobacias,científico tonto,mago,bailarín profesional,doble de Tom Hanks,payaso,neurocirujano,propietario de un lavadero de autos,lavavajillas,acróbata de circo,streamer de Twitch,mariscal de campo de la secundaria,niño,paseador de perros,perro,trabajador de la construcción",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "custodian",
+            "v": "portero",
             "n": "AlternateSpellings"
         },
         {

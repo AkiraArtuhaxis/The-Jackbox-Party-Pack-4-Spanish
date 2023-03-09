@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Stormy Eyes,Wacky Wind,No Blowin’,Hurrican’t,Cyclo-Nope,Passing Wind,Anti-Breeze,Weird Weather,Boring Earth,Bad Day for Sailing,Motion of the Ocean,Flannel Earth,Cheeky Moon,Sunday Sundae,Chunky Air,Chapped Lips,Quiet Night,Funky Breeze",
+            "v": "los ojos tormentosos,el viento chiflado,la ausencia de soplido,el huracán,el ciclo-nop,el viento pasajero,la anti-brisa,el tiempo raro,la Tierra aburrida,el mal día para navegar,el movimiento del océano,la Tierra de franela,la Luna descarada,el domingo dominical,el aire robusto,los labios agrietados,la noche tranquila,la brisa ondera",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "La bola peluda",
+            "v": "la bola peluda",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Existe un teorema algebraico que, cuando se aplica a la meteorología, sugiere que debe haber un punto en la Tierra sin viento. El extraño nombre de esta idea es el teorema de <BLANK>.",
+            "v": "Existe un teorema algebraico que, cuando se aplica a la meteorología, sugiere que debe haber un punto en la Tierra sin viento. El extraño nombre de esta idea es el Teorema de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "harry ball,ball hair,hairy balls,harry balls",
+            "v": "bola peluda,bola de pelos,bolas peludas,bolas de pelo",
             "n": "AlternateSpellings"
         },
         {

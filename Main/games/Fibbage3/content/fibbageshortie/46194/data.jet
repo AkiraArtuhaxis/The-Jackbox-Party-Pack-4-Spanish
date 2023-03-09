@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "parrots,their voices,a map,underwear,a first mate,spoons,rum,toilet paper,a used peg leg,their poop deck,their names,the candles,the guard dogs,bananas,oranges,butter,hook hands,sitcom ideas",
+            "v": "loros,sus voces,un mapa,ropa interior,un primer oficial,cucharas,ron,papel higiénico,una pata de palo usada,su cubierta de popa,sus nombres,las velas,el perro guardián,plátanos,naranjas,mantequilla,manos de garfio,ideas de programas de televisión",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una vez, el legendario pirata Benjamin Hornigold se apoderó de una nave en la costa de Honduras, pero en lugar de reclamar el barco o su carga, solo se robó <BLANK>.",
+            "v": "Una vez, el legendario pirata Benjamin Hornigold se apoderó de una nave frente a las costas de Honduras, pero en lugar de reclamar el barco o su carga, solo se robó <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "their hats,some hats",
+            "v": "sus sombreros,algunos sombreros",
             "n": "AlternateSpellings"
         },
         {

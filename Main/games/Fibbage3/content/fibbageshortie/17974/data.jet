@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "gun,pipe,white flag,letter,wig,shot off leg,tea,pantaloons,arrow,shoe,parrot,fake mole,cannon,shirt,bathtub,desk chair,pen,violin",
+            "v": "arma,pipa,bandera blanca,carta,peluca,pierna disparada,té,pantalón,flecha,zapato,loro,lunar falso,cañón,camiseta,bañera,silla de escritorio,lápiz,violín",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante una importante batalla de la Guerra Revolucionaria, George Washington ordenó un alto al fuego con el fin de regresarle a un General Británico su <BLANK>.",
+            "v": "Durante una importante batalla de la Guerra Revolucionaria, George Washington ordenó un alto al fuego con el fin de regresarle su <BLANK> a un general británico.",
             "n": "QuestionText"
         },
         {

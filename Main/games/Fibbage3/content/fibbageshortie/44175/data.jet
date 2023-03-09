@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Fried Sushi,Cubic Watermelon,Rat Tails,Reindeer,Wasabi Beer,Octopus Ice Cream,Canned Bread,Placenta Jelly,Chocolate Frogs,Dried Crab,Placenta,Squid,Taco Bell,meatloaf,santa-shaped pizza,misletoe pudding,reindeer hooves,egg nog gravy",
+            "v": "sushi frito,sandía cúbica,colas de rata,reno,cerveza de wasabi,helado de pulpo,pan enlatado,jalea de placenta,ranas de chocolate,cangrejo seco,placenta,calamar,Taco Bell,pastel de carne,pizza en forma de Papá Noel,pudín de muérdago,pezuñas de reno,salsa de ponche de huevo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pollo frito",
+            "v": "Pollo KFC",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante la última década ha surgido una tradición navideña particular en Japón. Más de tres millones de personas comen <BLANK> en Navidad.",
+            "v": "En la última década, Japón ha desarrollado una tradición navideña única. Más de tres millones de personas comen <BLANK> en Navidad.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "KFC,Kentucky Fried Chicken",
+            "v": "KFC,Pollo Frito Kentucky,Kentucky Fried Chicken,pollo frito",
             "n": "AlternateSpellings"
         },
         {

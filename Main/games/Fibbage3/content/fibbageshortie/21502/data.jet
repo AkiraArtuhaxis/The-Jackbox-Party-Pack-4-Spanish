@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "best friend,underwear,fruit cozy,pants,hammock,wedding dress,parachute,portrait of Pearl Harbor,skinny jeans,voodoo dolls,Mona Lisa,lingerie,diapers,Avengers,Death Star,diploma,coffin,noose",
+            "v": "mejor amiga,ropa interior,fruta acogedora,pantalón,hamaca,vestido de boda,paracaídas,retrato de Pearl Harbor,pantalón ajustado,muñeco vudú,Mona Lisa,lencería,pañal,Vengador,Estrella de la muerte,diploma,ataúd,lazo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dale una mirada al libro de la experta tejedora británica Geraldine Warner, titulado <i>Teje tu propio<\/i> <BLANK>.",
+            "v": "Dale una mirada al libro de la experta tejedora británica Geraldine Warner, titulado <i>Teje tu<\/i> <BLANK>.",
             "n": "QuestionText"
         },
         {

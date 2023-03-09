@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las lesiones más extrañas qué te ha afligido involucró <BLANK>.",
+            "v": "Una de las lesiones más extrañas que has tenido involucró <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las lesiones más extrañas que ha afligido a <PLAYER> involucró <BLANK>.",
+            "v": "Una de las lesiones más extrañas que ha tenido <PLAYER> involucró <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una de las lesiones más extrañas que ha afligido a <PLAYER> involucró <BLANK>.",
+            "s": "[category=host]One of the weirdest injuries <PLAYER> ever had involved <BLANK>.",
             "t": "A",
             "v": "611615_0",
             "n": "QuestionAudio"

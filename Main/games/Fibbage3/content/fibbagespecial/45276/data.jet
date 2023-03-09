@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bug orgy,crazy concert,massage parlor,world’s butt,stupid place,angry toilet,lazy man’s lap,wacky gladiator,nightmare play,torture pit,petting zoo,angry insects,werewolf kindergarten,public transportation,goofy circus,madam’s whim,Kafka pit,ooze crater",
+            "v": "la orgía de insectos,el concierto loco,el salón de masajes,el culo del mundo,el lugar estúpido,el inodoro enfadado,el regazo del perezoso,el gladiador chiflado,la obra de pesadilla,el foso de tortura,el zoológico de mascotas,los insectos enfadados,el jardín de infancia del hombre lobo,el transporte público,el circo bobalicón,el capricho de la señora,el foso de Kafka,el cráter rezumante",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Aduana vampira",
+            "v": "los impuestos vampiros",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El título de esta interesante obra de arte es <i>Las personas entregadas a la <BLANK><\/i>.",
+            "v": "El título de esta interesante obra de arte es <i>El pueblo entregado a <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {

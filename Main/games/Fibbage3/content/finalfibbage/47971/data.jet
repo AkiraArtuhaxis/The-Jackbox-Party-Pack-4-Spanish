@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eat|deep dish pizza,win|hot dog eating contest,sculpt|statue,remove|splinter,write|screenplay,play|one man band,Jump on|trampoline,bake|cake,win|spelling bee,fake|magic trick,improvise|one woman show,finish|sudoku puzzle,type|paper on bees,grill|brat,perfectly wrap|bean burrito,drink|gallon of milk,list|mattress on craigslist,change|tire",
+            "v": "comer|pizza gigante,ganar|competencia de comer perritos calientes,esculpir|estatua,quitar|astilla,escribir|película,tocar|gaita,saltar en|cama elástica,hornear|torta,ganar|competencia de deletreo,actuar|obra de teatro completa,improvisar|interpretación de Juana de Arco,resolver|interrogante,escribir|investigación sobre las abejas,asar|carne,envolver perfectamente|humita,beber|botella de 5 litros de leche,vender|cama en eBay,cambiar|llanta",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 16 de abríl de 2007, la astronauta Sunita Williams se convirtió en la primera persona en <BLANK> una <BLANK> en el espacio.",
+            "v": "El 16 de abril de 2007, la astronauta Sunita Williams se convirtió en la primera persona en <BLANK> una <BLANK> en el espacio.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "finish|marathon,complete|marathon",
+            "v": "terminar|maratón,completar|maratón,finalizar|maratón",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "encuerado,Dr. Negocios,gangsta,El Gorrión,hurón,Águila,amargo",
+            "v": "encuerado,Dr. Negocios,gángster,gorrión,hurón,águila,amargo",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Tu apodo presidencial sería <BLANK>.",
+            "v": "Tu nombre en clave como presidente sería <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El apodo presidencial de <PLAYER> sería <BLANK>.",
+            "v": "El nombre en clave como presidente de <PLAYER> sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El apodo presidencial de éste jugador sería <BLANK>.",
+            "s": "[category=host]This player’s presidential code name would be <BLANK>.",
             "t": "A",
             "v": "567465_0",
             "n": "QuestionAudio"

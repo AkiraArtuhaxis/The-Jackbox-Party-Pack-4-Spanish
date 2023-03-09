@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a skydiving instructor,a rodeo star,a bull rider,allowed into six flags,a gas station attendant,a contestant on Top Chef,a circus clown,a licensed ventriloquist,a Rockette,considered popular,a Tilt-a-Whirl operator,a sushi chef,a member of Congress,a jockey,a sewer inspector,a spelunker,born,a crab boat captain",
+            "v": "instructor de paracaidismo,estrella del rodeo,jinete de toros,admitido en Six Flags,empleado de gasolinera,concursante de Top Chef,payaso de circo,ventrílocuo con licencia,bailarina,considerado popular,operador de atracciones,chef de sushi,miembro del Congreso,jockey,inspector de alcantarillado,espeleólogo,bebé,capitán de barco cangrejero",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Solo puedes medir hasta 1 metro noventa si quieres ser <BLANK> en Estados Unidos.",
+            "v": "La altura máxima es de 190 centímetros si quieres ser <BLANK> en los Estados Unidos.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a astronaut,astronaut",
+            "v": "un astronauta,hastronauta",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "water conservation,golf,Will Smith movies,Dragonball Z,David Beckham,expensive Meat,American Football,Katie Holmes,firefighters in Madrid,Microbiology,Sports in the Middle Ages,Time Travel,bold haircuts throughout history,standup comedy,hot sauce,his eighth grade teacher,The Ramones,a dog he saw one time",
+            "v": "la conservación del agua,el golf,las películas de Will Smith,Dragon Ball Z,David Beckham,la carne cara,el fútbol americano,Pelé,los bomberos de Madrid,la microbiología,los deportes en la Edad Media,los viajes en el tiempo,los cortes de pelo atrevidos a lo largo de la historia,comedia de monólogos,la salsa picante,su profesor de educación física,The Ramones,un perro que vio una vez",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Cristiano Ronaldo",
+            "v": "él mismo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2013, la estrella internacional de fútbol Cristiano Ronaldo abrió un museo en Portugal dedicado a <BLANK>.",
+            "v": "En 2013, la estrella internacional de fútbol Cristiano Ronaldo inauguró un museo en Portugal dedicado a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Cristiano Ronaldo,Ronaldo",
+            "v": "Cristiano Ronaldo,Cristiano,Ronaldo",
             "n": "AlternateSpellings"
         },
         {

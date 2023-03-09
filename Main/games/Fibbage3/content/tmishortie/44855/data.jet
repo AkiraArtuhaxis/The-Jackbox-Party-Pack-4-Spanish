@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "más deseos,paz mundial,un nuevo presidente,inmortalidad,garantizar el fracaso de mis enemigos,panqueques,dinero ilimitado",
+            "v": "más deseos,la paz mundial,un nuevo presidente,inmortalidad,garantizar el fracaso de mis enemigos,panqueques,dinero ilimitado",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si tuvieras tres deseos, seguramente gastarías uno en <BLANK>.",
+            "v": "Si tuvieras tres deseos, probablemente gastarías uno en <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> tuviera tres deseos, seguramente gastaría uno en <BLANK>.",
+            "v": "Si <PLAYER> tuviera tres deseos, probablemente gastaría uno en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si éste jugador tuviera tres deseos, seguramente gastaría uno en <BLANK>.",
+            "s": "[category=host]If this player had three wishes, they’d probably spend one on <BLANK>.",
             "t": "A",
             "v": "599277_1",
             "n": "QuestionAudio"

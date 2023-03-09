@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Julia Child recipes,Emily Dickinson poems,Bob Dylan lyrics,Gary Larson doodles,photos of Ben Franklin’s feet,penguin feathers,Will Smith quotes,the plans for Fonzie’s motorcycle,forgotten curse words,smells of Utah,rejected Budweiser recipes,colors that aren’t quite purple,words that rhyme with orange,actor’s lines from Spaceballs,carpet samples,nude drawings of Adlai Stevenson,Richard Nixon’s bowling scores,Kid Rock lyrics",
+            "v": "recetas de Julia Child,poemas de Emily Dickinson,letras de Bob Dylan,garabatos de Gary Larson,fotos de los pies de Benjamin Franklin,plumas de pingüino,citas de Will Smith,planos de la moto de Fonzie,palabrotas olvidadas,olores de Utah,recetas de Budweiser rechazadas,colores que no son del todo morados,palabras que riman con \"orange\",frases de actores de Spaceballs,muestras de alfombras,dibujos de Adlai Stevenson desnudo,puntuaciones de Richard Nixon en los bolos,letras de Kid Rock",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Chistes de Phyllis Diller",
+            "v": "chistes de Phyllis Diller",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Phylis Diller jokes,Phyllis Diler jokes,Phyllis Diller gags",
+            "v": "chistes de Phylis Diller,chistes de Phyllis Diler,bromas de Phyllis Diller",
             "n": "AlternateSpellings"
         },
         {

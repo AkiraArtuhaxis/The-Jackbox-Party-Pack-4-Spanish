@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "volver a ver The Wire,escribir poesía,tomar lecciones de piano,comprar acciones,agradecer mis bendiciones,abrazar a todo perro en mi camino,dormir una siesta",
+            "v": "volver a ver La naranja mecánica,escribir poesía,tomar clases de piano,comprar acciones,agradecer mis bendiciones,abrazar a todos los perros,dormir una siesta",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Quieres <BLANK> pero no te dá el tiempo.",
+            "v": "Quieres <BLANK> pero no tienes tiempo.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "<PLAYER> quiere <BLANK> pero no le da el tiempo.",
+            "v": "<PLAYER> quiere <BLANK> pero no tiene tiempo.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> quiere <BLANK> pero no le da el tiempo.",
+            "s": "[category=host]<PLAYER> wants to <BLANK> but they don’t have time.",
             "t": "A",
             "v": "634082_1",
             "n": "QuestionAudio"

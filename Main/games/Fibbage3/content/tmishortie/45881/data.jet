@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "a que éste juego termine,comida,temporada de frutillas,a que vuelva la buena televisión,Half Life 3,otra película de Transformers,el próximo proyecto de Kid Rock",
+            "v": "a que termine este juego,comida,temporada de frutillas,a que vuelva la buena televisión,Half Life 3,otra película de Transformers,el próximo proyecto de Johnny Depp",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo que esperaste lleno de ansiedad?",
+            "v": "¿Qué estás esperando ansiosamente?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> está esperando ansiosamente <BLANK>.",
+            "s": "[category=host]<PLAYER> is anxiously waiting for <BLANK>.",
             "t": "A",
             "v": "629094_0",
             "n": "QuestionAudio"

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Hotel para perros,Batman vs Superman,Gigoló por accidente 2,La boda de mi mejor amigo,American Pie 3 o 4 o la que sea,Assassin\u2019s Creed,Un jefe en pañales",
+            "v": "Hotel para perros,Batman vs Superman,Gigoló por accidente 2,La boda de mi mejor amigo,American Pie 3 o 4 o la que sea,Assassin’s Creed,Un jefe en pañales",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la peor película a la que pagaste para ver en el cine?",
+            "v": "¿Cuál es la peor película que pagaste para ver en el cine?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La peor película en la que <PLAYER> gastó una entrada fue <i><BLANK><\/i>.",
+            "v": "La peor película por la que <PLAYER> pagó dinero para ver en el cine fue <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La peor película en la que <PLAYER> gastó una entrada fue <BLANK>.",
+            "s": "[category=host]The worst movie <PLAYER> paid money to see in theaters was <BLANK>.",
             "t": "A",
             "v": "687555_0f",
             "n": "QuestionAudio"

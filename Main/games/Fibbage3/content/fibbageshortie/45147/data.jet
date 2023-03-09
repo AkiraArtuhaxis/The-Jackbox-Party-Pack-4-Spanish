@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Lame,Cruel,Impotent,Flatulent,Goof,Drunk,Stutterer,Clumsy,Jerk,Shy Guy,Doofus,Belcher,Ignorant,Nauseous,Jester,Dancer,Sassy,Non-King",
+            "v": "Aburrido,Cruel,Impotente,Flatulento,Bobo,Ebrio,Tartamudo,Torpe,Idiota,Tímido,Bobalicón,Barrera,Ignorante,Nauseabundo,Bufón,Bailarín,Descarado,No rey",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "slobber,slobbering,foamer,spitter",
+            "v": "Bavoso,Vaboso,Espumante,Escupidor",
             "n": "AlternateSpellings"
         },
         {

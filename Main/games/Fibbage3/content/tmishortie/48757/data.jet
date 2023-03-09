@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "salas de escape,fidget spinners,arte con frutas,hashtags de casamiento,skinny jeans,decir \u201chace swipe para arriba\u201d,cabinas telefónicas graciosas",
+            "v": "salas de escape,fidget spinners,arte con frutas,hashtags de casamiento,vaqueros pitillo,decir “cringe”,cabinas fotográficas extravagantes",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es una tendencia que desearías que se vaya para siempre?",
+            "v": "¿Cuál es la tendencia que desearías que desapareciera para siempre?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La tendencia que <PLAYER> desearía que se vaya para siempre es <BLANK>.",
+            "v": "La tendencia que <PLAYER> desearía que se desapareciera para siempre es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La tendencia que <PLAYER> desearía que se vaya para siempre es <BLANK>.",
+            "s": "[category=host]The one trend <PLAYER> wishes would go away forever is <BLANK>.",
             "t": "A",
             "v": "696520_0",
             "n": "QuestionAudio"

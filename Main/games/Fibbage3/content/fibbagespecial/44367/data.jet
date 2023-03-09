@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a whale’s majesty,brunch,buffets,Belgian waffles,marching bands,cheap coffee,homemade soda,Simpsons references,The Hunger Games,butt tattoos,Lenny Kravitz,Batman,socks,juice cleanses,Dora the Explorer,garden gnomes,coloring books,Skittles",
+            "v": "la majestuosidad de una ballena,el desalmuerzo,el autoservicio,los waffles belgas,las bandas de metal,el café barato,los refrescos caseros,las referencias a Los Simpson,Los juegos del hambre,los tatuajes en los culos,Lenny Kravitz,Batman,los calcetines,las limpiezas a base de jugos,Dora la exploradora,los duendes de jardín,los libros para colorear,el chocolate con menta",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "senos",
+            "v": "las tetas de lado",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "José Canseco tuiteó: \"Abrumado por <BLANK>\"",
+            "v": "José Canseco tuiteó: \"abrumado por <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sideboob,side boob,side boobs",
+            "v": "teta de lado,tetas laterales,teta lateral",
             "n": "AlternateSpellings"
         },
         {

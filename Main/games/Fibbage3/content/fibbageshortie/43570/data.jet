@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "basketball,croquet,charades,bocce ball,Quiplash,Cards Against Humanity,duck duck goose,gin rummy,poker,Monty Python albums,Never Have I Ever,truth or dare,darts,Minecraft,volleyball,chess,operation,werewolf",
+            "v": "baloncesto,croquet,mímicas,bochas,Quiplash,Cartas contra la humanidad,pato pato ganso,gin rummy,póquer,Age of Empires II,yo nunca,verdad o reto,dardos,Minecraft,vóleibol,ajedrez,Operando,mafia",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El duque de York reveló que a la familia real no se le permite jugar <BLANK> porque se vuelve \"demasiado salvaje\".",
+            "v": "El duque de York reveló que a la familia real no se le permite jugar <BLANK> porque se vuelve \"demasiado vicioso\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a game of Monopoly",
+            "v": "un juego de Monopoly",
             "n": "AlternateSpellings"
         },
         {

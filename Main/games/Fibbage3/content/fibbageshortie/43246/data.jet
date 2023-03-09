@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pop singer,wind instrument,style of dress,carpet cleaner,ballet school,togetherness festival,cat,train,convenience store,puppet show host,brand of lipstick,coffee drink,soap opera,casino,flower,good luck spirit,hand lotion,plumber",
+            "v": "un cantante de pop,un instrumento de viento,un estilo de vestir,una limpiadora de alfombras,una escuela de ballet,un festival de la unión,un gato,un tren,una tienda,un presentador de espectáculos de títeres,una marca de lápiz labial,una bebida de café,una telenovela,un casino,una flor,un espíritu de la buena suerte,una crema de manos,un fontanero",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "sopa",
+            "v": "una sopa",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Bowser, el villano de la franquicia de Nintendo <i>Mario<\/i>, es mucho menos intimidante una vez que sabes que recibió el nombre de una <BLANK> coreana.",
+            "v": "Bowser, el villano de la franquicia <i>Mario<\/i> de Nintendo, es mucho menos intimidante una vez que sabes que su nombre proviene de <BLANK> de Corea.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "rice soup,rice and soup dish,dish,food",
+            "v": "una sopa de arroz,un plato de arroz y sopa,un plato,una comida",
             "n": "AlternateSpellings"
         },
         {

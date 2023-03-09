@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "in labor,driving a tank,in a bar,in prison,drunk,dressed as Santa,getting married,riding a bike,in a coma,in a cop car,legally blind,high fiving constantly,fantasizing about life outside Texas,yelling “RUN VARMINTS!”,on prescription drugs,searching for the hog that killed your family,teaching middle school,voting",
+            "v": "dando a luz,conduciendo un tanque,en un bar,en prisión,en estado de ebriedad,con disfraz de Papá Noel,casándose,montando en bicicleta,en coma,en un auto de policía,legalmente ciego,chocando los cinco constantemente,fantaseando con la vida fuera de Texas,gritando \"¡CORRE ALIMAÑA!\",con medicamentos recetados,buscando al jabalí que mató a tu familia,enseñando en la escuela secundaria,votando",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, los legisladores de Texas hicieron legal la caza de cerdos y coyotes salvajes mientras se esté <BLANK>.",
+            "v": "En 2017, los legisladores de Texas hicieron legal la caza de jabalíes y coyotes salvajes mientras se esté <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "riding a hot air balloon,in a balloon,in a hot-air balloon,riding a hot-air balloon",
+            "v": "montado en un globo aerostático,en un globo,en un globo de aire caliente,montado en un globo de aire caliente",
             "n": "AlternateSpellings"
         },
         {

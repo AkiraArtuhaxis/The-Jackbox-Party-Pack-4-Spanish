@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bluetooth speakers,scratch n sniff panels,a disco function,3D cameras,windows,blood sugar monitors,chastity locks,safety lights,fart detectors,eyes,mustard and ketchup packets,tiny TVs,Glade plugins,Surround Sound,love notes,spider eggs,sewn-on poetry,bulleproofing",
+            "v": "altavoces bluetooth,paneles de rascar y oler,una función de discoteca,cámaras 3D,ventanas,monitores de glucemia,cerraduras de castidad,luces de seguridad,detectores de pedos,ojos,paquetes de mostaza y kétchup,televisores diminutos,desinfectantes,sonido envolvente,notas de amor,huevos de araña,poesía cosida,protección antibalas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "bolsillos para preservativos",
+            "v": "bolsillos para condones",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta es ropa interior que viene con <BLANK>.",
+            "v": "Esta ropa interior viene con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "condoms,pockets,condoms pockets,pockets for condoms",
+            "v": "condones,bolsillos,bolsillos de condones,bolsillos para condón",
             "n": "AlternateSpellings"
         },
         {

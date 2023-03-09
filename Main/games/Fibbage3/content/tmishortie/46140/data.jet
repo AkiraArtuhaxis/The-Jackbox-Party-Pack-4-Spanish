@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "fotos,mi colección de discos,las joyas de la abu,mis cortinas nuevas,mi camiseta de anime,mis trapos sucios,mi orgullo",
+            "v": "fotos,mi colección de discos,las joyas de la abuela,mis cortinas nuevas,mi camiseta de animé,mis trapos sucios,mi orgullo",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si tu casa estuviera en llamas y solo pudieras salvar una de tus cosas, sería <BLANK>.",
+            "v": "Si tu casa se estuviera incendiando y solo pudieras salvar una de tus cosas, sería <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si su casa estuviera en llamas, de sus cosas <PLAYER> rescataría <BLANK>.",
+            "v": "Si la casa de <PLAYER> se estuviera incendiando, solo rescataría <BLANK> de sus cosas.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si su casa estuviera en llamas, de sus cosas <PLAYER> rescataría <BLANK>.",
+            "s": "[category=host]If <PLAYER>’s house were on fire, the one thing they’d save would be <BLANK>.",
             "t": "A",
             "v": "636158_0",
             "n": "QuestionAudio"

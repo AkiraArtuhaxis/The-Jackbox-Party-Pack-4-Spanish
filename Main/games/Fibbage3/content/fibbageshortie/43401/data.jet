@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Frankenstein,Bob Dole,Pineapple,Superman,Hambone,Grumpy Pants,Burlap,Pickle Puss,Sturgeon,Old Sawbuck,T-Bone,Hammerhead,Sebastian,Thistlewick,Leviathan,Larry King,Sledgehammer,Bad Driver",
+            "v": "Frankenstein,Bob Dole,Piña,Superman,Hambone,Pantalones gruñones,Arpillera,Gato de pico,Esturión,Viejo Sawbuck,Bife,Zopenco,Sebastián,Thistlewick,Leviatán,Larry King,Mazo,Mal conductor",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según el <i>Washington Post<\/i>, el nombre en clave del Servicio Secreto de los Estados Unidos para el nominado presidencial republicano de 1996 Bob Dole era <BLANK>.",
+            "v": "Según el <i>Washington Post<\/i>, el nombre en clave del Servicio Secreto de los Estados Unidos para el candidato presidencial republicano de 1996, Bob Dole, era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ram rod,ram-rod",
+            "v": "Ram Rod,Ram-Rod",
             "n": "AlternateSpellings"
         },
         {

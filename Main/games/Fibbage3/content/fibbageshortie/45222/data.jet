@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "politician’s faces,other people’s urns,fast food deep fryers,Kim Kardashian’s pool,the Grand Canyon gift shop,Grant’s tomb,every Margaritaville location,a haunted Barnes and Noble,every Pac-10 arena,the Three Stooges’ birthplaces,every Civil War battlefield,a hot air balloon,Dippin’ Dots freezers,a bookmobile,a traveling circus,an F5 tornado,Conan O’Brien’s Mercedes,Forever 21 dressing rooms",
+            "v": "caras de políticos,urnas de otras personas,freidoras de comida rápida,la piscina de Kim Kardashian,la tienda de regalos del Gran Cañón,la tumba de Grant,cada local de Margaritaville,un Barnes and Noble embrujado,cada estadio de la Pac-10,los lugares de nacimiento de los Tres Chiflados,cada campo de batalla de la Guerra Civil,un globo de aire caliente,congeladores Dippin 'Dots,un bibliobús,un circo ambulante,un tornado F5,el Mercedes de Conan O'Brien,los vestuarios de Forever 21",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, un hombre de Nueva York hizo un extraño viaje por el país para esparcir las cenizas de su amigo en <BLANK>.",
+            "v": "En 2017, un neoyorquino realizó un extraño viaje a través del país para esparcir las cenizas de su amigo en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "toilets,stadium toilets,baseball toilets,toilets in stadiums,toilets in baseball stadiums",
+            "v": "baños,baños de estadios,baños de béisbol,baños en estadios,baños en estadios de béisbol",
             "n": "AlternateSpellings"
         },
         {

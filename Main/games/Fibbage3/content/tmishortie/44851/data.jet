@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "historietas,papers de la universidad,peluches de animalitos,mis juguetes viejos,cualquier prenda que sea de mi talle,discos de configuración de impresora,premios de la secundaria",
+            "v": "historietas,trabajos universitarios,peluches de animalitos,mis juguetes viejos,la ropa que aún me queda,discos de configuración de impresora,premios de la secundaria",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Una cosa que por alguna razón no te puedes proponer a tirar es <BLANK>.",
+            "v": "Algo raro que no te atreves a botar a la basura es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una cosa que por alguna razón <PLAYER> no puede proponerse a tirar a la basura es <BLANK>.",
+            "v": "Algo raro que <PLAYER> no se atreve a botar a la basura es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una cosa que por alguna razón éste jugador no se puede proponer a tirar es <BLANK>.",
+            "s": "[category=host]A weird thing this player can’t bring themselves to throw away is <BLANK>.",
             "t": "A",
             "v": "599161_0",
             "n": "QuestionAudio"

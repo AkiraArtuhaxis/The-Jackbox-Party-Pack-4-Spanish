@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Blinky,Lala,Chewy,Shemp,Bubu,Droopy,Frijolín",
+            "v": "Coco,Lala,Mordelón,Bobo,Oso,Peque,Frijolín",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "El nombre de tu peluche favorito de pequeño.",
+            "v": "El nombre de tu peluche favorito cuando eras pequeño.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El peluche favorito de <PLAYER> cuando era pequeño/a se llamaba <BLANK>.",
+            "v": "El nombre del peluche favorito de <PLAYER> cuando era pequeño era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El peluche favorito de éste jugador cuando era pequeño se llamaba <BLANK>.",
+            "s": "[category=host]The name of this player’s favorite stuffed toy as a kid was <BLANK>.",
             "t": "A",
             "v": "566990_1",
             "n": "QuestionAudio"

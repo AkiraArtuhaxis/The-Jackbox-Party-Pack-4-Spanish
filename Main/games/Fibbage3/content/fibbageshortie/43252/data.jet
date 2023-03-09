@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "3 pound hairball,painting of a murder,loufa sponge,dimensional portal,obscenely shaped faucet,drawing of aquaman,stone donkey,soap shark,cat sponge,100 year old blood stain,Game of Thrones sword,doggie door,Terminator robot,king cobra,king’s throne,basketball hoop,hockey stick,mini-bar",
+            "v": "una bola de pelos de 2 kilos,una pintura de un asesino,una esponja luffa,un portal dimensional,llaves de agua con forma obscena,un dibujo de Aquaman,un burro de piedra,un tiburón de jabón,una esponja de gato,una mancha de sangre de 100 años,una espada del Juego de Tronos,una puerta para perros,un robot de Terminator,una cobra rey,el trono del rey,un aro de baloncesto,un palo de hockey,un mini bar",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "mural de Mandy Moore",
+            "v": "un mural de Mandy Moore",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando un grupo de neoyorkinos se mudó a su apartamento de Queens en 2017, descubrieron que su nueva ducha incluía un <BLANK>.",
+            "v": "Cuando un grupo de neoyorkinos se mudó a su departamento de Queens en 2017, descubrieron que su nueva ducha incluía <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mandy moore,mandi moore,mandy more,painting of mandy moore,mosaic of mandy moore",
+            "v": "Mandy Moore,Mandi Moore,Mandy More,pintura de Mandy Moore,mosaico de Mandy Moore",
             "n": "AlternateSpellings"
         },
         {

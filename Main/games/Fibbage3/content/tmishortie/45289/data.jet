@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Cuál era el nombre de una de tus mascotas favoritas?",
+            "v": "¿Cómo se llamaba una de tus mascotas favoritas?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las mascotas favoritas de <PLAYER> se llamaba <BLANK>.",
+            "v": "El nombre de una de las mascotas favoritas de <PLAYER> era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una de las mascotas favoritas de <PLAYER> se llamaba <BLANK>.",
+            "s": "[category=host]The name of one of <PLAYER>’s favorite pets was <BLANK>.",
             "t": "A",
             "v": "610775_2",
             "n": "QuestionAudio"

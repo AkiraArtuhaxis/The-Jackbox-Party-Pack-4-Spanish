@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Diamonds,Lullabies,Paint,Chewing gum,Lipstick,Pork,Clay,Dried leaves,Cranberries,planes,old socks,Helium,Gasoline,Cream,pipe cleaners,Seaweed,peach pits,glass bottles",
+            "v": "diamantes,canciones de cuna,pintura,chicle,pintalabios,cerdo,arcilla,hojas secas,arándanos,aviones,calcetines viejos,helio,gasolina,crema,limpiapipas,algas,sandía,botellas de cristal",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Hielo",
+            "v": "hielo",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ice and sand,ice and sawdust,sawdust and ice,sand and ice,frozen sand,frozen sawdust",
+            "v": "hielo y arena,hielo y aserrín,aserrín y hielo,arena y hielo,arena congelada,aserrín congelado",
             "n": "AlternateSpellings"
         },
         {

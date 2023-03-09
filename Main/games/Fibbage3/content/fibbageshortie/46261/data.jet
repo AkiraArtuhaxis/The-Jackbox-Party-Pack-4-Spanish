@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "prosthetic noses,cars,dinosaur fossils,porcelain dolls,bunk beds,coffee pods,chicken nuggets,hats,waterbeds,island nations,Seinfeld DVDs,bottles of 5 hour energy,cans of RC Cola,beanie babies,cans of tuna,gummy bears,tubes of crescent rolls,sunglasses",
+            "v": "narices ortopédicas,autos,fósiles de dinosaurios,muñecas de porcelana,literas,cápsulas de café,nuggets de pollo,sombreros,camas de agua,naciones insulares,DVDs de Seinfeld,botellas de bebida energética,latas de cola,bebés de peluche,latas de atún,ositos de gominola,tubos de rollos de media luna,lentes de sol",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un comentario acerca de sus finanzas personales, Johnny Depp dijo \"Si quiero comprarme 15 mil <BLANK> al día es mi problema\".",
+            "v": "En un comentario acerca de sus finanzas personales, Johnny Depp dijo: \"Si quiero comprarme 15.000 <BLANK> al día, es problema mío\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "balls of cotton,cotton",
+            "v": "bolas de algodón,algodón",
             "n": "AlternateSpellings"
         },
         {

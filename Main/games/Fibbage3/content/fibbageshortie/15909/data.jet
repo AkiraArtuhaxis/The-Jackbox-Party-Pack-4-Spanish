@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Walmart,Home Depot,Burger King,Disney World,7-11,Bed Bath & Beyond,Taco Bell,Baby Gap,Radio Shack,Rob Schneider,Target,The FBI,McDonald’s,Dave and Buster’s,Old Country Buffet,Bed Bath and Beyond,Denny’s,Lenscrafters",
+            "v": "Walmart,Home Depot,Burger King,Disney World,7-Eleven,Bed Bath & Beyond,Taco Bell,Baby Gap,Radio Shack,Rob Schneider,Target,El FBI,McDonald’s,Dave and Buster’s,Old Country Buffet,Bed Bath and Beyond,Denny’s,Lenscrafters",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antes de que se volviera una tendencia popular en el 2013, el mayor comprador de kale era, sorprendentemente, <BLANK>.",
+            "v": "Antes de que se volviera una tendencia alimentaria en el 2013, el mayor comprador de col rizada era, sorprendentemente, <BLANK>.",
             "n": "QuestionText"
         },
         {

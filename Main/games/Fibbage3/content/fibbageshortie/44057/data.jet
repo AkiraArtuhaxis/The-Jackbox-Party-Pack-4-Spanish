@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "chocolate cake,Pickle Brine,Poptarts,Cloves,Marshmallows,Pork Loins,Caramel,Cantalope,Bees,wasabi,Parrotfish,Pasta,Cous Cous,shrimp,Blueberries,Ice Cream,secrets,Mashed Potatoes",
+            "v": "caca,salmuera de pepinillos,tortas,clavos de olor,malvaviscos,lomos de cerdo,caramelo,cantalope,abejas,wasabi,pez loro,pasta,cous cous,camarones,arándanos,helado,secretos,puré de papas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, la cadena WORKS Gourmet Burger de Canadá introdujo la hamburguesa PBC que contiene tocino, unos crujientes aros de cebolla, y un patty lleno de <BLANK>.",
+            "v": "En 2015, la cadena de hamburguesas gourmet The WORKS de Canadá estrenó la PBC, que contiene tocino, unos crujientes aros de cebolla, y una hamburguesa rellena de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Reese’s Peanut Butter Cup,Reese’s Peanut Butter Cups,Peanut Butter,Peanut Butter Cups",
+            "v": "chocolate con mantequilla de maní,mantequilla de maní,chocolates",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "karate,baile,asistencia al colegio,beisbol,fútbol,debate,arte",
+            "v": "karate,baile,asistencia a la escuela,tenis,fútbol,debate,arte",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo de lo que obtuviste un trofeo o premio de pequeño?",
+            "v": "¿Por qué te dieron un trofeo o un premio en tu niñez?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo en lo que <PLAYER> tuvo un trofeo o premio de pequeño/a fue <BLANK>.",
+            "v": "Algo en lo que <PLAYER> tuvo un trofeo o premio en su niñez fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo en lo que <PLAYER> tuvo un trofeo o premio de pequeño fue <BLANK>.",
+            "s": "[category=host]Something <PLAYER> got a trophy or award for as a kid was <BLANK>.",
             "t": "A",
             "v": "696018_0",
             "n": "QuestionAudio"

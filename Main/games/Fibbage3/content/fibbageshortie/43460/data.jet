@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "car,confidence,bow tie,ratings,hot tub,signed photo of Carl Sagan,robot dog,Sous-vide Machine,beer steins,pornography,stamp collection,RC helicopter,model train set,vintage film collection,coffee mugs,home lab,weather balloons,star charts",
+            "v": "auto,confianza,corbatín,calificación,jacuzzi,foto firmada de Carl Sagan,perro robot,máquina al vacío,jarra de cerveza,pornografía,colección de sellos,helicóptero a control remoto,juego de trenes en miniatura,colección de películas de época,tazas de café,laboratorio casero,globos meteorológicos,carta astral",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2007, Bill Nye presentó una orden de restricción contra su esposa -de quién estaba separado- luego de que esta intentó destruir su <BLANK>.",
+            "v": "En 2007, Bill Nye presentó una orden de alejamiento contra su mujer, de la que estaba separado, después de que esta intentara destruir su <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "plants,vegetables,flowers",
+            "v": "planta,vegetales,flores",
             "n": "AlternateSpellings"
         },
         {

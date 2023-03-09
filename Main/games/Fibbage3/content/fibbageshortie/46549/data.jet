@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "John Lennon,Calvin & Hobbes,George Carlin,Park Rangers,exterminators who died in the line of duty,the original voice of Scooby Doo,his pet stag beetle,Scatman Crothers,Marilyn Monroe,Airplane II: The Sequel,The Rolling Stones,hand-drawn animation,his wife Beatrice,the Defibrillator from Fibbage 2,Princess Di,planet earth,Frankenstein’s monster,General Patton",
+            "v": "John Lennon,Calvin y Hobbes,George Carlin,guardaparques,exterminadores que murieron en acto de servicio,la voz original de Scooby Doo,su escarabajo ciervo mascota,Scatman Crothers,Marilyn Monroe,¿Y dónde está el piloto? II,The Rolling Stones,animación dibujada a mano,su mujer Beatrice,el desfibrilador de Fibbage 2,la princesa Diana,el planeta Tierra,el monstruo de Frankenstein,el general Patton",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "los bichos muertos",
+            "v": "los insectos muertos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1975, el escultor japonés Yoneji Inamura hizo una estatua con 20 mil insectos muertos como memorial en homenaje a <BLANK>.",
+            "v": "En 1975, el escultor japonés Yoneji Inamura hizo una estatua con 20.000 insectos muertos como homenaje a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "bugs,insects,dead insects",
+            "v": "insectos,bichos,bichos muertos",
             "n": "AlternateSpellings"
         },
         {

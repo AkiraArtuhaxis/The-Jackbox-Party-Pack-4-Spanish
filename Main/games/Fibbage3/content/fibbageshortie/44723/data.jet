@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Samsung Galaxies,internet outrage,band names,baseball scores,zombie cells,laughter,hamburger meat,driver’s licenses,prank calls,beer,dog testicles,nipples,back hair,butts,fossils,milk shakes,orange juice,ice cubes with flies in them",
+            "v": "Samsung Galaxy,indignación en Internet,nombre de banda,resultado de béisbol,célula de zombis,risa,carne de hamburguesa,licencia de conducir,llamada de broma,cerveza,testículo de perro,pezón,pelo de la espalda,trasero,fósil,batido,jugo de naranja,cubo de hielo con moscas dentro",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un artículo de 2017 en Vice.com reveló que Apple tiene un técnico de laboratorio cuyo trabajo consiste en producir <BLANK> falso/a.",
+            "v": "Un artículo de 2017 en Vice.com reveló que Apple tiene un técnico de laboratorio cuyo trabajo consiste en producir <BLANK> artificial.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "perspiration",
+            "v": "transpiración",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "galletas de chispitas,caca,facturas recién hechas,auto nuevo,nafta,cascaras de naranja,fragancia de coco",
+            "v": "galletas con chispas de chocolate,caca,rollos de canela recién hechos,auto nuevo,nafta,cáscaras de naranja,pepino con regaliz",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un olor extraño que te encanta es <BLANK>.",
+            "v": "Un olor raro que te encanta es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un olor extraño que a <PLAYER> le encanta es <BLANK>.",
+            "v": "Un olor raro que a <PLAYER> le encanta es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un olor extraño que a éste jugador le encanta es <BLANK>.",
+            "s": "[category=host]A weird smell that this player loves is <BLANK>.",
             "t": "A",
             "v": "598897_0",
             "n": "QuestionAudio"

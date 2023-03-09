@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a wife,six fingers,a standup routine,a heart condition,a pet camel,a Netflix account,a twin,a credit card,dyslexia,made cookies for the whole crew,space madness,his cake and eat it too,a fear of flying,a secret family,received detention in high school,mono,a vestigial tail,a pet leopard",
+            "v": "esposa,seis dedos,una rutina de comedia,una condición cardíaca,un camello mascota,cuenta de Netflix,un gemelo,una tarjeta de crédito,dislexia,galletas para toda la tripulación,locura espacial,su pan y su pedazo,miedo a volar,un secreto familiar,historial de mala conducta escolar,mononucleosis,una cola vestigial,un leopardo mascota",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Paul Scully-Power no solo fue el primer australiano en lanzarse al espacio, sino que también fue el primer astronauta que tuvo <BLANK>.",
+            "v": "Paul Scully-Power no solo fue el primer australiano en lanzarse al espacio, sino que también fue el primer astronauta que tenía <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "facial hair,a mustache,a moustache,whiskers",
+            "v": "vello facial,un bigote,bigote,patillas",
             "n": "AlternateSpellings"
         },
         {

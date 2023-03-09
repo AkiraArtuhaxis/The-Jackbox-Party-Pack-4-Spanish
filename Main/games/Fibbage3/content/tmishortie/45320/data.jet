@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Gambit,Asistente de un genio malvado,Neil deGrasse Tyson,medio caballo,Príncipe Adam,Amatísta de Steven Universe,una cuchara",
+            "v": "Wolverine,Asistente de un genio malvado,Neil deGrasse Tyson,medio caballo,Príncipe Adam,Amatísta de Steven Universe,una cuchara",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es uno de tus disfraces de Halloween favoritos de años anteriores?",
+            "v": "¿Cuál fue uno de tus disfraces favoritos de Halloween de años anteriores?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Uno de los disfraces de Halloween favoritos de <PLAYER> en años pasados fue <BLANK>.",
+            "v": "Uno de los disfraces favoritos de Halloween de <PLAYER> de años anteriores fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Uno de los disfraces de Halloween favoritos de <PLAYER> en años pasados fue <BLANK>.",
+            "s": "[category=host]One of <PLAYER>’s favorite past Halloween costumes was <BLANK>.",
             "t": "A",
             "v": "611705_0",
             "n": "QuestionAudio"

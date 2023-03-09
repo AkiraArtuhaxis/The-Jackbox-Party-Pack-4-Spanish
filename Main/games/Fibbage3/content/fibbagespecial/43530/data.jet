@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "head,rubles,home,big toe,skin,wart,bubble,nose,phone,ear,sister,heart,pet bear,belly button,farm,dog,papa,stomach",
+            "v": "cabeza,plata,casa,uña,piel,verruga,burbuja,nariz,señal celular,oreja,hermana,pulsación,osa mascota,barriga,granja,perra,papa,tripa",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El equivalente ruso al dicho \"La caridad, empieza por casa.\" es \"El <BLANK> propio de una persona está más cerca del cuerpo.\"",
+            "v": "El equivalente ruso al dicho \"La caridad empieza por casa\" es \"La propia <BLANK> de uno mismo está más cerca del cuerpo\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "blouse,tunic",
+            "v": "blusa,túnica",
             "n": "AlternateSpellings"
         },
         {

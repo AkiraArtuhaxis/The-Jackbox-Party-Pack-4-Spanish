@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "town|business,community|company,joke|statement,place|prostitute,sore|scab,name|endorsement,TV cop|TV detective,floor wax|dessert topping,wild ride|slow go,funny name|accident,family name|a reason to ridicule us,Fibbage question|Quiplash prompt,dollar an hour|free one,great time|lifelong commitment,bunch of free milk|cow,truck stop|a f@#$ stop",
+            "v": "un pueblo|un negocio,una comunidad|una empresa,un chiste|una declaración,un lugar|una prostituta,una llaga|una costilla,un nombre|un respaldo,una policía de la televisión|una detective de la televisión,cera para suelos|cobertura de postre,un experiencia salvaje|caminata aburrida,un nombre gracioso|un accidente,un nombre de familia|una razón para ridiculizarnos,una pregunta de Fibbage|un enunciado de Quiplash,un dólar la hora|una gratis,un gran momento|un compromiso de por vida,un puñado de leche gratis|una vaca,una parada de camiones|una parada para f&$#@r",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "ubicación|vocación",
+            "v": "una ubicación|una vocación",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El lema para Hooker, Oklahoma (cuyo nombre significa prostituta): \"Es una <BLANK>, no una <BLANK>.\"",
+            "v": "El lema para Hooker, Oklahoma (cuyo nombre significa prostituta): \"Es <BLANK>, no <BLANK>\".",
             "n": "QuestionText"
         },
         {

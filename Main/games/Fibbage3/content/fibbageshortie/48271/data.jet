@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cat litter,beach sandals,duct tape,leg razors,chocolate milk,tire repair kits,carpet shampoo,leg warmers,weight loss shakes,Flintstones chewable vitamins,foam footballs,duck calls,lawn chairs,canned peaches,body wash,gallon sized Ziploc bags,Febreze air freshener,cheap pens",
+            "v": "arena para gatos,sandalias de playa,cinta adhesiva,máquinas de afeitar,leche con chocolate,kits de reparación de neumáticos,champú para alfombras,calentadores de piernas,batidos para adelgazar,vitaminas masticables de los Picapiedra,balones de espuma,vodka,sillas de jardín,duraznos en conserva,gel de baño,bolsas Ziploc gigantes,ambientadores,bolígrafos baratos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Pop-tarts",
+            "v": "tartas precocidas de frutilla",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando Walmart comenzó a estudiar las tendencias entre sus consumidores, descubrió que antes de un huracán, la gente estaba comprando siete veces la cantidad usual de <BLANK>.",
+            "v": "Cuando Walmart comenzó a estudiar las tendencias entre sus consumidores, descubrió que antes de un huracán, la gente compraba siete veces más <BLANK> que lo de siempre.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Pop-Tarts,Strawberry Poptarts,Pop Tarts,Strawberry Pop Tarts",
+            "v": "tartas precocidas,tarta precocida de frutilla,tarta precocida",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "deaf,under six feet tall,republicans,living with their parents,named Sarah,sad,rich,from Florida,angry at life,college dropouts,fish enthusiasts,coin collectors,the worst,severely tired,fast food workers,okay,trolls,rednecks",
+            "v": "sordos,pequeños de estatura,republicanos,personas que viven con sus padres,ansiosos,personas tristes,ricos,de Florida,malvados en sus vidas,personas que abandonaron la universidad,los entusiastas de pescado,coleccionistas de monedas,los peores,demasiado sacrificados,los trabajadores de comida rápida,bien intencionados,trols,indígenas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En respuesta a un tweet sobre sus fans, el cantante James Blunt respondió: \"La mayoría de ellos son <BLANK>\"",
+            "v": "En respuesta a un tuit sobre sus fanáticos, el cantante James Blunt respondió: \"La mayoría son <BLANK>\".",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "mime,actual giant,money tree,fountain of youth,giraffe,Mandarin-speaking parrot,kangaroo family,working class millionaire,witch cave,sasquatch nest,diamond mine,volcano,dimensional portal,safe space,tar pit,candy factory,buffalo herd,xylophone made of soda cans",
+            "v": "mima,especie de gigante real,planta de dinero,fuente de la juventud,jirafa,ave que habla mandarín,familia de canguros,clase trabajadora millonaria,cueva de brujas,cueva de Pie Grande,mina de diamantes,cordillera de volcanes,arma de portales,habitación segura,fuente de alquitrán,fábrica de dulces,manada de búfalos,tienda de xilófonos hechos de latas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Mill Ends Park en Portland, Oregón fue fundado en 1948 por Dick Fagan, quien afirmó que contenía la única <BLANK> en Norteamérica.",
+            "v": "Mill Ends Park en Portland, Oregón, fue fundado en 1948 por Dick Fagan, quien afirmó que allí se encontraba la única <BLANK> de Norteamérica.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "leprecan colony,leprechan,leprechans,leprekan family,leprechan family,colony of leprechans",
+            "v": "colonia duendes,duende,duendes,familia de duendes,familia de duende,colonia de duende",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pet turtle,iPhone,toupe,fixie bicycle,priceless wheel of cheese,decorative soaps,jar of prized kidney stones,collection of vintage candy,comic book collection,supply of diet meals,mothere’s ashes,fencing sword,Porsche,Facebook account,porn collection,safe key,shark tooth necklace,million dollar watch",
+            "v": "la tortuga mascota,el iPhone,la peluca,la bicicleta,el queso de valor incalculable,los jabones decorativos,el frasco de preciados cálculos renales,la colección de caramelos retro,la colección de historietas,la provisión de comidas dietéticas,las cenizas de la mamá,la espada de esgrima,el Porsche,la cuenta de Facebook,la colección porno,la llave de la caja fuerte,el collar de dientes de tiburón,el reloj de un millón de dólares",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "fondos de vacaciones",
+            "v": "los fondos de vacaciones",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La colombiana Sandra Almeida se vengó de su esposo infiel al comerse su/s <BLANK>.",
+            "v": "La colombiana Sandra Almeida se vengó de su marido infiel comiéndose <BLANK> de él.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "money,savings,life savings,cash",
+            "v": "el dinero,los ahorros,los ahorros de vida,el efectivo",
             "n": "AlternateSpellings"
         },
         {

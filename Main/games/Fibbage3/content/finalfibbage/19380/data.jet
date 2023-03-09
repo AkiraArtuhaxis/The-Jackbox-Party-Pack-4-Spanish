@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "wells|porta potties,electric fences|storms,drones|grenades,hawks|crocodiles,bees|wasps,lies|video tape,cancer|AIDS,drugs|alcohol,lions|tigers,explosives|narcotics,sarcasm|apathy,ants|roaches,tanks|cheese,money|jewels,latrines|wheat,ghosts|vampires,anthrax|asbestos,ice cream|sadness",
+            "v": "pozos|baños portátiles,vallas eléctricas|tormentas,drones|granadas,halcones|cocodrilos,abejas|avispas,mentiras|cintas de video,cáncer|SIDA,drogas|alcohol,leones|tigres,explosivos|narcóticos,sarcasmo|apatía,hormigas|cucarachas,tanques|queso,dinero|joyas,letrinas|trigo,fantasmas|vampiros,ántrax|asbesto,helado|tristeza",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "minas|tuberculosis",
+            "v": "minas terrestres|tuberculosis",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tuberculosis|land mines,tuberculosis|mines,tb|land mines,tuberculoses|mines,tooburculosis|mines,tuburculosislmines,mines|tuberculosis,mines|tuberculosis",
+            "v": "tuberculosis|minas terrestres,tuberculosis|minas,tuberculosis|tierra",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "naked,angry,dumped,hunting,asleep,swimming,drunk,a teenager,in labor,bouncing,old,at a baseball game,upside down,crying,hungover,on the equator,nervous,alone",
+            "v": "desnudo,enojado,rechazado,siendo cazado,dormido,nadando,ebrio,en tu adolescencia,en trabajo de parto,rebotando,viejo,en un partido de baloncesto,al revés,llorando,con resaca,en la línea ecuatorial,nervioso,solo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Alguna vez has bebido la cerveza Betsy Beer? Se elabora específicamente para que sepa mejor cuando estás <BLANK>.",
+            "v": "¿Alguna vez has probado la cerveza Betsy? Está elaborada para que sepa mejor cuando estés <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "flyin,on a plane,in an airplane",
+            "v": "volando,en un avión,en un avion",
             "n": "AlternateSpellings"
         },
         {

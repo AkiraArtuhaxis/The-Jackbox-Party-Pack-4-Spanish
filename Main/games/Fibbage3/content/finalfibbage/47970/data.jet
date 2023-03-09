@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "coke|pepsi,to live|to die,10 hugs|1 kiss,fries|onion rings,the left twix|the right twix,to mambo|tango,to kick|scream,to conform|resist,to vote|die,dis|dat,ketchup|mustard,black|white socks,6|maybe 7 high fives,to be scared|spooked,to lie|tell the truth,the steak|the chicken dish,an iphone|an android,to watch a comedy|an action movie",
+            "v": "Coca Cola|Pepsi,vivir|morir,10 abrazos|1 beso,papas fritas|anillos de cebolla,la galleta de la izquierda|la de la derecha,mambo|tango,patear|gritar,conformarte|resistirte,votar|morir,esto|eso,kétchup|mostaza,calcetines blancos|negros,chocar los cinco 6 veces|7,asustarte|aterrarte,mentir|decir la verdad,un filete|un plato de pollo,un iPhone|un android,ver una comedia|una película de acción",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "papel higiénico rojo|papel higiénico azul",
+            "v": "papel higiénico rojo|azul",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una tenebrosa leyenda urbana en Corea trata acerca del malvado espíritu \"Aka Manto.\" Antes de matarte, te pregunta si quieres <BLANK> o <BLANK>.",
+            "v": "Una tenebrosa leyenda urbana en Corea trata acerca del malvado espíritu \"Aka Manto\". Antes de matarte, simplemente te preguntará si quieres <BLANK> o <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "red|blue toilet paper,red paper|blue paper,blue|red toilet paper,blue paper|red paper,blue toilet paper|red toilet paper",
+            "v": "papel higiénico azul|rojo,papel rojo|azul,papel higienico azul|rojo,papel azul|rojo",
             "n": "AlternateSpellings"
         },
         {

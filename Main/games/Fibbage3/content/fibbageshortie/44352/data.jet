@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Crystals,Warlocks,Buffalo,Wolves,Sheets,Fruit,the Sphynx,Cars,Mannequins,Avatars,Sims,Porn,Pirates,fire hydrants,canteloupes,unicorns,centaurs,aliens",
+            "v": "cristales,brujos,búfalos,lobos,sábanas,frutas,esfinges,autos,maniquíes,avatares,Sims,el porno,piratas,hidrantes,melones,unicornios,centauros,extraterrestres",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Fantasmas",
+            "v": "fantasmas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una mujer británica que se llama Amethyst Realm ha decidido dejar de estar con hombres, y ahora prefiere tener relaciones románticas con <BLANK>.",
+            "v": "Una mujer británica llamada Amethyst Realm ha renunciado públicamente a los hombres y ahora prefiere las relaciones románticas con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "spirits,the dead,dead people",
+            "v": "espíritus,los muertos,gente muerta",
             "n": "AlternateSpellings"
         },
         {

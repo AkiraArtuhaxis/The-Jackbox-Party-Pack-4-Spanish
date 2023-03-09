@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bra,glass eyeball,locket,belly button,gloves,D.A.R.E. backpack,dreadlocks,catheter,prosthetic leg,pillow fort,gun,teeth fillings,tailpipe,fanny pack,fake beard,toupee,chauffeur’s cap,lungs",
+            "v": "sostén,ojo de cristal,relicario,ombligo,guante,mochila,rasta,catéter,pierna ortopédica,fortaleza de almohadas,pistola,diente,tubo de escape,riñonera,barba falsa,peluquín,gorra de chofer,pulmón",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "diaper",
+            "v": "pañal",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un hombre de Nueva Orleans fue arrestado en el 2008 cuando la policía descubrió 200 gramos de heroína en su <BLANK>.",
+            "v": "Un hombre de Nueva Orleans fue arrestado en 2008 cuando la policía descubrió 200 gramos de heroína en su <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "diapers,adult diaper",
+            "v": "pañales,pañal de adulto,pañales de adultos",
             "n": "AlternateSpellings"
         },
         {

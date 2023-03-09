@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "ssn,back hair situation,pin number,wife’s name,favorite corn dish,favorite Simpsons quote,ring size,Dorito flavor,dang ol’ deal,time to poop,dog’s name,flavor of Jolly Ranchers,pants size,lotion brand,brand of soap,Mt Dew variety,favorite condiment,magic trick",
+            "v": "número de documento,tema con los pelos en la espalda,número de PIN,esposa,cereal favorito,frase favorita de Los Simpson,talla de anillo,sabor de Doritos,problemilla,hora para hacer caca,mascota,sabor de gomitas,talla de pantalones,marca de loción,marca de jabón,sabor de gaseosa,condimento favorito,truco de magia",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "curious nicki minaj",
+            "v": "Nicki Minaj curiosa",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Nicki Minaj tweeteó: \"De acuerdo chicos, ¿cuál es vuestro <BLANK>?\"",
+            "v": "Nicki Minaj tuiteó: “bueno, chicos, ¿cuál es su <BLANK>?”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tamaño de testículo",
+            "v": "tamaño de testículos,tamaño de testículo,tamaño de bola",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Twinkies,light choking,drama,magic mushrooms,meth-laced honey,human flesh,panda porn,EDM,reality shows,smart phones,energy drinks,getting haircuts,spandex,lotion,French New Wave,s’mores,Dance Dance Revolution,porcupine venom",
+            "v": "los pastelillos,la asfixia leve,el drama,los champiñones mágicos,la miel con metanfetamina,la carne humana,el porno panda,el metal industrial,los reality shows,los teléfonos inteligentes,las bebidas energéticas,cortarse el pelo,el látex,las lociones,las gaitas,el chocolate,Dance Dance Revolution,el veneno de puercoespín",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "aspirar gasolina",
+            "v": "aspirar combustible de avión",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los osos que viven en la reserva natural Kronotski en Rusia han desarrollado una adicción inesperada a <BLANK>.",
+            "v": "Los osos que viven en la Reserva Natural Kronotsky en Rusia han desarrollado una inesperada adicción a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "jet fuel,huffing gasoline,huffing gas,gasoline,kerosene",
+            "v": "combustible de avión,aspirar gasolina,aspirar combustible,gasolina,queroseno",
             "n": "AlternateSpellings"
         },
         {

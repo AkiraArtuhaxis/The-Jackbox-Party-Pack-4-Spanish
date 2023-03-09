@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Setting them on fire,Holding a mock election,Sending them on a scavenger hunt,Banishing them,Banging on the door until they left,Buying them tickets out of town,breaking their windows with rocks,Electing new ones,givin’ them the stink eye,Sitting in their chairs,Exorcising them,Scaring them,hiding snakes in their peanut brittle,giving them the silent treatment,marrying them,eating them,moving the town,the power of satire",
+            "v": "prenderles fuego,hacer un simulacro de elecciones,enviarlos a la caza del tesoro,desterrarlos,aporrearles la puerta hasta que se fueron,comprarles pasajes de avión,romperles las ventanas con piedras,elegir a otros,mirarlos mal,sentarse en sus sillas,exorcizarlos,asustarlos,esconderles serpientes en los maníes,hacerles la ley del hielo,casarse con ellos,comérselos,mover la ciudad,usar el poder de la sátira",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "lanzarlos por una ventana",
+            "v": "tirarlos por una ventana",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 23 de mayo de 1618, varios ciudadanos de Praga frustrados destituyeron de manera creativa a sus políticos del cargo al <BLANK>.",
+            "v": "El 23 de mayo de 1618, varios ciudadanos frustrados de Praga destituyeron creativamente a sus políticos al <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Defenestration,Defenestrating them,throwing them from a window,throwing them off a building",
+            "v": "practicar la defenestración,defenestrarlos,tirarlos por la ventana,tirarlos desde un edificio,lanzarlos por la ventana,lanzarlos desde un edificio",
             "n": "AlternateSpellings"
         },
         {

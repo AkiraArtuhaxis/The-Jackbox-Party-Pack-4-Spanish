@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "white people,low blood sugar,ghosts,her prescription medicine,her speech writer,the AC being broken,the vice principal,ISIS,President Obama,global warming,being drunk,having a headache,bad eggs,her mother,her dogs,being tired,Italians,Nazis",
+            "v": "la gente blanca,la baja de azúcar en la sangre,los fantasmas,sus medicamentos recetados,su escritor de discursos,el aire acondicionado roto,el vicedirector,ISIS,el presidente Obama,el calentamiento global,estar borracha,su dolor de cabeza,los huevos podridos,su madre,sus perros,estar cansada,los italianos,los nazis",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Luego de hacer un comentario racista durante una graduación de secundaria en 2015, un director de Georgia se disculpó, pero le echó la culpa del incidente a <BLANK>.",
+            "v": "Luego de hacer un comentario racista durante una graduación de secundaria en 2015, una directora de Georgia se disculpó, pero le echó la culpa del incidente a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "satan",
+            "v": "satanas,satanás,Satanás,Satanas,satan,satán,Satán,Satan",
             "n": "AlternateSpellings"
         },
         {

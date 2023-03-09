@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "salsa,pudín,basura,cobertura de mantequilla,aceite de motor usado,residuos nucleares,¡agua muy fría!",
+            "v": "salsa,pudín,basura,cobertura de mantequilla,aceite de motor usado,residuos nucleares,¡agua demasiado fría!",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿En qué sustancia menos te gustaría tener que nadar?",
+            "v": "¿Cuál es la sustancia en la que menos te gustaría nadar?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La sustancia en la que a <PLAYER> menos le gustaría tener que nadar es <BLANK>.",
+            "s": "[category=host]The substance <PLAYER> would least like to swim in would be <BLANK>.",
             "t": "A",
             "v": "612035_1",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hug|lonely librarians,eat|old donuts,wear|capes,shoot|crossbows,look at|old baseball cards,catch|ghosts,find|missing armor,tell|scary stories,research|recipes for gold,marry|puppets,exterminate|giant rats,listen to|condo sales pitches,roadtrip with|literary characters,dress as|vampires,smell|rare flowers,listen to|animal mating calls,scare off|bullies,watch|employees while they ate",
+            "v": "abrazar|bibliotecarios solitarios,comer|tacos rancios,usar|disfraces,disparar|arcos,mirar|cromos de béisbol viejos,atrapar|fantasmas,encontrar|cascos de armaduras perdidas,contar|relatos de miedo,investigar|métodos para conseguir oro,casarse con|títeres,exterminar|ratones gigantes,escuchar|discursos de ventas de condominios,viajar con|personajes literarios,vestirse de|vampiros famosos,oler|arbustos raros,escuchar|llamados de apareamiento de animales,asustar a|matones,observar a|empleados mientras comen",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En julio de 2017, la biblioteca Newberry en Chicago tuvo un pedido de ayuda bastante extraño. Necesitaban gente para <BLANK> algunos <BLANK>.",
+            "v": "En julio de 2017, la biblioteca Newberry de Chicago solicitó ayuda bastante extraña. Necesitaban gente para <BLANK> algunos <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "transcribe|magic spells,read|magic spells,read|spells,transcribe|spells,translate|spells,catalog|magic spells,catalog|spells,catalogue|magic spells,catalogue|spells",
+            "v": "transcribir|hechizos,leer|hechizos,leer|encantamientos,transcribir|encantamientos,traducir|encantamientos,catalogar|hechizos,catalogar|encantamientos",
             "n": "AlternateSpellings"
         },
         {

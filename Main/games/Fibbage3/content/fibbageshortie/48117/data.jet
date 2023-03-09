@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pudding,orange peels,swamp mud,pictures of herself,gravy,garbage,street urchins,cotton candy,ice,parachutes,old gym towels,five crappier dresses,chicken wire and marshmallows,tax forms,her own hair,sexy magazines,fancy underwear,the back of a horse costume",
+            "v": "pudín,cáscaras de naranja,barro del pantano,fotos de sí misma,salsa,basura,erizos de la calle,algodón de azúcar,hielo,paracaídas,toallas viejas de gimnasio,los cinco vestidos más horribles,alambre de gallinero y malvaviscos,formularios de impuestos,su propio pelo,revistas sensuales,ropa interior elegante,la parte trasera de un disfraz de caballo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Crees que estás a la moda? Pues nunca superarás a la señorita Kate Fearing Strong, que asistió a un baile de Nueva York en 1883 con un vestido hecho de <BLANK>.",
+            "v": "¿Crees que estás a la moda? Pues nunca superarás a la distinguida Kate Fearing Strong, que asistió a un baile de Nueva York en 1883 con un vestido hecho con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cats,a cat,a taxidermied cat,taxidermied cats",
+            "v": "gatos,un gato,un gato taxidermiado,gatos taxidermiados",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Banking,McDonald’s Fry Cook,Accountant,Firefighter,Elementary School Teacher,Gun Manufacturer,Stunt Actor,Logger,Bee Keeper,Butcher,Cow Wrangler,Roofers,Pilots,Fisher,Construction Worker,Truck Driver,Sales,Intern",
+            "v": "banquero,cocinero de McDonald's,contador,bombero,profesor de secundaria,fabricante de armas,doble de acción,leñador,apicultor,carnicero,vaquero,techador,piloto,pescador,obrero de la construcción,conductor de camiones,vendedor,alumno en práctica",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the President,Presidency,U.S. President,United States President,Commander in Chief",
+            "v": "el presidente,presidencia,presidente de EE. UU.,Presidente de Estados Unidos,Comandante en Jefe",
             "n": "AlternateSpellings"
         },
         {

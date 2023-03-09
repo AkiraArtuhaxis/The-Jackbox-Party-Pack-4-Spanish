@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dry clothes,feed pigs,make cheese,catch a thief,incubate chicken eggs,wash himself,shake up paint,spread seeds,wake him up,put on underwear,eat faster,brush his teeth,put his baby to sleep,scare off raccoons,throw knives,raise the flag,clean rocks,make orange juice",
+            "v": "secar ropa,alimentar cerdos,hacer queso,capturar ladrones,incubar huevos,lavarse,batir pintura,esparcir semillas,despertarlo,ponerse ropa interior,comer más rápido,lavarse los dientes,hacer dormir a su bebé,asustar mapaches,lanzar cuchillos,levantar banderas,limpiar rocas,hacer jugo de naranja",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Sir William Cubitt inventó el primer dispositivo de cinta ergométrica en 1818; no para hacer ejercicio, sino para <BLANK>.",
+            "v": "Sir William Cubitt inventó el primer dispositivo de cinta ergométrica en 1818, no para hacer ejercicio, sino para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "punish criminals",
+            "v": "castigar a criminales",
             "n": "AlternateSpellings"
         },
         {

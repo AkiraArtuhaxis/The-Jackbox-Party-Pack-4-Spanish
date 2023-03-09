@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "mansion,drive-in movie theater,casino,UFO landing strip,theme park,ball pit,strip club,Hard Rock Cafe,car wash,subway system,dance studio,haunted house,Eiffel Tower replica,fireworks show,iceberg,beach resort,cookie factory,sailboat",
+            "v": "una mansión,un autocine,un casino,una pista de aterrizaje para OVNIs,un parque temático,una piscina de bolas,un club de striptease,un Hard Rock Café,un lavado de autos,una red de metro,un estudio de baile,una casa embrujada,una réplica de la Torre Eiffel,un espectáculo de fuegos artificiales,un témpano de hielo,un complejo playero,una fábrica de galletas,un velero",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "montaña",
+            "v": "una montaña",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Zhang Biqing, un excéntrico pequinés, decidió que a su edificio le faltaba algo. Por lo tanto, naturalmente, construyó una <BLANK> en el techo.",
+            "v": "Zhang Biqing, un excéntrico pequinés, decidió que a su edificio le faltaba algo, así que naturalmente construyó <BLANK> en el tejado.",
             "n": "QuestionText"
         },
         {

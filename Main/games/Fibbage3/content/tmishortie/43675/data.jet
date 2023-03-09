@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "Si pudieras ser algún superhéroe, serías <BLANK>.",
+            "v": "Si pudieras ser cualquier superhéroe, serías <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> pudiera ser algún superhéroe/superheroína, sería <BLANK>.",
+            "v": "Si <PLAYER> pudiera ser cualquier superhéroe, sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si éste jugador pudiera ser algún superhéroe, sería <BLANK>.",
+            "s": "[category=host]If this player could be any superhero, it would be <BLANK>.",
             "t": "A",
             "v": "567040_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "picture|dead mob informants,family|stuffed grizzly bears,pile|dollar bills,basket|frost-bitten toes,book|criminal mugshots,poster|the reproductive cycle,sculpture|a giant head lice,tracker|the national debt,pair|ruined underwear,painting|Richard Nixon,bucket|tadpoles,box|handguns,bowl|yeast,skeleton|a caveman,biography|Jerry Seinfeld,drawing|a vampire,pit|vipers,wig|Thomas Jeffersons’",
+            "v": "una foto|informantes de la mafia muertos,una familia|osos pardo de peluche,un montón|billetes,una cesta|dedos congelados y mordidos,un libro|fichas de criminales,un póster|el ciclo reproductivo,una escultura|un piojo gigante,un rastreador|la deuda nacional,un par|ropa interior rota,una pintura|Richard Nixon,un balde|renacuajos,una caja|pistolas,un cuenco|levadura,un esqueleto|un cavernícola,la biografía|Jerry Seinfeld,un dibujo|un vampiro,un foso|víboras,una peluca|Thomas Jefferson",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "torre|lechuga",
+            "v": "una torre|lechuga",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Para intentar enseñarle una importante lección a los niños, Bernie Karl de Alaska quiere colocar una <BLANK> de <BLANK> en todas las escuelas públicas.",
+            "v": "Para intentar enseñarle una importante lección a los niños, Bernie Karl de Alaska quiere colocar <BLANK> de <BLANK> en todas las escuelas públicas.",
             "n": "QuestionText"
         },
         {

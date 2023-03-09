@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Rodeo Clown,Pro Golfer,Former Olympian,Close up magician,Celebrity chef,human cannonball,lion tamer,plate spinner,mime,jazz singer,bearded lady,cow tipper,Vaudeville Actress,sword swallower,chainsaw juggler,playwright,Competitive Eater,Abe Lincoln Impersonator",
+            "v": "payasa de rodeo,golfista profesional,ex atleta olímpica,maga de cerca,chef célebre,bala de cañón humana,domadora de leones,giradora de platos,mima,cantante de jazz,mujer barbuda,volcadora de vacas,actriz de vodevil,tragadora de espadas,malabarista con sierra mecánica,dramaturga,comedora competitivo,imitadora de Abraham Lincoln",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antes de que Victoria Woodhull se convirtiera en la primera mujer postulada como candidata presidencial de Estados Unidos, ella recorrió el país entreteniendo a las multitudes como una <BLANK>.",
+            "v": "Antes de que Victoria Woodhull se convirtiera en la primera mujer candidata a la presidencia de Estados Unidos, recorrió el país entreteniendo a multitudes como <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "medium",
+            "v": "médium",
             "n": "AlternateSpellings"
         },
         {

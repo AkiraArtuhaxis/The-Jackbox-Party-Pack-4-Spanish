@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "flavortown,The Aquarium,a Terrible Zoo,dad’s pool,Sea World,some ocean,Poseidon’s Nightmare,water or something,Atlantis,the little mermaid,crazy land,the moon,a Wendy’s,the racetrack,the land of the faeries,my nightmare,the fair grounds,the seahorse fights",
+            "v": "la tierra del sabor,el acuario,un zoológico horrible,la piscina de papá,el mundo marino,algún oceáno,la pesadilla de Poseidón,un charco de agua o algo así,la Atlántida,el hogar de la Sirenita,una tierra loca,la Luna,un Wendy's,una pista de carreras,la tierra de las hadas,mi pesadilla,las ferias,las luchas de caballitos de mar",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un Spa",
+            "v": "un spa",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta ilustración austriaca de 1907 se titula \"Viaje a <BLANK>\".",
+            "v": "Esta ilustración austríaca de 1907 se titula \"Viaje a <BLANK>\".",
             "n": "QuestionText"
         },
         {

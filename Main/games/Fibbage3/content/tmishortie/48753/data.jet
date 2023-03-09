@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "conversión de peso,elenco de Harry Potter,horario de una película,letra de una canción,razas de perro,videos de gatos,elenco de Game of Thrones",
+            "v": "conversión de peso,elenco de Harry Potter,horario de una película,letra de una canción,razas de perro,videos de gatos,elenco de Juego de Tronos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es lo último que Googleaste o buscaste en línea?",
+            "v": "¿Qué fue lo último que buscaste en Google o en internet?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Lo último que <PLAYER> buscó en línea fue \u201c<BLANK>.\u201d",
+            "v": "Lo último que <PLAYER> buscó en internet fue “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Lo último que <PLAYER> buscó en linea fue \u201c<BLANK>.\u201d",
+            "s": "[category=host]The last thing <PLAYER> looked up online was “<BLANK>.”",
             "t": "A",
             "v": "696400_0",
             "n": "QuestionAudio"

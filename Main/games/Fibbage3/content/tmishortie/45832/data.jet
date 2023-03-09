@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "la escuela,el trabajo,una cita,una clase de cocina,terapia,mirar Breaking Bad,una película",
+            "v": "la escuela,el trabajo,una cita,una clase de cocina,terapia,interesarme en Breaking Bad,una película",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es la última cosa en la que llegaste tarde?",
+            "v": "¿Qué fue lo último a lo que llegaste tarde?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La última cosa a la que <PLAYER> llegó tarde fue <BLANK>.",
+            "v": "Lo último a lo que <PLAYER> llegó tarde fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La última cosa a la que <PLAYER> llegó tarde fue <BLANK>.",
+            "s": "[category=host]The last thing <PLAYER> was late for was <BLANK>.",
             "t": "A",
             "v": "627747_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Elmo,Mary Poppins,Sonic,Super Mario,Tony the Tiger,Homer Simpson,Alexa,The Incredible Hulk,Google Maps,Sherlock Holmes,Aunt Jemima,Bugs Bunny,Bob the Builder,Siri,Cailou,Jurassic Park,Spider-Man,Ronald McDonald",
+            "v": "Elmo,Mary Poppins,Sonic,Super Mario,el tigre Tony,Homero Simpson,Alexa,El Increíble Hulk,Google Maps,Sherlock Holmes,Bob Esponja,Bugs Bunny,Bob el constructor,Siri,Cailou,Parque Jurásico,Spider-Man,Ronald McDonald",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pickachu,pikachew,pikachew",
+            "v": "pickachu,pikachú,Pikachú",
             "n": "AlternateSpellings"
         },
         {

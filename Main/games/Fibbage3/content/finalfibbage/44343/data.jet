@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dog|serious petting,butt|to quit,son|a hobby,mouth|a scrubbing,head|a brain,mom|a gun,cat|to die,sister|to mind her business,purse|more pockets,nose|a finger,libido|some cold water,house|some loving,shoe|a sock,bedroom|some action,kid|to shut up,teacher|to stop flirting,sandwich|horse meat,bikini zone|some attention",
+            "v": "mascota|acariciada,nalga|azotada,hija|doctora,boca|purificada,cabeza|transplantada de cerebro,mamá|una pistolera,rata|asesinada,hermana|consecuente,mochila|más útil,nariz|un dedo,libido|enfriada,casa|tratada con cariño,zapatilla|pulida,habitación|usada para el amor,niña|callada,profesora|más valorada,sándwich|de carne de caballo,zona del bikini|atendida",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Tienes una \"backpfeifengesicht\"? Es alemán, se traduce a \"una <BLANK> que necesita ser <BLANK>\".",
+            "v": "¿Tienes una \"Backpfeifengesicht\"? Es alemán, se traduce como \"una <BLANK> que necesita ser <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "face|a punch",
+            "v": "faz|golpeada",
             "n": "AlternateSpellings"
         },
         {

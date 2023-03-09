@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bed,the shower,heaven,a phone booth,your mother’s bed,arguments,hilarious scrapes,the horse carcass,the boxing ring,the hot tub,the meat locker,the swamp,the fertility clinic,underpants,a sandbox,Yale,a night club,jail",
+            "v": "la cama,la ducha,el cielo,una cabina telefónica,la cama de tu madre,discusiones,rasguños hilarantes,el cadáver de un caballo,el ring de boxeo,el jacuzzi,la cámara frigorífica,el pantano,la clínica de fertilidad,los calzoncillos,un arenero,la universidad,un club nocturno,la cárcel",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si eres un joven punk tratando de decirle a tus ancianos qué hacer, puede que te regañen con una frase rusa que se traduce como \"No intentes entrar en <BLANK> por delante de tu padre.\"",
+            "v": "Si eres un joven vándalo tratando de decirle a tus mayores qué hacer, puede que te regañen con una frase rusa que se traduce como \"No intentes entrar en <BLANK> antes que tu padre\".",
             "n": "QuestionText"
         },
         {

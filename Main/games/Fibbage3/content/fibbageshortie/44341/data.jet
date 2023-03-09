@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "calligraphy,boxing,time traveling,rodeo,binge eating,kite flying,spelunking,weather,card counting,lumberjack,opera singing,whaling,pottery,wig making,speedwalking,Guys Named Ben,lasso,robotics",
+            "v": "Caligrafía,Boxeo,Viajes en el tiempo,Rodeo,Atracones de comida,Vuelo de cometas,Espeleología,Meteorología,Conteo de cartas,Leñadores,Canto de ópera,Caza de ballenas,Cerámica,Fabricación de pelucas,Caminata,Tipos que se llaman Benjamin,Lazo,Robótica",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En honor a uno de sus logros menos reconocidos, Ben Franklin fue ingresado en 1968 al Salón Internacional de la Fama de <BLANK>.",
+            "v": "En honor a uno de sus logros menos reconocidos, Benjamin Franklin fue ingresado en 1968 al Salón Internacional de la Fama de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Swim",
+            "v": "Nado",
             "n": "AlternateSpellings"
         },
         {

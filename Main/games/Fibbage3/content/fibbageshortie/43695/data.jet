@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "napkins,puppies,socks,scarves,a rat,yogurt,underwear,DVDs,a halo,hummus,a tiny hat,candy,a crown,the Bible,ketchup,dollar bills,weights,aluminum foil",
+            "v": "servilletas,cachorros,calcetines,bufandas,una rata,yogur,ropa interior,DVDs,un halo,hummus,un sombrero pequeño,caramelos,una corona,la biblia,kétchup,billetes de dólar,pesas,papel de aluminio",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En febrero de 2017, la policía británica tuvo que terminar una pelea en un tren que comenzó luego de que ciertos pasajeros no pararan de colocar <BLANK> en la cabeza de otro pasajero.",
+            "v": "En febrero de 2017, la policía del Reino Unido tuvo que disolver una pelea en un tren que comenzó luego de que ciertos pasajeros no pararan de colocar <BLANK> en la cabeza de otro pasajero.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a bagel,parts of a bagel,bagel pieces",
+            "v": "un bagel,partes de un bagel,trozos de bagel",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Vaca,Camión,Edificio,Danza,Enemiga,Agolpamiento,Presidenta,Diabla,Godzilla,Con un Tanque,Diarrea,Momia,Fantasma,De otro Señor,Thor,Árbol,Viaje en el Tiempo,Muñeco de Nieve",
+            "v": "vaca,camioneta,edificio,baile,enemiga,enamorada,presidenta,diabla,Godzilla,con un tanque,diarrea,momia,fantasma,de otro señor,Thor,árbol,viaje en el tiempo,muñeco de nieve",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Del 2011 al 2013, había una telenovela en India con un título inusual que se traducía como <i>Hermana Mayor <BLANK><\/i>.",
+            "v": "Del 2011 al 2013, hubo una telenovela india con un título inusual que se traducía como <i>La tía <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {

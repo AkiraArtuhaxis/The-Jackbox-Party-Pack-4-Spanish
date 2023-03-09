@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "ugly people,a snake,commoners,a memory,big hairy bear,your hand,your own grandma,boiled cabbage,an evil witch,bad vodka,some jerk,a snowstorm,a skeleton,a pair of underwear,the devil,mud,a scarecrow,a snowman",
+            "v": "la gente fea,una serpiente,los plebeyos,un recuerdo,un gran oso peludo,tu mano,tu propia abuela,el repollo hervido,una bruja malvada,un vodka de mala calidad,un imbécil,una tormenta de nieve,un esqueleto,un calzoncillo,el diablo,el barro,un espantapájaros,un muñeco de nieve",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "El mal de amor",
+            "v": "El amor es malvado",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La traducción literal rusa a la expresión \"El amor es ciego\" sería \"El amor es malvado; amarás incluso <BLANK>.\"",
+            "v": "La traducción literal rusa de la expresión \"El amor es ciego\" es \"El amor es malvado; amarás incluso a <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cabra,cabras",
+            "v": "cabra,las cabras",
             "n": "AlternateSpellings"
         },
         {

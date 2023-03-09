@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "people on the internet,deliverymen,themselves,werewolves,Justin Bieber fans,party clowns,robots,territorial raccoons,Walmart greeters,angry geese,mormons,land sharks,drones,Bigfoot,wiretapping,Charlie Sheen,ninjas,radio DJs",
+            "v": "gente de internet,repartidores,ellos mismos,hombres lobo,fanáticos de Justin Bieber,payasos,robots,mapaches territoriales,saludadores de Walmart,gansos enojados,mormones,tiburones terrestres,drones,pie grande,escuchas telefónicas,Charlie Sheen,ninjas,DJs de radio",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un saludo de Trump",
+            "v": "un apretón de manos de Trump",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La Academia de Jiu-Jitsu de Relson Gracie publicó un video educativo sobre cómo protegerte contra <BLANK>.",
+            "v": "La Academia de Jiu-Jitsu de Relson Gracie publicó un video instructivo sobre cómo protegerse contra <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a Donald Trump handshake,a handshake from Trump,a handshake from Donald Trump",
+            "v": "un apretón de manos de Donald Trump,un apretón de manos de parte de Trump,un apretón de manos de parte de Donald Trump",
             "n": "AlternateSpellings"
         },
         {

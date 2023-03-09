@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "un viaje al shopping,un tour en helicóptero por San Diego,abrazar cachorritos,un buen masaje,Asado,helado con chispitas,break dancing",
+            "v": "un viaje al centro comercial,un tour en helicóptero,abrazar cachorritos,un buen masaje,asado,helado con chispitas,bailar breakdance",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "A tu día perfecto no le podría faltar <BLANK>.",
+            "v": "En tu día perfecto definitivamente no puede faltar <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A un día perfecto en la vida de <PLAYER> nunca le faltaría <BLANK>.",
+            "v": "En el día perfecto de <PLAYER> definitivamente no puede faltar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]A un día perfecto en la vida de <PLAYER> nunca le faltaría <BLANK>.",
+            "s": "[category=host]A perfect day for <PLAYER> would definitely include <BLANK>.",
             "t": "A",
             "v": "611465_0",
             "n": "QuestionAudio"

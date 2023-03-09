@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hot tub,cowboy hat,car collection,Christmas lights,circus,silo,snowman village,driveway,bathroom,crop circles,dogs,lighthouse beacon,golf course,truck,arcade,hologram,book store,grand piano",
+            "v": "jacuzzi,sombrero de vaquero,colección de autos,iluminación navideña,circo,granero,pueblo de los muñecos de nieve,calzada,baño,círculo de cultivo,perro,faro de la luz,campo de golf,camión,arcade,holograma,librería,piano de cola",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El tejano Jimmie Luecke es único en que puedes ver su <BLANK> desde el espacio.",
+            "v": "El tejano Jimmie Luecke es único porque se puede ver su <BLANK> desde el espacio.",
             "n": "QuestionText"
         },
         {

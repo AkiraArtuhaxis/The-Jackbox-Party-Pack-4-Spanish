@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Llevar blanco en un casamiento que no era el mío,Llamar a mi ex por el nombre de otro ex,Seguir los consejos de mi padre,Clonar un T. Rex,Gastar un año en lecciones de acordeón,Pagar $1000 por un frisbee,Intentar abrazar un tiburón",
+            "v": "Vestir de blanco en un casamiento que no era el mío,Llamar a un ex por el nombre de otro ex,Seguir los consejos de mi padre,Clonar un tiranosaurio,Asistir un año en lecciones de acordeón,Pagar 100 dólares por un bumerán,Intentar abrazar a un tiburón",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es una de las cosas más estúpidas que has hecho?",
+            "v": "¿Cuál es una de las cosas más tontas que has hecho?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las cosas más estúpidas que <PLAYER> ha hecho fue <BLANK>.",
+            "v": "Una de las cosas más tontas que <PLAYER> ha hecho fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una de las cosas más estúpidas que <PLAYER> ha hecho fue <BLANK>.",
+            "s": "[category=host]One of the dumbest things <PLAYER> has ever done was <BLANK>.",
             "t": "A",
             "v": "620329_0",
             "n": "QuestionAudio"

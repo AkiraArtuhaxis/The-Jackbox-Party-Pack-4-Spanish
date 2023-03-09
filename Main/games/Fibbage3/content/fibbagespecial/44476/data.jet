@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "My son,Climate change,Robert Pattinson,Lost,The Office,30 Rock,Alec Baldwin’s hair,Newspapers,My computer,Pizza Hut pizza,Sequins,America,Memes,the things kids are into these days,donuts these days,action movies,my marriage,Iceland",
+            "v": "mi hijo,el cambio climático,Robert Pattinson,Lost,The Office,Orange Is the New Black,el pelo de Alec Baldwin,los periódicos,mi computador,la pizza de Pizza Hut,las lentejuelas,Estados Unidos,los memes,las cosas que les gustan a los niños hoy en día,las rosquillas hoy en día,las películas de acción,mi matrimonio,Islandia",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cher tuiteó: “¿Qué está pasando con <BLANK>”?",
+            "v": "Cher tuiteó: “¿Qué está pasando con <BLANK>?”.",
             "n": "QuestionText"
         },
         {

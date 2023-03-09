@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "ghosts,meat grinders,farts,toilets,cotton candy,popcorn,child killing machines,hot tubs,aqua movies,fire,smells,poison,broccoli,yam farms,insect colonies,garbage,bathing,mold",
+            "v": "fantasmas,picadoras de carne,pedos,inodoros,algodón de azúcar,palomitas de maíz,matanza de niños,jacuzzis,películas acuáticas,fuego,olores,veneno,brócoli,granjas de papa dulce,colonias de insectos,basura,baño,moho",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta patente es para <BLANK> interactivo/a.",
+            "v": "Esta patente es para la máquina de <BLANK> que permite la interacción.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mist,vapor,steam,soup",
+            "v": "neblina,vapor,sopa",
             "n": "AlternateSpellings"
         },
         {

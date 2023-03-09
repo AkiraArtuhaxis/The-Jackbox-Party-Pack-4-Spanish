@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "John Candy,el trabajo duro,la electricidad,la lealtad,una buena receta de pastel,el valor de suprimir tus emociones,el oro",
+            "v": "John Candy,el trabajo duro,la electricidad,la lealtad,una buena receta de pastel,el valor de reprimir las emociones,el oro",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "La gente más joven que tú no aprecia lo que es <BLANK>.",
+            "v": "La gente más joven que tú ni siquiera aprecia <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La gente más joven que <PLAYER> no aprecian <BLANK>.",
+            "v": "La gente más joven que <PLAYER> ni siquiera aprecia <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La gente más joven que <PLAYER> no aprecian <BLANK>.",
+            "s": "[category=host]People younger than <PLAYER> just don’t appreciate <BLANK>.",
             "t": "A",
             "v": "625887_0",
             "n": "QuestionAudio"

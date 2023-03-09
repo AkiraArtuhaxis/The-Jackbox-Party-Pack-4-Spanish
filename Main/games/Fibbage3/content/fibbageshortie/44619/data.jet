@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "tourists,dining options,stray cats,free massages,rude monkeys,people giving out free hugs,Tim Allen impersonators,Starbucks,baseball games,ways to eat seafood,beaches,bugs,crabs,zombies,in-jokes he didn’t get,rainbows,cooks,cell phones",
+            "v": "turistas,opciones gastronómicas,gatos callejeros,masajes gratis,monos maleducados,gente que regalaba abrazos,imitadores de Tim Allen,Starbucks,partidos de béisbol,formas de comer marisco,playas,insectos,cangrejos,zombis,chistes internos que no entendió,arcoíris,cocineros,celulares",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2013, un canadiense demandó a la República Dominicana porque mientras estaba de vacaciones allí, hubieron demasiados <BLANK>.",
+            "v": "En 2013, un canadiense demandó a la República Dominicana porque mientras estaba de vacaciones allí, hubo <BLANK> en demasía.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "days when it rained",
+            "v": "días lluviosos",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a green dude she met,a game of Mad Libs,her job at the morgue,one crazy bachelor party,classic Hollywood films,Ben Franklin,big idiots,Nikola Tesla,her uncle Frank,the first successful limb transplant,herself,a Polish myth,dumb men,a stitched together puppet,her huge husband,a chicken with its head cut off,vodka,a dog that came back to life",
+            "v": "un tipo verde que conoció,un juego de Mad Libs,su trabajo en la morgue,una despedida de soltero loca,películas clásicas de Hollywood,Ben Franklin,grandes idiotas,Nikola Tesla,su tío Frank,el primer trasplante de extremidades con éxito,ella misma,un mito polaco,hombres tontos,un títere cosido,su enorme marido,un pollo sin cabeza,vodka,un perro que volvió a la vida",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el prefacio de Mary Shelley para <i>Frankenstein<\/i> de 1831, la autora explica que la novela fue inspirada en <BLANK>.",
+            "v": "En el prefacio de Mary Shelley para <i>Frankenstein<\/i> de 1831, la autora explica que la novela se inspiró en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "frogs’ legs,frog’s legs,a frog’s legs,dead frogs,a dead frog,frogs,frog,a frog",
+            "v": "rana,ranas,sapo,sapos,patas de sapo,pata de rana,pata de sapo,ranas muertas,una rana muerta,una rana,un sapo,sapos muertos,un sapo muerto",
             "n": "AlternateSpellings"
         },
         {

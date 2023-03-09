@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a godzilla,a Amelia Earhart,la inocencia,la fuente de la juventud,a usted mismo,un próspero video de Blockbuster,una mariposa gigante,un tesoro pirata con descuento,unpequeño samurái,sirenas reales,a los mal nacidos,los volcanes de chocolate,los mejores gatos,a Jimmy Hoffa,los registros de impuestos de Trump,el secreto para bajar de peso,solteros calientes,el mono más alto del mundo",
+            "v": "Godzilla,Amelia Earhart,la inocencia,la fuente de la juventud,a usted mismo,un próspero video de Blockbuster,una mariposa gigante,un tesoro pirata con descuento,un pequeño samurái,sirenas reales,a los mal nacidos,los volcanes de chocolate,los mejores gatos,a Jimmy Hoffa,los registros de impuestos de Trump,el secreto para bajar de peso,solteros calientes,el mono más alto del mundo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La ciudad japonesa de Aomori afirma ser única porque es donde encontrarás <BLANK>.",
+            "v": "La ciudad japonesa de Aomori afirma ser única porque en ella se encuentra <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Jesús, a Jesus,Jesucristo, a Jesucristo,la tumba de Jesús,la tumba de Jesus,la tumba de Cristo,la tumba de Dios,los restos de Jesús,los huesos de Jesús,los huesos de Jesus,los huesos de Jesucristo,los huesos de Cristo",
+            "v": "Jesús,a Jesús,Jesucristo,a Jesucristo,la tumba de Jesús,la tumba de Jesus,la tumba de Cristo,la tumba de Dios,los restos de Jesús,los huesos de Jesús,los huesos de Jesus,los huesos de Jesucristo,los huesos de Cristo",
             "n": "AlternateSpellings"
         },
         {

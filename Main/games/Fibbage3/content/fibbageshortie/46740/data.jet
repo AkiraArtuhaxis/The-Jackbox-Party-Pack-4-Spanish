@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "death,getting listed as a sex offender,a kegger thrown in your honor,being the Police Chief’s butler,waterboarding,a Shia LaBeouf marathon,getting force-fed a whole goose,paying for the cops’ bar tabs,a butthole waxing,10 years in the salt mines,driving taxis pro bono,getting an “I’m Dumb” tattoo,eating candy corn,being thrown to the police dogs,babysitting Gretchen,a purple nurple,getting stabbed once,a disapproving look",
+            "v": "la muerte,ser incluido en la lista de delincuentes sexuales,una fiesta en tu honor,ser el mayordomo del jefe de policía,ahogamiento simulado,un maratón de Shia LaBeouf,ser alimentado a la fuerza con un ganso entero,pagar las cuentas del bar de los policías,una depilación de trasero,10 años en las minas de sal,conducir taxis gratuitamente,hacerse un tatuaje de \"Soy idiota\",comer caramelos de maíz,ser arrojado a los perros de la policía,cuidar a Gretchen,un pellizco de pezón,ser apuñalado una vez,una mirada de desaprobación",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El departamento de policía de Kensington, Canadá se disculpó públicamente en 2016 por su anuncio de que el nuevo castigo por conducir bajo la influencia sería <BLANK>.",
+            "v": "El departamento de policía de Kensington, Canadá, se disculpó públicamente en 2016 por su anuncio de que el nuevo castigo por conducir bajo la influencia del alcohol sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Nickelback",
+            "v": "escuchar Nickelback,Nickelback",
             "n": "AlternateSpellings"
         },
         {

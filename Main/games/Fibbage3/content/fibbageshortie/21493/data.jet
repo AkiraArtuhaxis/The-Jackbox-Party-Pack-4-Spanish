@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "building legos,business men to fight in,people named Tom,people in button up shirts,uncles,nuns to worship in,sumo wrestlers,the Seattle Mariners,clowns to practice their act,protestors,teachers to laugh in,bored toddlers,sous chefs,chickens,hotel managers,working magicians,undercover investigators,ugly men",
+            "v": "construir legos,que los hombres de negocios peleen,gente que se llama Tom,gente con camisas abotonadas,tíos,que las monjas oren,luchadores de sumo,los Seattle Mariners,payasos que van a practicar su acto,manifestantes,que los profesores se rían,niños aburridos,subjefes de cocina,pollos,directores de hoteles,magos de profesión,investigadores encubiertos,hombres feos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "mujeres que quieren llorar",
+            "v": "que las mujeres lloren",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando visiten Tokyo, pasen por el encantador hotel Mitsui Garden Yotsuya, donde puedes alquilar una habitación específicamente para <BLANK>.",
+            "v": "Cuando visiten Tokio, pasen por el encantador hotel Mitsui Garden Yotsuya, donde puedes alquilar una habitación específicamente para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "girls to cry in,crying women,crying girls,crying,you to cry in,weeping,women’s crying,women crying",
+            "v": "que las chicas lloren,mujeres lloronas,chicas lloronas,llorar,que tú llores,sollozar,mujeres que lloran,mujeres llorando",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "flamethrower,samurai sword,magician’s wand,Gameboy,yo-yo,boomerang,bucket of candy,robot sidekick,“Hug Me” sign,catcher’s mitt,laser pointer,machete,ghost partner,roll of quarters,Super Soaker,magic amulet,utility belt,surface-to-air missle",
+            "v": "un lanzallamas,una espada samurái,una varita mágica,un Gameboy,un yoyo,un búmeran,un cubo con dulces,un compañero robot,un cartel de \"Abrázame\",un guante de receptor de béisbol,un puntero láser,un machete,un compañero fantasmal,un fajo de dinero,una pistola de agua,un amuleto mágico,un cinturón de seguridad,un misil anti-aéreo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "muñeco de ventriloquía",
+            "v": "un muñeco de ventriloquía",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El policía de San Francisco Bob Geary tuvo que conseguir un permiso oficial de los votantes de la ciudad para llevar un <BLANK> mientras estaba en servicio.",
+            "v": "Bob Geary, un policía de San Francisco, tuvo que conseguir un permiso especial de los votantes de la ciudad para transportar <BLANK> mientras estaba en servicio.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "dummy,puppet,vent figure,ventriloquist dummy,ventriloquist dummie",
+            "v": "muñeco,títere,marioneta,figura,muñeco de ventrílocuo,marioneta de ventrílocuo,muñeco de ventrilocuo,marioneta de ventrilocuo,un muñeco,una marioneta,una figura,un muñeco de ventrílocuo,una marioneta de ventrílocuo,un muñeco de ventrilocuo,una marioneta de ventrilocuo",
             "n": "AlternateSpellings"
         },
         {

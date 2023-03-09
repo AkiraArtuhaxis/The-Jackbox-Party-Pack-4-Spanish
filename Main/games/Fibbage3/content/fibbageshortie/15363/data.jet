@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "witchcraft,horse stealing,loitering,ruckmaking,treason,tavern deception,communism,false land ownership,public decency,insulting a king,fish theft,singing off key,sorcery,tight pants,multiple divorce,fish robbery,impersonating a waiter,undercooking steak",
+            "v": "brujería,robo de caballos,vagar,difamación,traición,fraude en una taverna,comunismo,falsa propiedad de tierras,decencia pública,insultar a un rey,robo de peces,cantar fuera de tono,hechicería,pantalones apretados,divorcio múltiple,hurto de peces,hacerse pasar por un mesero,cocer apenas una carne",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1938, el cantante Frank Sinatra fue arrestado por el cargo inusual de <BLANK>.",
+            "v": "En 1938, el cantante Frank Sinatra fue arrestado por el insólito cargo de <BLANK>.",
             "n": "QuestionText"
         },
         {

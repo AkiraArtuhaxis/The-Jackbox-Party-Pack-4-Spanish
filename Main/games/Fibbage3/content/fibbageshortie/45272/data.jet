@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "collect bribes,live forever,declare national holidays,pay prostitutes,ban types of hats,control the weather,murder orphans,speak to animals,censor music,declare a queen,change citizens’ names,commit one crime per year,execute musicians,create a national religion,read your diary,set milk expiration dates,duel foreign ambassadors,cancel Christmas",
+            "v": "cobrar sobornos,vivir para siempre,declarar fiestas nacionales,pagar a prostitutas,prohibir tipos de sombreros,controlar el tiempo,asesinar huérfanos,hablar con animales,censurar música,declarar una reina,cambiar los nombres de los ciudadanos,cometer un crimen al año,ejecutar músicos,crear una religión nacional,leer tu diario,fijar fechas de caducidad de la leche,batirse a duelo con embajadores extranjeros,cancelar la Navidad",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cláusula 11 del artículo 1, apartado 8 de la Constitución de los Estados Unidos, otorga al Congreso el poder de declarar la guerra. Sorprendentemente, también les otorga el poder de <BLANK>.",
+            "v": "La cláusula 11 del artículo 1, sección 8 de la Constitución de Estados Unidos otorga al Congreso el poder de declarar la guerra. Sorprendentemente, también les otorga poder para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "recruit pirates,use pirates,employ pirates",
+            "v": "reclutar piratas,usar piratas,emplear piratas",
             "n": "AlternateSpellings"
         },
         {

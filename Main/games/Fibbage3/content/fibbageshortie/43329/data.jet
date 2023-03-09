@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dog bites,cat scratches,unwanted bulges,hot laptops,urination,paddles,smelly farts,snakes,pickpockets,humiliation,saggy bottom,perverts,water,ferrets,sunburn,getting crabs,dead phone batteries,pooping their pants",
+            "v": "mordidas de perros,rasguños de gatos,bultos no deseados,portátiles calientes,orina,palas,pedos malolientes,serpientes,carteristas,humillación,trasero caído,pervertidos,agua,hurones,quemadura de sol,contagiarse de ladillas,baterías de teléfono agotadas,cagarse en los pantalones",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si eres un posible comprador de calzoncillos masculinos, una compañía llamada Spartan diseña su ropa interior para protejer a su portador de <BLANK>.",
+            "v": "Si eres un posible comprador de calzoncillos masculinos, una empresa llamada Spartan diseña su ropa interior para protejer al usuario de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "WiFi and cellphone radiation,wifi,wifi radiation,radiation,cellphone radiation,cellphones,cell phones,cell phone radiation,phone radiation,smartphone radiation,smartphones,smart phone radiation,cellphone and wifi radiation",
+            "v": "radiación WiFi y celular,WiFi,radiación WiFi,radiación,radiación celular,celulares,celular,radiación de celular,radiación de teléfono,radiación de teléfono inteligente,teléfono inteligente,radiación teléfono inteligente,radiación celular y WiFi",
             "n": "AlternateSpellings"
         },
         {

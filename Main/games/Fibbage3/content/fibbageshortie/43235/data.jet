@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "been sick,flown a plane,been to California,made prank calls,eaten processed foods,picked up hitchhikers,played video games,cried,driven a car,lied about her age,microwaved food,eaten sugar cereal,woken up after 7AM,asked a man out,worn sweatpants,laughed at the poor,dunked a basketball,donated to charity",
+            "v": "estado enferma,volado en avión,estado en California,hecho llamadas de broma,comido comida procesada,llevado a mochileros,jugado videojuegos,llorado,conducido un auto,mentido sobre su edad,calentado comida en el microondas,comido cereal dulce,despertado después de las 7 AM,invitó a salir a un hombre,usó pantalones de deporte,reído en la cara de los pobres,encestado en baloncesto,donado a la caridad",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "golpeada por un rayo",
+            "v": "sido golpeada por un rayo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, Martha Stewart hizo la sorprendente confesión de que fue <BLANK> tres veces.",
+            "v": "En 2017, Martha Stewart hizo la sorprendente confesión de que ha <BLANK> tres veces.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "been struck by lightning,gotten hit by lightning,gotten struck by lightning,been hit by lightening",
+            "v": "sido golpeada por rayos,sido golpeada con un rayo",
             "n": "AlternateSpellings"
         },
         {

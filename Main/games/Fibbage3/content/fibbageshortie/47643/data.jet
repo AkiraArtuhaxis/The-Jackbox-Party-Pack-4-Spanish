@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fingernails,clothing,teeth,back hair,mustaches,blood,children,inhibitions,eyelids,brains,third eye,warts,creditors,breakfast,iPhones,porch swings,clocks and watches,hair products",
+            "v": "uñas,ropas,dientes,pelos de la espalda,bigotes,torrentes sanguíneos,niños,inhibiciones,párpados,cerebros,terceros ojos,verrugas,acreedores,desayunos,iPhones,columpios de porche,relojes,productos para el cabello",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Bayard Holmes y Henry Cotton tenían un método inusual para tratar la esquizofrenia de sus pacientes: deshacerse de su/s <BLANK>.",
+            "v": "Bayard Holmes y Henry Cotton tenían un método inusual para tratar la esquizofrenia de sus pacientes: deshacerse de sus <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "organs,guts,intestine,colon,colons,gut",
+            "v": "órganos,tripas,intestino,cólon,colones,tripa",
             "n": "AlternateSpellings"
         },
         {

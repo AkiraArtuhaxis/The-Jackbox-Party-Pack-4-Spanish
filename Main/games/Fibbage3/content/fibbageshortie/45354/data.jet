@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Scissors,Sticky tack,Tic-Tacs,Hair nets,Blenders,Video tape,Etch-A-Sketch,Monopoly,Scattergories,The Rocking Horse,The Rubix Cube,Snickerdoodles,Wishbone the dog,Boomboxes,Kool-Aid,Fire hydrants,the Easter Bunny,Mensa",
+            "v": "las tijeras,las chinchetas,el Tic-Tac,las mallas para el pelo,las batidoras,las cintas de video,la pizarra mágica,el Monopoly,la juego de batalla naval,el caballo balancín,el cubo de Rubik,los rollos de canela,al Oso Yogui,las radiocaseteras,el jugo en polvo,las bocas de incendios,al conejo de Pascua,los huevos de chocolate",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Los monos marinos",
+            "v": "los monos marinos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Harold Von Braunhut era un supremacista blanco que le prestó miles de dólares a grupos de odio. Pero extrañamente, también inventó <BLANK>.",
+            "v": "Harold Von Braunhut era un supremacista blanco que le prestó miles de dólares a grupos de odio. Pero, curiosamente, también inventó <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Sea monkies,See monkeys,sea-monkeys",
+            "v": "los monos marineros,los monos de mar,los monos marítimos",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "All About That Bass,el jingle de Serenito,Mambo #5,PatoAventuras ¡WooHoo!,My Humps,Gangnam Style,Call Me Maybe",
+            "v": "Barbie Girl,Aserejé,El gato volador,la canción de Dora la exploradora,Baby Shark,Gangnam Style,Macarena",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La canción más tonta que a <PLAYER> se le quedó en la cabeza fue \u201c<BLANK>.\u201d",
+            "v": "La canción más tonta que a <PLAYER> se le quedó en la cabeza fue “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La canción más tonta que a <PLAYER> se le quedó en la cabeza fue <BLANK>",
+            "s": "[category=host]The dumbest song <PLAYER> has had stuck in their head was <BLANK>",
             "t": "A",
             "v": "688059_0",
             "n": "QuestionAudio"

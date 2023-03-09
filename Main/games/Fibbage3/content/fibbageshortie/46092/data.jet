@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "love me,catch on fire,get naked,live like a boss,forgive me,marry me,shut up,bathe,get fat,relax,run away with me,die alone,forget about that awkward moment,live forever,touch me,sing to me,get the giggles,use the bathroom",
+            "v": "amarme,prenderte fuego,desnudarte,tener una vida lujosa,perdonarme,casarte conmigo,callarte,bañarte,engordar,relajarte,escapar conmigo,morir en soledad,olvidar ese momento incómodo,vivir para siempre,tocarme,cantarme,reírte,ir al baño",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Parte de la popularidad de KitKat en Japón viene de que su nombre suena como la frase japonesa “kitto katsu”, lo cual se traduce aproximadamente a \"seguro que vas a <BLANK>\".",
+            "v": "Parte de la popularidad de KitKat en Japón se debe a que su nombre suena como la frase japonesa “kitto katsu”, que se traduce aproximadamente como \"seguro que vas a <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "be a winner,succeed,pass",
+            "v": "ser un ganador,tener éxito,pasar,tener exito",
             "n": "AlternateSpellings"
         },
         {

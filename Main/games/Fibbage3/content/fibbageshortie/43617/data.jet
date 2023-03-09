@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "love,private jet,yacht,Macy’s spending account,Bengal tiger,art collection,dinosaur fossil,designer shoes,magical amulet,Lamborghinis,hair,gym membership,backrubs,breast implants,original songs,personal chef,baby,life-size statue of her",
+            "v": "el amor,el jet privado,el yate,lo que había gastado en Walmart,el tigre de Bengala,la colección de arte,el fósil de dinosaurio,los zapatos de diseñador,el amuleto mágico,los Lamborghinis,la membresía al gimnasio,los masajes,los implantes mamarios,las canciones originales,el chef personal,el bebé,la estatua a tamaño real de ella",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "riñón",
+            "v": "el riñón",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un médico de Long Island demandó a su exesposa, exigiendo que le pague 1,5 millones de dólares o devuelva el <BLANK> que le había dado.",
+            "v": "Un médico de Long Island demandó a su ex esposa, exigiendo que le pague 1,5 millones de dólares o le devuelva <BLANK> que le había dado.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "donated kidney",
+            "v": "el riñón donado",
             "n": "AlternateSpellings"
         },
         {

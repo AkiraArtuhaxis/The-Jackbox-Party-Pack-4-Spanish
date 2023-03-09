@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "rabbit head|boar,patch|man-purse,ribbon|tunic,shark tooth|hat,tag|pair of underwear,warning|diseased child,dagger sheath|boddice,wig|man’s scalp,sausage|shield,kitten|hat,dress|nice dress,peasant|nobleman,feather|dog,cheese wheel|cow udder,horn|horse head,piece of armor|bull,wig|pig,cape|pair of underwear",
+            "v": "conejo|un jabalí,parche|una billetera,listón|una túnica,diente de tiburón|un sombrero,etiquetado|la ropa interior,aviso|un niño enfermo,recubrimiento de daga|un corpiño,peluquín|una cabellera de hombre,chorizo|un escudo,gatito|un sombrero,vestido|un buen vestido,campesino|un noble,plumaje|un perro,queso|una ubre de vaca,cuerno|una cabeza de caballo,pedazo de armadura|un toro,peluquín|un cerdo,abrigo|la ropa interior",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "cerdo|pollo",
+            "v": "cerdo|un pollo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Inventado en la Edad Media, un \"cockentryce\" es un <BLANK> cosido en un <BLANK>.",
+            "v": "Inventado en la Edad Media, un \"cockentryce\" es <BLANK> cosido a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "chicken|pig,pig|turkey,turkey|pig",
+            "v": "pollo|un cerdo,cerdo|un pavo,pavo|un cerdo",
             "n": "AlternateSpellings"
         },
         {

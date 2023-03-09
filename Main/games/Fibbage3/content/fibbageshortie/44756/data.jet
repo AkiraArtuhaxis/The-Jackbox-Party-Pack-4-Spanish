@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "circus orphans,snakes,fruit trees,anteaters,celebrity memorabilia,haunted dolls,Reeboks,lizards,sandwiches,trash cans,evidence,roller skates,VCRs,spare time,Olympic athletes,mummys,tall people,video games",
+            "v": "huérfanos de circo,serpientes,árboles frutales,osos hormigueros,recuerdos de famosos,muñecas encantadas,Reeboks,lagartos,sándwiches,cubos de basura,evidencia,patines,videograbadoras,tiempo libre,atletas olímpicos,momias,gente alta,videojuegos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una organización benéfica particular llamada Longhopes le encuentra hogares a <BLANK> no deseados.",
+            "v": "Una organización benéfica única de Colorado llamada Longhopes le encuentra hogares a <BLANK> no deseados.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "donkies",
+            "v": "asnos",
             "n": "AlternateSpellings"
         },
         {

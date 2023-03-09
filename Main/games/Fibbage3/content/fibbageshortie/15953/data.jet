@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hug,haircut,Wayne’s World poster,signed poster of Austin Powers,funny voicemail,high five,prayer,ticket to SNL,Shrek lunchbox,ukelele,million dollars,Dana Carvey autograph,high-five,small loan,gig,piggyback ride,compliment,bottle of ketchup",
+            "v": "un abrazo,un corte de pelo,un póster de El mundo según Wayne,un póster firmado de Austin Powers,un buzón de voz divertido,un choca los cinco,una plegaria,un boleto para SNL,una lonchera de Shrek,un ukelele,un millón de dólares,un autógrafo,un préstamo pequeño,un concierto,un paseo a caballito,un cumplido,una botella de kétchup",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Muñeco de sí mismo",
+            "v": "un muñeco de Mini-Me",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La última carta que el guitarrista de los Beatles George Harrison envió, fue al comediante Mike Myers, en donde le pidió un/una <BLANK>.",
+            "v": "La última carta que envió el guitarrista de los Beatles, George Harrison, fue al comediante Mike Myers, en la que le pidió <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mini-me,minime,minime doll,minime action figure,mini-me action figure,mini-me toy,minime toy,mini me doll,mini me action figure,mini me toy",
+            "v": "mini-me,minime,muñeco de minime,figura de acción de minime,juguete de minime,muñeco minime,figura de acción minime,juguete minime",
             "n": "AlternateSpellings"
         },
         {

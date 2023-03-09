@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "olive oil,water touched by Ghandi,shampoo,expired orange juice,mustard,fresh air,hair gel,pure oxygen,cheap cologne,melted ice,New Coke,Jim Carrey’s cologne,Kanye West’s leftover water,vampire repellant,space air,Dana Carvey’s scent,raw milk,good times",
+            "v": "aceite de oliva,agua tocada por Ghandi,champú,jugo de naranja vencido,mostaza,aire fresco,gel para el cabello,oxígeno puro,colonia barata,hielo derretido,Coca-Cola nueva,colonia de Jim Carrey,agua sin tomar de Kanye West,repelente de vampiros,aire del espacio,escencia de Dana Carvey,leche cruda,buenos tiempos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En enero de 2017, eBay notó cierta actividad sospechosa. Vendedores estaban pidiendo hasta 50 mil dólares a cambio de botellas de <BLANK>.",
+            "v": "En enero de 2017, eBay notó cierta actividad sospechosa. Los vendedores pedían hasta 50.000 dólares por botellas de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sauce for Big Macs,Big Mac’s sauce,McDonald’s sauce,McDonald’s Big Mac sauce",
+            "v": "salsa para Big Macs,salsa Big Mac,salsa de McDonald's,salsa de Big Mac de McDonald's",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Slim Whitman,grillo,sasquatch,hermana mayor,lechera desdentada,carnicero barbudo,oso enfermo,niño débil,tigre enojado,viejo sabio,jabalí gigante,pajarito,nutria,bruja,fantasma del zar, trabajador de la construcción,elfo mágico,fabricante de velas",
+            "v": "Slim Whitman,el grillo,Pie Grande,la hermana mayor,la ordeñadora desdentada,el carnicero barbudo,el oso enfermo,el niño débil,el tigre enojado,el viejo sabio,el jabalí gigante,el ave diminuta,la nutria,la bruja,el fantasma del zar,el trabajador de la construcción,el elfo mágico,el fabricante de velas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "cangrejo",
+            "v": "la langosta",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando algo es realmente improbable, un hablante inglés diría \"Cuando los cerdos vuelen\". El equivalente ruso se traduciría como \"Cuando el/la  <BLANK> silbe en la montaña.\"",
+            "v": "Cuando algo es realmente improbable, un angloparlante diría \"Cuando los cerdos vuelen\". El equivalente ruso se traduciría como \"Cuando <BLANK> silbe en la montaña\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cangrejo,crustáceo",
+            "v": "langosta,langostas,cangrejo,crustáceo",
             "n": "AlternateSpellings"
         },
         {

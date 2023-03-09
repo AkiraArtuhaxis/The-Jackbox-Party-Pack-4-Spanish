@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "el anuario del colegio,foto de graduación,mis dibujos,mi poesía,mi peluche animal de la infancia,una body pillow,una película casera",
+            "v": "el anuario del colegio,foto de graduación,mis dibujos,mi poesía,mi peluche de la infancia,una almohada corporal,una película casera",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la cosa más embarazosa que hay en tu casa en este momento?",
+            "v": "¿Qué es lo más vergonzoso que hay ahora mismo en tu casa?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cosa más embarazosa que encontrarías en la casa de <PLAYER> en este momento es <BLANK>.",
+            "v": "Lo más vergonzoso que encontrarías en la casa de <PLAYER> ahora mismo es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La cosa más embarazosa que encontrarías en la casa de <PLAYER> en este momento es <BLANK>.",
+            "s": "[category=host]The most embarrassing thing you’d find in <PLAYER>’s house right now is <BLANK>.",
             "t": "A",
             "v": "694038_0",
             "n": "QuestionAudio"

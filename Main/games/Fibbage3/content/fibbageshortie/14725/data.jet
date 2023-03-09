@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "un bong,una pistola,un machete,una pipa con cocaína,una escopeta,un sitio porno,un celular,un auto a control remoto,su PS3,un palo saltarín,una prostituta,una máquina de café,un sitio de citas,un gameboy,un deshidratador de alimentos,gafas de rayos X,un rascador de espalda,un sitio de fútbol fantasy",
+            "v": "una pipa de agua,una pistola,un machete,una pipa con cocaína,una escopeta,un sitio porno,un celular,un auto a control remoto,su PS3,un palo saltarín,una prostituta,una máquina de café,un sitio de citas,su Gameboy,un deshidratador de alimentos,gafas de rayos X,un rascador de espalda,un sitio de apuestas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un alargador del pene",
+            "v": "un alargador de pene",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El juez Donald Thompson recibió una condena de 4 años entre las rejas en 2006 luego de ser observado usando <BLANK> durante varios juicios.",
+            "v": "El juez Donald Thompson fue condenado a cuatro años de prisión en 2006 tras ser sorprendido usando <BLANK> durante varios juicios.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "un alargador de pene,alargador de pene,alargapenes,una bomba de vacío para el pene,bomba de vacío para el pene,bomba peniana,una bomba peniana",
+            "v": "un alargador del pene,alargador de pene,alargapenes,una bomba de vacío para el pene,bomba de vacío para el pene,bomba peniana,una bomba peniana,una bomba de vacio para el pene,bomba de vacio para el pene",
             "n": "AlternateSpellings"
         },
         {

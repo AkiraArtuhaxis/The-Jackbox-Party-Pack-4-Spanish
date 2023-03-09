@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "una Quilmes,la jarra loca,Licor de dulce de leche,vino de moras,mucho tequila,un Dr. Lemon,Ferné con coca",
+            "v": "una cerveza,vino caliente,cerveza de frambuesa,piña colada,mucho tequila,Jägermeister,caipirinha",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La primer bebida alcohólica que <PLAYER> probó fue <BLANK>.",
+            "s": "[category=host]The first alcoholic drink <PLAYER> ever tried was <BLANK>",
             "t": "A",
             "v": "690706_0",
             "n": "QuestionAudio"

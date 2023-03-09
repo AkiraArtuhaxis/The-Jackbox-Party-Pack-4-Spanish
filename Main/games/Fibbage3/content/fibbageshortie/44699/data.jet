@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "wasps,cold water,electrical shocks,a rooster,the hounds,warm cookie smell,darts,a dove,sternly worded emails,the sound of a baby crying,Beyonce music,your own snoring,pizza,gasoline,your credit card info,more fire,helium,angry snakes",
+            "v": "avispas,agua fría,descargas eléctricas,un gallo,los sabuesos,olor a galleta recién hecha,dardos,una paloma,correos electrónicos con palabras severas,el sonido del llanto de un bebé,música de Beyoncé,tus propios ronquidos,pizza,gasolina,los datos de tu tarjeta de crédito,más fuego,helio,serpientes enfadadas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "olor fuerte",
+            "v": "gas doloroso",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2009, un equipo de investigación japonés inventó una alarma contra incendios que, en lugar de hacer ruido, lanza un/a <BLANK>.",
+            "v": "En 2009, un equipo de investigación japonés inventó una alarma contra incendios que, en lugar de hacer ruido, libera <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "gas,stinging gas,wasabi gas,wasabi",
+            "v": "gas,gas irritante,gas de wasabi,wasabi",
             "n": "AlternateSpellings"
         },
         {

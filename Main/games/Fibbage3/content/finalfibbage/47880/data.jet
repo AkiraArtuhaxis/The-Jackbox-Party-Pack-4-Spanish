@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "frog|women’s clothes,fork|a piece of cake,monster|your closet,fancy hairstyle|paris,goat|a little dress,robot|rain gear,dinosaur|a pillow fort,mouse|a flannel shirt,real pain|the neck,greaser|a leather jacket,pork bun|a salty broth,wealthy man|a diaper,rare gem|a volcano,dog|funny glasses,candle|a triangular bowl,socket wrench|hot sauce,devil|a red dress,wolf|sheep’s clothing",
+            "v": "una rana|la ropa de mujer,un tenedor|un trozo de tarta,un monstruo|tu armario,un peinado elegante|París,una cabra|una tanga,un robot|ropa impermeable,un dinosaurio|un fuerte de almohadas,un ratón|una camisa de franela,un dolor de verdad|el cuello,un engrasador|una chaqueta de cuero,un bollo de cerdo|un caldo salado,un hombre rico|un pañal,una gema rara|un volcán,un perro|unas gafas graciosas,una vela|un bol triangular,una llave de tubo|salsa caliente,el diablo|un vestido rojo,un lobo|ropa de oveja",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "bola mágica|tu ano",
+            "v": "una bola mágica|tu ano",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En la mitología japonesa, existen monstruos llamados Kappa que siempre están intentando robar \"shirikodama\", que es una <BLANK> en <BLANK>.",
+            "v": "En la mitología japonesa, existen monstruos llamados Kappa que siempre están intentando robar el \"shirikodama\", que es <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "magic ball|your ass,magic ball|your butt,magic ball|your rectum,magic ball|your stomach,magic ball|your asshole,magic ball|a person’s ass,magic ball|a person’s butt,magic ball|a person’s rectum,magic ball|a person’s stomach,magic ball|a person’s asshole,ball|your anus,ball|your ass,ball|your butt,ball|your rectum,ball|your stomach,ball|your asshole",
+            "v": "una bola mágica|tu culo,una bola mágica|tu trasero,una bola mágica|tu recto,una bola mágica|tu estómago,una bola mágica|el ano de una persona,una bola mágica|el culo de una persona,una bola mágica|el trasero de una persona,una bola mágica|el recto de una persona,una bola mágica|el estómago de una persona,una bola|tu ano,una bola|tu culo,una bola|tu trasero,una bola|tu recto,una bola|tu estómago",
             "n": "AlternateSpellings"
         },
         {

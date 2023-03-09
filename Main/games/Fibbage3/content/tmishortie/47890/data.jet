@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si fuera posible conseguir un doctorado en <BLANK>, <PLAYER> lo tendría.",
+            "s": "[category=host]If it were possible to get a PhD in <BLANK>, <PLAYER> would have one.",
             "t": "A",
             "v": "671375_2",
             "n": "QuestionAudio"

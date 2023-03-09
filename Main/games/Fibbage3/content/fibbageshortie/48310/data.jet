@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fall in love,kill a bear,change their name,lose an arm,go broke,get drunk,forget when listing states,buy gum,plan to visit but never go,ask for directions,move away before 30,incorporate a business,start a mink farm,find a dead body,drink only chocolate milk,paint,buy overpriced souvenirs,get nuts",
+            "v": "se enamoran,matan osos,se cambian de nombre,pierden un brazo,quiebran,se emborrachan,se olvidan cuando se hace la lista de estados,compran chicles,planean una visita pero nunca van,piden direcciones,se mudan antes de los 30,constituyen una empresa,montan granjas de visones,encuentran cadáveres,beben solo leche con chocolate,pintan,compran recuerdos caros,enloquecen",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pasan de largo",
+            "v": "sobrevuelan",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según un artículo de octubre de 2014 en <i>Business Insider<\/i>, Virginia es el estado de EE. UU. que más personas cuando vuelan <BLANK>.",
+            "v": "Según un artículo publicado en octubre de 2014 en <i>Business Insider<\/i>, Virginia es el estado de EE. UU. que más <BLANK> las personas.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "not land in,not stop in,flyover,flyover over,fly through",
+            "v": "no aterrizan,no se detienen,sobre vuelan,vuelan a través,pasan por encima",
             "n": "AlternateSpellings"
         },
         {

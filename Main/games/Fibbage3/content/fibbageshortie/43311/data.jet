@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Myspace page,hovercraft,flag,ferris wheel,snack bar,line of socks,foosball table,butler,DJ,robot,valet,dating site,designer jeans,coffee machine,bar and grill,Sega Genesis,Halloween party,mini-golf course",
+            "v": "página de MySpace,aerodeslizador,bandera,rueda de la fortuna,bar de aperitivos,línea de calcetines,fútbol de mesa,mayordomo,DJ,robot,valet,página de citas,vaqueros de diseño,máquina de café,bar y parrilla,Sega Genesis,fiesta de Halloween,campo de minigolf",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La Administración Federal de Aviación es la única agencia gubernamental de Estados Unidos que tiene su propio <BLANK>.",
+            "v": "La Administración Federal de Aviación es la única agencia gubernamental de Estados Unidos que posee su <BLANK> individual.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "song,theme",
+            "v": "canción,tema",
             "n": "AlternateSpellings"
         },
         {

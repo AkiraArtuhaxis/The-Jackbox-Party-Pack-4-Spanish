@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "braces,flame tattoos,mixtapes,glow-in-the-dark fins,golden lockets,sonar helmets,porn star names,hope,tickets to Sea World,warning bells,a stern lecture,softer teeth,a fear of humans,headaches,free lunches,heavy vests,baseball hats,electric collars",
+            "v": "tirantes,tatuajes de fuego,cintas mezcladas,aletas que brillan en la oscuridad,medallones dorados,cascos sonares,nombres de estrellas porno,esperanza,entradas para Sea World,campanas de advertencia,un sermón severo,dientes más blandos,miedo a los humanos,dolores de cabeza,almuerzos gratis,chalecos pesados,gorras de béisbol,collares eléctricos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "acceso a twitter",
+            "v": "acceso a Twitter",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un intento de reducir los ataques de tiburones, los investigadores del gobierno de Australia les dieron <BLANK> a más de 300 tiburones.",
+            "v": "En un intento por reducir los ataques de tiburones, los investigadores del gobierno de Australia les dieron <BLANK> a más de 300 tiburones.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "twitter,twitter accounts",
+            "v": "Twitter,cuentas de Twitter",
             "n": "AlternateSpellings"
         },
         {

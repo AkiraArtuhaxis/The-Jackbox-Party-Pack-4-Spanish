@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bucket|a wig,room|naked people,chair|spikes,hat|a hungry rat,sexy painting|a microphone,piece of cheese|electric shock,mirror|“guilty” written on it,tombstone|your name on it,string|a carrot tied to it,dog|sad eyes,power drill|an annoying sound,sad movie|dead kid,radio|no off switch,pumpkin|Groucho Marx’s voice,parrot|a sense of humor,joke book|no punchlines,ventriloquist dummy|moving eyes,glass of water|a hole in the side",
+            "v": "un balde|una peluca,una habitación|personas desnudas,una silla|púas,un sombrero|una rata hambrienta,un cuadro sensual|un micrófono,un trozo de queso|una descarga eléctrica,un espejo|la palabra \"culpable\" escrita,una lápida|tu nombre en ella,una cuerda|una zanahoria atada a ella,un perro|ojos tristes,un taladro eléctrico|un sonido molesto,una película triste|un niño muerto,una radio|el interruptor de apagado defectuoso,una calabaza|la voz de El mentalista,un loro|sentido del humor,un libro de chistes|remates malísimos,un muñeco de ventrílocuo|ojos móviles,un vaso de agua|un agujero en el costado",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "esqueleto|ojos brillantes",
+            "v": "un esqueleto|ojos brillantes",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Helene Adelaide Shelby diseñó un aparato bastante innovador para lograr que criminales confiesen sus actos. Era esencialmente un <BLANK> con <BLANK>.",
+            "v": "Helene Adelaide Shelby diseñó un aparato bastante innovador para lograr que delincuentes confiesen sus crímenes. Era esencialmente <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "skull|glowing eyes,skeleton|eyes",
+            "v": "una calavera|ojos brillantes,esqueleto|ojos",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Tesla motorcycle,Gucci ferret,Yeezy fannypack,311 tattoo,Digiorno’s pizza,talking moose,new dad,unobtainium grill,be normal,piece of wood,become ten feet tall,hot dog,llama,good dream,time machine,bake cookies,ride a unicorn,hear God’s thoughts",
+            "v": "una moto Tesla,un hurón Gucci,una riñonera,311 tatuajes,un Pizza Hut,un alce que hable,un nuevo papá,una parrilla de unobtainium,ser normal,un trozo de madera,medir tres metros,unn perrito caliente,una llama,un buen sueño,una máquina del tiempo,hornear galletas,montar en un unicornio,oír los pensamientos de un dios",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Jaden Smith tuiteó: \"Quiero <BLANK> por Navidad\"",
+            "v": "Jaden Smith tuiteó: \"Quiero <BLANK> para Navidad\".",
             "n": "QuestionText"
         },
         {

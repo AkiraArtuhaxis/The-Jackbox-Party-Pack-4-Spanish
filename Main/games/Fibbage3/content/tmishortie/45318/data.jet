@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Pelado,Rolinga,Yisus,El bryan,Marta,El Enano,Narigón",
+            "v": "Pelado,Rolinga,Yisus,el Bryan,Marta,Enano,Narigón",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es un apodo que has tenido a pesar que no te gustara?",
+            "v": "¿Cuál apodo tenías antes a pesar que no te gustara?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un apodo de <PLAYER> que tuvo a pesar de que no le gustara es \u201c<BLANK>.\u201d",
+            "v": "Un apodo que <PLAYER> tenía antes a pesar que no le gustara es “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un apodo que <PLAYER> tuvo aunque no le gustara fue <BLANK>.",
+            "s": "[category=host]A nickname that <PLAYER> had but didn’t like was <BLANK>.",
             "t": "A",
             "v": "611645_0",
             "n": "QuestionAudio"

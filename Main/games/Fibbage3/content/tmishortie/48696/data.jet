@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "escribir una canción de amor,cantar enfrente de esa persona,comprar flores falsas,escribir un poema,proponerme públicamente,contratar un chofer,hacer la cena",
+            "v": "escribir una canción de amor,cantarle en público a esa persona,comprar flores falsas,escribir un poema,proponerme públicamente,contratar un chofer,hacer la cena",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es lo más tonto que hiciste por amor?",
+            "v": "¿Qué es lo más tonto que has hecho por amor?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cosa más tonta que <PLAYER> ha hecho por amor fue <BLANK>.",
+            "v": "Lo más tonto que <PLAYER> ha hecho por amor fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La cosa más tonta que <PLAYER> ha hecho por amor fue <BLANK>",
+            "s": "[category=host]The dumbest thing <PLAYER> has done in the name of love was <BLANK>",
             "t": "A",
             "v": "694742_0",
             "n": "QuestionAudio"

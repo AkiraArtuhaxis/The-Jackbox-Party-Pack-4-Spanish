@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "CLANNAD,Diario de una pasión,Battlestar Galactica,Game of Thrones,Un amor para recordar,Eternamente amigas,Moana",
+            "v": "Titanic,Diario de una pasión,Orgullo y prejuicio,Juego de Tronos,Un amor para recordar,Shingeki no Kyojin,Moana",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la última película o serie de televisión que te sacó alguna lágrima?",
+            "v": "¿Cuál fue la última película o serie de televisión que te hizo llorar?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La última película o serie de televisión que hizo a <PLAYER> llorar fue <i><BLANK><\/i>.",
+            "v": "La última película o serie de televisión que hizo llorar a <PLAYER> fue <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La última película o serie de televisión que hizo a <PLAYER> llorar fue <BLANK>.",
+            "s": "[category=host]The last movie or TV show that made <PLAYER> tear up was <BLANK>.",
             "t": "A",
             "v": "696306_0",
             "n": "QuestionAudio"

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "hacer la comida,lavar la ropa,limpiar,contestar mensajes,despertarme,hacer mi tarea,conducir",
+            "v": "cocinar,lavar la ropa,limpiar,contestar mensajes,despertarme,hacer mi tarea,conducir",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si tuvieras tu propio robot, ¿cuál harías que sea su trabajo principal?",
+            "v": "Si tuvieras tu propio robot, ¿cuál sería su tarea principal?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> tuviera su propio robot, su trabajo principal sería <BLANK>.",
+            "v": "Si <PLAYER> tuviera su propio robot, su tarea principal sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> tuviera su propio robot, su trabajo principal sería <BLANK>.",
+            "s": "[category=host]If <PLAYER> had their own robot, it’s primary job would be <BLANK>.",
             "t": "A",
             "v": "694134_0",
             "n": "QuestionAudio"

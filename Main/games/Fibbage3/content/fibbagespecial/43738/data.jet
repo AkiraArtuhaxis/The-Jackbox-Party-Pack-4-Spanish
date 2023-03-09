@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fresh egg,snake,tablecloth,pork pie,egg,loaf of bread,baby,basketball,cab,peach pit,basket maker,decorative centerpiece,piece of cake,dandelion,pork chop,basket head,balloonist,brisket",
+            "v": "huevo fresco,serpiente,mantel,pastel de cerdo,huevo,barra de pan,bebé,baloncesto,taxi,durazno,cestero,centro de mesa decorativo,trozo de torta,diente de león,chuleta de cerdo,cabeza de cesta,globero,costilla de res",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "champiñon",
+            "v": "champiñón",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Hay un dicho ruso sobre la necesidad de terminar lo que comienzas. Se traduce como \"Si te llamaste a ti mismo un <BLANK>, ¡ponte en la cesta!\"",
+            "v": "Hay un dicho ruso que dice que hay que terminar lo que se empieza. Se traduce como \"Si te llamas a ti mismo <BLANK>, ¡ponte en la cesta!\"",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "milk mushroom,milk-mushroom,mushrooms",
+            "v": "champiñón de leche,champiñón leche,champiñones",
             "n": "AlternateSpellings"
         },
         {

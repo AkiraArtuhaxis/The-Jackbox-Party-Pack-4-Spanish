@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eels,cold brew coffee,flashy hats,James Spader autographs,energy drinks,fancy pens to kids,expired soup,boneless chicken wings,retweets,Pepsi at protests,test answers,hope,hot dogs,rocks with googly eyes,bootleg Mountain Dew,unlicensed dentistry,their life story,scalped puppet show tickets",
+            "v": "anguilas,café frío,sombreros llamativos,autógrafos de James Spader,bebidas energéticas,bolígrafos de lujo para niños,sopa caducada,alitas de pollo deshuesadas,retuits,Pepsi en las protestas,respuestas de exámenes,esperanza,perritos calientes,piedras con ojos saltones,Mountain Dew de contrabando,odontología sin licencia,la historia de su vida,entradas falsas para un espectáculo de títeres",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, la policía finesa lanzó una extraña campaña en las redes sociales en la que pedía al público que reportara a cualquiera que vendiera <BLANK>.",
+            "v": "En 2015, la policía finlandesa inició una extraña campaña en redes sociales en la que pedía al público que denunciaran a cualquiera que vendiera <BLANK>.",
             "n": "QuestionText"
         },
         {

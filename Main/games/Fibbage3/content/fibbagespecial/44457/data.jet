@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "gravity,how to levitate,veggie dogs,the Nortwest Passage,pop music,pilates,Crocs,Joe Jonas,Mars,Ducktales,lithium batteries,the end of the Earth,Snoop Dog,the end of your patience,mercury,I’m not American,South Korea,baby crabs",
+            "v": "la gravedad,cómo levitar,perros vegetarianos,el paso del noroeste,la música pop,el pilates,las crocs,a Joe Jonas,Marte,las Patoaventuras,las pilas de litio,el fin de la Tierra,a Snoop Dog,el fin de tu paciencia,el mercurio,que no soy estadounidense,Corea del Sur,los cangrejos bebé",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Matt Damon",
+            "v": "a Matt Damon",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Justin Bieber tuiteó: “He descubierto a <BLANK>",
+            "v": "Justin Bieber tuiteó: “Descubrí <BLANK>”.",
             "n": "QuestionText"
         },
         {

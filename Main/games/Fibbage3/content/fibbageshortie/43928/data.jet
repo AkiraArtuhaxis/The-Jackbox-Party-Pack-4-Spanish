@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Painted the front door red,Cooked a meal for him,Planted a tree,Left their axe outside,sent him axe polish,Turned the lights off,Lit a single candle,Unlocked the doors,defended themselves,was named Steve,was old,had a welcome mat,left flowers out,looked tired,smelled like sardines,had a garden,made him a hurricane,had a pie in the windowsill",
+            "v": "pintara su puerta de color rojo,cocinara algo para él,plantó un árbol,dejara su hacha afuera,le envíe pulidor de hacha,apagara las luces,encienda una sola vela,desbloqueara las puertas,se defendiera,se llame Steve,sea viejo,tuviera una alfombra de bienvenida,dejara flores afuera,se viera cansado,oliera a sardinas,tuviera un jardín,le haga un huracán,tenga una torta en la ventana",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tocara jazz",
+            "v": "toque jazz",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 19 de marzo de 1919, el misterioso \"hachero de Nueva Orleans\" escribió a un periódico local, prometiendo no asesinar a nadie que <BLANK>.",
+            "v": "El 19 de marzo de 1919, el misterioso Hachero de Nueva Orleans escribió a un periódico local prometiendo no asesinar a nadie que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "played jazz,plays jazz,plays jazz music,listens to jazz,listened to jazz",
+            "v": "tocara jazz,fuera músico de jazz,tocara música jazz,escuche jazz,escuchara jazz",
             "n": "AlternateSpellings"
         },
         {

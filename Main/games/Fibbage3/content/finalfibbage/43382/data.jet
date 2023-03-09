@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "trash bag|cheese,paper bag|neckties,suitcase|fake fur,sofa|knives,wash tub|bowling balls,iron pipe|bees,backpack|weights,wedding dress|hams,laundry bag|mannequins,shopping cart|party horns,sleeping bag|radios,tuba case|firecrackers,carboard box|used grease,mattress|yogurt cups,minifridge|tripe,hammock|VHS tapes,napsack|quarters,sock|crickets",
+            "v": "una bolsa de basura|queso,una bolsa de papel|corbatas,una maleta|pieles falsas,un sofá|cuchillos,un lavabo|bolas de bolos,un tubo de hierro|abejas,una mochila|pesas,un vestido de novia|jamones,una bolsa de lavandería|maniquíes,un carrito de compras|cuernos de fiesta,un saco de dormir|radios,un estuche de tuba|petardos,una caja de cartón|grasa usada,un colchón|vasos de yogurt,un mini refrigerador|callos,una hamaca|cintas VHS,una mochila|monedas,un calcetín|grillos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "duvet|cocos",
+            "v": "un edredón|cocos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En julio de 2015, la policía de Manchester, Inglaterra respondió a una llamada sobre un animal muerto en los canales. Pero no se preocupen. Resultó ser un <BLANK> lleno de <BLANK>.",
+            "v": "En julio de 2015, la policía de Mánchester, Inglaterra, respondió a una llamada sobre un animal muerto en los canales. Pero no se preocupen. Resultó ser <BLANK> con relleno de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "blanket|coconuts,comforter|coconuts",
+            "v": "manta|cocos,colcha|cocos,frazada|cocos",
             "n": "AlternateSpellings"
         },
         {

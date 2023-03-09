@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "robot|peed,bull|ate steak,kid|lived in France,ghost|only kids could see,cactus|had died,truck|belonged to Chuck Norris,child|looked old,farmer|wrote romance novels,spy|was from Argentina,cowboy|was in jail,bird|couldn’t fly,scarecrow|was in a dumpster,cowboy|was afraid of cows,war hero|never existed,Republican|was also a Democrat,corpse|never got buried,squid|wore a necktie,vampire|was also a werewolf",
+            "v": "un robot|orinaba,un toro|comía filete,un niño|vivía en Francia,un fantasma|solo los niños podían ver,un cactus|había muerto,un camión|pertenecía a Chuck Norris,un niño|parecía viejo,un granjero|escribía novelas románticas,un espía|de Argentina,un vaquero|estaba en la cárcel,un pájaro|no podía volar,un espantapájaros|estaba en un basurero,un vaquero|le tenía miedo a las vacas,un héroe|nunca existió,un republicano|también era demócrata,un cadáver|nunca fue enterrado,un calamar|usaba corbata,un vampiro|también era hombre lobo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "cabra|tomaba cerveza",
+            "v": "una cabra|tomaba cerveza",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A finales de los años 80, la pequeña ciudad de Lajitas, Texas eligió a Clay Henry como su alcalde. Henry era único en que era una <BLANK> que <BLANK>.",
+            "v": "A finales de los años 80, la pequeña ciudad de Lajitas, Texas, eligió a Clay Henry como su alcalde. Henry era único en el sentido de que era <BLANK> que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "goat|loved beer",
+            "v": "una cabra|amaba la cerveza",
             "n": "AlternateSpellings"
         },
         {

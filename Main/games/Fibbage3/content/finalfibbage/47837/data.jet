@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "college|starting fires,a football game|giving monologues,a play|shouting his lines,a spa|laughing too hard,a movie theater|standing the whole time,horse race|freeing the horses,an opera|singing along,an auction|mocking the auctioneer,the army|stealing a tank,a chili cook-off|farting,a Walmart|pretending to be an employee,the zoo|doing funny animal noises,an acting class|refusing to play a criminal,church|loudly eating chips,reality as we know it|three weeks,Comic-Con|booing Tim Burton,Iowa|trying to marry a building,a helicopter|the third time that day",
+            "v": "una universidad|incendiarla,un partido de fútbol|dar sermones,una obra de teatro|gritar sus líneas,un spa|reírse demasiado,un cine|estar de pie todo el rato,una carrera de caballos|liberar a los caballos,una ópera|cantar a coro,una subasta|burlarse del subastador,el ejército|robar un tanque,un concurso de cocina|pedorrearse,un supermercado|fingir ser un empleado,el zoológico|hacer ruidos de animales,una clase de actuacion|negarse a interpretar a un criminal,la iglesia|comer papas fritas,la realidad tal y como la conocemos|tres semanas,la Comic-Con|abuchear a Tim Burton,Iowa|intentar casarse con un edificio,un helicóptero|tercera vez ese día",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "una orgía|pretender que era Batman",
+            "v": "una orgía|fingir que era Batman",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "an orgy|pretending to be Batman,an orgy|acting like Batman,a sex party|pretending he was Batman,a sex party|pretending to be Batman,a sex party|acting like Batman",
+            "v": "una orgía|fingir ser Batman,una orgía|actuar como Batman,una fiesta sexual|fingir que era Batman,una fiesta sexual|fingir ser Batman,una fiesta sexual|actuar como Batman",
             "n": "AlternateSpellings"
         },
         {

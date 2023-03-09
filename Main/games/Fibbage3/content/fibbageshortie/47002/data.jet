@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pee in the ocean,get depressed while snorkeling,sweat too much,befriend dolphins,have tattoos,laugh too loudly,use selfie sticks,leave without paying for lunch,vape underwater,swim while pregnant,talk loudly and slowly to locals,yell at the coral,are stressed out,wear tacky shirts,don’t brush their teeth,try to get their groove back,sit in the exit row on the flight in,have beards",
+            "v": "orinan en el océano,se deprimen haciendo snorkel,sudan demasiado,se hacen amigos de los delfines,tienen tatuajes,se ríen demasiado alto,usan palos selfie,se van sin pagar la comida,vapean bajo el agua,nadan estando embarazadas,hablan alto y despacio con los lugareños,le gritan al coral,estan estresados,usan camisetas vulgares,no se lavan los dientes,intentan recuperar el ritmo,se sientan en la fila de salida en el vuelo de llegada,tienen barba",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un estudio publicado en 2015 en <i>Contaminación ambiental y toxicología<\/i> determinó que los arrecifes de coral pueden verse dañados por turistas que <BLANK>.",
+            "v": "Un estudio publicado en 2015 en <i>Contaminación ambiental y toxicología<\/i> descubrió que los arrecifes de coral pueden verse dañados por turistas que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "use sunscreen,wear sun screen,use sun screen,use sun block,wear sun block,use sunblock,wear sunblock,wore sunscreen,wore sunblock,wore sun screen,wore sun block",
+            "v": "usan bloqueador,usan protección solar,usan filtro solar,usan loción solar,",
             "n": "AlternateSpellings"
         },
         {

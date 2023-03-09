@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Gibson guitars,Buick,Old Spice,KFC,dog food,Pall Malls,chocolate milk,peanut butter,a toaster,BBQ sauce,sandals,guitar lessons,hair gel,hip surgery,Graceland,Frosted Flakes,ramen noodles,weight loss shakes",
+            "v": "guitarras Gibson,Buick,Old Spice,KFC,comida para perros,Pall Malls,leche con chocolate,mantequilla de maní,una tostadora,salsa barbacoa,sandalias,clases de guitarra,gomina,cirugía de cadera,Graceland,Frosted Flakes,ramen,batidos para adelgazar",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "donas",
+            "v": "rosquillas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El único comercial en el que Elvis ha participado era sobre <BLANK>.",
+            "v": "El único comercial que hizo Elvis fue de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "doughnuts,do-nuts,dough nuts,a donut shop,a doughnut shop,a donut store,a doughnut store",
+            "v": "rosquiyas,rosquilla,rosquiyas,una tienda de rosquillas,tienda de rosquilla,venta de rosquilla,venta de rosquillas",
             "n": "AlternateSpellings"
         },
         {

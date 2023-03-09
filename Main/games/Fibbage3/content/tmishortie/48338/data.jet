@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Paul McCartney,Miley Cyrus,The Beach Boys,Mariah Carey,Justin Timberlake,Adele,Billy Joel",
+            "v": "Paul McCartney,Miley Cyrus,Soda Stereo,Metallica,Iron Maiden,Lady Gaga,Marco Antonio Solís",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál fue tu primer concierto masivo?",
+            "v": "¿Cuál fue el primer gran concierto al que fuiste?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El primer gran concierto al que asistió <PLAYER> fue <BLANK>.",
+            "s": "[category=host]The first big concert <PLAYER> ever went to was <BLANK>.",
             "t": "A",
             "v": "684205_0",
             "n": "QuestionAudio"

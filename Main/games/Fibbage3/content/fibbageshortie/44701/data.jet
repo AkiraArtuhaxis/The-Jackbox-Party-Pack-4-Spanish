@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "rock n’ roll,office supplies,pants that unzip into shorts,silly straws,cell phones,cargo shorts,giving raspberries,hippies,voting,cowboy hats,washing your hands,T-shirts,showering,having children,sharing a toothbrush,wallets,typing on keyboards,eating during experiments",
+            "v": "el rock n' roll,el material de oficina,los pantalones que se abren para convertirse en pantalones cortos,las bombillas,los celulares,los pantalones cortos cargo,dar frambuesas,los hippies,votar,los sombreros de vaquero,lavarse las manos,las camisetas,ducharse,tener hijos,compartir el cepillo de dientes,las billeteras,escribir en teclados,comer durante los experimentos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Hombres con barba",
+            "v": "hombres barbudos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1967, la Oficina de Salud y Seguridad Industrial publicó un documento acerca de la seguridad en los laboratorios titulado “El peligro microbiológico de los/as <BLANK> en los laboratorios”.",
+            "v": "En 1967, la Oficina de Salud y Seguridad Industrial publicó un documento acerca de la seguridad en los laboratorios titulado “El peligro microbiológico de <BLANK> en los laboratorios”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Men with Beards,Beards",
+            "v": "hombres con barba,barbas",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a clown chauffeur|a tiny car,a tree|a stage play,belittled|a really weird way,a spaghetti chef|a chinese restaurant,a programmer|a pig farm,drawn like Picasso|a compromising position,thrown a party|a warehouse,studied|a phone booth,kicked repeatedly|the shins,dunked|hot pudding,a masseur|an assisted living center,cooked|a big pot,a voice actor|an offensive video game,a general|the British Army,a triangle player|the world’s worst folk band,wrapped|comfy blankets,a sign spinner|a zombie costume,sung to|public",
+            "v": "un payaso chofer|un auto diminuto,un árbol|una obra de teatro,menospreciado|una forma muy rara,un cocinero de espaguetis|un restaurante chino,un programador|una granja de cerdos,dibujado como Picasso|una posición comprometida,anfitrión de una fiesta|una bodega,estudiado|una cabina telefónica,pateado repetidamente|las canillas,sumergido|pudín caliente,masajista|un centro de vida asistida,cocinado|una olla grande,un actor de doblaje|un videojuego ofensivo,un general|el ejército británico,un triangulista|la peor banda de folk del mundo,envuelto|en mantas cómodas,un plátano|una fiesta de disfraces,humillado|público",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A pesar de que las últimas cinco personas renunciaron, un anuncio de trabajo de 2017 en Los Fronteras Escocesas ofrecía 50 mil libras a quien estuviera dispuesto a ser <BLANK> en <BLANK>.",
+            "v": "A pesar de que las últimas cinco personas renunciaron, un anuncio de trabajo de 2017 en las Fronteras Escocesas ofrecía 50 mil libras a quien estuviera dispuesto a ser <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the nanny|a haunted house",
+            "v": "la niñera|una casa embrujada",
             "n": "AlternateSpellings"
         },
         {

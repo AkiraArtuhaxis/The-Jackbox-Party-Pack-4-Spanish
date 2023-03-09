@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "blood|goats,milk|a gorilla,urine|their grandmother,rain|hurricanes,sweat|dads,oil|an old car,tears|a clown,venom|anacondas,water|local toilets,wine|the dead,juice|a rotten banana,spit|the mayor,shampoo|their sister,soup|Panera Bread,the wine|Boone’s Farm,broth|diaper stew,beer|ancestors,snot|their dogs",
+            "v": "sangre|cabras,leche|un gorila,orina|su abuela,lluvia|huracanes,sudor|sus papás,aceite|un auto viejo,lágrimas|un payaso,veneno|anacondas,agua|inodoros,vino|los muertos,jugo|un plátano podrido,saliva|el alcalde,champú|su hermana,sopa|caca,el vino|una granja de monos,caldo|estofado de pañales,cerveza|sus antepasados,mocos|sus perros",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Como parte de su viaje a la madurez, se espera que los chicos de la tribu de Sambia de Papúa Nueva Guinea beban el <BLANK> de <BLANK>.",
+            "v": "Como parte de su viaje a la adultez, se espera que los chicos de la tribu Sambia de Papúa Nueva Guinea beban <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sperm|young men,semen|boys,sperm|boys",
+            "v": "esperma|hombres jóvenes,semen|chicos,esperma|chicos",
             "n": "AlternateSpellings"
         },
         {

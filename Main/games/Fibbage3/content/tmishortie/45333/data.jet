@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "\u201cMira éstos músculos\u201d,\u201cMamá luchona\u201d,Ice T,Bugs Bunny y Taz,#Overrated,un dragón fachero,un robot comiendo carne",
+            "v": "“A la grande le puse Cuca”,“Mamá luchona”,Vin Diesel,Bugs Bunny y Taz,#Sobrevalorado,un dragón tierno,un robot comiendo carne",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es una foto o frase que aparece en una de tus camisetas favoritas?",
+            "v": "¿Qué imagen o frase aparece en una de tus camisetas favoritas?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las camisetas favoritas de <PLAYER> es en la que aparece <BLANK>.",
+            "v": "Una de las camisetas favoritas de <PLAYER> es la que aparece <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una de las camisetas favoritas de <PLAYER> es en la que aparece <BLANK>.",
+            "s": "[category=host]One of <PLAYER>’s favorite t-shirts is the one with <BLANK> on it.",
             "t": "A",
             "v": "612095_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "kid,sleep,drug,sex,obesity,comedy,fart,sports,beer,Mario Kart,beef jerky,perfume,shower,pickle,cheeseburger,news,music,torture",
+            "v": "niños,dormir,drogarse,sexo,obesidad,comedia,pedos,deportes,cerveza,Mario Kart,cecina,perfume,ducha,pepinillo,hamburguesa con queso,noticias,música,tortura",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En una intento para atraer más clientes, el centro comercial Global Harbour en Shanghai ha instalado “cabinas para <BLANK>”.",
+            "v": "En un intento para atraer más clientes, el centro comercial Global Harbour en Shanghai ha instalado “cabinas para <BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "husband storage,husband rest,boyfriend,boyfriend storage,boyfriend rest",
+            "v": "almacén de esposos,descanso de esposos,novios,almacén de novios,descanso de novios,maridos,almacén de maridos,descanso de maridos,esposo,marido,novio",
             "n": "AlternateSpellings"
         },
         {

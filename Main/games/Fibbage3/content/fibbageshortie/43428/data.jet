@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "teach people about space,annoy foreigners,scare children,interfere with electronics,confuse fans,celebrate Hanukkah,anger their parents,entice toy companies,mock Elton John,enhance sound waves,advertise local tailors,act as parachutes,reflect stage lights,make them jump higher,signal British spies,promote UFO research,serve as pajamas,end poverty",
+            "v": "enseñar a la gente sobre el espacio,molestar a los extranjeros,asustar a los niños,interferir con los aparatos electrónicos,confundir a los fanáticos,celebrar Janucá,enfurecer a sus padres,atraer a las empresas de juguetes,molestar a Elton John,mejorar las ondas sonoras,anunciar las sastrerías locales,actuar como paracaídas,reflejar las luces del escenario,hacerlos saltar más alto,hacerle señales a los espías británicos,promover la investigación OVNI,usarlos como pijamas,terminar con la pobreza",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "bajar sus impuestos",
+            "v": "reducir sus impuestos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según la banda estrella de los 70, ABBA, sus extravagantes disfraces no eran solo una declaración de moda. También estaban pensados para <BLANK>.",
+            "v": "Según las superestrellas de los 70, ABBA, sus escandalosos trajes no eran sólo una declaración de moda. También pretendían <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "lower their tax,lower their tax bill,lower their tax payments,lower their taxes owed,decrease their tax liability,decrease their taxes,save them money,save money",
+            "v": "reducir su impuesto,reducir su factura de impuestos,reducir sus pagos de impuestos,reducir los impuestos que deben pagar,disminuir su pasivo por impuestos,disminuir sus impuestos,ahorrárles dinero,ahorrar dinero",
             "n": "AlternateSpellings"
         },
         {

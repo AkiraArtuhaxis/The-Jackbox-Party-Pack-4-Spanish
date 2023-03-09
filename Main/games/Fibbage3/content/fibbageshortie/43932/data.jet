@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "checking their email,reading Harry Potter,selling incense candles,an oversized dog,a four-year-old boy,a circus clown,a sea turtle,an ice cream man,running for president,a juggler,a black cat,a pair of pants,dressed as a unicorn,a Spider-Man impersonator,a Cubs fan,a chimp in a cowboy hat,eating a hot dog,a bottle of shampoo",
+            "v": "revisando su correo electrónico,leyendo Harry Potter,vendiendo velas de incienso,un perro de gran tamaño,un niño de cuatro años,un payaso de circo,una tortuga marina,un heladero,un candidato a presidente,un malabarista,un gato negro,un par de pantalones,vestido de unicornio,un imitador de Spiderman,un fanático de los Cubs,un chimpancé con sombrero de vaquero,comiendo un perrito caliente,una botella de champú",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2013, la policía de las Maldivas detuvo a un sospechoso por merodear cerca de un lugar de votación, bajo sospecha de magia negra. El sospechoso en cuestión era <BLANK>.",
+            "v": "En 2013, la policía de Maldivas detuvo a un sospechoso por merodear cerca de un colegio electoral bajo la sospecha de magia negra. El sospechoso en cuestión era/estaba <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "coconut,cocoanut,a cocoanut",
+            "v": "coco,koko,un koko,coko,koco",
             "n": "AlternateSpellings"
         },
         {

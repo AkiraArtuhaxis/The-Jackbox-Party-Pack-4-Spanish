@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a sword,George Washington,Thomas Jefferson,an advertisement,a woman,yellow,bacon,violence,tobacco,Native Americans,animals,Latin,a banjo,wildlife,a heart,a snake,guns,stripes",
+            "v": "una espada,George Washington,Thomas Jefferson,un anuncio,una mujer,amarillo,tocino,violencia,tabaco,un nativo estadounidense,un animal,latín,un banjo,fauna,un corazón,una serpiente,un arma,una raya",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Virginia es el único estado de Estados Unidos cuya bandera tiene <BLANK>.",
+            "v": "Virginia es el único estado de EE. UU. en cuya bandera aparece <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "nudeity,naked,nakedness,a naked woman,a topless woman,breasts,nipples,titty,titties",
+            "v": "la desnudez,un desnudo,una mujer desnuda,una mujer en topless,pechos,pezones,teta,tetas",
             "n": "AlternateSpellings"
         },
         {

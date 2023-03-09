@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "get squeezed by a snake,use a typewriter,watch the weather report,sleep,dress like a fish,sit in a moving vehicle,hear a gunshot,are examined by a doctor,lie in a coffin,shower,pet a horse,eat lots of sugar,give yourself a haircut,are in total darkness,have the hiccups,exercise,organize folders,are angry",
+            "v": "te aprieta una serpiente,usas una máquina de escribir,ves el informe meteorológico,duermes,te vistes de pez,te sientas en un vehículo en movimiento,escuchas un disparo,te examina un doctor,te acuestas en un ataúd,te bañas,acaricias un caballo,comes mucha azúcar,te cortas el pelo,estás en completa oscuridad,tienes hipo,haces ejercicios,organizas carpetas,estás enojado",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Alguna vez han oido de la \"climacofilia\"? Es cuando solo te sientes sexualmente pleno/a cuando <BLANK>.",
+            "v": "¿Has oído hablar de la \"climacofilia\"? Es cuando solo puedes estar sexualmente satisfecho cuando <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "fall down stairs,are falling down stairs",
+            "v": "te caes por las escaleras,vas cayendo por las escaleras",
             "n": "AlternateSpellings"
         },
         {

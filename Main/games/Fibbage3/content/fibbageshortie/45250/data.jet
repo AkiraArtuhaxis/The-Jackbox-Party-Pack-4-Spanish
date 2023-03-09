@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "stainless steel,pine needles,shark teeth,caterpillar legs,candied ham,fresh hay,candle wicks,porcupine quills,ivory,broccoli florets,fish scales,wood mulch,chicken feathers,corn cobs,peanut shells,moth wings,dried pasta,tiny pebbles",
+            "v": "acero inoxidable,agujas de pino,dientes de tiburón,patas de oruga,jamón confitado,heno fresco,mechas de vela,púas de puercoespín,marfil,brócoli,escamas de pescado,aserrín de madera,plumas de pollo,mazorcas de maíz,cáscaras de maní,alas de polilla,pasta seca,piedrecitas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antes de que se inventara el cepillo de dientes moderno en 1938, las cerdas del cepillo estaban hechas de <BLANK>.",
+            "v": "Antes de que se inventara el cepillo de dientes moderno en 1938, las cerdas de los cepillos se fabricaban con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pig,hair,animal hair,animal fur",
+            "v": "cerdo,pelo,pelo animal,pelaje animal",
             "n": "AlternateSpellings"
         },
         {

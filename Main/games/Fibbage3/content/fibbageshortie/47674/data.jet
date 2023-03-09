@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Harvard,not going to class,thumbs,lettuce,interior design using only cork,unicycles,the Transformers movies,Chow Yun Fat,David Duchovny,Mystery Science Theater 3000,Pigeons,expired food,the rhythm and the rhyme,pleather,Bruce Lee movies,Titanfall 2,Cowboy Bebop,germs",
+            "v": "Harvard,no ir a clase,los pulgares,la lechuga,el diseño de interiores usando solo corcho,los monociclos,las películas de Transformers,Jackie Chan,David Duchovny,Misterio en el espacio,las palomas,la comida caducada,el ritmo y la rima,el cuero,las películas de Bruce Lee,Titanfall 2,Cowboy Bebop,los gérmenes",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Una cadena de pizza",
+            "v": "la pizza de Papa John's",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "papa johns pizza,papa johns,papa john’s,papa jons pizza,papa jon’s pizza,pizza",
+            "v": "pizza de Papa John's,Papa John's,Papa Johns,pizza Papa John's,pizza de Papa Jon's,pizza",
             "n": "AlternateSpellings"
         },
         {

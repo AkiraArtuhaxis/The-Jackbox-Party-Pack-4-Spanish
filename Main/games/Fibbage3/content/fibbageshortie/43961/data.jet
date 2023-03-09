@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "give up the throne,eat less dairy,lower taxes,smile more,learn an instrument,try whole30,give up opium,produce an heir,get a hobby,update her wardrobe,try not to speak,study history,lose weight,hire a gardner,be taller,assume a man’s first name,learn to speak Russian,stop telling jokes",
+            "v": "renuncie al trono,coma menos lácteos,baje los impuestos,sonría más,aprenda a tocar un instrumento,pruebe el ayuno intermitente,deje el opio,conciba un heredero,tenga un pasatiempo,actualice su guardarropa,trate de no hablar,estudie historia,pierda peso,contrate un jardinero,sea más alta,asuma el nombre de pila de un hombre,aprenda a hablar ruso,deje de contar chistes",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "casarse",
+            "v": "se case",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el siglo X, la princesa Olga de Rusia tenía una muy mala reputación por matar a cualquiera que le sugiriera que <BLANK>.",
+            "v": "La princesa Olga, de la Rusia del siglo X, tenía la desagradable reputación de matar a cualquiera que le sugiriera que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "marry,marry someone,take a husband,find a husband,get a husband,choose a husband,marry again,get remarried",
+            "v": "se casara,se case con alguien,tomara un esposo,encontrara esposo,consiguiera esposo,eligiera esposo,se casara de nuevo,contrayera matrimonio de nuevo",
             "n": "AlternateSpellings"
         },
         {

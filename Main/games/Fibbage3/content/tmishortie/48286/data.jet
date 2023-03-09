@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "no te olvides de los huevos,cuidado con los ciervos en la autopista,no encuentro mis llaves,estoy aburrido,me dormí,¿Es normal este grano en mi pie?,me disculpé por faltar a un cumpleaños",
+            "v": "no te olvides de comprar huevos,cuidado con los animales en la autopista,no encuentro mis llaves,estoy aburrido,me quedé dormido,¿Es normal este grano en mi pie?,me disculpé por faltar a una fiesta de cumpleaños",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿De qué trató el último texto que enviaste?",
+            "v": "¿De qué trató el último mensaje de texto que enviaste?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El último mensaje de texto de <PLAYER> trató sobre <BLANK>.",
+            "v": "El último mensaje de texto que <PLAYER> envió era sobre <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El último mensaje de texto de <PLAYER> trató sobre <BLANK>.",
+            "s": "[category=host]The last text message <PLAYER> sent was about <BLANK>.",
             "t": "A",
             "v": "682879_0",
             "n": "QuestionAudio"

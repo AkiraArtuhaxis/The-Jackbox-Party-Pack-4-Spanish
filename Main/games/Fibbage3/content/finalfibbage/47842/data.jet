@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "burger|side of fries,boat|set of wheels,person|third arm,pair of pants|velcro strip instead of a zipper,guitar|really funky sound,wife to call his own|pet spider,map|compass built into it,pair of twins|tendency to yodel,man|slow hand,dowager|dark secret,ghost|homemade ghost finder,nickel he lost|tour group in 2008,temple|glow-in-the-dark skull,mounted policeman|difference,coffee shop|reliable wifi connection,mummy|haunted dagger,snake|triple head,waitress|sassy attitude",
+            "v": "hamburguesas|papas fritas de acompañamiento,un barco|ruedas,a una persona|tres brazos,un par de pantalones|tira de velcro en lugar de cremallera,una guitarra|sonido realmente funky,una esposa para él|una araña mascota,un mapa|una brújula incorporada en él,un par de gemelos|tendencia a cantar yodel,a un hombre|una mano lenta,a una viuda|secretos oscuros,un fantasma|un detector de fantasmas casero,una moneda que perdió|un grupo de turistas el 2008,un templo|una calavera que brilla en la oscuridad,a la policía montada|elefantes,una cafetería|conexión WiFi fiable,una momia|un puñal encantado,una serpiente|tres cabezas,a una camarera|actitud atrevida",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pato|cabeza rosa",
+            "v": "un pato|cabeza rosa",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Desde 2009, el explorador Richard Thorns ha realizado seis viajes a Myanmar buscando un <BLANK> con <BLANK>.",
+            "v": "Desde 2009, el explorador Richard Thorns ha realizado seis viajes a Myanmar buscando <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {

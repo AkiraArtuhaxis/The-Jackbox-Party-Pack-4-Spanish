@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "shooting cats,burning coats,eating bugs,taunting corn,swallowing swords,shaving cows,egging houses,wearing clothes backwards,wrestling naked,speaking in riddles,throwing coins at orphans,dressing like genies,licking snakes,bathing in tar,fighting an invisible man,watching Don Knotts movies,punching a snowman,painting themselves blue",
+            "v": "disparar gatos,quemar abrigos,comer bichos,burlarse del maíz,tragar espadas,afeitar vacas,poner huevos a las casas,usar ropa al revés,luchar desnudo,hablar con acertijos,lanzar monedas a los huérfanos,vestirse como genios,lamer serpientes,bañarse en alquitrán,luchar contra un hombre invisible,ver películas de Don Knotts,dar un puñetazo a un muñeco de nieve,pintarse de azul",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "ahogar muñecos",
+            "v": "ahogar muñecas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante el feriado polaco de Topienie Marzanny, la gente celebra el fin del invierno mediante la peculiar tradición de <BLANK>.",
+            "v": "Durante la fiesta polaca de Topienie Marzanny, la gente celebra el final del invierno mediante la extraña tradición de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "burning dolls,throwing dolls into the lake,drowning a doll,burning a doll,throwing a doll into the lake",
+            "v": "quemar muñecas,lanzar muñecas al lago,ahogar una muñeca,quemar una muñeca,lanzar una muñeca al lago",
             "n": "AlternateSpellings"
         },
         {

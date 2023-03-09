@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "waking up,bored,seeing God,cleaning the house,missing him,questioning his power,afraid of the dark,hungry,forgetting his face,running out of snacks,low on milk,ready for marriage,starting Breaking Bad,about to pee,near a bird that looked like him,using the Wi-FI,thinking about killing him,trying to escape",
+            "v": "despiertos,aburridos,viendo a dios,limpiando la casa,extrañándolo,cuestionando su poder,temiéndole a la oscuridad,hambrientos,olvidando su cara,quedándose sin bocadillos,con poca leche,listos para casarse,empezando a ver Breaking Bad,a punto de orinar,cerca de un pájaro que se parecía a él,usando el WiFi,pensando en matarlo,intentando escapar",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Goel Ratzon era un líder de una secta israelí bizarra que envió celulares a sus seguidores para que pudieran mensajearle cuando estaban <BLANK>.",
+            "v": "Goel Ratzon era un estrafalario líder de una secta israelí que entregaba celulares a sus seguidores para que pudieran enviarle mensajes de texto cuando estaban <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ovalating,fertile",
+            "v": "menstruando,fertiles",
             "n": "AlternateSpellings"
         },
         {

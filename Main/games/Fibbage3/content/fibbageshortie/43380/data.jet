@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "squirrel buffet,marijuana field,penny arcade,day care center,jousting school,satanic temple,yoga class,landfill,Arby’s,Starbucks,right wing radio station,UFO visitor’s center,erotic cooking school,taxidermy service,paintball range,tanning salon,bigfoot museum,private cemetery",
+            "v": "el buffet de ardillas,la plantación de marihuana,el arcade de centavos,la guardería infantil,la escuela de justas,el templo satánico,las clases de yoga,el vertedero,el Wendy's,el Starbucks,la emisora de radio de derecha,el centro de visitantes OVNI,la escuela de cocina erótica,el servicio de taxidermia,campo de juego de paintball,el salón de bronceado,el museo de pie grande,el cementerio privado",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Centro de Recuperación de la Fauna Squirrel Creek en Colorado fue clausurado en 2016. El propietario afirma que fue porque a las autoridades no les gusta <BLANK> que maneja en dicha propiedad.",
+            "v": "El Centro de Recuperación de la Fauna Squirrel Creek de Colorado cerró en 2016. El propietario afirma que fue porque a las autoridades no les gustó <BLANK> que dirige en la misma propiedad.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "swinging club,club for swingers,swing club,swinger’s club,swingers’ club,sex club,brothel",
+            "v": "el club para cambiar parejas,club para cambiar parejas,cambiar parejas,el club de sexo,el burdel",
             "n": "AlternateSpellings"
         },
         {

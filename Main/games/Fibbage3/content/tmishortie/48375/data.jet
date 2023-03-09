@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "quien me ha traicionado,donde fueron todos mis soquetes,quién escupió en mi comida,donde está Amelia Earhart,existen los aliens,es la llegada a la luna falsa,que tan grande es el universo",
+            "v": "quién me ha traicionado,dónde están todos mis calcetines,quién escupió en mi comida,dónde está Madeleine McCann,si existen los extraterrestres,si es falsa la llegada a la luna,qué tan grande es el universo",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si pudieras conocer un trozo de información en todo el universo, ¿qué te gustaría saber?",
+            "v": "Si pudieras conocer un dato del universo, ¿qué te gustaría saber?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> pudiera conocer un trozo de información en todo el universo, sería <BLANK>.",
+            "v": "Si <PLAYER> pudiera conocer un dato del universo, sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> pudiera conocer un trozo de información en todo el universo, sería <BLANK>.",
+            "s": "[category=host]If <PLAYER> could know one piece of information in the universe, it would be <BLANK>.",
             "t": "A",
             "v": "685305_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "recess,jumproping indoors,movies in the classroom,deodorant,cool cars,moodiness,study hall,Doritos,rock and roll,gym showers,gum,texting your friends “what’s up?”,dancing,saying “cool”,funny faces,comic books,no. 3 pencils,country music",
+            "v": "el recreo,saltar la cuerda adentro,películas en la clase,desodorantes,autos geniales,la emotividad,el salón de estudio,los Doritos,el rock and roll,las duchas de gimnasio,el chicle,enviarle a tus amigos un \"¿qué onda?\",bailar,decir \"genial\",las caras graciosas,las historietas,lapices N° 3,música country",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "la pizza de ananá",
+            "v": "la pizza con piña",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Frente a la presión de estudiantes de secundaria, el presidente de Islandia, Gudni Johannesson, anunció en Facebook que no prohibiría <BLANK>.",
+            "v": "Ante la presión de los estudiantes de secundaria, el presidente de Islandia, Gudni Johannesson, anunció en Facebook que no prohibiría <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pizza,pizza with pineapple",
+            "v": "la pizza,pizza,la pizza de piña,pizza con piña",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "On The Prowl,building self confidence,Biding Her Time,weighing herself,Plotting Revenge,after a haircut,Thinking About Clouds,learning to juggle,Who Smells,proposing marriage,Ready to Kill,conehead,Tempting Fate,wishing for more,Named Tina,dance teacher,With a Gun,is over you",
+            "v": "al acecho,aumentando su propia confianza,esperando su momento,pesándose,planeando venganza,después de un corte de pelo,pensando en las nubes,aprendiendo a hacer malabares,maloliente,proponiendo matrimonio,lista para matar,cabeza de cono,tentando al destino,deseando más,llamada Tina,profesora de baile,con un arma,está sobre ti",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Sosteniendo monos",
+            "v": "sosteniendo monos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta pieza de arte se titula <i>Niña desnuda <BLANK><\/i>.",
+            "v": "Esta obra de arte se titula <i>Mujer desnuda <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Con monos",
+            "v": "con monos",
             "n": "AlternateSpellings"
         },
         {

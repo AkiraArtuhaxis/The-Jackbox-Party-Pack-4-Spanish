@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "horse theivery,donut shops,bedazzled jeans,coffee shops,registered Democrats,bigfoot sightings,MMA deaths,yuppies,comic book shops,Bass Pro Shops,alien abductions,disco stations,Bed Bath and Beyonds,flipped pickups,Cracker Barrels,Harvard graduates,Nobel Prize winners,recreational drug use",
+            "v": "entregas de caballos,tiendas de rosquillas,vaqueros deslumbrantes,cafeterías,demócratas registrados,avistamientos de Pie Grande,muertes por MMA,gente universitaria,tiendas de historietas,tiendas de pesca,abducciones alienígenas,estaciones de música disco,Walmarts,camionetas volteadas,restaurantes sureños,licenciados de Harvard,ganadores del Premio Nobel,consumo de drogas recreativas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1992, un estudio afirmó que las ciudades donde las estaciones de radio de música country eran más escuchadas tenían más <BLANK>.",
+            "v": "En 1992, un estudio afirmaba que las ciudades con una cuota de mercado de radio de música country superior al promedio también tenían más <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "suicide",
+            "v": "suicidio",
             "n": "AlternateSpellings"
         },
         {

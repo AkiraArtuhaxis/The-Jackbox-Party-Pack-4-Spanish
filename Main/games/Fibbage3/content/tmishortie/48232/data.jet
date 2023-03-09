@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Brandy,Hooked On a Feeling,cualquiera de Sinatra,The Devil Went Down to Georgia,La canción de Shaft,You Shook Me All Night Long,Sweet Caroline",
+            "v": "Du hast de Rammstein,Macarena,cualquiera de Sinatra,Ciega sordomuda de Shakira,la canción de Digimon,La leyenda del hada y el mago,Llueve sobre la ciudad",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> tuviera que cantar karaoke, elegiría cantar \u201c<BLANK>.\u201d",
+            "v": "Si <PLAYER> tuviera que cantar karaoke, elegiría cantar “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> tuviera que cantar karaoke, eligiría cantar <BLANK>.",
+            "s": "[category=host]If <PLAYER> had to sing karaoke, they would choose to sing <BLANK>.",
             "t": "A",
             "v": "681243_0",
             "n": "QuestionAudio"

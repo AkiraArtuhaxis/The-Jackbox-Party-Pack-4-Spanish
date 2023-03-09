@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "giraffe condom,squirrel parachute,crab net,toddler restraint,ice cream strainer,raccoon trap,rose straightener,hot dog sharpener,magic wand polisher,golf ball re-dimpler,finger nail clipping catcher,wasp catcher,raisin dryer,paint brush cleaner,breast polisher,instant head shaver,diamond detector,cheese collector",
+            "v": "un condón para jirafas,un paracaídas para ardillas,una red para cangrejos,un retenedor de niños pequeños,un colador de helado,una trampa para mapaches,un alisador de rosas,un afilador de perritos calientes,un pulidor de varitas mágicas,un reducidor de pelotas de golf,un receptor de uñas recién cortadas,un atrapador de avispas,un secador de pasas,un limpiador de pinceles,un pulidor de pechos,una afeitadora instantánea de cabeza,un detector de diamantes,un recolector de quesos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "recogedor de caca de perro",
+            "v": "un recogedor de caca de perro",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Se supone que esta patente de 1998 es un(a) <BLANK>.",
+            "v": "Se supone que esta patente de 1998 es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "dog poo collector,doggie poo collector,doggie poo collector,dog poop colector,dog shit collector,dog poop bag",
+            "v": "recogedor de caca de perro,un recogedor de popó de perro,recogedor de popó de perro,recogedor de mierda de perro,un recogedor de mierda de perro,una bolsa de caca de perro,una bolsa de mierda de perro",
             "n": "AlternateSpellings"
         },
         {

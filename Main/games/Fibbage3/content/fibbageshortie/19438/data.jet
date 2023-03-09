@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "spend the night in a haunted mansion,dress up like Frogger,write a mean letter to Mario,play Crazy Taxi for 24 hours,step in the ring with Mike Tyson,play every Mary Kate and Ashley game,move out of their parents’ house,go on a date with a wrestler,clean up after John Madden,break into their competitor’s office,build a life-size Stargate,eat a Gameboy,do a stunt from Goldeneye,hold their breath for 4 minutes,donate blood,surf blindfolded,get a Smash TV tattoo,marry their CEO",
+            "v": "pase la noche en una mansión embrujada,se disfrace de Frogger,escriba una carta de mal gusto a Mario,juegue Crazy Taxi por 24 horas,suba al ring con Mike Tyson,juegue a todos los juegos de Mary Kate y Ashley,se mude de la casa de sus padres,tenga una cita con un luchador,limpie lo que hace Donald Trump,irrumpa en la oficina de su competidor,construya un Stargate de tamaño real,coma un Gameboy,haga una acrobacia de Goldeneye,contenga la respiración por 4 minutos,done sangre,surfee con los ojos vendados,se haga un tatuaje de Smash TV,se case con su director ejecutivo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2002, para promocionar un videojuego, Acclaim ofreció 10 mil dólares a cualquiera que <BLANK>.",
+            "v": "Para promocionar un videojuego en el año 2002, Acclaim ofreció 10.000 dólares a cualquiera que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "name their kid Turrok,name their child Turock",
+            "v": "nombrará a su niño Turrok,nombrará a su hijo Turock,nombrara a su niño Turrok,nombrara a su hijo Turock",
             "n": "AlternateSpellings"
         },
         {

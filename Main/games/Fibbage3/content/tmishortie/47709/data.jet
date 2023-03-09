@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "mi primer iPhone,un buzo en sexto año,mi almuerzo,la receta de galletas de mi abuela,el Game Boy de mi mejor amigo,una beca universitaria,dos muelas",
+            "v": "mi primer iPhone,un buzo en secundaria,mi almuerzo,la receta de galletas de mi abuela,el Game Boy de mi mejor amigo,una beca universitaria,dos muelas",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Algo que perdiste y aún no terminas de superar es <BLANK>.",
+            "v": "Algo que perdiste y que todavía no superas es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que <PLAYER> perdió y no termina de superar es <BLANK>.",
+            "v": "Algo que <PLAYER> perdió y que todavía no supera es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que <PLAYER> perdió y no termina de superar es <BLANK>.",
+            "s": "[category=host]Something <PLAYER> lost that they’re still upset about is <BLANK>.",
             "t": "A",
             "v": "666324_0",
             "n": "QuestionAudio"

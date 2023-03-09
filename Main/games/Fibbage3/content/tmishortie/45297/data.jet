@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "astronauta,doctor de peces,granjera de ensalada,dentista de animales,bailarina hechicera,chef de celebridades,un perrito",
+            "v": "astronauta,doctor de peces,agricultor de jarabe de arce,dentista de animales,bailarina maga,chef de celebridades,un perrito",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una de las cosas más extrañas que <PLAYER> quería ser cuando fuera más grande era <BLANK>.",
+            "s": "[category=host]One of the weirdest things <PLAYER> wanted to be when they grew up was <BLANK>.",
             "t": "A",
             "v": "611015_0",
             "n": "QuestionAudio"

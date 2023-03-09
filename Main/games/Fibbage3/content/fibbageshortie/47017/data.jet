@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cinnamon rolls,paint fumes,posies,elk sweat,their babies’ heads,spider eggs,the dead,rancid mutton,like bananas,with their eyes closed,like teen spirit,through a slice of cheese,worse than the dead,dog guts,only blue objects,men named William,a priest,their own vomit",
+            "v": "rollos de canela,vapor de pintura,ramilletes,sudor de alce,cabezas de sus bebés,huevos de araña,los muertos,cordero rancio,como plátanos,con los ojos cerrados,como espíritu adolescente,a través de una rodaja de queso,peor que los muertos,tripas de perro,solo objetos azules,hombres llamados William,un cura,su propio vómito",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pedos de una jarra",
+            "v": "pedos enfrascados",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Con el fin de tratar la peste bubónica, algunos médicos de los años 1600 recomendaban que sus pacientes olieran <BLANK>.",
+            "v": "Para tratar la exposición a la peste bubónica, algunos médicos del siglo XVII recomendaban que sus pacientes olieran <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "farts in a jar,farts,a fart",
+            "v": "pedos en un frasco,pedos,un pedo",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "dormir siesta,una biblioteca,una oficina,zapatos,an evidence dungeon,una sala de realidad virtual,una casa de",
+            "v": "dormir siesta,una biblioteca,una oficina,zapatos,un calabozo de pruebas,una sala de realidad virtual,un vivero",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si de repente tuvieras una habitación vacante en tu hogar, ¿para qué la usarías?",
+            "v": "Si de repente tuvieras una habitación extra en tu casa, ¿para qué la usarías?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> de repente tuviera una habitación vacante en su hogar, seguramente la usaría para <BLANK>.",
+            "v": "Si <PLAYER> de repente tuviera una habitación extra en su casa, seguramente la usaría para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> de repente tuviera una habitación vacante en su hogar, seguramente la usaría para <BLANK>.",
+            "s": "[category=host]If <PLAYER> suddenly had an extra room in their home, they’d probably use it for <BLANK>.",
             "t": "A",
             "v": "665812_0",
             "n": "QuestionAudio"

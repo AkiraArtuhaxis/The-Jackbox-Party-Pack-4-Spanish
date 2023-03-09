@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "keep out stray cats,prevent alien invasions,deter illegal immigrants,keep out prostitutes,television reception,tourism,stop people moving away,with their giant dome surplus,keep in that new town smell,discourage skydiving,rained out baseball games,increase rainbows,astronomers,old people get out more,Stephen King’s writing,the fruit trees,preserve historical landmarks,fireworks shows",
+            "v": "mantener alejados a los gatos callejeros,prevenir invasiones extraterrestres,disuadir a los inmigrantes ilegales,mantener alejadas a las prostitutas,la recepción de televisión,el turismo,evitar que la gente se mude,ocupar su cúpula gigante de sobra,mantener ese olor a ciudad nueva,desalentar el paracaidismo,mantener los partidos de béisbol sin lluvia,aumentar los arco iris,los astrónomos,que la gente mayor salga más,la escritura de Stephen King,los árboles frutales,preservar los monumentos históricos,los espectáculos de fuegos artificiales",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1979, la ciudad estadounidense de Winooski propuso construir una cúpula protectora que cubriría toda la zona. Creían que esto ayudaría a <BLANK>.",
+            "v": "En 1979, la ciudad estadounidense de Winooski propuso construir una cúpula protectora que cubriera toda la ciudad. Pensaron que esto ayudaría a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "reduce heating bills,decrease heating bills,lower heating costs,reduce heating costs,decrease heating costs,lower the cost of heating,decrease the cost of heating,reduce the cost of heating,lower the heating bills,decrease the heating bills,reduce the heating bills,lower the town’s heating bills,reduce the town’s heating bills,decrease the town’s heating bills",
+            "v": "reducir las facturas de calefacción,disminuir las facturas de calefacción,abaratar las facturas de calefacción,reducir el costo de calefacción,disminuir el costo de calefacción,abaratar el costo de calefacción,reducir las facturas de calefacción de la ciudad,disminuir las facturas de calefacción de la ciudad,abaratar las facturas de calefacción de la ciudad",
             "n": "AlternateSpellings"
         },
         {

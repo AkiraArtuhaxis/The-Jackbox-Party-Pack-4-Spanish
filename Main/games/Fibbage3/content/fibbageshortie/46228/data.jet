@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Jack the Ripper,The newest Bachelor,The voice of our generation,looking for a ride to the moon,The Axe Man of New Orleans,An escaped convict,Suing the entire city,Holding the city for ransom,God,In control oft he weather,Able to predict the future,having a nice day,Funding a trip to Hell,King of Antlantis,the Zodiac Killer,everybody’s daddy,not into jazz,disgusted by pregnant women",
+            "v": "Jack el Destripador,el nuevo soltero,la voz de nuestra generación,el propulsor de un viaje a la luna,el hombre del hacha de Nueva Orleans,un convicto fugado,el demandante de toda la ciudad,el que pedía rescate por la ciudad,un dios,controlador del tiempo,capaz de predecir el futuro,un buen día para él,el financiador de un viaje al infierno,el rey de Antlantis,el asesino del Zodiaco,el padre de todos,una persona que odiaba el jazz,un asco las mujeres embarazadas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los periódicos de San Francisco, EE. UU. publicaron un inusual comunicado de prensa en 1859 del residente Joshua Norton, donde este declaraba que era <BLANK>.",
+            "v": "Los periódicos de San Francisco, EE. UU., publicaron en 1859 un inusual comunicado de prensa del residente Joshua Norton, donde este declaraba que era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Emperor,Emperor Norton I,Emperor Norton,Emperor of the US,Emperor of the U.S.",
+            "v": "emperador,el Emperador Norton I,el Emperador Norton,Emperador de EE. UU.,Emperador de los Estados Unidos",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Egg Toss,Cupcake Baking,snapping,Play-Doh Molding,cup stacking,Station Wagon Racing,Nail Polish Design,Barista,Corn Shucking,Thumb War,Arm Wrestling,Pizza Dough Spinning,cleaning,Quiplash,Pun,donkey basketball,staring,silent treatment",
+            "v": "lanzamiento de huevos,horneado de pastelillos,chasquidos,moldeado de plastilina,apilamiento de tazas,carreras de vagones,diseño de esmalte de uñas,barista,desgranado de maíz,guerra de pulgares,vencidas,giro de masa de pizza,limpieza,Quiplash,juego de palabras,baloncesto con burros,mirada fija,ley del hielo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Piedra papel o tijera",
+            "v": "piedra papel o tijeras",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Rock, Paper, Scissors",
+            "v": "piedra,papel,tijeras",
             "n": "AlternateSpellings"
         },
         {

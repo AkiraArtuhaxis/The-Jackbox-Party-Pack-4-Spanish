@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "feeling of happiness,heart,tiger,slab of steak,baby,lizard,evil,pack of baseball cards,balloon,oil can,crab,snake,twin,secret,demon,accordion,thought,jukebox",
+            "v": "un sentimiento de felicidad,un corazón,un tigre,un filete de ternera,un bebé,un lagarto,una maldad,un paquete de tarjetas de béisbol,un globo,una lata de aceite,un cangrejo,una serpiente,un gemelo,un secreto,un demonio,un acordeón,un pensamiento,un tocadiscos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pastel de carne",
+            "v": "un pastel de carne",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Kris Jenner tuiteó: \"Siento que hay un <BLANK> gigante dentro de mí\"",
+            "v": "Kris Jenner tuiteó: \"Siento que hay <BLANK> gigante dentro de mí\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pastel con carne",
+            "v": "un pastel con carne",
             "n": "AlternateSpellings"
         },
         {

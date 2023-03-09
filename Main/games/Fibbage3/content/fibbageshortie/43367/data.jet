@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "drunk teenagers,hobos,nudists,scarecrows,vampire bats,secret societies,Wizard of Oz enthusiasts,politicians,counterfeit jeans deals,radioactive deer,jugglers,Germans,painters,huge rabbits,musical theater kids,drug dealers,fight clubs,farmers",
+            "v": "jóvenes borrachos,vagabundos,nudistas,espantapájaros,murciélagos vampiros,sociedades secretas,aficionados al Mago de Oz,políticos,ofertas de vaqueros falsificados,ciervos radioactivos,malabaristas,alemanes,pintores,conejos enormes,teatro musical para niños,traficantes de drogas,clubes de lucha,agricultores",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Conforme Francia comenzaba a cultivar más maíz, han observado un efecto secundario impactante: sus campos de maíz ahora estaban llenos de <BLANK>.",
+            "v": "Conforme Francia comenzaba a cultivar más maíz, han notado un efecto secundario impactante: sus campos de maíz están llenos de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "hamsters,cannibals,flesh-eating hamsters",
+            "v": "hámsters,caníbales,hámsteres carnívoros",
             "n": "AlternateSpellings"
         },
         {

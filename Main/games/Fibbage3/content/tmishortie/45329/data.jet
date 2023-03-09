@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "los platos sucios,sacar la basura,bañar al perro,aspirar mi habitación,darle de comer a Tom,limpiar el baño,sacarle el polvo a mis decoraciones",
+            "v": "lavar los platos,sacar la basura,bañar al perro,pasar la aspiradora,darle de comer a Tom,limpiar el baño,sacarle el polvo a mis decoraciones",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La tarea hogareña que <PLAYER> pagaría dinero metálico para evitar hacerla es <BLANK>.",
+            "v": "La tarea hogareña que <PLAYER> pagaría un dineral para evitar hacerla es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La tarea hogareña que <PLAYER> pagaría dinero metálico para evitar hacerla es <BLANK>.",
+            "s": "[category=host]The household chore <PLAYER> would pay cold hard cash to avoid doing is <BLANK>.",
             "t": "A",
             "v": "611975_3",
             "n": "QuestionAudio"

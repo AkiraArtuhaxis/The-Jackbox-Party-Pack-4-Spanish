@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bits of tire,Vicks VapoRub,curly fries,expired coupons,teddy bear stuffing,invisible ink,potting soil,chicken bones,fireworks,banana skins,leather couch parts,marbles,potatoes,bacon,pirate gold,vodka,bad vibes,bear fur",
+            "v": "trozos de neumático,paracetamol,papas fritas rizadas,cupones caducados,relleno de osito,tinta invisible,tierra para macetas,huesos de pollo,fuegos artificiales,cáscara de plátano,partes de sofá de cuero,canicas,papas,tocino,oro pirata,vodka,malas vibras,pelaje de oso",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017 se retiró una marca de latkes congelados porque se pensaba que estaban contaminados con <BLANK>.",
+            "v": "Una marca de croquetas de papas congeladas fue retirada del mercado en 2017 porque se creía que estaban contaminadas con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "golfballs,golf ball materials,golf ball matter,pieces of golf ball,pieces of golf balls",
+            "v": "bolas de golf,materiales de pelotas de golf,materia de pelotas de golf,trozos de pelota de golf,trozos de pelotas de golf",
             "n": "AlternateSpellings"
         },
         {

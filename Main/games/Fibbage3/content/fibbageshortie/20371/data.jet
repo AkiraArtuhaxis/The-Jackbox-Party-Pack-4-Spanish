@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "married,hungry,in danger,in their home,lonely,overweight,in Canada,named after their father,exhausted,speaking a foreign language,tan,muscular,eating food,on an airplane,sleeping,not popular,a parent,using the thumbs up gesture wrong",
+            "v": "casadas,con hambre,en peligro,es su casa,solitarias,con sobrepeso,en Canadá,con el nombre de su padre,cansadas,hablando un idioma extranjero,pálidas,musculosas,comiendo,en un avión,durmiendo,siendo populares,siendo padres,usando bien el gesto de pulgares arriba",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Síndrome de Anton es un extraño trastorno en el que las personas afectadas no saben que son <BLANK>.",
+            "v": "El síndrome de Anton es un extraño trastorno en el que las personas afectadas no saben que están <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "unable to see,can’t see,sightless,without sight",
+            "v": "incapaces de ver,sin vista,sin vistas,sin poder ver",
             "n": "AlternateSpellings"
         },
         {

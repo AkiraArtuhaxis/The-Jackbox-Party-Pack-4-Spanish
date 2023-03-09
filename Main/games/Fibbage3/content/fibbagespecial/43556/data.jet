@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "corn,pain,bushes,burgers,tacos,nacho cheese dip,wheat,ice cream,candy,tomatoes,bark,bread,strawberries,almonds,mints,coal,hot dog buns,hay",
+            "v": "maíz,dolor,arbustos,hamburguesas,tacos,salsa de queso para nachos,trigo,helado,caramelos,tomates,corteza,pan,frutillas,almendras,caramelos de menta,carbón,bollos para perritos calientes,heno",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Vot Iz Booshel?",
+            "v": "¿Khé ez un recipyente?",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "salt",
+            "v": "sal",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Quieres conocer a alguien? Como dicen los rusos, \"Conocerás a una persona cuando comas un celemín de <BLANK> con él.\"",
+            "v": "¿Quieres conocer a alguien? Como dicen los rusos, \"Conocerás a una persona cuando coman juntos un recipiente de <BLANK>\".",
             "n": "QuestionText"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Reggaeton,Kanye,Anime,Golf,Fibbage,Correr,Red Hot Chili Peppers",
+            "v": "Reggaetón,Kanye,Animé,Golf,Fibbage,Correr,Red Hot Chili Peppers",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Qué es algo qué intentaste que te guste, pero no pudiste lograrlo.",
+            "v": "Algo que intentaste que te gustara, pero no te convenció.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que <PLAYER> probó, pero simplemente no pudo lograr que le guste es <BLANK>.",
+            "v": "Algo que <PLAYER> intentó, pero simplemente no pudo lograr que le guste es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que <PLAYER> probó, pero simplemente no pudo lograr que le guste es <BLANK>.",
+            "s": "[category=host]Something <PLAYER> has tried, but just can’t get into is <BLANK>.",
             "t": "A",
             "v": "625467_0",
             "n": "QuestionAudio"

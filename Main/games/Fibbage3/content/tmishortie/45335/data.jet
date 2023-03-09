@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "deprimido,optimista,tacos,afilado,caliente,familia,mocos",
+            "v": "deprimido,optimista,tacos,descarado,caliente,familia,mocos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es una palabra que usarías para describir como te sientes sobre el futuro?",
+            "v": "¿Qué palabra usarías para describir cómo te sientes respecto al futuro?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Los sentimientos de <PLAYER> sobre el futuro se pueden describir con la palabra <BLANK>.",
+            "s": "[category=host]<PLAYER>’s feelings about the future can be described by the word <BLANK>.",
             "t": "A",
             "v": "612155_0",
             "n": "QuestionAudio"

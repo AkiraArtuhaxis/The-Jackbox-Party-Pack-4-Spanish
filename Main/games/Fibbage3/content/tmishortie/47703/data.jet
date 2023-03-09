@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Oreos,Doritos,3D,Dientes de goma,Palitos de la selva,Papitas acanaladas,Palitos",
+            "v": "Oreos,Doritos,papas fritas,chicle,mentitas,palomitas de maíz,palitos de queso",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es un snack del que te podrías comer todo el paquete sin darte cuenta?",
+            "v": "¿De qué bocadillo te podrías comer un paquete entero sin pensarlo?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Oh-oh. <PLAYER> se comió todos los <BLANK> otra vez.",
+            "v": "Oh, oh. <PLAYER> se comió un paquete entero de <BLANK> de nuevo.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Oh-oh. <PLAYER> se comió todos los <BLANK> otra vez.",
+            "s": "[category=host]Uh oh. <PLAYER> ate all the <BLANK> again.",
             "t": "A",
             "v": "666168_0",
             "n": "QuestionAudio"

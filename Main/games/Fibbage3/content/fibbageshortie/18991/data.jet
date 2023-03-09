@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "costumed ninjas,US special ops soldiers,off-duty cops,cheerleaders,monks,ex-convicts,nuns,Olympic athletes,security guard trainees,MMA fighters,cosplayers,geishas,mimes,samurai,nudists,sushi chefs,police dogs,government officials",
+            "v": "ninjas disfrazados,soldados de operaciones especiales de EE. UU.,policías fuera de servicio,porristas,monjes,ex convictos,monjas,atletas olímpicos,aprendices de guardia de seguridad,luchadores de MMA,cosplayers,geishas,mimos,samuráis,nudistas,chefs de sushi,perros policía,funcionarios del gobierno",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "sumo wrestlers",
+            "v": "luchadores de sumo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En Marzo del 2006, un hombre intentando robar cerca de un templo en Osaka, Japón, quedó sorprendido al ser capturado por 20 <BLANK> que resultaron estar dentro del edificio.",
+            "v": "En marzo de 2006, un hombre que intentaba robar cerca de un templo en Osaka, Japón, se llevó una gran sorpresa al ser detenido por 20 <BLANK> que se encontraban en el edificio.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sumo,sumos,wrestlers",
+            "v": "sumo,sumos,luchadores sumo,luchadores",
             "n": "AlternateSpellings"
         },
         {

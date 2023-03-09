@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Fred Savage|Frank Sinatra,Prince|Michael Jackson,Fred|Wilma Flintstone,Tom Cruise|Tom Hanks,Jon Hamm|Daniel Radcliffe,Shia LeBeouf|Zac Efron,Ted Danson|a corgi,Sylvester Stallone|Arnold Schwarzenegger,Shari Lewis|Lambchop,Batman|Robin,George|Barbara Bush,Kirk|Picard,Michael Cera|a piece of wood,George Burns|Gracie Allen,Mario|Luigi,Elmo|Dora the Explorer,Brad Pitt|Eddie Murphy,Lady Gaga|Adele",
+            "v": "Elvis|Frank Sinatra,Prince|Michael Jackson,Pedro|Vilma Picapiedra,Tom Cruise|Tom Hanks,Ryan Reynolds|Daniel Radcliffe,Shia LeBeouf|Zac Efron,Ted Danson|un corgi,Sylvester Stallone|Arnold Schwarzenegger,David Copperfield|Chris Angel,Batman|Robin,George|Barbara Bush,Kirk|Picard,Michael Cera|un trozo de madera,el Sr. Burns|el jefe Gorgory,Mario|Luigi,Elmo|Dora la exploradora,Brad Pitt|Eddie Murphy,Lady Gaga|Adele",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Jonathan y Drew Scott, AKA los \"Hermanos a la obra\", tienen un hermano mayor llamado JD que ha actuado en Las Vegas como un imitador de <BLANK> y <BLANK>.",
+            "v": "Jonathan y Drew Scott, alias los \"Hermanos a la obra\", tienen un hermano mayor llamado JD que ha actuado en Las Vegas como un imitador de <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a box a Hot Pockets,their heads,a YouTube vlog,a chinese takeout menu,an egg,spanish,pig latin,tweets about apples,a children’s game about math,their toupees,necktie patterns,the bottom of wells,fake casts,the inside of starbucks cups,sky writing,tissue boxes,recycling bins,plain sight",
+            "v": "una caja de pizza,sus cabezas,un vlog de YouTube,un menú de comida china para llevar,un huevo,español,un dialecto antiguo de inglés,tuits sobre manzanas,un juego infantil sobre matemáticas,sus pelucas,patrones de corbatas,el fondo de los pozos,yesos falsos,el interior de las tazas de Starbucks,escritura en el cielo,cajas de pañuelos,contenedores de reciclaje,donde todos lo podían ver a simple vista",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El Instagram de Britney Spears",
+            "v": "el Instagram de Britney Spears",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, el grupo ruso de hackers Turla fue bastante creativo. Intentaron evitar ser detectados ocultando las instrucciones de su malware en <BLANK>.",
+            "v": "En 2017, el grupo de hackers ruso Turla se puso bastante ingenioso. Intentaron evitar ser detectados ocultando las instrucciones de su malware en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Britney Spears Instagram,Instagram,Britney’s Instagram,Britney Spears’ Instagram comments",
+            "v": "Instagram de Britney Spears,Instagram,el Instagram de Britney,los comentarios de Instagram de Britney Spears",
             "n": "AlternateSpellings"
         },
         {

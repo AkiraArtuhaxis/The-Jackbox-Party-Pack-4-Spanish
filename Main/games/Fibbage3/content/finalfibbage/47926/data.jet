@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cycling|bullies,running|cinder blocks,volleyball|bombs,wrestling|old men,juggling|knives,swimming|sharks,flirting|danger,pushups|fire,kickboxing|bears,dancing|broken heels,surfing|komodo dragons,Drumming|restraint,marching|a carefully balanced egg,Burlesque Dancing|your dog,ballet|catty remarks,boxing|Gary Busey,wall climbing|a picnic lunch,karate|beer",
+            "v": "ciclismo|matones,atletismo|bloques de hormigón,vóleibol|bombas,lucha libre|ancianos,malabares|cuchillos,natación|tiburones,coqueteo|peligro,flexiones de brazo|fuego,kickboxing|osos,baile|tacones rotos,surf|dragones de komodo,batería|restricción,a marchar|un huevo cuidadosamente equilibrado,baile burlesque|tu perro,ballet|comentarios sarcásticos,boxeo|Mike Tyson,escalada|un almuerzo campestre,karate|cerveza",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Quieres cambiar un poco tu rutina de ejercicio? Anótate a una clase de Lainey Morse. Ella enseña <BLANK> con <BLANK>.",
+            "v": "¿Quieres darle un toque especial a tu rutina de ejercicios? Inscríbete a una clase con Lainey Morse. Ella enseña <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {

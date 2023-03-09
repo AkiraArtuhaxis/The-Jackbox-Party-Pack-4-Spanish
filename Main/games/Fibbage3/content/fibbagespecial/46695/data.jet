@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "give birth,strangle a man,steal Santa’s sleigh,ride a dead body,kidnap a baby bear,ruin Thanksgiving,pee on a wedding dress,have sex with a muffin,get dragged to hell,get swalled by a worm,watch a woman undress,think about dying,slowly die from poison,ride a magic carpet,explode from a clam,come back to life,rob a liquor store,make bread",
+            "v": "dan a luz,estrangulan a un hombre,roban el trineo de Papá Noel,montan en un cadáver,secuestran a un bebé oso,arruinan el día de Acción de Gracias,mean en un vestido de novia,tienen sexo con una magdalena,son arrastrados al infierno,son tragados por un gusano,ven a una mujer desnudarse,piensan en morir,mueren envenenados lentamente,montan en una alfombra mágica,explotan por una almeja,reviven,roban una licorería,hacen pan",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "montan un bagre",
+            "v": "montan un pez gato",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta figurina japonesa muestra a dos monos mientras <BLANK>.",
+            "v": "Esta estatuilla japonesa muestra a dos monos mientras <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sit on a catfish,ride a fish",
+            "v": "se sientan en un pez gato,montan un pez",
             "n": "AlternateSpellings"
         },
         {

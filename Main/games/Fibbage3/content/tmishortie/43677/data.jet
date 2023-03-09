@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Una mansión,500 big macs,más dinero,todo un planeta,una PC gamer cheta,un mayordomo robot,una cita con Steve Buscemi",
+            "v": "una mansión,500 hamburguesas,más dinero,un planeta entero,una PC gamer brutal,un mayordomo robot,una cita con Steve Buscemi",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una compra loca que éste jugador haría tras ganar la lotería sería <BLANK>.",
+            "s": "[category=host]Something crazy this player would buy after winning the lottery would be <BLANK>.",
             "t": "A",
             "v": "567090_0",
             "n": "QuestionAudio"

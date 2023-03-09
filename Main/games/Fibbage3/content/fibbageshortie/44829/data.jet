@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cobra,propaganda novel,doughnut,bicycle,hot sauce,hotel recommendation,electric razor,pacifier,nerf ball,pudding recipe,pair of socks,ink pen,hamster,wig,seat cushion,air freshener,country song,fishing lure",
+            "v": "una cobra,una novela de propaganda,una rosquilla,una bicicleta,una salsa picante,una recomendación de hotel,una máquina de afeitar eléctrica,un chupete,una pelota,una receta de pudín,un par de calcetines,un bolígrafo de tinta,un hámster,una peluca,un cojín de asiento,un ambientador,una canción country,un señuelo de pesca",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tuit",
+            "v": "un tuit",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La policía detuvo a un hombre por enviar al periodista Kurt Eichenwald un peligroso <BLANK>.",
+            "v": "La policía detuvo a un hombre por enviar <BLANK> perjudicial al periodista Kurt Eichenwald.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "twitter message,DM,Direct Message",
+            "v": "un mensaje en Twitter,un mensaje directo,un MD",
             "n": "AlternateSpellings"
         },
         {

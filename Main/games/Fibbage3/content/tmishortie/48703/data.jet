@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "caerse,vomitar,caerse en la pileta,cantar mal,hacer stand up,contar una historia personal,hacer el baile de Fortnite",
+            "v": "caer,vomitar,caer en la piscina,cantar mal,hacer comedia,contar una historia personal,hacer el baile de Fortnite",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la cosa más vergonzosa que has hecho en frente de un grupo grande de gente?",
+            "v": "¿Qué es lo más vergonzoso que has hecho delante de un grupo grande de personas?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cosa más vergonzosa que <PLAYER> ha hecho en frente de un grupo grande de personas es <BLANK>.",
+            "v": "Lo más vergonzoso que <PLAYER> ha hecho en frente de un grupo grande de personas es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La cosa más vergonzosa que <PLAYER> ha hecho en frente de un grupo grande de personas es <BLANK>",
+            "s": "[category=host]The most embarrassing thing <PLAYER> has done in front of a large group of people was <BLANK>",
             "t": "A",
             "v": "694966_1",
             "n": "QuestionAudio"

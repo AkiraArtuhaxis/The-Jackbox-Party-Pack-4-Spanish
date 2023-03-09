@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "walk|talk,jump|skip,see|smell,roar|move,know your name|where you live,sing|dance,think|feel,complain|vote,buy|sell knives,kill|feel guilt,laugh|cry,sleep|dream,moan|groan,make us smile|make us think,do standup|improv,tweet|post on facebook,dork out|nerd it up,predict the future|make juice",
+            "v": "caminar|hablar,saltar|esquivar,ver|oler,rugir|moverse,saber tu nombre|dónde vives,cantar|bailar,pensar|sentir,quejarse|votar,comprar|vender cuchillos,matar|sentir culpa,reír|llorar,dormir|soñar,gemir|gimotear,hacernos sonreír|hacernos pensar,hacer comedia|improvisación,tuitear|publicar en Facebook,hacerse el tonto|ser ñoño,predecir el futuro|hacer jugo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tirarse pedos|mear",
+            "v": "tirarse pedos|orinar",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, un museo en Manitoba introdujo una nueva exhibición con dinosaurios robóticos que podían tanto <BLANK> como <BLANK>.",
+            "v": "En 2017, un museo en Manitoba presentó una nueva exhibición con dos dinosaurios robóticos que podían tanto <BLANK> como <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "fart|piss,toot|pee,toot|piss,fart|urinate,toot|urinate,pass gas|pee,pass gas|piss,pee|fart,piss|fart,pee|toot,piss|toot,urinate|fart,urinate|toot,pee|pass gass,piss|pass gass",
+            "v": "tirarse pedos|hacer pis,cagar|orinar,orinar|cagar,hacer pis|tirarse pedos",
             "n": "AlternateSpellings"
         },
         {

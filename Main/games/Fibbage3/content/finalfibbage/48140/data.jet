@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "leg crossing scene|Fatal Attraction,nuclear power plant|The Simpsons,secret moon landing|1947,flood|Bible,beer recipe|Beowulf,high school|Saved By The Bell,fembots|Austin Powers,prom scene|Carrie,Twister|Twister,chocolate river|Willy Wonka,home run|The Natural,fight scene|Kung Fu Panda,Death Star|Return of the Jedi,town|It’s a Wonderful Life,Great Pumpkin|Charlie Brown,catcher’s mitt|Catcher in the Rye,apartment|Laverne and Shirley,shark|Jaws",
+            "v": "la escena del cruce de piernas|Atracción fatal,la planta nuclear|Los Simpson,el alunizaje secreto|1947,inundación|la biblia,la receta de cerveza|la antigua Grecia,la secundaria|Malcolm el de en medio,las fembots|Austin Powers,la escena del baile de graduación|Carrie,el castillo|Juego de Tronos,el río de chocolate|Willy Wonka,cuadrangular|El mejor,la escena de lucha|Kung Fu Panda,la Estrella de la Muerte|El regreso del Jedi,la ciudad|The Truman Show,a Snoopy|Charlie Brown,el puerto|Pearl Harbor,el edificio|Futurama,el tiburón|Tiburón",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "canchas de tenis|Wimbledon",
+            "v": "las canchas de tenis|Wimbledon",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Piensas en viajar a Charles City, IA? Asegurate de visitar la granja de Mark Kuhn, donde recreó fielmente las <BLANK> de <BLANK>.",
+            "v": "¿Piensas viajar a Charles City, Iowa? Asegúrate de visitar la granja de Mark Kuhn, donde recreó fielmente <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tennis court|Wimbledon,courts|Wimbledon",
+            "v": "la cancha de tenis|Wimbledon,canchas|Wimbledon",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "commercial airline pilot,tree surgeon,property rights attorney,cleaning high-end apartments,state senator,mold and spore advocate,milkmaid,alchemist,shepherd,a youtube creator,guitar whisperer,astronomist,unicycle repairperson,professional shopper,telemarketer,fry cook,counselor of runaway children,piano tuner",
+            "v": "piloto de avión comercial,cirujana de árboles,abogada de derechos de propiedad,limpieza de departamentos de lujo,senadora del estado,defensor del moho y las esporas,ordeñadora,alquimista,pastora,YouTuber,susurradora de guitarra,astrónoma,reparadora de monociclos,compradora profesional,teleoperadora,cocinera de frituras,consejera de niños fugados,afinadora de pianos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tallado de motosierra",
+            "v": "tallado con motosierra",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cherie Currie, la cantante principal de la icónica banda femenina The Runaways, todavía graba y actua en el grupo, pero su trabajo actual es <BLANK>.",
+            "v": "Cherie Currie, la cantante principal de la icónica banda femenina The Runaways, todavía graba y se presenta en vivo, pero su \"trabajo cotidiano\" es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "chain saw artist,chainsawer,wood artist,chainsaw sculpturist,wood carver",
+            "v": "tallado de motosierra,motosierrista,artista de la madera,escultora con motosierra,talladora de madera",
             "n": "AlternateSpellings"
         },
         {

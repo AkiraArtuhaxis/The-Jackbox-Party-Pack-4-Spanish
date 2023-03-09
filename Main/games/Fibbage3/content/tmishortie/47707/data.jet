@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "El príncipe de Bel Air,Garfield diciendo \u201cOdio los Lunes\u201d,apurado,doloroso,Mike Dukakis,Dos delfines besándose,un muñeco de nieve derritiéndose",
+            "v": "El príncipe del rap,Garfield diciendo “Odio los lunes”,apurado,doloroso,Putin,dos delfines besándose,un muñeco de nieve derritiéndose",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> se tuviera que hacer un tatuaje mañana, seguramente sería <BLANK>.",
+            "v": "Si <PLAYER> tuviera que hacerse un tatuaje mañana, seguramente sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> se tuviera que hacer un tatuaje mañana, seguramente sería <BLANK>.",
+            "s": "[category=host]If <PLAYER> had to get a new tattoo tomorrow, it’d probably be <BLANK>.",
             "t": "A",
             "v": "666272_2",
             "n": "QuestionAudio"

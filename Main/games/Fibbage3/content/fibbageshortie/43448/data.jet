@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "learn the fiddle,to bowl three perfect games,eat all the ice cream,be elected state representative,whistle non-stop,perform heart surgery,rob an accordion store,carve a guitar out of ice,record a country album,buy 1000 cowboy boots,punch Toby Keith,impersonate a professor,eat four chickens,invent a new musical style,line dance the entire time,eat 12 steaks,steal Hank Williams’ guitar,start a law firm",
+            "v": "aprender a tocar el violín,hacer tres juegos de bolos perfectos,comerse todo el helado,ser elegido representante del estado,silbar sin parar,realizar una operación de corazón,robar una tienda de acordeones,tallar una guitarra en hielo,grabar un álbum de country,comprar 1000 botas vaqueras,golpear a Toby Keith,suplantar a un profesor,comer cuatro pollos,inventar un nuevo estilo musical,bailar en línea todo el tiempo,comer 12 filetes,robar la guitarra de Hank Williams,crear un despacho de abogados",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "cometer 11 crímenes",
+            "v": "cometer 11 delitos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si alguna vez te encuentras con nueve horas sin nada que hacer en Nashville, podrías hacer lo que William Todd hizo en ese tiempo en 2012, que fue <BLANK>.",
+            "v": "Si alguna vez tienes nueve horas libres en Nashville, podrías hacer lo que William Todd hizo en ese tiempo en 2012, que fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "felonies,felonys,crimes,crime,commit felonies,commit crimes,commit crime,get arrested",
+            "v": "delitos,crímenes,crimen,crimenes,cometer delitos,cometer crímenes,cometer crimen,ser arrestado",
             "n": "AlternateSpellings"
         },
         {

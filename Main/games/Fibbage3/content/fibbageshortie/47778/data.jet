@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "nipples,tastes in spouses,toenails,nose hair,ankle prints,senses of humor,allergies,urges to kill,board game strategies,body odor,fertility,cooking ability,dental problems,career ambitions,archery ability,kissing techniques,secrets,children",
+            "v": "pezones,gustos de parejas,uñas de los pies,pelos de la nariz,huellas de los tobillos,el sentido del humor,alergias,impulsos de matar,estrategias de juegos de mesa,olor corporal,fertilidad,habilidad culinaria,problemas dentales,ambiciones profesionales,habilidad con el arco,técnicas de besos,secretos,hijos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, Cary Funk del Centro de Investigaciones Pew publicó los resultados de un interesante estudio de casi 8 mil gemelos donde observaban si tenían las mismas <BLANK>.",
+            "v": "En 2017, Cary Funk del Centro de Investigaciones Pew publicó los resultados de un interesante estudio de casi 8.000 gemelos donde observaban si tenían <BLANK> iguales.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "politics,beliefs,morals,values,political affiliations,political views",
+            "v": "políticas,creencias,morales,valores,orientación política,vista política",
             "n": "AlternateSpellings"
         },
         {

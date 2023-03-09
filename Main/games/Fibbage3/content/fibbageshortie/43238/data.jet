@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "heterosexual,Beatles,dinosaur,wizard,mobster,hip hop,Easter,Garfield,Simpsons,grammar,Thanksgiving,smartwatch,3rd Rock From The Sun,hug,papaya,boxed wine,NASCAR,puppy",
+            "v": "heterosexual,Beatles,dinosaurios,hechizeros,mafiosa,hip hop,Pascua,Garfield,los Simpson,gramática,Acción de Gracias,reloj inteligente,la tercera roca del sol,abrazo,papaya,vino en caja,NASCAR,perrito",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Mormona",
+            "v": "mormona",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Mormón, Mormones",
+            "v": "mormón,mormones",
             "n": "AlternateSpellings"
         },
         {

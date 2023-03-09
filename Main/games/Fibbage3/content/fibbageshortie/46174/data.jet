@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "french kissing,John Cusack,pole vaulting,nipples,rednecks,alligators,baby poop,radishes,old people,smelly pee,Ford trucks,jock itch,Spanx,plane crashes,turtle punching,kangaroo detectives,mustache twirling,government spending",
+            "v": "los besos con lengua,John Cusack,el salto con pértiga,los pezones,los botes,los caimanes,la caca de bebé,los rábanos,los ancianos,la orina maloliente,los camiones Ford,la tiña inguinal,el látex,los accidentes aéreos,los puñetazos de tortuga,los detectives canguro,el giro de bigotes,el gasto público",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "la crianza de loros",
+            "v": "la reproducción de loros",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los desarrolladores del videojuego <i>Minecraft<\/i> generaron controversia en 2017 después de que los fanáticos criticaran la representación del juego de <BLANK>.",
+            "v": "Los desarrolladores del videojuego <i>Minecraft<\/i> generaron polémica en 2017 después de que los fanáticos criticaran la representación de <BLANK> en el juego.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "parrots,parrot,parrot feeding",
+            "v": "loros,loro,alimentación de loros",
             "n": "AlternateSpellings"
         },
         {

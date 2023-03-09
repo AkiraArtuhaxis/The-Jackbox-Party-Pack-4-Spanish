@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "breastfeed|baby,sleep with|boss,wrap|presents,find|inner child,grill|cat,grow|own pigs,make|pants,build|own time machine,clean|bathtub,find|genie,love|colon,write|rock opera,perfect|pancakes,fund|porno,avoid|government,scam|grandparents,murder|spirit animal,bake|brownies",
+            "v": "amamantar|bebé,llevarte a la cama|jefe,amar de verdad|pareja,encontrar|niño interno,asar|gato,criar|propio cerdo,compensar|esposa,construir|propia máquina del tiempo,limpiar|bañera,encontrar|genio,amar|colón,escribirle|cantante de ópera,perfeccionar|receta de panqueques,financiar|porno aficionado,evitar|gobierno,estafar|abuelo,asesinar|animal espiritual,hornear|vaca",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "gato|sus necesidades",
+            "v": "enseñarle a hacer caca|gato",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La leyenda del jazz Charles Mingus escribió una guía sobre cómo hacer que tu <BLANK> haga <BLANK>.",
+            "v": "La leyenda del jazz Charles Mingus elaboró una guía sobre cómo <BLANK> a tu <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "train|cat",
+            "v": "entrenar|gato",
             "n": "AlternateSpellings"
         },
         {

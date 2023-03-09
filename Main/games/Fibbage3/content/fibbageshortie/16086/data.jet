@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "guitars,a bank,fans’ bras,a scarecrow,a bucket of rakes,a school,money,the river,the Berlin Wall,The Rolling Stones’ bus,bratwursts,a beer,statues,Ringo,children,sausages,an abandoned church,his own picture",
+            "v": "unas guitarras,unos sostenes de fanáticas,un espantapájaros,un cubo de rastrillos,una escuela,unos billetes,el río,el Muro de Berlín,el bus de los Rolling Stones,embutidos alemanes,una cerveza,unas estatuas,Ringo,unos niños,unas salchichas,una iglesia abandonada,su propia foto",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un condón",
+            "v": "unos condones",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En los 60, el rockero Paul McCartney fue arrestado en Hamburgo, Alemania por prender fuego <BLANK>.",
+            "v": "En los años 60, el rockero Paul McCartney fue arrestado en Hamburgo, Alemania por prenderle fuego a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "condoms",
+            "v": "condón,un condon,condon,condones,un condón,preservativo,unos preservativos,un preservativo,profiláctico,un profiláctico,profilactico,un profilactico,unos profilácticos,unos profilacticos",
             "n": "AlternateSpellings"
         },
         {

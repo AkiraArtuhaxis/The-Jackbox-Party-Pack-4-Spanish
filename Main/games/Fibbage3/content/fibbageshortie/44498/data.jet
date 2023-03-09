@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fútbol,futbol,curling,monster truck,patinaje,waterpolo,dar besos,patinaje artístico,dardos,bádminton,tenis de mesa,pesca de lubina,NASCAR,competencia de juegos de palabras,poesía,citas rápidas,escultura en hielo,comer perritos calientes,patinaje sobre ruedas",
+            "v": "fútbol,curling,camiones monstruo,patinaje,waterpolo,dar besos,patinaje artístico,dardos,bádminton,tenis de mesa,pesca de lubina,NASCAR,competencia de juegos de palabras,poesía,citas rápidas,escultura en hielo,comer perritos calientes,patinaje sobre ruedas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2016, los Carthage Eagles de Túnez se convirtieron en los primeros campeones africanos de <BLANK>.",
+            "v": "En 2016, las Águilas de Cartago de Túnez se convirtieron en los primeros campeones africanos de <BLANK>.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "see,predict the future,salsa dance,smell drugs,escape prison,bobsled,love,play hockey,dodge traffic,find oil,get out of handcuffs,program video games,handle fireworks,knit sweaters,feel colors,predict weather,avoid him,build boats",
+            "v": "ver,predecir el futuro,bailar salsa,oler drogas,escapar de la cárcel,andar en trineo,amar,jugar hockey,evitar el tráfico,encontrar petróleo,safarse de esposas,programar videojuegos,utilizar fuegos artificiales,tejer chalecos,sentir los colores,predecir el clima,evitarlo,construir botes",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2013, Warren Wethington argumentó bizarramente en el diario <i>Des Moines Register<\/i> que puede enseñarle a personas ciegas como <BLANK>.",
+            "v": "En 2013, Warren Wethington hizo una extraña afirmación al diario <i>Des Moines Register<\/i> que puede enseñar a los ciegos a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "shoot a gun,operate a gun,use a gun,use guns",
+            "v": "disparar un arma,operar un arma,usar un arma,usar armas",
             "n": "AlternateSpellings"
         },
         {

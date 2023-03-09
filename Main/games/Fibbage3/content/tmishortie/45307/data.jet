@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Los locos del golf,Los caballeros de la mesa cuadrada,Los Hermanos Caradura,Tras la esmeralda perdida,Happy Gilmore,Hot Fuzz Super policías,Tiptoes",
+            "v": "La guerra de las galaxias,Las tortugas ninja,Los tres mosqueteros,Titanic,Happy Gilmore,Entrevista con el vampiro,Matrix",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿De qué película podés citar más diálogos?",
+            "v": "¿De qué película puedes citar más diálogos?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La película de la que <PLAYER> puede citar más lineas es <i><BLANK><\/i>.",
+            "v": "La película de la que <PLAYER> puede citar más diálogos es <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La película de la que <PLAYER> puede citar más lineas es <BLANK>.",
+            "s": "[category=host]The movie <PLAYER> can quote the most lines from is <BLANK>.",
             "t": "A",
             "v": "611315_0",
             "n": "QuestionAudio"

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "un chabón en el tren me lanzó encima,cientos de arañas cayeron sobre mi pelo,Joey eligió a Pacey en lugar de Dawson,todo lo de mi heladera se pudrió a la vez,mi amigo se rebentó un grano y salió pus,trague como 10 bichos yendo en moto,encontré un diente en mi helado",
+            "v": "un tipo en el tren vomitó sobre mí,un centenar de arañas cayeron en mi pelo,Malfoy no se pasó al lado de Harry al final,todo lo que había en el refrigerador se echó a perder a la vez,mi amigo se reventó un grano y saltó pus,tragué como 10 insectos yendo en moto,encontré un diente en mi helado",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Nunca sentiste tanto disgusto como cuando <BLANK>.",
+            "v": "Nunca te sentiste tan indignado como cuando <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "<PLAYER> nunca sintió tanto disgusto como cuando <BLANK>.",
+            "v": "<PLAYER> nunca se sintió tan indignado como cuando <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> nunca sintió tanto disgusto como cuando <BLANK>.",
+            "s": "[category=host]The most disgusted <PLAYER> has ever been was that one time when <BLANK>.",
             "t": "A",
             "v": "613571_0",
             "n": "QuestionAudio"

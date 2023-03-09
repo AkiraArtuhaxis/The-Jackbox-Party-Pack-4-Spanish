@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "republican|democrat,an astronaut|a cosmonaut,vegetarian|a carnivore,too hot|too cold,young|old,a grandfather|a grandmother,a cowboy|an indian,a U.S. vice president|a British spy,Time Person of the Year|a soviet spy,ambidextrous|missing both hands,always happy|always crying,a dictator|a poet,a teacher|too cool for school,underdressed|overdressed,elected mayor|banned from Hardy’s,born in Ohio|born in Alaska,underappreciated|overpayed,a cake haver|a cake eater",
+            "v": "republicano|demócrata,un astronauta|un cosmonauta,vegetariano|un carnívoro,demasiado calienteo|demasiado frío,joven|viejo,un abuelo|una abuela,un vaquero|un indio,un vicepresidente de EE. UU.|un espía británico,persona del año según Time|espía soviético,ambidiestro|amputado de ambas manos,super feliz|depresivo,dictador|poeta,profesor|demasiado genial para ir a la escuela,mal vestido|demasiado elegante,elegido alcalde|vetado de ser político,oriundo de Ohio|oriundo de Alaska,infravalorado|sobrevalorado,pastelero|comedor de pasteles",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a giant|a dwarf,dwarf|giant,giant|dwarf",
+            "v": "un gigante|un enano,enano|gigante,gigante|enano",
             "n": "AlternateSpellings"
         },
         {

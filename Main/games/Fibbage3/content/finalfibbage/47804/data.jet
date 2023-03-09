@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Grocery|Vegan,Shoe|Slipper,Book|Nerd,Garden|Radish,Art|Sculpture,Auto|Muffler,Candy|Candy Corn,Costume|Mummy,Store|Bandit,Mattress|Nap,Mart|Shop,Hardware|Wingnut,Four|and Twenty Years Ago,Jerk|Stupid Head,Pet|Gecko,Restaurant Supply|Immersion Blender,Music|Hipster,Big Box|Family Size",
+            "v": "vegano|abarrotes,zapatilla|zapatos,ñoño|libros,rábano|jardín,escultural|arte,silenciador|autos,caramelo|caramelo,momia|disfraces,bandido|tiendas,siesta|colchones,rata|mercados,cascarrabias|ferretería,de hace 20 años|pizzas,estúpido|tecnología,geco|mascotas,batidor|suministros de restaurante,hipster|música,tamaño familiar|cajas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Abuelo|Dólar",
+            "v": "anciano|un dólar",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En diciembre de 2016, el FBI comenzó la cacería de un criminal que nombraron como el \"Bandido <BLANK> de las Tiendas de <BLANK>.\"",
+            "v": "En diciembre de 2016, el FBI comenzó la cacería de un criminal que nombraron como el \"Bandido <BLANK> de las tiendas de <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Dollar|Grampa",
+            "v": "abuelo|un dólar",
             "n": "AlternateSpellings"
         },
         {

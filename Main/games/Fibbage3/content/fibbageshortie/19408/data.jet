@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "ESP,a series of winks,erotic touching,talking,waving,screaming,changing color,swimming in circles,dying,rolling their eyes,belching,peeing,flaring their nostrils,sarcasm,shedding scales,spontaneously combusting,licking their lips,sign language",
+            "v": "percepción extrasensorial,una serie de guiños,toques eróticos,charlas,ondulaciones,gritos,cambios de color,nado en círculos,muertes,girar sus ojos,eructos,orinar,ensanchar sus fosas nasales,sarcasmos,escamas trituradoras,combustión espontánea,lamer sus labios,lenguaje de señas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Al viajar en un cardumen numeroso, se cree que los arenques pueden comunicarse instantaneamente mediante <BLANK>.",
+            "v": "Al viajar en un cardumen numeroso, se cree que los arenques pueden comunicarse instantáneamente por <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "farts,flatulence,passing gas",
+            "v": "peos,flatulencias,gases,pedos",
             "n": "AlternateSpellings"
         },
         {

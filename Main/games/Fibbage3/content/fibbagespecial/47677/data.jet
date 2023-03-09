@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "robot butler,wine fridge,electric waterfall,neon signs,slot machine,plasma TV,Roomba,mustache trimmer,muffins,amish fudge,hurricane detector,dog on a respirator,class project,frozen celebrity heads,penguin habitat,YouTube show,Ghost Containment Unit,precious cheeses",
+            "v": "robot mayordomo,refrigerador de vino,cascada eléctrica,cartel de neón,máquina tragaperras,televisor de plasma,aspiradora robot,recortador de bigote,magdalena,dulce de leche,detector de huracanes,perro con respirador,proyecto de clase,cabeza congelada de un famoso,hábitat de pingüinos,programa de YouTube,unidad de contención de fantasmas,queso precioso",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Pez koi en el estanque",
+            "v": "pez koi en el estanque",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "koi fish,fish,koi,koi pond",
+            "v": "pez koi,pez,koi,estanque koi",
             "n": "AlternateSpellings"
         },
         {

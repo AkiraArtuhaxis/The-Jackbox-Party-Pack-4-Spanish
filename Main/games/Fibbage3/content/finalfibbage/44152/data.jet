@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pickpocketing|mousetraps,car theft|exploding cars,graffitti|teflon walls,bank robberies|fake banks,jaywalking|angry dogs,corruption|a complaint box,obesity|hypnotic tapes,drug abuse|house parties,gang violence|dance offs,global warming|roller skates,homelessness|RVs,fire|fire,gun violence|knife violence,public intoxication|free candy,public nudity|free underwear,speeding|fake strollers,bar fights|a tiger,cyber crime|the Nintendo Power Glove",
+            "v": "carteristas|trampas para ratones,robo de autos|autos que explotan,graffittis|muros de teflon,robos a bancos|bancos falsos,cruzar la calle imprudentemente|perros enfadados,corrupción|un buzón de quejas,obesidad|cintas hipnóticas,abuso de drogas|fiestas en casas,violencia de bandas|batallas de baile,el calentamiento global|patines de ruedas,la falta de vivienda|los autos caravana,el fuego|fuego,la violencia con armas de fuego|la violencia con cuchillos,la intoxicación pública|los caramelos gratis,la desnudez pública|la ropa interior gratis,el exceso de velocidad|cochecitos de bebé falsos,las peleas de bar|un tigre,la ciberdelincuencia|el Nintendo Power Glove",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta es una nueva y emocionante técnica de lucha contra el crimen. En 2017, la policía holandesa comenzó a combatir <BLANK> con <BLANK>.",
+            "v": "He aquí una nueva y emocionante técnica de lucha contra el crimen. En 2017, la policía holandesa comenzó a combatir <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "drones|birds,crime|eagles,crime|birds",
+            "v": "drones|aves,crimen|águilas,crimen|aves",
             "n": "AlternateSpellings"
         },
         {

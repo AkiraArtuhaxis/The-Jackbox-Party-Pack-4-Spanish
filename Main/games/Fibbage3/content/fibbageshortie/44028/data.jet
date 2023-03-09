@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Church,Free Clinics,The Doctor’s Office,Funerals,Rock Concerts,Hippie Communes,Protests,Strip Clubs,Work,Baby Showers,NASA,Disneyland,Science Fiction Conventions,Creative Writing Seminars,Home,The Quarry,Charm School,The Docks",
+            "v": "iglesias,clínicas gratuitas,la consulta del médico,funerales,conciertos de rock,comunidades hippies,protestas,clubes de striptease,el trabajo,duchas para bebés,la NASA,Disneylandia,convenciones de ciencia ficción,seminarios de escritura creativa,su casa,la cantera,la escuela de encantos,los muelles",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El libro de 1962 <i>Sexo y la chica soltera<\/i> sugería a las mujeres solteras que conocieran hombres en <BLANK>.",
+            "v": "El libro de 1962 <i>Sexo y la chica soltera<\/i> sugería que las mujeres solteras conocieran hombres en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "AA,A.A.,Alcoholics,support groups",
+            "v": "AA,A.A.,alcohólicos,grupos de apoyo",
             "n": "AlternateSpellings"
         },
         {

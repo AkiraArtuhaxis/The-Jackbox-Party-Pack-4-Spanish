@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dollar bills,chewed pieces of gum,spatz,selfies,Pogs,yo mama jokes,human bones,makeshift shivs,Patio umbrellas,experimental rockets,paper airplanes,bottles of medieval wine,thank you notes,tiny forks,wrestling belts,panda embryos,Friends spec scripts,thongs",
+            "v": "billetes,chicles masticados,autos,selfies,juguetes,chistes de \"tu mamá\",huesos humanos,navajas improvisadas,paraguas,cohetes experimentales,aviones de papel,botellas de vino medieval,notas de agradecimiento,tenedores,cinturones de lucha,embriones de panda,guiones de especiales de Friends,tangas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Después de que el multimillonario David Rockefeller muriera a los 101 años, se le dio a Harvard su colección de más de 150 mil <BLANK>.",
+            "v": "Tras la muerte de David Rockefeller a los 101 años, Harvard recibió la colección de más de 150.000 <BLANK> del multimillonario.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "beatles,bugs,insects",
+            "v": "escarabajo,bichos,insectos",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "andar en uniciclo,hablar Italiano,hacer malabares,cultivar tomates,hacer pastel de carne,explorar cuevas,volar aeroplanos",
+            "v": "andar en uniciclo,hablar Italiano,hacer malabares,cultivar tomates,preparar pastel de carne,explorar cuevas,pilotar aviones",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una habilidad que <PLAYER> desearía tener es <BLANK>.",
+            "s": "[category=host]A skill <PLAYER> wishes they had is <BLANK>.",
             "t": "A",
             "v": "360206_1",
             "n": "QuestionAudio"

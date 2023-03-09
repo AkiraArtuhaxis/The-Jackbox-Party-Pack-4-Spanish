@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "mermelada y queso,manzanas y carne,limón y mayonesa,helado y papas fritas,papitas y sánguches,maní y Dr. Pepper,yogur y ketchup",
+            "v": "mermelada y queso,manzanas y carne,limón y mayonesa,helado y papas fritas,papitas y sándwiches,maní y Dr. Pepper,yogur y kétchup",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuáles son dos comidas extrañas que te gustan combinar?",
+            "v": "¿Cuáles son las dos comidas extrañas que te gusta combinar?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Dos comidas extrañas que a <PLAYER> le gusta combinar son <BLANK>.",
+            "s": "[category=host]The two weird foods <PLAYER> loves to combine are <BLANK>.",
             "t": "A",
             "v": "690886_0",
             "n": "QuestionAudio"

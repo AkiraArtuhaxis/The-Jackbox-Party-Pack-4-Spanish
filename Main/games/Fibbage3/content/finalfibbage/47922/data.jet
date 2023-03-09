@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Paul Giamatti|Wolverine,Rick Moranis|Storm,John Goodman|Hulk,Walter Matthau|Deadpool,Kevin James|Captain America,Rob Schneider|Iron Man,Howard Stern|Gambit,Charlie Sheen|Stan Lee,Nicole Kidman|Dazzler,Julia Roberts|Mary Jane Watson,Meryl Streep|Black Widow,Sandra Bullock|She-Hulk,Philip Seymour Hoffman|Beast,Jamie Foxx|Black Panther,Morgan Freeman|Professor X,Benicio Del Toro|Iron Man,Sean Penn|Forbush Man,Daniel Day-Lewis|Flexo the Rubber Man",
+            "v": "Paul Giamatti|Wolverine,Rick Moranis|Tormenta,John Goodman|Hulk,Walter Matthau|Deadpool,Kevin James|Capitán América,Rob Schneider|Iron Man,Howard Stern|Gambito,Charlie Sheen|Stan Lee,Nicole Kidman|Dazzler,Julia Roberts|Mary Jane Watson,Meryl Streep|Viuda Negra,Sandra Bullock|She-Hulk,Philip Seymour Hoffman|Bestia,Jamie Foxx|Pantera Negra,Morgan Freeman|el Profesor X,Benicio del Toro|Iron Man,Sean Penn|Thanos,Daniel Day-Lewis|Magneto",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante Comic-Con en 2009, Stan Lee soltó una extraña revelación: por un tiempo, la celebridad <BLANK> quería hacer de <BLANK> en una película.",
+            "v": "Durante la Comic-Con de 2009, Stan Lee anunció una extraña revelación: en algún momento, la celebridad <BLANK> quería interpretar a <BLANK> en una película.",
             "n": "QuestionText"
         },
         {

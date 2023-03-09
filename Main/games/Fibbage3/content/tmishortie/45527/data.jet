@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "no ponen señales de giro,pronuncian cupón \u201ccú-pon\u201d,le gustan los gatos,dicen que la semana empieza un Domingo,regalan manzanas en Halloween,no votan,toman aderezo de ensalada como una bebida",
+            "v": "no usa los intermitentes del auto,pronuncia ojalá como “ojála”,le gusta los gatos,dice que la semana empieza el domingo,regala manzanas en Halloween,no vota,toma mostaza como si fuera una bebida",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un tipo de persona que nunca entenderás son esas que <BLANK>.",
+            "v": "Un tipo de persona que nunca entenderás es la gente que <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "<PLAYER> nunca entenderá a las personas que <BLANK>.",
+            "v": "<PLAYER> nunca entenderá a la gente que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> nunca entenderá a las personas que <BLANK>.",
+            "s": "[category=host]<PLAYER> will never understand people who <BLANK>.",
             "t": "A",
             "v": "618357_0",
             "n": "QuestionAudio"

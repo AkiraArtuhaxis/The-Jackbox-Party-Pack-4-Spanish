@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "the barrel,a well,Satan’s shoe,a dumpster,the ocean,a horse’s butt,Power,my heart,my patience,hell,the river,a gym locker,a coffee cup,the sock drawer,the world,a bag of chips,a pizza,a pancake",
+            "v": "el barril,un pozo,el zapato de Satanás,un basurero,el océano,el trasero de un caballo,el Poder,mi corazón,mi paciencia,el infierno,el río,un casillero de gimnasio,una taza de café,el cajón de los calcetines,el mundo,una bolsa de papas fritas,una pizza,un panqueque",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "La cartera de mamá",
+            "v": "la cartera de mamá",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La compañía fabricante de velas 5B&Co. vende una vela de soja perfumada llamada \"El fondo de <BLANK>\".",
+            "v": "La compañía fabricante de velas 5B&Co. vende una vela de soya perfumada llamada \"El fondo de <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "A purse,your mom’s purse",
+            "v": "una cartera,la cartera de tu mamá",
             "n": "AlternateSpellings"
         },
         {

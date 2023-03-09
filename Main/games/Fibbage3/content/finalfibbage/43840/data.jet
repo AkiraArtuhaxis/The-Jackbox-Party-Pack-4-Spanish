@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bacon|pasta,filet mignon|nachos,mustard|sandwiches,popcorn|ice cream,turkey|pot pies,chedder cheese|burgers,ham|wraps,salmon|croquettes,korean|pot stickers,roast beef|stew,duck liver|smoothies,smoked sausage|birthday cake,chipotle|cheesecake,beef liver|ravioli,pizza|lasagna,spam|hoagies,shrimp|jambalaya,cool ranch Doritos|milk shakes",
+            "v": "pastas|tocino,nachos|filete miñón,sándwiches|mostaza,helados|palomitas de maíz,empanadas|pavo,hamburguesas|queso cheddar,burritos|jamón,corquetas|salmón,pastas chinas|salsa coreana,estofados|carne asada,batidos|hígado de pato,tortas de cumpleaños|salchicha ahumada,pasteles de queso|chipotle,raviolis|hígado de ternera,lasaña|pizza,empanadas|pulpo,paella|gambas,batidos de leche|Doritos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "chili|papas fritas",
+            "v": "papas fritas|ají",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Como parte de un truco de marketing de 2017 para Pop-Tarts, Kellogg’s abrió un restaurante inusual en Nueva York con artículos de menú bizarros, incluyendo <BLANK> de Pop-Tart con <BLANK>.",
+            "v": "Como parte de un truco de publicidad de 2017 para Pop-Tarts, Kellogg’s abrió un restaurante inusual en Nueva York con artículos de menú extraños, incluyendo <BLANK> de Pop-Tart con <BLANK>.",
             "n": "QuestionText"
         },
         {

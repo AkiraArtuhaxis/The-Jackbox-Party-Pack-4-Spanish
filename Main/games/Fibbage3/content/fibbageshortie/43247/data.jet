@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "children,pay-per-view channels,refrigerators,bags of chips at one time,plants,names,chairs,classic cars,chairs,pairs of pants,cell phones,pear trees,parties per year,boxes of cereal,beds,sports jerseys,microwaves,friends",
+            "v": "hijos,canales de pago,refrigeradores,bolsas de papas fritas a la vez,plantas,nombres,sillas,autos clásicos,pares de pantalones,celulares,perales,fiestas al año,cajas de cereal,camas,camisetas deportivas,microondas,amigos",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "felines,kittens,pets,dogs",
+            "v": "felinos,gatitos,mascotas,perros",
             "n": "AlternateSpellings"
         },
         {

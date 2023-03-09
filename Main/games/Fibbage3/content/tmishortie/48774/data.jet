@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Facebook,TMZ,Gente,BuzzFeed,Tumblr,Cracked,Twitter",
+            "v": "Reddit,TMZ,Facebook,BuzzFeed,Tumblr,Roblox,Twitter",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es el sitio web más tonto que visitas frecuentemente?",
+            "v": "¿Cuál es el sitio web más estúpido que visitas con frecuencia?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El sitio web más tonto que <PLAYER> visita con frecuencia <BLANK>.",
+            "v": "El sitio web más estúpido que <PLAYER> visita con frecuencia es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El sitio web más tonto que <PLAYER> visita con frecuencia es <BLANK>.",
+            "s": "[category=host]The trashiest website <PLAYER> frequents is <BLANK>.",
             "t": "A",
             "v": "697042_0",
             "n": "QuestionAudio"

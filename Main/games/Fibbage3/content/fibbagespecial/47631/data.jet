@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "X-Files marathon,Motorcycle road trip,Intensive Juggling Class,Mud bath,Parenting Class,Breaking Bad marathon,Scooby Doo binge,Workout,Recording session,writing kick,Yoga retreat,Fast,acting lesson,nap,break from Twitter,sponge bath,quilting session,hands on the truck contest",
+            "v": "una maratón de Los expedientes secretos X,un viaje en moto,una clase intensiva de malabares,un baño de barro,una clase de paternidad,una maratón de Breaking Bad,una maratón de Scooby Doo,ejercicios,una sesión de grabación,un impulso de escritura,un retiro de yoga,un ayuno,una clase de actuación,una siesta,un descanso de Twitter,un baño de esponja,una sesión de bordado,un concurso de manos en el camión",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "sesión de sexo tántrico",
+            "v": "una sesión de sexo tántrico",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Sean Diddy Combs tuiteó: \"Para todos aquellos que recién llegan. Voy 6 horas y media en un/a <BLANK> de 36 horas.\"",
+            "v": "Sean Diddy Combs tuiteó: \"Para todos aquellos que recién llegan. Llevo 6 horas y media en <BLANK> de 36 horas\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tantrick sex session,tantic sex sesson,tantrik sex session,tantric sex,sex session",
+            "v": "una sesión de sexo tántricko,una sesion de sexo tántrico,una sesión de sexo tántriko,sexo tántrico,una sesión de sexo",
             "n": "AlternateSpellings"
         },
         {

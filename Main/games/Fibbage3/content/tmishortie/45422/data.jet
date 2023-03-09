@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "las citas,Cálculo,los memes, el concepto de primo segundo,la cocina al vacío,Jeff Dunham,las reglas de zombis",
+            "v": "las citas románticas,cálculo,los memes,el concepto de primo segundo,la cocina al vacío,Elon Musk,las reglas de zombis",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El tema o situación que a <PLAYER> lo confunde con facilidad es <BLANK>.",
+            "v": "El tema o situación que a <PLAYER> lo confunde fácilmente es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]A <PLAYER> lo confunde con facilidad <BLANK>.",
+            "s": "[category=host]<PLAYER> is easily confused by <BLANK>.",
             "t": "A",
             "v": "614501_0",
             "n": "QuestionAudio"

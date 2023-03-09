@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Britney Spears,Barack Obama,Mark Hamill,Katy Perry,Roger Corman,Cher,Mario",
+            "v": "Britney Spears,Barack Obama,Mark Hamill,Katy Perry,Harrison Ford,Cher,Mario",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿A la feria americana de qué celebridad te gustaría más ir?",
+            "v": "¿A la venta de garaje de qué celebridad te gustaría más ir?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La feria americana de una celebridad a la que <PLAYER> más le interesaría ir es <BLANK>.",
+            "v": "La venta de garaje de una celebridad a la que <PLAYER> más le gustaría ir es la de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La feria americana de una celebridad a la que <PLAYER> más le interesaría ir es <BLANK>.",
+            "s": "[category=host]The celebrity’s garage sale <PLAYER> would most like to go to is <BLANK>.",
             "t": "A",
             "v": "614051_0",
             "n": "QuestionAudio"

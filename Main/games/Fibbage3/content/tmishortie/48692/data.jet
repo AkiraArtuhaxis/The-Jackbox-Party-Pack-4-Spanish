@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Cuál es la cosa más cara qué has \u201ctomado prestada\u201d permanentemente del trabajo?",
+            "v": "¿Qué es lo más caro qué has “tomado prestado” permanentemente del trabajo?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La cosa más cara que <PLAYER> ha \u201ctomado prestada\u201d permanentemente del trabajo es <BLANK>.",
+            "v": "Lo más caro que <PLAYER> ha “tomado prestado” permanentemente del trabajo es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La cosa más cara que <PLAYER> ha \u201ctomado prestada\u201d permanentemente del trabajo es <BLANK>.",
+            "s": "[category=host]The most expensive thing <PLAYER> has permanently “borrowed” from work was <BLANK>.",
             "t": "A",
             "v": "694614_1",
             "n": "QuestionAudio"

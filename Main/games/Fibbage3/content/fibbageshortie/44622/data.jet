@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "usually drunk,unable to cry,a great swimmer,a practical joker,a talented singer,afraid of its reflection,bad at pooping,not fond of sunsets,deaf and blind,angry all the time,fairly small,obsessed with its farts,a terrible father,afraid of relationships,the best smelling dinosaur,obsessed with oral hygiene,a back sleeper,aware it was doomed",
+            "v": "un borracho,incapaz de llorar,un gran nadador,bromista,un cantante talentoso,temeroso de su reflejo,malo para defecar,poco aficionado a las puestas de sol,sordo y ciego,irascible,bastante pequeño,un obsesionado de sus pedos,un padre terrible,temeroso de las relaciones,el dinosaurio con mejor olor,un obsesionado con la higiene bucal,dormilón,consciente de que estaba condenado",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un estudio bastante extraño publicado en <i>Scientific Reports<\/i> en 2017, unos investigadores afirman que el <i>T. rex<\/i> era <BLANK>.",
+            "v": "En un estudio bastante extraño publicado en <i>Scientific Reports<\/i> en 2017, unos investigadores afirman que el <i>Tiranosaurio Rex<\/i> era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a good lover,a caring lover",
+            "v": "un buen amante,un amante cariñoso",
             "n": "AlternateSpellings"
         },
         {

@@ -3,7 +3,7 @@
     "content": [
         {
             "x": false,
-            "personal":"¿Con qué celebridad crees que deberías ser mejores amigos?",
+            "personal": "¿Con qué celebridad crees que podrías ser mejores amigos?",
             "id": 48783,
             "portrait": false,
             "category": "",
@@ -12,7 +12,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue el momento célebre de tu último sábado por la noche?",
+            "personal": "¿Qué fue lo mejor de tu último sábado por la noche?",
             "id": 48780,
             "portrait": false,
             "category": "",
@@ -21,7 +21,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que ocupa demasiado espacio en tu casa?",
+            "personal": "¿Qué es lo que ocupa demasiado espacio en tu casa?",
             "id": 48779,
             "portrait": false,
             "category": "",
@@ -30,7 +30,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el sitio web más estúpido que visitas con frecuencia?",
+            "personal": "¿Cuál es el sitio web más estúpido que visitas con frecuencia?",
             "id": 48774,
             "portrait": false,
             "category": "",
@@ -39,7 +39,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué libro mentiste al decir que habías leído?",
+            "personal": "¿Qué libro mentiste al decir que habías leído?",
             "id": 48773,
             "portrait": false,
             "category": "",
@@ -48,7 +48,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es una tendencia que desearías que se vaya para no volver?",
+            "personal": "¿Cuál es la tendencia que desearías que desapareciera para siempre?",
             "id": 48757,
             "portrait": false,
             "category": "",
@@ -57,7 +57,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué fue lo último que buscaste en Google/en línea?",
+            "personal": "¿Qué fue lo último que buscaste en Google o en internet?",
             "id": 48753,
             "portrait": false,
             "category": "",
@@ -66,7 +66,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue la última película o programa de televisión que te hizo llorar?",
+            "personal": "¿Cuál fue la última película o serie de televisión que te hizo llorar?",
             "id": 48750,
             "portrait": false,
             "category": "",
@@ -75,7 +75,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras un sándwich con tu nombre, ¿cuáles serían los dos ingredientes principales?",
+            "personal": "Si le pusieran tu nombre a un sándwich, ¿cuáles serían los dos ingredientes principales?",
             "id": 48748,
             "portrait": false,
             "category": "",
@@ -84,7 +84,7 @@
         },
         {
             "x": false,
-            "personal":"¿Por qué obtuviste un trofeo o premio cuando eras niño/a?",
+            "personal": "¿Por qué te dieron un trofeo o un premio en tu niñez?",
             "id": 48741,
             "portrait": false,
             "category": "",
@@ -93,7 +93,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué moda del pasado te gustaría que volviera?",
+            "personal": "¿Qué moda del pasado te gustaría que volviera?",
             "id": 48737,
             "portrait": false,
             "category": "",
@@ -102,7 +102,7 @@
         },
         {
             "x": false,
-            "personal":"¿En qué reality show competitivo (real o falso) tendrías la mejor oportunidad de ganar?",
+            "personal": "¿En qué reality show competitivo (real o falso) tendrías más posibilidades de ganar?",
             "id": 48735,
             "portrait": false,
             "category": "",
@@ -111,7 +111,7 @@
         },
         {
             "x": false,
-            "personal":"Tu pesadilla sería aterrizar en El Planeta de los <BLANK>.",
+            "personal": "Tu peor pesadilla sería aterrizar en el Planeta de <BLANK>.",
             "id": 48731,
             "portrait": false,
             "category": "",
@@ -120,7 +120,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es tu consejo número uno para ahorrar dinero?",
+            "personal": "¿Cuál es tu consejo número uno para ahorrar dinero?",
             "id": 48729,
             "portrait": false,
             "category": "",
@@ -129,7 +129,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es tu objeto favorito que has enmarcado o exhibido en tu casa?",
+            "personal": "¿Qué es lo que más te gusta tener enmarcado o colgado en su casa?",
             "id": 48720,
             "portrait": false,
             "category": "",
@@ -138,7 +138,7 @@
         },
         {
             "x": false,
-            "personal":"Descríbete a ti mismo en tres palabras.",
+            "personal": "Descríbete en tres palabras.",
             "id": 48710,
             "portrait": false,
             "category": "",
@@ -147,7 +147,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es lo más vergonzoso que has hecho frente a un grupo grande de personas?",
+            "personal": "¿Qué es lo más vergonzoso que has hecho delante de un grupo grande de personas?",
             "id": 48703,
             "portrait": false,
             "category": "",
@@ -156,7 +156,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué programa de televisión crees que debería volver al aire o conseguir un reboot?",
+            "personal": "¿Qué serie de televisión crees que debería volver o tener una nueva versión?",
             "id": 48702,
             "portrait": false,
             "category": "",
@@ -165,7 +165,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué fue lo mejor de tus últimas vacaciones?",
+            "personal": "¿Qué fue lo mejor de tus últimas vacaciones?",
             "id": 48701,
             "portrait": false,
             "category": "",
@@ -174,7 +174,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la mejor broma que has visto o en la que has participado?",
+            "personal": "¿Cuál es la mejor broma que viste o de la que participaste?",
             "id": 48699,
             "portrait": false,
             "category": "",
@@ -183,7 +183,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es la cosa más tonta que has hecho por amor?",
+            "personal": "¿Qué es lo más tonto que has hecho por amor?",
             "id": 48696,
             "portrait": false,
             "category": "",
@@ -192,7 +192,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la cosa más cara que has ''pedido prestada'' permanentemente del trabajo?",
+            "personal": "¿Qué es lo más caro qué has “tomado prestado” permanentemente del trabajo?",
             "id": 48692,
             "portrait": false,
             "category": "",
@@ -201,7 +201,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la tecnología más anticuada que posees?",
+            "personal": "¿Cuál es la tecnología más anticuada que tienes?",
             "id": 48686,
             "portrait": false,
             "category": "",
@@ -210,7 +210,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es una cosa estúpida que te pone irracionalmente furioso/a?",
+            "personal": "¿Qué estupidez te hace enfadar siempre de forma irracional?",
             "id": 48684,
             "portrait": false,
             "category": "",
@@ -219,7 +219,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué palabra siempre te cuesta escribir?",
+            "personal": "¿Qué palabra siempre te cuesta escribir?",
             "id": 48681,
             "portrait": false,
             "category": "",
@@ -228,7 +228,7 @@
         },
         {
             "x": true,
-            "personal":"¿Cuál es la compra más vergonzosa que has tenido que hacer en persona?",
+            "personal": "¿Cuál es la compra más vergonzosa que tuviste que hacer en persona?",
             "id": 48679,
             "portrait": false,
             "category": "",
@@ -237,7 +237,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que definitivamente llevarías en una expedición a Marte?",
+            "personal": "¿Qué es lo que sin duda te llevarías en una expedición a Marte?",
             "id": 48678,
             "portrait": false,
             "category": "",
@@ -246,7 +246,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras tu propio robot, ¿cuál sería su tarea principal?",
+            "personal": "Si tuvieras tu propio robot, ¿cuál sería su tarea principal?",
             "id": 48677,
             "portrait": false,
             "category": "",
@@ -255,7 +255,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál sería el título de tu autobiografía?",
+            "personal": "¿Cuál sería el título de tu autobiografía?",
             "id": 48675,
             "portrait": false,
             "category": "",
@@ -264,7 +264,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es lo más vergonzoso que se encuentra en tu casa en este momento?",
+            "personal": "¿Qué es lo más vergonzoso que hay ahora mismo en tu casa?",
             "id": 48674,
             "portrait": false,
             "category": "",
@@ -273,7 +273,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el error más tonto que has cometido en el último año?",
+            "personal": "¿Cuál es el error más estúpido que cometiste en el último año?",
             "id": 48620,
             "portrait": false,
             "category": "",
@@ -282,7 +282,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el lugar más extraño en el que has dormido?",
+            "personal": "¿Cuál es el lugar más raro donde has dormido?",
             "id": 48616,
             "portrait": false,
             "category": "",
@@ -291,7 +291,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué celebridad/persona tenías muchas ganas de conocer cuando tenías 10 años?",
+            "personal": "¿A qué celebridad/persona querías conocer cuando tenías 10 años?",
             "id": 48615,
             "portrait": false,
             "category": "",
@@ -300,7 +300,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el remate de tu chiste favorito?",
+            "personal": "¿Cuál es el remate de tu chiste favorito?",
             "id": 48614,
             "portrait": false,
             "category": "",
@@ -309,7 +309,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuáles son dos comidas raras que te gusta combinar?",
+            "personal": "¿Cuáles son las dos comidas extrañas que te gusta combinar?",
             "id": 48578,
             "portrait": false,
             "category": "",
@@ -318,7 +318,7 @@
         },
         {
             "x": true,
-            "personal":"¿Cuál fue la primera bebida alcohólica que probaste?",
+            "personal": "¿Cuál fue la primera bebida alcohólica que probaste?",
             "id": 48572,
             "portrait": false,
             "category": "",
@@ -327,7 +327,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es lo más asombroso que aprendiste recientemente?",
+            "personal": "¿Qué es lo más asombroso que has aprendido recientemente?",
             "id": 48571,
             "portrait": false,
             "category": "",
@@ -336,7 +336,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el premio más genial que has ganado?",
+            "personal": "¿Qué es lo mejor que has ganado alguna vez?",
             "id": 48569,
             "portrait": false,
             "category": "",
@@ -345,7 +345,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál era tu peor materia en la escuela?",
+            "personal": "¿Cuál era tu peor asignatura en la escuela?",
             "id": 48473,
             "portrait": false,
             "category": "",
@@ -354,7 +354,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuándo fue la última vez que le gritaste a tu televisor?",
+            "personal": "¿Cuándo fue la última vez que le gritaste a tu televisor?",
             "id": 48463,
             "portrait": false,
             "category": "",
@@ -363,7 +363,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la canción más tonta que se te ha quedado grabada en la cabeza?",
+            "personal": "¿Cuál es la canción más tonta qué se te quedó pegada en la cabeza?",
             "id": 48461,
             "portrait": false,
             "category": "",
@@ -372,7 +372,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es lo más impresionante que has construido o ensamblado?",
+            "personal": "¿Qué es lo más impresionante que has construido o armado?",
             "id": 48448,
             "portrait": false,
             "category": "",
@@ -381,7 +381,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue el último souvenir que compraste?",
+            "personal": "¿Cuál fue el último recuerdo que compraste?",
             "id": 48444,
             "portrait": false,
             "category": "",
@@ -390,7 +390,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la peor película que pagaste para ver en el cine?",
+            "personal": "¿Cuál es la peor película que pagaste para ver en el cine?",
             "id": 48440,
             "portrait": false,
             "category": "",
@@ -399,7 +399,7 @@
         },
         {
             "x": false,
-            "personal":"Si pudieras conocer un trozo de información en el universo, ¿qué te gustaría saber?",
+            "personal": "Si pudieras conocer un dato del universo, ¿qué te gustaría saber?",
             "id": 48375,
             "portrait": false,
             "category": "",
@@ -408,7 +408,7 @@
         },
         {
             "x": false,
-            "personal":"La fila más larga en la que has estado fue para <BLANK>.",
+            "personal": "La fila más larga en la que has estado fue para <BLANK>.",
             "id": 48369,
             "portrait": false,
             "category": "",
@@ -417,7 +417,7 @@
         },
         {
             "x": false,
-            "personal":"¿En qué gastas demasiado dinero?",
+            "personal": "¿En qué gastas demasiado dinero?",
             "id": 48357,
             "portrait": false,
             "category": "",
@@ -426,7 +426,7 @@
         },
         {
             "x": true,
-            "personal":"¿Qué grosería te encanta decir?",
+            "personal": "¿Qué palabrota te encanta decir?",
             "id": 48354,
             "portrait": false,
             "category": "",
@@ -435,7 +435,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el mejor regalo que te han dado cuando eras niño/a?",
+            "personal": "¿Cuál es el mejor regalo que recibiste cuando eras menor?",
             "id": 48351,
             "portrait": false,
             "category": "",
@@ -444,7 +444,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué película te asustó más cuando eras niño/a?",
+            "personal": "¿Qué película te daba más miedo cuando eras menor?",
             "id": 48350,
             "portrait": false,
             "category": "",
@@ -453,7 +453,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué actividad ilegal cometerías si todos los delitos fueran legales por un día?",
+            "personal": "¿Qué actividad ilegal cometerías si todos los delitos fueran legales por un día?",
             "id": 48349,
             "portrait": false,
             "category": "",
@@ -462,7 +462,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál era tu programa de televisión favorito cuando tenías 10 años?",
+            "personal": "¿Cuál era tu serie favorita cuando tenías 10 años?",
             "id": 48345,
             "portrait": false,
             "category": "",
@@ -471,7 +471,7 @@
         },
         {
             "x": false,
-            "personal":"¿Quién fue la primera celebridad de la que te enamoraste?",
+            "personal": "¿Cuál fue la primera celebridad de la que te enamoraste?",
             "id": 48343,
             "portrait": false,
             "category": "",
@@ -480,7 +480,7 @@
         },
         {
             "x": false,
-            "personal":"Si pudieras eliminar un animal/insecto/criatura de la faz de la Tierra, ¿cuál sería?",
+            "personal": "Si pudieras eliminar un animal/insecto/criatura de la faz de la Tierra, ¿cuál sería?",
             "id": 48340,
             "portrait": false,
             "category": "",
@@ -489,7 +489,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue el primer gran concierto al que fuiste?",
+            "personal": "¿Cuál fue el primer gran concierto al que fuiste?",
             "id": 48338,
             "portrait": false,
             "category": "",
@@ -498,7 +498,7 @@
         },
         {
             "x": false,
-            "personal":"¿De qué fue el último mensaje de texto que enviaste?",
+            "personal": "¿De qué trató el último mensaje de texto que enviaste?",
             "id": 48286,
             "portrait": false,
             "category": "",
@@ -507,7 +507,7 @@
         },
         {
             "x": false,
-            "personal":"El mundo sería un lugar mejor si tuviera más <BLANK>.",
+            "personal": "El mundo sería un lugar mejor si tuviéramos más <BLANK>.",
             "id": 48284,
             "portrait": false,
             "category": "",
@@ -516,7 +516,7 @@
         },
         {
             "x": false,
-            "personal":"Si <JUGADOR> tuviera que cantar karaoke, elegiría cantar <BLANK>.",
+            "personal": "Si <PLAYER> tuviera que cantar karaoke, elegiría cantar <BLANK>.",
             "id": 48232,
             "portrait": false,
             "category": "",
@@ -525,7 +525,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras que cambiar tu nombre, ¿qué nombre nuevo elegirías?",
+            "personal": "Si tuvieras que cambiar tu nombre, ¿qué nombre nuevo elegirías?",
             "id": 48207,
             "portrait": false,
             "category": "",
@@ -534,7 +534,7 @@
         },
         {
             "x": false,
-            "personal":"Si fuera posible obtener un doctorado en <BLANK>, lo tendría.",
+            "personal": "Si fuera posible conseguir un doctorado en <BLANK>, lo tendrías.",
             "id": 47890,
             "portrait": false,
             "category": "",
@@ -543,7 +543,7 @@
         },
         {
             "x": false,
-            "personal":"Algo que perdiste y que todavía no superas es <BLANK>.",
+            "personal": "Algo que perdiste y que todavía no superas es <BLANK>.",
             "id": 47709,
             "portrait": false,
             "category": "",
@@ -552,7 +552,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras que hacerte un tatuaje nuevo mañana, probablemente sería <BLANK>.",
+            "personal": "Si tuvieras que hacerte un tatuaje mañana, seguramente sería <BLANK>.",
             "id": 47707,
             "portrait": false,
             "category": "",
@@ -561,7 +561,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo extraño que creíste hasta darte cuenta que no era cierto?",
+            "personal": "¿Qué cosa rara creías hasta que descubriste que no era verdad?",
             "id": 47705,
             "portrait": false,
             "category": "",
@@ -570,7 +570,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo de lo que podrías comer un paquete completo sin pensar?",
+            "personal": "¿De qué bocadillo te podrías comer un paquete entero sin pensarlo?",
             "id": 47703,
             "portrait": false,
             "category": "",
@@ -579,7 +579,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo extraño que te dijo una vez un miembro de la familia?",
+            "personal": "¿Qué cosa extraña te contó una vez un familiar?",
             "id": 47698,
             "portrait": false,
             "category": "",
@@ -588,7 +588,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue el peor trabajo que has tenido?",
+            "personal": "¿Cuál ha sido el peor trabajo que has tenido?",
             "id": 47691,
             "portrait": false,
             "category": "",
@@ -597,7 +597,7 @@
         },
         {
             "x": false,
-            "personal":"Si de repente tuvieras una habitación extra en tu casa, ¿para qué la usarías?",
+            "personal": "Si de repente tuvieras una habitación extra en tu casa, ¿para qué la usarías?",
             "id": 47689,
             "portrait": false,
             "category": "",
@@ -606,7 +606,7 @@
         },
         {
             "x": false,
-            "personal":"Algo mejor que el camión de helados sería el camión de <BLANK>.",
+            "personal": "Algo incluso mejor que un camión de helados sería un camión de <BLANK>.",
             "id": 46158,
             "portrait": false,
             "category": "",
@@ -615,7 +615,7 @@
         },
         {
             "x": false,
-            "personal":"Si tu casa se incendiara y solo pudieras salvar una cosa, sería <BLANK>.",
+            "personal": "Si tu casa se estuviera incendiando y solo pudieras salvar una de tus cosas, sería <BLANK>.",
             "id": 46140,
             "portrait": false,
             "category": "",
@@ -624,7 +624,7 @@
         },
         {
             "x": false,
-            "personal":"Quieres <BLANK>, pero no te da el tiempo.",
+            "personal": "Quieres <BLANK> pero no tienes tiempo.",
             "id": 46065,
             "portrait": false,
             "category": "",
@@ -633,7 +633,7 @@
         },
         {
             "x": false,
-            "personal":"Si los hombres lobo atacaran ahora mismo, ¿qué usarías como arma?",
+            "personal": "Si los hombres lobo atacaran ahora mismo, ¿qué usarías como arma?",
             "id": 46060,
             "portrait": false,
             "category": "",
@@ -642,7 +642,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que crees recordar cómo se hace, aunque no lo hayas intentado en mucho tiempo?",
+            "personal": "¿Qué es algo que crees recordar cómo se hace, pero no haces hace mucho tiempo?",
             "id": 46043,
             "portrait": false,
             "category": "",
@@ -651,7 +651,7 @@
         },
         {
             "x": false,
-            "personal":"Desearías vivir más cerca de <BLANK>.",
+            "personal": "Desearías vivir más cerca de <BLANK>.",
             "id": 45993,
             "portrait": false,
             "category": "",
@@ -660,7 +660,7 @@
         },
         {
             "x": false,
-            "personal":"Nunca terminarías de hacer nada sin <BLANK>.",
+            "personal": "Nunca podrías terminar de hacer nada sin <BLANK>.",
             "id": 45990,
             "portrait": false,
             "category": "",
@@ -669,7 +669,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que estás esperando ansiosamente?",
+            "personal": "¿Qué estás esperando ansiosamente?",
             "id": 45881,
             "portrait": false,
             "category": "",
@@ -678,7 +678,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es lo último a lo que llegaste tarde?",
+            "personal": "¿Qué fue lo último a lo que llegaste tarde?",
             "id": 45832,
             "portrait": false,
             "category": "",
@@ -687,7 +687,7 @@
         },
         {
             "x": false,
-            "personal":"Las personas más jóvenes que tú no aprecian <BLANK>.",
+            "personal": "La gente más joven que tú ni siquiera aprecia <BLANK>.",
             "id": 45770,
             "portrait": false,
             "category": "",
@@ -696,7 +696,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la primera palabra que se te viene a la cabeza?",
+            "personal": "¿Cuál es la primera palabra que se te viene a la mente?",
             "id": 45765,
             "portrait": false,
             "category": "",
@@ -705,7 +705,7 @@
         },
         {
             "x": false,
-            "personal":"Uno de tus comerciales favoritos es el que tiene <BLANK>.",
+            "personal": "Uno de tus comerciales favoritos es el que tiene <BLANK>.",
             "id": 45763,
             "portrait": false,
             "category": "",
@@ -714,7 +714,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que no conseguiste que te guste, por mucho que lo intentaras?",
+            "personal": "Algo que intentaste que te gustara, pero no te convenció.",
             "id": 45756,
             "portrait": false,
             "category": "",
@@ -723,7 +723,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que te gustaba, pero ya no?",
+            "personal": "Algo que antes te gustaba pero ya no te gusta para nada.",
             "id": 45753,
             "portrait": false,
             "category": "",
@@ -732,7 +732,7 @@
         },
         {
             "x": false,
-            "personal":"Si reencarnaras, en la próxima vida probablemente serás <BLANK>.",
+            "personal": "Si reencarnaras, en tu próxima vida probablemente serías <BLANK>.",
             "id": 45665,
             "portrait": false,
             "category": "",
@@ -741,7 +741,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es una de las cosas más tontas que has hecho?",
+            "personal": "¿Cuál es una de las cosas más tontas que has hecho?",
             "id": 45588,
             "portrait": false,
             "category": "",
@@ -750,7 +750,7 @@
         },
         {
             "x": false,
-            "personal":"Un buen nombre de luchador profesional para ti sería <BLANK>.",
+            "personal": "Un buen nombre de luchador profesional para ti sería <BLANK>.",
             "id": 45587,
             "portrait": false,
             "category": "",
@@ -759,7 +759,7 @@
         },
         {
             "x": false,
-            "personal":"Un tipo de persona que nunca entenderás son las personas que <BLANK>.",
+            "personal": "Un tipo de persona que nunca entenderás es la gente que <BLANK>.",
             "id": 45527,
             "portrait": false,
             "category": "",
@@ -768,7 +768,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la excusa más tonta que has usado para evitar hacer algo que no querías hacer?",
+            "personal": "¿Cuál es la excusa más tonta que has utilizado para evitar hacer algo que no querías hacer?",
             "id": 45463,
             "portrait": false,
             "category": "",
@@ -777,7 +777,7 @@
         },
         {
             "x": false,
-            "personal":"Una de tus experiencias más extrañas al bañarte involucró a <BLANK>.",
+            "personal": "Una de tus experiencias más extrañas bañándote involucró a <BLANK>.",
             "id": 45459,
             "portrait": false,
             "category": "",
@@ -786,7 +786,7 @@
         },
         {
             "x": false,
-            "personal":"¿Quién es alguien con quien no querrías quedarte atrapado en un ascensor?",
+            "personal": "¿Con quién no querrías quedarte atrapado en un ascensor?",
             "id": 45458,
             "portrait": false,
             "category": "",
@@ -795,7 +795,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es una de las cosas más extrañas que compraste en línea?",
+            "personal": "¿Qué es lo más raro que has comprado por Internet?",
             "id": 45449,
             "portrait": false,
             "category": "",
@@ -804,7 +804,7 @@
         },
         {
             "x": false,
-            "personal":"Un récord mundial Guinness que crees que podrías conseguir es <BLANK>.",
+            "personal": "Un récord Guinness que crees que podrías llegar a romper es <BLANK>.",
             "id": 45447,
             "portrait": false,
             "category": "",
@@ -813,7 +813,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué antagonista de película crees que es un/a incomprendido/a?",
+            "personal": "¿Qué villano de película crees que es incomprendido?",
             "id": 45442,
             "portrait": false,
             "category": "",
@@ -822,7 +822,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la cosa más tonta que te han convencido hacer?",
+            "personal": "¿Qué es lo más estúpido que te convencieron hacer?",
             "id": 45437,
             "portrait": false,
             "category": "",
@@ -831,7 +831,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué parte del cuerpo te gustaría reemplazar con una versión robótica?",
+            "personal": "¿Qué parte del cuerpo te gustaría más reemplazar por una versión robótica?",
             "id": 45425,
             "portrait": false,
             "category": "",
@@ -840,7 +840,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué tema o situación te confunde con facilidad?",
+            "personal": "¿Qué tema o situación te confunde fácilmente?",
             "id": 45422,
             "portrait": false,
             "category": "",
@@ -849,7 +849,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué es algo que prohibirías decir a todas las personas si pudieras?",
+            "personal": "¿Qué le prohibirías decir a todo el mundo si pudieras?",
             "id": 45419,
             "portrait": false,
             "category": "",
@@ -858,7 +858,7 @@
         },
         {
             "x": false,
-            "personal":"¿A la feria americana de qué celebridad te gustaría ir?",
+            "personal": "¿A la venta de garaje de qué celebridad te gustaría más ir?",
             "id": 45407,
             "portrait": false,
             "category": "",
@@ -867,7 +867,7 @@
         },
         {
             "x": false,
-            "personal":"Lo más disgustado que has estado nunca fue aquella vez en que <BLANK>.",
+            "personal": "Nunca te sentiste tan indignado como cuando <BLANK>.",
             "id": 45391,
             "portrait": false,
             "category": "",
@@ -876,7 +876,7 @@
         },
         {
             "x": true,
-            "personal":"¿Quién es una persona a la que visitarías después de tu muerte para darle un susto si pudieras?",
+            "personal": "¿A qué persona visitarías después de tu muerte, si pudieras, solo para espantarla?",
             "id": 45384,
             "portrait": false,
             "category": "",
@@ -885,7 +885,7 @@
         },
         {
             "x": false,
-            "personal":"¿Quién es una persona (real o ficticia) que sería un buen compañero de viaje?",
+            "personal": "¿Quién sería un buen compañero de viaje (real o ficticio)?",
             "id": 45376,
             "portrait": false,
             "category": "",
@@ -894,7 +894,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la palabra que usarías para describir cómo te sientes sobre el futuro?",
+            "personal": "¿Qué palabra usarías para describir cómo te sientes respecto al futuro?",
             "id": 45335,
             "portrait": false,
             "category": "",
@@ -903,7 +903,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué imagen o frase aparece en una de tus camisetas favoritas?",
+            "personal": "¿Qué imagen o frase aparece en una de tus camisetas favoritas?",
             "id": 45333,
             "portrait": false,
             "category": "",
@@ -912,7 +912,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la sustancia en la que menos te gustaría nadar?",
+            "personal": "¿Cuál es la sustancia en la que menos te gustaría nadar?",
             "id": 45331,
             "portrait": false,
             "category": "",
@@ -921,7 +921,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es una tarea doméstica que pagarías para no hacerla?",
+            "personal": "¿Qué tarea hogareña pagarías para evitar hacerla?",
             "id": 45329,
             "portrait": false,
             "category": "",
@@ -930,7 +930,7 @@
         },
         {
             "x": false,
-            "personal":"¿Qué consejo de tres palabras te darías a tí mismo/a dos años atrás?",
+            "personal": "¿Qué consejo de tres palabras te habrías dado hace dos años?",
             "id": 45326,
             "portrait": false,
             "category": "",
@@ -939,7 +939,7 @@
         },
         {
             "x": false,
-            "personal":"Algo que te vuela la cabeza con solo pensarlo es <BLANK>.",
+            "personal": "Algo que solo con pensarlo te deja sin palabras es <BLANK>.",
             "id": 45324,
             "portrait": false,
             "category": "",
@@ -948,7 +948,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es una obra de ficción en la que desearías ser un personaje?",
+            "personal": "¿De qué obra de ficción te gustaría ser un personaje?",
             "id": 45323,
             "portrait": false,
             "category": "",
@@ -957,7 +957,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue uno de tus disfraces de Halloween favoritos de años pasados?",
+            "personal": "¿Cuál fue uno de tus disfraces favoritos de Halloween de años anteriores?",
             "id": 45320,
             "portrait": false,
             "category": "",
@@ -966,7 +966,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es un apodo que has tenido antes, pero que no te gustó?",
+            "personal": "¿Cuál apodo tenías antes a pesar que no te gustara?",
             "id": 45318,
             "portrait": false,
             "category": "",
@@ -975,7 +975,7 @@
         },
         {
             "x": false,
-            "personal":"Una de las lesiones más extrañas que jamás hayas tenido involucró <BLANK>.",
+            "personal": "Una de las lesiones más extrañas que has tenido involucró <BLANK>.",
             "id": 45317,
             "portrait": false,
             "category": "",
@@ -984,7 +984,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es el área en la que probablemente tengas el conocimiento más inútil?",
+            "personal": "¿Cuál es el área en la que probablemente tengas el conocimiento más inútil?",
             "id": 45316,
             "portrait": false,
             "category": "",
@@ -993,7 +993,7 @@
         },
         {
             "x": false,
-            "personal":"En tu día perfecto definitivamente no puede faltar <BLANK>.",
+            "personal": "En tu día perfecto definitivamente no puede faltar <BLANK>.",
             "id": 45312,
             "portrait": false,
             "category": "",
@@ -1002,7 +1002,7 @@
         },
         {
             "x": true,
-            "personal":"Uno de los lugares más vergonzosos en los que te tiraste un pedo fue <BLANK>.",
+            "personal": "Uno de los lugares más vergonzosos en los que te tiraste un pedo fue <BLANK>.",
             "id": 45308,
             "portrait": false,
             "category": "",
@@ -1011,7 +1011,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es la película de la que puedes citar más líneas?",
+            "personal": "¿De qué película puedes citar más diálogos?",
             "id": 45307,
             "portrait": false,
             "category": "",
@@ -1020,7 +1020,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue una de las cosas más extrañas que pensaste que quisiste ser de grande?",
+            "personal": "¿Cuál fue una de las cosas más extrañas que querías ser cuando fueras más grande?",
             "id": 45297,
             "portrait": false,
             "category": "",
@@ -1029,7 +1029,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál fue una de las últimas cosas sobre las que mentiste en la vida real?",
+            "personal": "¿Cuál fue una de las últimas cosas sobre las que mentiste en la vida real?",
             "id": 45293,
             "portrait": false,
             "category": "",
@@ -1038,7 +1038,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál es un sonido que simplemente no puedes soportar?",
+            "personal": "¿Qué sonido no puedes soportar?",
             "id": 45290,
             "portrait": false,
             "category": "",
@@ -1047,7 +1047,7 @@
         },
         {
             "x": false,
-            "personal":"¿Cuál era el nombre de una de tus mascotas favoritas?",
+            "personal": "¿Cómo se llamaba una de tus mascotas favoritas?",
             "id": 45289,
             "portrait": false,
             "category": "",
@@ -1056,7 +1056,7 @@
         },
         {
             "x": false,
-            "personal":"Si estuvieras en una sitcom, tu frase célebre sería <BLANK>.",
+            "personal": "Si estuvieras en una comedia de situación, tu frase célebre sería <BLANK>.",
             "id": 44893,
             "portrait": false,
             "category": "",
@@ -1065,7 +1065,7 @@
         },
         {
             "x": false,
-            "personal":"Una opinión impopular que tienes es <BLANK>.",
+            "personal": "Una opinión impopular que tienes es <BLANK>.",
             "id": 44870,
             "portrait": false,
             "category": "",
@@ -1074,7 +1074,7 @@
         },
         {
             "x": false,
-            "personal":"Descontando el presente, el período de tiempo en el que más te gustaría vivir sería <BLANK>.",
+            "personal": "Aparte del presente, la época en la que más te gustaría vivir sería <BLANK>.",
             "id": 44866,
             "portrait": false,
             "category": "",
@@ -1083,7 +1083,7 @@
         },
         {
             "x": false,
-            "personal":"Un hábito tuyo que más te gustaría dejar es <BLANK>.",
+            "personal": "Un hábito tuyo que más te gustaría poder dejar es <BLANK>.",
             "id": 44865,
             "portrait": false,
             "category": "",
@@ -1092,7 +1092,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras tres deseos, probablemente gastarías uno en <BLANK>.",
+            "personal": "Si tuvieras tres deseos, probablemente gastarías uno en <BLANK>.",
             "id": 44855,
             "portrait": false,
             "category": "",
@@ -1101,7 +1101,7 @@
         },
         {
             "x": false,
-            "personal":"¿Quién es alguien famoso que has conocido o con quien te has encontrado?",
+            "personal": "¿A qué persona famosa has conocido o te has encontrado?",
             "id": 44852,
             "portrait": false,
             "category": "",
@@ -1110,7 +1110,7 @@
         },
         {
             "x": false,
-            "personal":"Una cosa que no puedes proponerte a tirar a la basura es <BLANK>.",
+            "personal": "Algo raro que no te atreves a botar a la basura es <BLANK>.",
             "id": 44851,
             "portrait": false,
             "category": "",
@@ -1119,7 +1119,7 @@
         },
         {
             "x": false,
-            "personal":"Una película que todo el mundo ama pero que tú odias es <BLANK>.",
+            "personal": "La película que todos aman pero tú odias es <BLANK>.",
             "id": 44850,
             "portrait": false,
             "category": "",
@@ -1128,7 +1128,7 @@
         },
         {
             "x": false,
-            "personal":"Un trabajo que te encantaría probar.",
+            "personal": "Un trabajo que te encantaría intentar.",
             "id": 44849,
             "portrait": false,
             "category": "",
@@ -1137,7 +1137,7 @@
         },
         {
             "x": false,
-            "personal":"Algo que te ayuda a relajarte es <BLANK>.",
+            "personal": "Algo que te relaja mucho es <BLANK>.",
             "id": 44848,
             "portrait": false,
             "category": "",
@@ -1146,7 +1146,7 @@
         },
         {
             "x": false,
-            "personal":"Un lugar que le encantaría visitar es <BLANK>.",
+            "personal": "Un lugar que te encantaría visitar es <BLANK>.",
             "id": 44847,
             "portrait": false,
             "category": "",
@@ -1155,7 +1155,7 @@
         },
         {
             "x": false,
-            "personal":"Lo más nerd que te gusta hacer es <BLANK>.",
+            "personal": "Lo más ñoño que te gusta hacer es <BLANK>.",
             "id": 44843,
             "portrait": false,
             "category": "",
@@ -1164,7 +1164,7 @@
         },
         {
             "x": false,
-            "personal":"Un olor extraño que te encanta es <BLANK>.",
+            "personal": "Un olor raro que te encanta es <BLANK>.",
             "id": 44842,
             "portrait": false,
             "category": "",
@@ -1173,7 +1173,7 @@
         },
         {
             "x": false,
-            "personal":"Una cosa extraña a la que le temías cuando eras niño/a era <BLANK>.",
+            "personal": "Algo extraño que te daba miedo de niño era <BLANK>.",
             "id": 44841,
             "portrait": false,
             "category": "",
@@ -1182,7 +1182,7 @@
         },
         {
             "x": false,
-            "personal":"Un/a cantante o banda vergonzoso/a que escuchas en secreto es <BLANK>.",
+            "personal": "Un cantante o grupo vergonzoso que escuchas en secreto es <BLANK>.",
             "id": 43726,
             "portrait": false,
             "category": "",
@@ -1191,7 +1191,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras que elegir, tu última comida sería sin lugar a dudas <BLANK>.",
+            "personal": "Tu última cena sería sin lugar a dudas <BLANK>.",
             "id": 43693,
             "portrait": false,
             "category": "",
@@ -1200,7 +1200,7 @@
         },
         {
             "x": false,
-            "personal":"Tu apodo presidencial sería <BLANK>.",
+            "personal": "Tu nombre en clave como presidente sería <BLANK>.",
             "id": 43692,
             "portrait": false,
             "category": "",
@@ -1209,7 +1209,7 @@
         },
         {
             "x": false,
-            "personal":"Un personaje animado con el que no te molestaría tener una cita.",
+            "personal": "Un personaje animado con el que te gustaría tener una cita.",
             "id": 43690,
             "portrait": false,
             "category": "",
@@ -1218,7 +1218,7 @@
         },
         {
             "x": false,
-            "personal":"El último sueño que recuerdas involucraba <BLANK>.",
+            "personal": "El último sueño que recuerdas tenía que ver con <BLANK>.",
             "id": 43688,
             "portrait": false,
             "category": "",
@@ -1227,7 +1227,7 @@
         },
         {
             "x": false,
-            "personal":"El primer álbum que compraste fue <BLANK>.",
+            "personal": "El primer disco que compraste fue <BLANK>.",
             "id": 43685,
             "portrait": false,
             "category": "",
@@ -1236,7 +1236,7 @@
         },
         {
             "x": false,
-            "personal":"Un programa de televisión que te avergüenza admitir que te gusta es <BLANK>.",
+            "personal": "Un programa de televisión que te avergüenza admitir que te gusta es <BLANK>.",
             "id": 43682,
             "portrait": false,
             "category": "",
@@ -1245,7 +1245,7 @@
         },
         {
             "x": false,
-            "personal":"Una canción que siempre te hace bailar es <BLANK>.",
+            "personal": "Una canción que siempre te hace bailar es <BLANK>.",
             "id": 43681,
             "portrait": false,
             "category": "",
@@ -1254,7 +1254,7 @@
         },
         {
             "x": false,
-            "personal":"El actor/la actriz que crees que debería interpretarte en una película acerca de tu vida.",
+            "personal": "El actor que crees que debería representarte en la película sobre tu vida.",
             "id": 43679,
             "portrait": false,
             "category": "",
@@ -1263,7 +1263,7 @@
         },
         {
             "x": false,
-            "personal":"Una compra loca que realizarías después de ganar la lotería sería <BLANK>.",
+            "personal": "Una compra loca que harías tras ganar la lotería sería <BLANK>.",
             "id": 43677,
             "portrait": false,
             "category": "",
@@ -1272,7 +1272,7 @@
         },
         {
             "x": false,
-            "personal":"Si pudieras ser cualquier superhéroe/superheroína, serías <BLANK>.",
+            "personal": "Si pudieras ser cualquier superhéroe, serías <BLANK>.",
             "id": 43675,
             "portrait": false,
             "category": "",
@@ -1281,7 +1281,7 @@
         },
         {
             "x": false,
-            "personal":"Una celebridad con la que te encantaría intercambiar cuerpos por un día.",
+            "personal": "Una celebridad con la que te encantaría intercambiar cuerpos por un día.",
             "id": 43674,
             "portrait": false,
             "category": "",
@@ -1290,7 +1290,7 @@
         },
         {
             "x": false,
-            "personal":"El nombre de tu peluche favorito cuando eras pequeño.",
+            "personal": "El nombre de tu peluche favorito cuando eras pequeño.",
             "id": 43673,
             "portrait": false,
             "category": "",
@@ -1299,7 +1299,7 @@
         },
         {
             "x": false,
-            "personal":"Algo que no hay manera que comas es <BLANK>.",
+            "personal": "Algo que no comerías en absoluto es <BLANK>.",
             "id": 43672,
             "portrait": false,
             "category": "",
@@ -1308,7 +1308,7 @@
         },
         {
             "x": false,
-            "personal":"La película que nunca deja de hacerte reír es <BLANK>.",
+            "personal": "La película que siempre te hace reír a carcajadas es <BLANK>.",
             "id": 43671,
             "portrait": false,
             "category": "",
@@ -1317,7 +1317,7 @@
         },
         {
             "x": false,
-            "personal":"Una habilidad que desearías tener.",
+            "personal": "Una habilidad que desearías tener.",
             "id": 16250,
             "portrait": false,
             "category": "biggest",
@@ -1326,7 +1326,7 @@
         },
         {
             "x": false,
-            "personal":"Uno de los primeros recuerdos que te vienen a la mente es <BLANK>.",
+            "personal": "Uno de tus primeros recuerdos es <BLANK>.",
             "id": 16248,
             "portrait": false,
             "category": "first",
@@ -1335,7 +1335,7 @@
         },
         {
             "x": false,
-            "personal":"Una de las cosas más asquerosas que has comido es <BLANK>.",
+            "personal": "Una de las cosas más asquerosas que has comido es <BLANK>.",
             "id": 16247,
             "portrait": false,
             "category": "gross",
@@ -1344,7 +1344,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras que elegir una canción para tocar en tu propio funeral, sería \u201c<BLANK>.\u201d",
+            "personal": "Si tuvieras que elegir una canción para que suene en tu propio funeral, sería “<BLANK>”.",
             "id": 16246,
             "portrait": false,
             "category": "funeral",
@@ -1353,7 +1353,7 @@
         },
         {
             "x": false,
-            "personal":"Si tuvieras que golpear a una persona en la cara, sería <BLANK>.",
+            "personal": "Si tuvieras que golpear a una persona en la cara, sería a <BLANK>.",
             "id": 16245,
             "portrait": false,
             "category": "",

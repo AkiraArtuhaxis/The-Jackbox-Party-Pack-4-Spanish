@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "vomit|poop,bugs|straw,brains|hearts,cheese|mustard,goldfish|confetti,yogurt|caramel,fish eggs|Skittles,peanuts|eggs,milk|orange juice,peanut butter|ham,sugar|spice,cinnamon|Pepto Bismol,green tea|newspaper,carrots|waffles,avocado|chili peppers,chicken hearts|goat eyes,apple pie|gravy,chili|pineapple slices",
+            "v": "vómito|caca,bichos|paja,sesos|corazones,queso|mostaza,pez dorado|papel,yogur|caramelo,caviar|caramelos,maníes|huevos,leche|jugo de naranja,mantequilla de maní|jamón,azúcar|especias,canela|jarabe para la tos,té verde|papel de periódico,zanahorias|panqueques,lechuga|ajíes,corazones de pollo|ojos de cabra,tarta de manzana|salsa,ají|rodajas de piña",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si amas el helado, NO PIDAS el \"sundae\" en Corea del Sur. Consiste de intestinos de vaca o cerdo llenos de <BLANK> y <BLANK>.",
+            "v": "Si te encanta el helado, NO PIDAS el \"sundae\" en Corea del Sur. Son intestinos de vaca o cerdo rellenos de <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "blood|noodles",
+            "v": "sangre|fideos",
             "n": "AlternateSpellings"
         },
         {

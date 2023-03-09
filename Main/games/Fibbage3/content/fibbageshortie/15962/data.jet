@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "shrunken head,mummy,tractor,pack of warthogs,golden broom,mansion,lion,laser gun,WWII grenade,book about acting,spaceship,giant novelty pencil,diamond-encrusted tiara,Gameboy,pumpkin carriage,dairy farm,UFO,copy of Face Off",
+            "v": "una cabeza encogida,una momia,un tractor,un par de jabalíes,una escoba dorada,una mansión,un león,una pistola láser,una granada de la Segunda Guerra Mundial,un libro sobre actuación,una nave espacial,un lápiz novedoso gigante,una tiara con diamantes incrustados,un Gameboy,un carruaje de calabaza,una granja lechera,un OVNI,un DVD de Contracara",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pulpo mascota",
+            "v": "un pulpo mascota",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Para poder justificar su extraña compra, Nicolas Cage dijo que compró un/una <BLANK> para ayudarle en su actuación.",
+            "v": "Para justificar la extraña compra, Nicolas Cage afirmó que compró <BLANK> para ayudarle en su actuación.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "octopus",
+            "v": "pulpo,pulpo de mascota,pulpo mascota",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pancakes|ketchup,dads|suits,feet|bells,chickens|hats,houses|trousers,cats|slippers,children|santa suits,boats|scarves,grandparents|baby clothes,horses|tutus,dogs|tuxedos,government officials|toeless socks,windows|wrapping paper,mothers|wedding dresses,police force|clown shoes,snakes|ties,postal carriers|radiation suits,cars|basketball jerseys",
+            "v": "panqueques|kétchup,papás|trajes,pies|campanas,gallinas|sombreros,casas|pantalones,gatos|zapatillas,niños|trajes de Papá Noel,botes|bufandas,abuelos|ropa de bebé,caballos|tutus,perros|trajes elegantes,funcionarios del gobierno|calcetines sin dedos,ventanas|papel de envolver,madres|vestidos de boda,policías|zapatos de payaso,serpientes|corbatas,carteros|trajes de radiación,autos|camisetas de baloncesto",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los habitantes de la Isla de Ré, una isla remota frente a la costa de Francia, tienen una costumbre extraña: Cada mañana visten sus <BLANK> con <BLANK>.",
+            "v": "Los habitantes de la Isla de Ré, una isla remota de la costa francesa, tienen una costumbre extraña: Cada mañana visten a sus <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "donkeys|pjs,donkyes|pajama pants,donkeys|pajama trousers,donkies|pjs,donkies|pajama pants,donkies|pajama trousers,donkeys|pyjamas,donkeys|pyjama trousers,donkeys|pajama bottoms,donkeys|pyjama bottoms",
+            "v": "burros|pantalones de pijama,asnos|pijamas,burro|pijama,asno|pijama",
             "n": "AlternateSpellings"
         },
         {

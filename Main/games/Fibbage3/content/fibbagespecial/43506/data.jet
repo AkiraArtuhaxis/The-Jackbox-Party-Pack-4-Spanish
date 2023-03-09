@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "nose,goldfish,sister,ankle,dog,spoon,dentist,ear,enemy,cabin,mouth guard,baby bear,beet pie,shovel,thumb,turnip,cheese,pine tree",
+            "v": "nariz,pez dorado,hermana,tobillo,perro,cuchara,dentista,oído,enemigo,cabina,protector bucal,bebé oso,pastel de remolacha,pala,pulgar,nabo,queso,pino",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La forma rusa de decir \"tan cerca y a la vez, tan lejos\" se traduce como \"Tu <BLANK> está cerca, pero no puedes morderlo.\"",
+            "v": "La forma rusa de decir \"tan cerca y tan lejos\" se traduce como \"Tu <BLANK> está cerca, pero no puedes morderle\".",
             "n": "QuestionText"
         },
         {

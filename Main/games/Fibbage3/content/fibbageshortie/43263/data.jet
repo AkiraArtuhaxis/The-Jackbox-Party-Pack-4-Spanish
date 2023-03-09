@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Game of Thrones,Elvis,cyclops,cactus,frog pond,Quizno’s,pudding,dumpster,Fraggle Rock,mannequin,dentist,ice cube,accountant,Illuminati,Candy Land,surgery,submarine,phone booth",
+            "v": "Game of Thrones,Elvis,cíclopes,cactus,estanque de ranas,Quizno’s,pudín,contenedor de basura,Fraggle Rock,maniquí,dentista,cubo de hielo,contador,Illuminati,Candy Land,cirugía,submarino,cabina telefónica",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "payasos",
+            "v": "payaso",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando pases por Tonopah, Nevada, asegurate de quedarte en el único hotel temático de <BLANK>.",
+            "v": "Cuando pases por Tonopah, Nevada, asegúrate de quedarte en el único hotel temático de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "clowns,circus",
+            "v": "payasos,circo",
             "n": "AlternateSpellings"
         },
         {

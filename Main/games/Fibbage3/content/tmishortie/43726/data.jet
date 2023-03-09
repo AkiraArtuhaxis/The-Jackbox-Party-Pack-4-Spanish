@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Barry Manilow,Weird Al,Kenny G.,GWAR,Ed Sheeran,Meghan Trainor,Britney Spears",
+            "v": "Luis Fonsi,Weird Al,Village People,GWAR,Ed Sheeran,Rebecca Black,Britney Spears",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un/a cantante o banda vergonzoso/a que escuchas en secreto es <BLANK>.",
+            "v": "Un cantante o grupo vergonzoso que escuchas en secreto es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un/a cantante o banda vergonzoso/a que <PLAYER> escucha en secreto es <BLANK>.",
+            "v": "Un cantante o grupo vergonzoso que <PLAYER> escucha en secreto es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un cantante o banda vergonzosa que éste jugador escucha en secreto es <BLANK>.",
+            "s": "[category=host]An embarrassing singer or band this player secretly listens to is <BLANK>.",
             "t": "A",
             "v": "568707_0",
             "n": "QuestionAudio"

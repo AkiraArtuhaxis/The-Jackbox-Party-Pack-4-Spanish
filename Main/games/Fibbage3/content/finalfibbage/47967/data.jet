@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "overweight|bacon,depressed|online dating,aroused|phone sex,descended|Genghis Khan,ten minutes|a mental breakdown,upset|a sporting event,tired|partying,sitting on a chair|china,hidden|view,smart|going to school,sick|eating burgers,100 years|death,happy|just living life man,thinking about aliens|outer space,Jenny|the block,Luka|the second floor,enchanted|seeing live theater,busy|2pm to 4pm",
+            "v": "con sobrepeso|tocino,decepcionadas|las citas de internet,excitadas|el sexo telefónico,emparentadas|el legado de Genghis Khan,a diez minutos|una crisis mental,desilusionadas|un evento deportivo,cansadas|celebrar,sentadas en una silla|origen chino,escondidas|la vista,entusiasmadas|ir a la escuela,aburridas|comer hamburguesas,a 100 años|la muerte,felices|vivir su vida hombre,pensando en extraterrestres|el espacio exterior,observando a los vecinos|al frente,siendo estafadas|lo tontas que son,encantadas|ir al cine,ocupadas|14:00 a 16:00",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "15 minutos|un Walmart",
+            "v": "a 15 minutos|un Walmart",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según un artículo en CNBC.com de octubre de 2016, aproximadamente un 90 por ciento de personas en Estados Unidos están a <BLANK> de <BLANK>.",
+            "v": "Según un artículo en CNBC.com de octubre de 2016, aproximadamente el 90% de las personas en Estados Unidos están <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "15 minutes|a Wal-Mart,Fifteen minutes|a Wal-Mart,Fifteen minutes|a WalMart,15 minutes|Wal-Mart,Fifteen minutes|Wal-Mart,Fifteen minutes|WalMart,15 minutes away|a Wal-Mart,Fifteen minutes away|a Wal-Mart,Fifteen minutes away|a WalMart,15 minutes away|Wal-Mart,Fifteen minutes away|Wal-Mart,Fifteen minutes away|WalMart",
+            "v": "a 15 minutos|un Wal-Mart,a quince minutos|un Wal-Mart,a quince minutos|un WalMart,a 15 minutos|Wal-Mart,a quince minutos|Wal-Mart,a quince minutos|WalMart,a 15 minutos de distancia|un Wal-Mart,a quince minutos de distancia|un Wal-Mart,a quince minutos de distancia|un WalMart,a 15 minutos de distancia|Wal-Mart,a quince minutos de distancia|Wal-Mart,a quince minutos de distancia|WalMart",
             "n": "AlternateSpellings"
         },
         {

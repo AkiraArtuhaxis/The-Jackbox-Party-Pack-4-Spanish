@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a football helmet,haggis,a kiddie pool,an oxygen tent,halved baseballs,a turkey,church,a turducken,a baby’s crib,a coconut,a dog bowl,a tuba,an ice cream cone,a baseball helmet,a ring of ham,a fruit cake,six courses,an ice cube",
+            "v": "un casco,un haggis,una piscina para niños,una carpa de oxígeno,pelotas de béisbol en mitades,un pavo,una iglesia,un pollo,una cuna de bebé,un coco,un comedero para perro,una tuba,un cucurucho de helado,un casco de béisbol,un aro de jamón,una tarta de frutas,seis platos,un cubo de hielo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Gelatina",
+            "v": "gelatina",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1904, la mujer de John E. Cook inventó “La ensalada perfección\". Es básicamente una ensalada común y corriente, pero destaca porque se sirve en <BLANK>.",
+            "v": "En 1904, la Sra. John E. Cook inventó “La ensalada perfección”. Se trata de una ensalada normal, pero con la particularidad de que se sirve en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "jello,gelatin",
+            "v": "jalea",
             "n": "AlternateSpellings"
         },
         {

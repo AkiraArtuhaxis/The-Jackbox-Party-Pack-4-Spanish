@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "choking on candy,drinking too much tea,playing golf,falling through a manhole,singing “happy birthday”,going over a smaller waterfall,riding a bike,trying to catch an arrow,punching himself,shaking a vending machine,eating a walnut,licking a toad,swallowing a marble,eating expired meat,getting impaled by an icicle,wearing too tight pants,sleeping too much,locking himself in his car",
+            "v": "ahogarse con un dulce,beber demasiado té,jugar golf,caer por una alcantarilla,cantar “cumpleaños feliz”,pasar por una cascada más pequeña,montar en bicicleta,intentar atrapar una flecha,golpearse a sí mismo,sacudir una máquina expendedora,comer una nuez,lamer un sapo,tragar una canica,comer carne podrida,ser empalado por un témpano,usar pantalones demasiado ajustados,dormir demasiado,encerrarse en su auto",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Bobby Leach, la segunda persona en sobrevivir a un viaje por las Cataratas del Niágara, terminó su vida de una manera mucho menos emocionante: murió después de <BLANK>.",
+            "v": "Bobby Leach, la segunda persona que sobrevivió a un viaje por las cataratas del Niágara, murió de forma mucho menos emocionante: Murió tras <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tripping on an orange,falling on an orange peel,tripping on an orange peal,tripping,slipping,slipping on an orange peel",
+            "v": "tropezar con una naranja,caerse con una cáscara de naranja,tropezar con cáscara de naranja,tropezar,deslizarse,deslizarse con una cáscara de naranja",
             "n": "AlternateSpellings"
         },
         {

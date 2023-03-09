@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Qué grosería te encanta decir?",
+            "v": "¿Qué palabrota te encanta decir?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una grosería que le gusta decir a <PLAYER> es <BLANK>.",
+            "v": "Una palabrota que le gusta decir a <PLAYER> es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una grosería que a <PLAYER> le encanta decir es <BLANK>.",
+            "s": "[category=host]The curse word <PLAYER> really loves saying is <BLANK>.",
             "t": "A",
             "v": "684645_0",
             "n": "QuestionAudio"

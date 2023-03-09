@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "¡No te vayas!,Debería haberme quedado en cama.,Tendría que pedirlo para llevar.,¡No tienen que hacer problemas todas las mañanas!,A ver si vamos redondeando.,¡Pero que triste tristeza!,¡Ay mamita!",
+            "v": "¡No vayas!,Debería haberme quedado en cama.,Sí, lo pediré para llevar.,¡Es demasiado temprano para este desastre!,Manos a la obra.,¡Pero qué triste tristeza!,¡Ay, mamita!",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Tu frase célebre en una sitcom sería <BLANK>.",
+            "v": "Si estuvieras en una comedia de situación, tu frase célebre sería <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La frase célebre de <PLAYER> en una sitcom sería \u201c<BLANK>.\u201d",
+            "v": "Si <PLAYER> estuviera en una comedia de situación, su frase célebre sería “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La frase célebre de éste jugador en una sitcom sería <BLANK>.",
+            "s": "[category=host]This player’s sitcom-style catchprase would be <BLANK>.",
             "t": "A",
             "v": "600218_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "is a little too comfortable with himself,goes to the moon,makes a friend,steals eggs,is now the boss,visits a theme park,learns Spanish,and the park bench,shops for a robe,looks more like a panther,and the wooden horse,cab driver,saves the city,invents art,destroys the plumbing,lost his contact lens,chops down a tree,is sassy",
+            "v": "está demasiado a gusto consigo mismo,va a la luna,hace un amigo,roba huevos,ahora es el jefe,visita un parque de atracciones,aprende español,y el banquillo del parque,compra una bata,se parece más a una pantera,y el caballo de madera,taxista,salva la ciudad,inventa el arte,destruye las cañerías,perdió su lente de contacto,tala un árbol,es descarado",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El título de esta pieza del siglo XVIII es <i>El mono <BLANK><\/i>.",
+            "v": "El título de esta obra del siglo XVIII es <i>El mono <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "carpenter,does carpenter,who was a carpenter,that did carpentry",
+            "v": "carpintero,hace carpintería,que era carpintero,que hacía carpintería",
             "n": "AlternateSpellings"
         },
         {

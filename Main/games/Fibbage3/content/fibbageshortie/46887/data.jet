@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "zombies attacked,he said Reagan’s name backwards,they Frenched,he watched Reagan’s movies,he got straight A’s,the Cubs won the World Series,he got 18 million retweets,Robosaurus came to town,Russia won a chess match,Gorbachev needed surgery,he won the lottery,Russia agreed to export vodka,the Olympics were on TV,he gave Reagan his first born,a friday fell on the 13th,the Pope asked him to,the earth was hit by a comet,Nancy started acting again",
+            "v": "hubiera un apocalipsis zombi,dijera el nombre de Reagan al revés,se volvieran franceses,viera las películas de Reagan,se volviera hetero,los Lakers ganaran el campeonato,consiguera 18 millones de retweets,el Robosaurio llegara a la ciudad,Rusia ganara una partida de ajedrez,Gorbachov necesitara cirugía,ganara la lotería,Rusia accediera a exportar vodka,los Juegos Olímpicos estuvieran en la televisión,le diera a Reagan su primogénito,un viernes fuera 13,el Papa se lo pidiera,la Tierra fuera golpeada por un cometa,Nancy comenzara a actuar de nuevo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "los aliens invadieran",
+            "v": "los extraterrestres invadieran",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante una entrevista con Charlie Rose, Mikhail Gorbachev reveló que Ronald Reagan le dijo que la Guerra Fría podría detenerse si <BLANK>.",
+            "v": "Durante una entrevista con Charlie Rose, Mijaíl Gorbachov reveló que Ronald Reagan le dijo que la Guerra Fría podría detenerse si <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "aliens attacked,aliens landed,UFOs landed,aliens arrived,the earth was invaded,we were invaded by aliens,aliens came to earth",
+            "v": "los extraterrestres atacaran,los extraterrestres aterrizaran,los OVNIs aterrizaran,los extraterrestres llegaran,la Tierra fuera invadida,fuéramos invadidos por extraterrestres,los extraterrestres vinieran a la Tierra",
             "n": "AlternateSpellings"
         },
         {

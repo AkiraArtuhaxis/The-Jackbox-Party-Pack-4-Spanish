@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Cuál era tu serie favorita cuando tenías 10?",
+            "v": "¿Cuál era tu serie favorita cuando tenías 10 años?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La serie favorita de <PLAYER> cuando tenía 10 años era <BLANK>.",
+            "s": "[category=host]<PLAYER>’s favorite TV show when they were 10 years old was <BLANK>.",
             "t": "A",
             "v": "684407_0",
             "n": "QuestionAudio"

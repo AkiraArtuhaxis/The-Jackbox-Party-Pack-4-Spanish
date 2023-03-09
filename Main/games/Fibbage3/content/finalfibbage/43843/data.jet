@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dogs|orange,plums|prunes,TVs|possessed,blondes|brunettes,coins|magnetized,fruit|fermented,grass|roses,sewage|petrified,pumpkins|watermelons,money|worthless,roosters|hens,hair|curly,cheese|blue,jeans|cutoffs,mailboxes|uprooted,food|tasteless,cows|red,police|military officers",
+            "v": "perros|naranjas,ciruelas|ciruelas pasas,televisores|demoníacos,rubias|morenas,monedas|imantadas,frutas|fermentadas,pastos|rosas,aguas residuales|petrificadas,calabazas|sandías,dineros|papeles,gallos|gallinas,cabellos|rizados,quesos|azules,pantalones|pantalones cortos,buzones|óxido,comidas|insípidas,vacas|rojas,policías|militares",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "agua|rosa",
+            "v": "aguas|rosas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los residentes de Onoway, Alberta, Canadá se conmocionaron cuando se despertaron y descubrieron que la totalidad de su <BLANK> se había vuelto <BLANK>.",
+            "v": "Los residentes de Onoway (Alberta, Canadá) se llevaron una gran sorpresa cuando se despertaron y descubrieron que la totalidad de sus <BLANK> se habían vuelto <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tap water|pink,water|red,tap water|red",
+            "v": "aguas de llave|rosas,aguas|rojas,aguas de llave|rojas",
             "n": "AlternateSpellings"
         },
         {

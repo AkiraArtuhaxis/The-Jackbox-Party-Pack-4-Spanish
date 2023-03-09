@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a snow globe,a server farm,your mind Craig,a shopping mall,a parking lot,a dome,an Ikea,an egg,a spaceship,a submarine,Llewyn Davis,an orange grove,a football stadium,a glass dome,a camel farm,the Rock and Roll Hall of Fame,a walmart,the U.S. Embassy",
+            "v": "una bola de nieve,una granja de servidores,tu mente,un centro comercial,un estacionamiento,una cúpula,un Ikea,un huevo,una nave espacial,un submarino,Llewyn Davis,un campo de naranjos,un estadio de fútbol,una cúpula de cristal,una granja de camellos,el Salón de la Fama del Rock and Roll,un Walmart,la Embajada de EE.UU.",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Nördlingen, Alemania es una pintoresca ciudad contenida por completo dentro de <BLANK>.",
+            "v": "Nördlingen, Alemania, es una pintoresca ciudad situada en el interior de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a crater,crater",
+            "v": "un cráter,cráter",
             "n": "AlternateSpellings"
         },
         {

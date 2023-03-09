@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "awful dancing,lactose intolerance,goldfish memory loss,rats with mono,female baldness,chimp ADHD,bad taste in music,picky eating,space madness,latex allergies,diabetes,halitosis,bad personalities,jimmy leg,a witch’s curse,stage fright,cancer in lizards,data overload",
+            "v": "el baile espantoso,la intolerancia a la lactosa,la pérdida de memoria de los peces dorados,a las ratas con mononucleosis,la calvicie de las hembras,el TDAH de los chimpancés,el mal gusto musical,a los quisquillosos con la comida,la locura espacial,las alergias al látex,la diabetes,la halitosis,la mala personalidad,la fibromialgia,la maldición de una bruja,el miedo escénico,el cáncer en los lagartos,la sobrecarga de datos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "el jet lag en hamsters",
+            "v": "el desfase horario en hámsters",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "jet lag in hamsters,jetlag,hamster jetlag,jetlag in hamsters,jet lag",
+            "v": "desfase horario en hámsters,desfase horario,jet lag en hámster,jetlag de hámster,jet lag,jetlag",
             "n": "AlternateSpellings"
         },
         {

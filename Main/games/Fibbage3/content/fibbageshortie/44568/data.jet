@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "political prisoners,comedians auditioning for SNL,hackers,aspiring dictators,visitors to North Korea,pick up artists,pet groomers,his enemies,assassins,barbers,college graduates,gardeners,future U.S. presidents,young couples,busy parents,figure skaters,robots pretending to be human,big game hunters",
+            "v": "presos políticos,comediantes que audicionan para SNL,piratas informáticos,aspirantes a dictadores,visitantes de Corea del Norte,artistas del ligue,peluqueros de mascotas,sus enemigos,asesinos,barberos,licenciados universitarios,jardineros,futuros presidentes de EE.UU.,parejas jóvenes,padres ocupados,patinadores artísticos,robots fingiendo ser humanos,cazadores",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Mientras no estaba ocupado siendo dictador de Corea del Norte, Kim Jong-il escribió y publicó un libro con consejos para <BLANK>.",
+            "v": "Mientras no estaba ocupado siendo dictador de Corea del Norte, Kim Jong-il escribió y publicó un libro de consejos reflexivos para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "film makers,movie makers,movies,film,directors,directing",
+            "v": "realizadores de cine,directores de cine,películas,filmes,directores,productores",
             "n": "AlternateSpellings"
         },
         {

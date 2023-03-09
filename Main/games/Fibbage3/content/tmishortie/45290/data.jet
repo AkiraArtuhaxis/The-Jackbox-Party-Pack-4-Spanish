@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "uñas en un pizarrón,ruedas de carrito del super,la voz de Tomás,el roce de un tenedor con un plato,puertas que rechinan,karaoke desafinado,el aire acondicionado",
+            "v": "uñas en un pizarrón,ruedas de carrito del super,la voz de Tomás,el roce de un tenedor en un plato,puertas que rechinan,karaoke desafinado,el aire acondicionado",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es un sonido que no podés soportar?",
+            "v": "¿Qué sonido no puedes soportar?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un sonido que <PLAYER> no puede soportar es <BLANK>.",
+            "s": "[category=host]A sound that <PLAYER> really can’t stand is <BLANK>.",
             "t": "A",
             "v": "610805_0",
             "n": "QuestionAudio"

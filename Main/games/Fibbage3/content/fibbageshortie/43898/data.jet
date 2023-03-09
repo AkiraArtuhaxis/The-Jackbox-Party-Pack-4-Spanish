@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "butts,the apes,pain,lollipops,lobsters,Thor,leprechauns,sausages,marijuana,Lisa,socks,cheese,Larry,murder,urine,acid,rats,chains",
+            "v": "culos,los simios,dolor,piruletas,langostas,Thor,duendes,salchichas,marihuana,Lisa,calcetines,queso,Larry,asesinato,orina,ácido,ratas,cadenas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando se descubrió por primera vez a Urano, se le dio un nombre en latín que se traduce a \"el planeta de <BLANK>\".",
+            "v": "Cuando se descubrió por primera vez a Urano, se le dio un nombre en latín que se traduce como \"El planeta de <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "King George,Georges,George’s",
+            "v": "Rey Jorge,Jorje,jorje,jorge",
             "n": "AlternateSpellings"
         },
         {

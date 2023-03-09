@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Paul Simon,pudding,ice cream,earthquakes,sound waves,a coke bottle,coral reefs,corgis,the ups and downs of life,the designer’s grandmother,flossing,creamy peanut butter,fungus,crazy straws,kangaroo tails,other pretentious buildings,the human throat,this one giraffe",
+            "v": "Paul Simon,pudín,helado,terremotos,ondas sonoras,una botella de Coca-Cola,arrecifes de coral,corgis,los altibajos de la vida,la abuela del diseñador,hilo dental,crema de maní,hongos,vasos locos,colas de canguro,otros edificios pretenciosos,la garganta humana,esta jirafa",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Beyonce",
+            "v": "Beyoncé",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Curiosamente, el diseño curvo y desgarrador de Premier Tower, un rascacielos de más de 200 metros de altura que se está construyendo en Melbourne, se inspiró en <BLANK>.",
+            "v": "Por extraño que parezca, el diseño curvilíneo y ondulante de la Torre Premier, un rascacielos de 200 metros de altura que se está construyendo en Melbourne, se inspiró en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Beyoncé,Beyoncé Giselle Knowles-Carter,Beyoncé Knowles-Carter,Beyoncé Knowles,Beyonce Giselle Knowles-Carter,Beyonce Knowles-Carter,Beyonce Knowles",
+            "v": "Beyonce,Beyoncé Giselle Knowles-Carter,Beyoncé Knowles-Carter,Beyoncé Knowles,Beyonce Giselle Knowles-Carter,Beyonce Knowles-Carter,Beyonce Knowles",
             "n": "AlternateSpellings"
         },
         {

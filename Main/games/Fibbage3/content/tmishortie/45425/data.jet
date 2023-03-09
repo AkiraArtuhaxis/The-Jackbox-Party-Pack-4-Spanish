@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Qué parte del cuerpo más te gustaría reemplazar con partes robóticas?",
+            "v": "¿Qué parte del cuerpo te gustaría más reemplazar por una versión robótica?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> pudiera reemplazar cualquier parte del cuerpo con partes robóticas, sería <BLANK>.",
+            "v": "Si <PLAYER> pudiera reemplazar cualquier parte de su cuerpo por una versión robótica, sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> pudiera reemplazar cualquier parte del cuerpo con partes robóticas, sería <BLANK>.",
+            "s": "[category=host]If <PLAYER> could replace any body part with a robotic version, they’d pick <BLANK>.",
             "t": "A",
             "v": "614591_0",
             "n": "QuestionAudio"

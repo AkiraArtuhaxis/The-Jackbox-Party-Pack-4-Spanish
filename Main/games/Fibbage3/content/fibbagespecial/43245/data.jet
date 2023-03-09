@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pierna derecha,borscht,sierra,música,arrogancia,carne,manita,falta de talento,borrachera,barba,manzana,aritmética,vaca,amor verdadero,idiotez,maldita suerte,madre,ballet",
+            "v": "habilidades con la pierna izquierda,platillos,martillos,globos,canciones,envidias,sándwiches,pocas ganas,hábitos alcohólicos,escenarios,tulipanes,aritméticas,vacas,amores,idioteces,personalidades,padres,pasos de ballet",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El equivalente Ruso del refrán “Un buen artesano nunca culpa a sus herramientas” se traduciría como “Un pobre bailarín es impedido por su/s <BLANK>”",
+            "v": "El equivalente ruso del refrán “Un buen artesano nunca culpa a sus herramientas” se traduciría como “Un mal bailarín es perjudicado por sus <BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "nuez,testículo,testículo,bola,parte baja,bolsas,pelotas,balones",
+            "v": "nueces,testículo,testículos,bola,parte baja,bolsas,pelotas,balones",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "puerco,pudín,camello,merluza,silla,tacones,avión",
+            "v": "puerco,hamburguesa,camello,merluza,silla,tacones,avión",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la primera palabra que se te viene a la cabeza?",
+            "v": "¿Cuál es la primera palabra que se te viene a la mente?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La primera palabra que a <PLAYER> se le vino a la cabeza es <BLANK>.",
+            "v": "La primera palabra que a <PLAYER> se le vino a la mente fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La primera palabra que a <PLAYER> se le vino a la cabeza es <BLANK>.",
+            "s": "[category=host]The first word that popped into <PLAYER>’s head was <BLANK>.",
             "t": "A",
             "v": "625737_0",
             "n": "QuestionAudio"

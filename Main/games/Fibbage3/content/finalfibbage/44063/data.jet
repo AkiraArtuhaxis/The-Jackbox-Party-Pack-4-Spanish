@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pirate|bombs,cloud|wasabi,ghost|marshmallow,ninja|mud,biker|motor oil,gang member|starfish,demon|lava,police officer|bullets,banshee|swamp water,surfer|sand,clown|sawdust,alien|bad breath,werewolf|tar,vampire|smaller vampires,caveman|butterflies,mailman|letters,doctor|needles,professor|razor blades",
+            "v": "pirata|bombas,árbol|wasabi,fantasma|malvaviscos,ninja|lodo,motorista|aceite de motor,pandillero|estrellas de mar,demonio|lava,policía|balas,banshee|agua de pantano,surfista|arena,payaso|aserrín,extraterrestre|mal aliento,hombre lobo|alquitrán,vampiro|vampiros más pequeños,cavernícola|mariposas,cartero|cartas,médico|agujas,profesor|hojas de afeitar",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Nazi|abejas",
+            "v": "nazi|abejas",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Man|bees,Monster|bees,Jerk|bees,Nazi|wasps,man|wasps,monster|wasps",
+            "v": "hombre|abejas,monstruo|abejas,idiota|abejas,nazi|avispas,hombre|avispas,monstruo|avispas,idiota|avispas",
             "n": "AlternateSpellings"
         },
         {

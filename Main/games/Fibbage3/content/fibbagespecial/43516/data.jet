@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "rapping,cheese,wearing meat,lip syncing,feminism,Trump,braids,fondue,deodorant,hair dye,going to school,drawing with crayons,whitening strips,plaid,gargling,wearing wigs,military coups,Christmas",
+            "v": "rapear,el queso,vestirse con carne,hacer playback,el feminismo,Trump,las trenzas,el fondue,el desodorante,la tintura para el pelo,ir a la escuela,dibujar con crayones,las tiras blanqueadoras,el tartán,usar pelucas,los golpes de estado,la Navidad",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "Spears Queries",
+            "v": "Preguntas Spears",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Britney Spears tuiteó: \"¿Hay alguien que crea que <BLANK> es algo bueno? Me encanta Lady Gaga. Creo que es una artista realmente interesante.\"",
+            "v": "Britney Spears tuiteó: \"¿Alguien cree que <BLANK> es algo bueno? Me encanta Lady Gaga. Creo que es una artista realmente interesante\".",
             "n": "QuestionText"
         },
         {

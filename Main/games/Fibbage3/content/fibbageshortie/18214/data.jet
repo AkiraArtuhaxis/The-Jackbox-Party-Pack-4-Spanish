@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Cave,Igloo,Hole,Closet,apple tree,Nest,Cage,Boxcar,Van,Gas Station,Refrigerator Box,Tent,Spa,Beehive,grocery bags,taco truck,Mansion,Five Story Walk-Up",
+            "v": "Cueva,Iglú,Agujero,Armario,Manzanero,Nido,Jaula,Vagón,Furgoneta,Estación de servicio,Caja de nevera,Carpa,Spa,Colmena,Bolsa de supermercado,Camión de tacos,Mansión,Cinco pisos sin ascensor",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Dumpster",
+            "v": "Vertedero",
             "n": "CorrectText"
         },
         {

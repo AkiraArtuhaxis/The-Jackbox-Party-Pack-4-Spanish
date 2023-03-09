@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "mother-in-laws,angry squirrels,werewolves,video game death,ghosts,mermaids,terrorists,chupacabra,animators,mind control,comets,smelly socks,ex-lovers,yo-yo injuries,sadness,The Joker,Zeus,time travelers",
+            "v": "suegras,ardillas enojadas,hombres lobo,muertes en videojuegos,fantasmas,sirenas,terroristas,chupacabras,animadores,control mental,cometas,calcetines malolientes,ex parejas,heridas por yoyo,tristeza,el Guasón,Zeus,viajeros del tiempo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "aliens",
+            "v": "extraterrestres",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Grip, una compañía de seguros con sede en Londres, recaudo unas 4 mil libras a principios de los años 2000 al vender una peculiar póliza que cubría a los compradores de <BLANK>.",
+            "v": "Grip, una compañía de seguros con sede en Londres, recaudó 4 millones de libras esterlinas a principios de los años 2000 al vender una peculiar póliza que protegía a los clientes de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "extra-terrestrials,space creatures,UFOs,U.F.O.s,X-Files,space aliens,alien abduction,alien abductions,UFO abdctions,U.F.O. abductions,UFO abdction,U.F.O. abduction",
+            "v": "extraterrestre,criaturas del espacio,OVNI,OVNIs,Archivos secretos X,extraterrestres del espacio,abducción extraterrestre,abducciones extraterrestres,abducciones OVNI,abducción OVNI",
             "n": "AlternateSpellings"
         },
         {

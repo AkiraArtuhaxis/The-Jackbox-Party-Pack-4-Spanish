@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Amass|debts,hug|children,Take|dumps,grill|burgers,Chop|salads,milk|cows,Raise|children,surf|waves,Fight|wolves,pull|scams,tame|butts,eat|portions,escape|fights,solve|mysteries,pop|pimples,plug|holes,shrink|feet,win|at blackjack",
+            "v": "acumular|deudas,abrazar|niñas,cocinar|hamburguesas,preparar|ensaladas,ordeñar|vacas,criar|niñas,surfear|olas,luchar contra|lobos,hacer|estafas,amaestrar|nalgas,comer|porciones,evadir|peleas,resolver|incógnitas,explotar|espinillas,rellenar|aberturas,encoger|extremidades,ganar|cantidades de dinero",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Evitar|Naves",
+            "v": "evitar|barcos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "John W. Trimmer es el autor del libro de 1982 <i>Cómo <BLANK> las <BLANK> grandes<\/i>.",
+            "v": "John W. Trimmer es el autor del libro de 1982 <i>Cómo <BLANK> enormes <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "shave their cats,advertise his restaurant,draw mustaches on their pictures,watch their home movies,make cookies,steal neckties,raid the fridge,switch their mustard and ketchup,leave ice cream out to melt,write poetry on the walls,leave dead crows,fill the sugar bowl with ants,fill the tub up with lunch meat,use their phone to make prank calls,play parody songs on ukulele,check the water meter,finish their crosswords,apologize for breaking in",
+            "v": "afeitar a sus gatos,hacer publicidad de su restaurante,dibujar bigotes en sus fotos,ver sus películas caseras,hacer galletas,robar corbatas,asaltar el refrigerador,intercambiar la mostaza y el kétchup,dejar el helado afuera para que se derrita,escribir poesía en las paredes,dejar cuervos muertos,llenar el azucarero de hormigas,llenar la bañera de fiambre,usar su teléfono para hacer bromas telefónicas,tocar canciones de parodia con el ukelele,comprobar el contador de agua,terminar sus crucigramas,disculparse por entrar a robar",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1942, la ciudad de Pascaboula, Mississipi se vio aterrorizada por un hombre que entraba en las casas de las personas sólo para hacerles una cosa extraña: <BLANK>.",
+            "v": "En 1942, la ciudad de Pascaboula, Mississipi, se vio aterrorizada por un hombre que entraba en las casas de las personas solo para hacerles una cosa extraña: <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cut their hair,cut people’s hair,cut hair,give them haircuts,give them haircuts in their sleep,cut their hair while they’re sleeping",
+            "v": "cortarles el pelo,cortar el pelo de la gente,cortar pelo,darles cortes de pelo,cortar su pelo mientras duermen",
             "n": "AlternateSpellings"
         },
         {

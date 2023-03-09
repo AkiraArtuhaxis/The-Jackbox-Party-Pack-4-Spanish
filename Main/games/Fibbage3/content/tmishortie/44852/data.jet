@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Tim Conway,Paul McCartney,Marlo Thomas,Kevin Spacey,Ashley Judd,Bob Saget,Kendall Jenner",
+            "v": "Jim Carrey,Paul McCartney,Will Smith,Mon Laferte,Cristiano Ronaldo,Franco Escamilla,Selena Gomez",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué persona famosa te has encontrado alguna vez?",
+            "v": "¿A qué persona famosa has conocido o te has encontrado?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¡Encuentro de celebridad! Una vez, <PLAYER> se ha topado con <BLANK>.",
+            "v": "¡Avistamiento de famosos! Una vez, <PLAYER> se topó con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]¡Encuentro de celebridad! Una vez, éste jugador se encontró frente a <BLANK>.",
+            "s": "[category=host]Celebrity sighting! This player once met <BLANK>.",
             "t": "A",
             "v": "599190_0",
             "n": "QuestionAudio"

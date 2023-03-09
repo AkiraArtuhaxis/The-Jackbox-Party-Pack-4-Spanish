@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "go kart,drone,surf board,kayak,DMX bike,diving board,half pipe,golf cart,scooter,speed boat,unicycle,dog,snow board,hang glider,sled,raft,shark,truck",
+            "v": "un kart,un dron,una tabla de surf,un kayak,una bicicleta de acrobacias,un trampolín de piscina,medio tubo,un carrito de golf,una motoneta,una lancha de carreras,un uniciclo,un perro,una tabla de nieve,un ala delta,un trineo,una balsa,un tiburón,un camión",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "longboard",
+            "v": "un longboard",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La compañía de carritos para bebé Quinny, hace un carrito extremo que está fijado encima de un/una <BLANK>.",
+            "v": "La empresa de carritos para bebé, Quinny, fabrica un carrito extremo que está fijado encima de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "skateboard,skate board,long board",
+            "v": "patineta,monopatín,monopatin,skate,skate board,long board,tabla de skate,tabla larga,una patineta,un monopatín,un monopatin,un skate,un skate board,un long board,una tabla de skate,una tabla larga",
             "n": "AlternateSpellings"
         },
         {

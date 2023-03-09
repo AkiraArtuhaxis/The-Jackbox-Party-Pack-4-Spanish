@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "doing a puppet show,shaving,waxing his back,eating spaghetti,blindfolded,playing Mario Kart,eating pizza,in another state,pulling his own tooth,building a canoe,watching The Godfather,dressed as a clown,grilling steaks,handling snakes,picking his nose,sleeping,juggling,fending off a robber",
+            "v": "hacía un espectáculo de marionetas,se afeitaba,se depilaba la espalda,comía espaguetis,estaba con los ojos vendados,jugaba a Mario Kart,comía pizza,estaba en otro estado,se sacaba un diente,construía una canoa,veía El Padrino,estaba vestido de payaso,asaba filetes,manipulaba serpientes,se hurgaba la nariz,dormía,hacía malabares,esquivaba a un ladrón",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Mientras buscaban en el celular de un dentista alaskeño en abril de 2017, los fiscales encontraron un video de él trabajando en una paciente sedada mientras <BLANK>.",
+            "v": "Al registrar el teléfono de un dentista de Alaska en abril de 2017, los fiscales encontraron un video en el que trabajaba con un paciente sedado mientras <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "he rode a hoverboard,riding a hover board,rode a hover board,rode a hoverboard",
+            "v": "conducía un aeropatín,montaba un aeropatin,conducía un aeropatin,conducia un aeropatin",
             "n": "AlternateSpellings"
         },
         {

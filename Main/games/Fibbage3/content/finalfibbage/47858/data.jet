@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a guitar|Basstown,a popcorn machine|a movie theater,a dog|a meat packing facility,a cool bicycle|a hip town,a rare species of fish|the ocean,a pack of squirrels|a nut store,a McDonald’s franchise|a Whole Foods,land on the moon|the coolest crater,your mistakes|your haters,a star|Pluto,a lock pick kit|a jewelry shop,a bookstore|an Amazon warehouse,IKEA furniture|a gas stove,white clothes|a paintball field,a spider monkey|a daycare,a DeLorean|a nutty scientist,a fridge|your bed,a piece of the statue of liberty|the torch",
+            "v": "una guitarra|Basstown,una máquina de palomitas|un cine,un perro|una planta de envasado de carne,una bicicleta genial|una ciudad de moda,una especie rara de pez|el océano,una manada de ardillas|una tienda de frutos secos,una franquicia de McDonald's|un centro comercial,un terrenon en la luna|el cráter más genial,tus errores|tus críticos,una estrella|Plutón,un juego de ganzúas|una joyería,una librería|un almacén de Amazon,muebles de IKEA|una cocina a gas,ropa blanca|un campo de paintball,un mono araña|una guardería,un DeLorean|un científico loco,un refrigerador|tu cama,un trozo de la Estatua de la Libertad|la antorcha",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un carrito de panchos|el Zoológico de Central Park",
+            "v": "un puesto de perritos calientes|el Zoológico de Central Park",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según un artículo del <i>New York Times<\/i> de septiembre de 2013, deberías pagar casi 300 mil dólares al año si quieres ser dueño de <BLANK> cerca de <BLANK>.",
+            "v": "Según un artículo del <i>New York Times<\/i> de septiembre de 2013, tendrías que pagar casi 300 mil dólares al año si quieres ser dueño de <BLANK> cerca de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a food cart|Central Park Zoo,a food cart|Central Park,a hot dog stand|Central Park,a hot dog cart|Central Park,a hot dog cart|Central Park Zoo",
+            "v": "un carrito de comida|el Zoológico de Central Park,un carrito de comida|Central Park,un puesto de perritos calientes|Central Park,un carrito de perritos calientes|Central Park,un carrito de perritos calientes|el Zoológico de Central Park",
             "n": "AlternateSpellings"
         },
         {

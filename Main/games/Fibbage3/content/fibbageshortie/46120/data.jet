@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sleeping bag,plethora,bean bag,goody bag,carwash,chest wax,pot roast,cheese danish,muskrat,baby shark,sippy cup,nursing home,hodgepodge,fish tank,tamale,thong,whole mess o’,toothbrush",
+            "v": "saco de dormir,plétora,bolsa de papas,bolsa de regalos,lavado de autos,cera en el pecho,carne asada,queso danés,rata almizclera,tiburón bebé,taza para sorber,hogar de ancianos,mezcolanza,tanque de peces,taco,tanga,todo un caos,cepillo de dientes",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Peter Kazimir, ministro de finanzas de Eslovaquia, tuvo una manera extraña de describir el malestar social que hay por toda Europa. Lo llamó un/a “<BLANK> del mal”.",
+            "v": "Peter Kazimir, Ministro de Finanzas de Eslovaquia, tuvo una curiosa forma de describir el malestar social que recorre Europa. Lo llamó “<BLANK> del mal”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "lasagne",
+            "v": "lasagna",
             "n": "AlternateSpellings"
         },
         {

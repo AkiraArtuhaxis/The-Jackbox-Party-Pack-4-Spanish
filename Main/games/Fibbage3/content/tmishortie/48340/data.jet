@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "lémur,ratas,perros (soy un monstruo),moscas,chinches,ácaros,cangrejos",
+            "v": "lémur,ratas,gatos (soy un monstruo),moscas,elefantes,ácaros,cangrejos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si pudieras eliminar un animal/insecto/criatura de la faz de la tierra, ¿cuál sería?",
+            "v": "Si pudieras eliminar un animal/insecto/criatura de la faz de la Tierra, ¿cuál sería?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> pudiera eliminar un animal de la faz de la tierra, sería <BLANK>.",
+            "v": "Si <PLAYER> pudiera eliminar un animal de la faz de la Tierra, sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si <PLAYER> pudiera eliminar un animal de la faz de la tierra, sería <BLANK>.",
+            "s": "[category=host]If <PLAYER> could eliminate one animal from the face of the Earth, they would choose <BLANK>.",
             "t": "A",
             "v": "684265_0",
             "n": "QuestionAudio"

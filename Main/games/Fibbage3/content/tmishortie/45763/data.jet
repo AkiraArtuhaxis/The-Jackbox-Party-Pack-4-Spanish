@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "dos chabones en un sillón,los cavernícolas,Gabi de A Jugar con Hugo,monos en un submarino,esa actriz de esa obra,el pirata en la ducha,la chica robot",
+            "v": "dos tipos en un sillón,cavernícolas,osos polares navideños,monos en un submarino,esa actriz de esa cosa,el pirata en la ducha,la chica robot",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Uno de tus comerciales favoritos, es ese con <BLANK>.",
+            "v": "Uno de tus comerciales favoritos es el que tiene <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El comercial favorito de <PLAYER> es ese con <BLANK>.",
+            "v": "El comercial favorito de <PLAYER> es el que tiene <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El comercial favorito de <PLAYER> es ese con <BLANK>.",
+            "s": "[category=host]<PLAYER>’s favorite commercial is the one with <BLANK>.",
             "t": "A",
             "v": "625677_0",
             "n": "QuestionAudio"

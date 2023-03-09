@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dad humiliator,ventriloquist’s backpack,dad ladder,hunchback holster,parade booster,little brother minder,height simulator,chicken harness,portable detention hall,personal sidekick,portable mannequin,child concealer,growth simulator,father-son wading belt,dad bathroom,dignity drainer,kid launcher,vacation slacks",
+            "v": "humillador de papás,mochila de ventrílocuo,escalera de papás,funda jorobada,potenciador de desfiles,cuidador de hermanitos,simulador de altura,arnés de pollos,sala de detención portátil,secuaz personal,maniquí portátil,corrector de niños,simulador de crecimiento,cinturón de caminar por el agua padre-hijo,baño de papás,escurridor de dignidad,lanzador de niños,pantalones de vacaciones",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "silla de papá",
+            "v": "montura de papá",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La patente que se muestra aquí es para el invento de Paul R. Harriss, la <BLANK>.",
+            "v": "La patente que se muestra aquí corresponde al invento de Paul R. Harriss, llamado <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "silla del niño,silla del padre",
+            "v": "montura de niño,montura de padre",
             "n": "AlternateSpellings"
         },
         {

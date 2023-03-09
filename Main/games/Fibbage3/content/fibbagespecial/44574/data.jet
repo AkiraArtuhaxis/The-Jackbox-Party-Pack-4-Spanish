@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "The Finals,Tuesday trivia,Disneyland,the Warriors,heaven,poop,Quizno’s,getting colonics,Television,dunking on LeBron,eating pie,a newborn babe,popping champagne,listening to Charles Barkley,NBA Jam,going to the movies,working out,Netflix",
+            "v": "la final del campeonato,el trivial de los martes,Disneylandia,el fútbol americano,el cielo,la caca,Wendy's,los colonos,la televisión,marcarle a LeBron,comer tarta,un recién nacido,descorchar champán,escuchar a Rick Astley,NBA Jam,ir al cine,hacer ejercicio,Netflix",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Kevin Durant tuiteó: \"Twitter es mejor que <BLANK>\"",
+            "v": "Kevin Durant tuiteó: \"Twitter es mejor que <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ir a el club, el club, al club, yendo al club, iendo al club, ir a club",
+            "v": "ir a el club,el club,al club,yendo al club,iendo al club,ir a club",
             "n": "AlternateSpellings"
         },
         {

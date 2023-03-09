@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Firefighters,Secret Service agents,maids,the FBI,butlers,Green Berets,the Coast Guard,Navy SEALS,homeschool teachers,SWAT teams,golf instructors,hostage negotiators,midwives,actors,librarians,florists,wrestlers,TV executives",
+            "v": "bomberos,agentes del Servicio Secreto,sirvientas,el FBI,mayordomos,Boinas Verdes,la Guardia Costera,SEALS de la Marina,profesores de educación en casa,equipos de SWAT,instructores de golf,negociadores de rehenes,matronas,actores,bibliotecarios,floristas,luchadores,ejecutivos de TV",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Paramédicos",
+            "v": "paramédicos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Luego que el spinoff de <i>Friends<\/i>, <i>Joey<\/i>, fuera cancelado, el set de la sala de estar se convirtió en un simulador de entrenamiento para <BLANK>.",
+            "v": "Luego que la secuela de <i>Friends<\/i>, <i>Joey<\/i>, fuera cancelada, el plató de la sala de estar se convirtió en un simulador de entrenamiento para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Ambulance doctors,ambulance personnel,para medics,doctors,hospitals,EMTs,E.M.T.s",
+            "v": "doctores de ambulancia,personal de ambulancia,enfermeros,doctores,hospitales,personal médico",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "do it yourself,lame,inconvenient,underwater,nothing but beans,everything’s ten dollars,always closed,George Clooney,Paul Blart,Not Wal,non-sketchy,Kiss Me,fell off the truck,mart mart,look at this,Werewolf,super marked up,we got no food",
+            "v": "hazlo tú mismo,penoso,carísimo,bajo el agua,de solo frijoles,todo por diez dólares,siempre cerrado,George Clooney,Paul Blart,no super,no superficial,bésame,caído del camión,mercado mercado,mira esto,hombre lobo,super marcado,no tenemos comida",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el barrio de Echo Park en Los Ángeles se encuentra un almacén único. Se llama el mercado de <BLANK>.",
+            "v": "En el barrio de Echo Park en Los Ángeles se encuentra un almacén único. Se llama el mercado <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "time traveling,time-travel",
+            "v": "viajar en el tiempo,viaje en el tiempo",
             "n": "AlternateSpellings"
         },
         {

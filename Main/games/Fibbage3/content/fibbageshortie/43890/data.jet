@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pro wrestling,Blue’s Clues,Diff’rent Strokes,Larry King,The Love Boat,Conan O’Brien,Dan Rather,The Simpsons,cooking shows,Dora the Explorer,Martha Stewart,Breaking Bad,The Home Shopping Network,The Real Housewives,curling,Full House,the Kardashians,the New York Yankees",
+            "v": "la lucha libre profesional,Las pistas de Blue,Blanco y negro,Larry King,El crucero del amor,Conan O'Brien,Dan Rather,Los Simpson,programas de cocina,Dora la exploradora,Martha Stewart,Breaking Bad,The Home Shopping Network,Las Amas de Casa Reales,curling,Tres por tres,las Kardashian,los Yankees de New York",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Desde que recibió una señal no autorizada de TV por satélite en 1981, casi toda la nación de Belice se ha convertido en fanáticos de por vida de <BLANK>.",
+            "v": "Desde que recibió una señal de televisión por satélite de contrabando en 1981, casi toda la nación de Belice se ha convertido en fieles fanáticos de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the Cubs,Chicago Cubs,Cubs,the Cubbies,the cubbys",
+            "v": "los Cubs,Chicago Cubs,Cubs,los Cubbies,los Cubbys",
             "n": "AlternateSpellings"
         },
         {

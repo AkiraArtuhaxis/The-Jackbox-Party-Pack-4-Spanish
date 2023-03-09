@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "harboring fugitives,moving to Ohio,the world’s ugliest museum,moving to a cave,hiring children,out of power,lying about coal,destroyed in a cave-in,out of canaries,bought by KFC,becoming a Pizza Hut,against Kentucky basketball,funded by Al Gore,legally a person,running for governor,a mob front,a really good Pokemon gym,adding a drive-thru gift shop",
+            "v": "albergar fugitivos,mudarse a Ohio,ser el museo más feo del mundo,mudarse a una cueva,contratar niños,quedarse sin energía,mentir sobre el carbón,ser destruido en un derrumbe,quedarse sin canarios,ser comprado por KFC,convertirse en un Pizza Hut,estar en contra del baloncesto de Kentucky,ser financiado por Al Gore,ser legalmente una persona,presentarse a gobernador,ser una tapadera de la mafia,ser un gimnasio Pokémon realmente bueno,añadir una tienda de regalos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los residentes de Kentucky se sorprendieron en 2017 por la noticia de que el Museo de Carbón de Kentucky comenzaría a <BLANK>.",
+            "v": "Los residentes del condado de Harlan, Kentucky, se sorprendieron en 2017 por la noticia de que el Museo de Carbón de Kentucky iba a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "going solar,switching to solar,using solar power,powered by solar,powered by the sun,not powered by coal,not coal-powered",
+            "v": "ser solar,cambiar a solar,usar energía solar,utilizar generadores solares,ser potenciados por el sol,dejar de usar carbón,dejar el carbón",
             "n": "AlternateSpellings"
         },
         {

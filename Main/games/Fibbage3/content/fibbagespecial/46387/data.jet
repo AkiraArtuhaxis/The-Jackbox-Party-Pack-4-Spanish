@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hair,comedic timing,grampa,sous-chef,mini golfer,scene stealer,cosplayer,knuckle cracker,tomato thrower,poker player,farts,chili eater,duck caller,penmanship,direction giver,cigar smoker,monopoly player,dirty joke teller",
+            "v": "pelo,sentido del humor,abuelo,subdirector,mini golfista,ladrón de escenas,imitador,tronador de nudillos,lanzador de tomates,jugador de póquer,pedo,comedor de pan,amaestrador de patos,calígrafo,orientador,fumador de puros,jugador de Monopolio,contador de chistes sucios",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "llamado con el culo",
+            "v": "llamado por error",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Zach Braff tuiteó lo siguiente acerca del actor Jeffrey Tambor: \"El mejor <BLANK> de todos.\"",
+            "v": "Zach Braff tuiteó de su colega actor Jeffrey Tambor: \"El mejor <BLANK> de todos\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "but dial,pocket dial,accidental dial,butt call",
+            "v": "llamado erróneo,llamado de bolsillo,llamado accidental,llamado equivocado,llamada errónea,llamada de bolsillo,llamada accidental,llamada equivocada",
             "n": "AlternateSpellings"
         },
         {

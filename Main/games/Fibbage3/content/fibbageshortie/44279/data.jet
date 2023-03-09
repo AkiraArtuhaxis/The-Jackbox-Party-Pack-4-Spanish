@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "point at,look into the eyes of,spoon,share fries with,slow dance with,shapeshift into,impersonate,mind control,shout at,send business letters to,play music for,give a present to,dream about,cook,disappoint,paint,sue,eat dinner with",
+            "v": "apuntar,mirar a los ojos,hacer cucharita,compartir papas fritas,bailarle lentamente,transformarse,suplantar,controlar la mente,gritarle,enviar cartas comerciales,tocar música,hacerle regalos,ilusionar,cocinar,decepcionar,pintar,demandar,invitar a cenar",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A pesar de ser por 38 años un crimen, en 2014 la ciudad de Grand Rapids oficialmente legalizó el <BLANK> a otra persona.",
+            "v": "A pesar de ser un delito durante los últimos 38 años, en 2014 la ciudad de Grand Rapids oficialmente legalizó <BLANK> a otra persona.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "bother,bug",
+            "v": "fastidiar,hacer enojar",
             "n": "AlternateSpellings"
         },
         {

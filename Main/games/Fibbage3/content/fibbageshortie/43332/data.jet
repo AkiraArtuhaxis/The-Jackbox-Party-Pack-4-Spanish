@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "self-driving cars,teens,loud children,canvassers,Cubs foul balls,rollerbladers,counterfeit pinball machines,door-to-door salesman,cheap public toilets,deer in the city,crazed seagulls,couples that jog together,runaway Segways,state senators,pizzas that are too deep,carnival workers,randy lifeguards,hot dog vendors",
+            "v": "autos con autoconducción,jóvenes,niños ruidosos,reclutadores,YouTubers,patinadores,máquinas de pinball falsificadas,vendedores de puerta a puerta,baños públicos baratos,ciervo en la ciudad,gaviotas enloquecidas,parejas que corren juntas,Segways desbocados,senadores estatales,pizzas demasiado profundas,trabajadores de carnaval,salvavidas,vendedores de perritos calientes",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un mes después de denunciar públicamente “<BLANK>”, el concejal de Chicago Howard Brookins resulto gravemente herido en un accidente causado por uno.",
+            "v": "Un mes después de denunciar públicamente a “<BLANK>”, el concejal de Chicago Howard Brookins resultó gravemente herido en un accidente causado por uno de los denunciados.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "squirrels,squirrel,an aggressive squirrel,aggressive squirrel,a squirrel",
+            "v": "ardillas,ardilla,una ardilla agresiva,ardilla agresiva,una ardilla",
             "n": "AlternateSpellings"
         },
         {

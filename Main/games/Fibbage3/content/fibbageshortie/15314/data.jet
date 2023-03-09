@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "limpio,perder una apuesta,dormir,usar una marioneta,hacer magia,bañarse,aplaudir,estornudar,vomitar,montar un cerdo,chocar los cinco,tocar el violín,hacer malabares,ser un maleducado,caer,convertirse en animal,llorar,caer en una pileta",
+            "v": "limpio,perder una apuesta,dormir,usar un títere,hacer magia,bañarse,aplaudir,estornudar,vomitar,montar un cerdo,chocar los cinco,tocar el violín,hacer malabares,ser un maleducado,caerse,convertirse en animal,llorar,caerse en una piscina",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "devorado,consumido,canibalizado",
+            "v": "devorado,consumido,canibalizado,ser devorado,ser consumido,ser canibalizado",
             "n": "AlternateSpellings"
         },
         {

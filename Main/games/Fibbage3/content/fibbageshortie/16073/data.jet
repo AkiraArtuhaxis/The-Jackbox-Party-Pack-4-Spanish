@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "strip naked,throw pies,sing “The Star-Spangled Banner”,kiss people,eat,lasso sheep,wave,break bottles,dance,hunt deer,read his poetry,teach yoga,perform stand-up,shave his beard,die,eat a goldfish,draw caricatures,mud wrestle",
+            "v": "se desnude,tire tartas,cante el himno nacional,bese personas,coma,lace ovejas,salude,rompa botellas,baile,cace ciervos,lea su poesía,enseñe yoga,cuente chistes,se afeite la barba,muera,se coma un pez dorado,dibuje caricaturas,luche en el lodo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Longview, Texas le pagó una vez a Ted Nugent más de 16.000 dólares para que <BLANK> en su celebración del Día de la Independencia de los Estados Unidos.",
+            "v": "La ciudad de Longview, Texas, le pagó una vez a Ted Nugent más de 16.000 dólares para que <BLANK> en su celebración del Día de la Independencia de EE. UU.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "not play,not show up,not sing",
+            "v": "no toque,no vaya,no cante,no actuara",
             "n": "AlternateSpellings"
         },
         {

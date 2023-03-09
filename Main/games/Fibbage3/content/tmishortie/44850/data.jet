@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "El caballero de la noche,Toy Story,Volver al futuro,Tío Buck al rescate,Star Wars,El señor de los anillos,Ciudadano Kane",
+            "v": "Batman: El caballero de la noche,Toy Story,Volver al futuro,Harry Potter,La guerra de las galaxias,El señor de los anillos,Ciudadano Kane",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Una película que todo el mundo adora pero tú odias es <BLANK>.",
+            "v": "La película que todos aman pero tú odias es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una película que todo el mundo adora pero <PLAYER> odia es <i><BLANK><\/i>.",
+            "v": "La película que todos aman pero <PLAYER> odia es <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una película que todo el mundo adora pero éste jugador odia es <BLANK>.",
+            "s": "[category=host]The movie that everyone loves but this player hates is <BLANK>.",
             "t": "A",
             "v": "599132_0",
             "n": "QuestionAudio"

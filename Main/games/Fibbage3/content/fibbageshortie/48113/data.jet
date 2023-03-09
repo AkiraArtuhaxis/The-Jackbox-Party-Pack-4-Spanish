@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "talk about the aliens,sell their life stories,joke about France,start a new business,use an iPhone,eat seafood,mountain climb,have more children,enter the lottery,make their own pizza dough,live outside the U.S.,watch CBS,unsubscribe from the CIA newsletter,get remarried,go snowboarding,play Batman in a movie,experience joy,watch Family Matters",
+            "v": "hablar de los extraterrestres,vender sus historias de vida,bromear sobre Francia,empezar un nuevo negocio,usar un iPhone,comer mariscos,escalar montañas,tener más hijos,apostar en la lotería,hacer su propia masa de pizza,vivir fuera de EE. UU.,ver Fox,darse de baja del boletín de la CIA,volver a casarse,hacer snowboard,interpretar a Batman en una película,experimentar la alegría,ver Matrimonio con hijos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En febrero de 2014, el vicepresidente Joe Biden dijo que había “una razón contundente para no presentarse a la presidencia”. Estaba haciendo referencia al hecho de que, durante el resto de sus vidas, los presidentes estadounidenses se les prohíbe <BLANK>.",
+            "v": "En febrero de 2014, el vicepresidente Joe Biden dijo que había “una razón contundente para no presentarse a la presidencia”. Estaba haciendo referencia al hecho de que, durante el resto de sus vidas, a los presidentes estadounidenses se les prohíbe <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "drive cars,drive on roads,drive on public roads,operate a car",
+            "v": "conducir autos,conducir en caminos,conducir en caminos públicos,usar un auto,conducir coches,conducir en carreteras,conducir en carreteras públicas,usar un coche",
             "n": "AlternateSpellings"
         },
         {

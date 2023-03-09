@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "public executioner,sniper,pro wrestler,assassin,pimp,Betty White impersonator,seal clubber,prison guard,bodyguard,grave digger,puppeteer,crab fisherman,bootlegger,nuclear physicist,erotic sculptor,jazz musician,bird watcher,hot air balloonist",
+            "v": "verdugo público,francotiradora,luchadora profesional,asesina,proxeneta,imitadora de Betty White,miembro de un club de focas,guardia de prisiones,guardaespaldas,sepulturera,titiritera,pescadora de cangrejos,contrabandista,física nuclear,escultora erótica,música de jazz,observadora de aves,aeronauta",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "La Marina",
+            "v": "de la Marina",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Aunque no le gusta hablar al respecto, Bea Arthur, la estrella de <i>Los años dorados<\/i>, paso más de dos años de sus 20 en <BLANK>.",
+            "v": "Aunque no le gusta hablar al respecto, Bea Arthur, la estrella de <i>Los años dorados<\/i>, en sus 20 pasó más de dos años siendo <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "US Marine,U.S. Marine,member of the marines",
+            "v": "Marina de EE. UU.,Marina de EEUU,miembro de la marina",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pinkie toe,soul,lips,babies,socks,bellybutton lint,fingernail clippings,spit,deodorant,high school essay,hair brush,trash,voice,tears,removed mole,bbq rub,bath water,apricot preserves",
+            "v": "un meñique,el alma,los labios,los bebés,los calcetines,la pelusa del ombligo,unas uñas cortadas,un escupo,un desodorante,el ensayo de la escuela secundaria,el cepillo para el pelo,la basura,la voz,unas lágrimas,una verruga extraída,un aliño para barbacoa,el agua del baño,unas conservas de fruta",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "breath",
+            "v": "el aliento",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El casino online GoldenPalace.com pagó $523 dólares en eBay por un frasco que contenía el/la <BLANK> de Angelina Jolie.",
+            "v": "El casino de internet, GoldenPalace.com, pagó 523 dólares en eBay por un frasco que contenía <BLANK> de Angelina Jolie.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "breathe,air",
+            "v": "aliento,respiracion,respiración,la respiración,la respiracion,aire,el aire",
             "n": "AlternateSpellings"
         },
         {

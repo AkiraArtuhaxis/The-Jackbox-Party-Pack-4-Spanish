@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Hated it,Saw it first,Sold out the theater,Vomited,watched the entire thing,Could quote the whole thing,Could make a better film,held an advanced screening,Got married at a screening,Screened it at a wedding,Saw it on Halloween,became a vampire,saw a ghost,killed a werewolf,cursed the film,boycotted the film,wore a skeleton costume,could guess the ending",
+            "v": "la odie,la vea primero,agotara las entradas,vomite,la vea entera,pudiera citarla entera,pudiera hacer una película mejor,hiciera una proyección anticipada,se case en una proyección,la proyecte en una boda,la vea en Halloween,se convierta en vampiro,vea un fantasma,matara un hombre lobo,maldijera la película,boicoteara la película,usara un disfraz de esqueleto,adivinara el final",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Muriera de miedo",
+            "v": "muriera de miedo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El director William Castle publicitó su película <i>Macabro<\/i> ofreciendo 1000 dólares a cualquiera en el público que <BLANK>.",
+            "v": "El director William Castle publicitó su película <i>Macabro<\/i> ofreciendo 1.000 dólares a cualquier espectador que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Died,Dyed,Died of frite,the movie killed,died while watching it,died of feer",
+            "v": "muriera,muera,muriera de susto,matara la película,muera viéndola,muera de miedo",
             "n": "AlternateSpellings"
         },
         {

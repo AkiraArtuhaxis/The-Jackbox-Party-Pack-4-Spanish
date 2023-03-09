@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "tampones al mayorista,crema para la pérdida de cabello,condones,crema para hemorroides,wart remover,pañales para adulto,tratamiento para piojos",
+            "v": "tampones al por mayor,crema para la pérdida de cabello,condones,crema para hemorroides,eliminador de verrugas,pañales para adulto,tratamiento para piojos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es la compra más embarazosa que tuviste que hacer en persona?",
+            "v": "¿Cuál es la compra más vergonzosa que tuviste que hacer en persona?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La compra más embarazosa que <PLAYER> tuvo que hacer en persona fue <BLANK>.",
+            "v": "La compra más vergonzosa que <PLAYER> tuvo que hacer en persona fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La compra más embarazosa que <PLAYER> tuvo que hacer en persona fue <BLANK>",
+            "s": "[category=host]The most embarrassing purchase <PLAYER> has had to make in person was <BLANK>",
             "t": "A",
             "v": "694198_0",
             "n": "QuestionAudio"

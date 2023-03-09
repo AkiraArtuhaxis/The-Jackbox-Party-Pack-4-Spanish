@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "comerte las uñas,llegar tarde a todos lados,interrumpir,pedorrearte tanto,ponerse a cantar,trasnochar comiendo,robar a mano armada",
+            "v": "comerse las uñas,llegar tarde,interrumpir,pedorrearse tanto,ponerse a cantar,trasnochar comiendo,robar a mano armada",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "El hábito que más te gustaría poder dejar es <BLANK>.",
+            "v": "Un hábito tuyo que más te gustaría poder dejar es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El hábito que a <PLAYER> más le gustaría dejar es <BLANK>.",
+            "v": "Un hábito de <PLAYER> que más le gustaría poder dejar es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El hábito que a éste jugador más le gustaría dejar es <BLANK>.",
+            "s": "[category=host]The habit this player would most like to give up is <BLANK>.",
             "t": "A",
             "v": "599574_0",
             "n": "QuestionAudio"

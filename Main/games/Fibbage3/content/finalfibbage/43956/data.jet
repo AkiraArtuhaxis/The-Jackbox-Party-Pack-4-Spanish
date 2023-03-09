@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "kissed|children,imitated|police sirens,robbed|banks,stole|socks,pooped on|jewelry,mated with|mailboxes,flew up|butts,attacked|cats,drank|beer,mocked|mayor,chewed through|cable TV,used|credit cards,seduced|young men,granted|wishes,corrected|grammar,interrupted|TV shows,took over|minds,hypnotized|snakes",
+            "v": "besaron a|hijos,imitaron a|sirenas policiales,robaron|bancos,robaron|calcetines,se cagaron en|joyas,se aparearon con|sus buzones de correo,volaron por|traseros,atacaron a|gatos,se bebieron|cervezas,se burlaron de|representantes políticos,picaron|cables de TV,usaron|tarjetas de crédito,sedujeron a|jóvenes,concedieron|deseos,corrigieron|faltas de ortografía,interrumpieron|programas de TV,se apoderaron de|mentes,hipnotizaron a|serpientes",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "comieron|opio",
+            "v": "comieron|opios",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2015, la gente de Chittorgarh, la India se enfrentó a un gran problema. Según los locales, los loros se abalanzaron y <BLANK> su <BLANK>.",
+            "v": "En 2015, la gente de Chittorgarh, India, se enfrentó a un gran problema. Según los lugareños, los loros se abalanzaron y <BLANK> sus <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ate|weed,stole|opium,stole|weed,ate|poppys,ate|poppies,stole|poppies,stole|poppies",
+            "v": "comieron|marihuana,robaron|opios,robaron|marihuana,comieron|adormideras,robaron|adormideras",
             "n": "AlternateSpellings"
         },
         {

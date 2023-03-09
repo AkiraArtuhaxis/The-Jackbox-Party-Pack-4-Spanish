@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "circus bear,inflatable doll,skeleton,turkey,screen door,ping pong table,basketball hoop,trampoline,baby elephant,belly dancer,ballet,kaleidoscope periscope,whiskey still,palm tree,tanning bed,phonograph,disco ball,pet dolphin",
+            "v": "un oso de circo,una muñeca inflable,un esqueleto,un pavo,una puerta de mosquitera,una mesa de tenis de mesa,una canasta de baloncesto,una cama elástica,un elefante bebé,una bailarina de danza del vientre,un ballet,un periscopio caleidoscopio,un alambique de whisky,una palmera,una cama de bronceado,un fonógrafo,una bola de discoteca,un delfín mascota",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "reno",
+            "v": "un reno",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante la Segunda Guerra Mundial, la tripulación británica del HMS Trident recibió un inesperado regalo de su almirante ruso. Les consiguió un <BLANK> para su submarino.",
+            "v": "Durante la Segunda Guerra Mundial, la tripulación británica del HMS Trident recibió un inesperado regalo de un almirante ruso. Les obsequió <BLANK> para su submarino.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pet reindeer,raindeer",
+            "v": "un reno mascota,reno",
             "n": "AlternateSpellings"
         },
         {

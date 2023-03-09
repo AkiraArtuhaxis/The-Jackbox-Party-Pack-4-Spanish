@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Qué es lo más impresionante que has construido o ensamblado?",
+            "v": "¿Qué es lo más impresionante que has construido o armado?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Lo más impresionante que <PLAYER> ha construido o ensamblado fue <BLANK>.",
+            "v": "Lo más impresionante que <PLAYER> ha construido o armado fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Lo más impresionante que <PLAYER> ha construido o ensamblado fue <BLANK>.",
+            "s": "[category=host]The most impressive thing <PLAYER> has ever built or assembled was <BLANK>",
             "t": "A",
             "v": "687801_0",
             "n": "QuestionAudio"

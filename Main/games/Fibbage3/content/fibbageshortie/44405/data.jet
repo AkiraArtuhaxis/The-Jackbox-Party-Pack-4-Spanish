@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "tooth,nudity,squid,toilet,leftover pizza,Angry Birds,briefcase,booger,spitting,cream cheese,enema,toe nail,wooden pencil,Arkansas,neck beard,hair gel,birthday,appreciation",
+            "v": "dientes,desnudez,calamar,inodoros,restos de pizza,Angry Birds,maletines,mocos,escupos,queso crema,enema,uñas del pie,lápices de madera,Arkansas,barba,gel para el cabello,cumpleaños,agradecimiento",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Virus",
+            "v": "virus",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si tu cumpleaños cae el 3 de octubre, ¡felicidades! Tu día especial también es conocido como el Día de Apreciación de <BLANK>.",
+            "v": "Si estás de cumpleaños el 3 de octubre, ¡felicidades! Tu día especial también es conocido como el día para apreciar <BLANK>.",
             "n": "QuestionText"
         },
         {

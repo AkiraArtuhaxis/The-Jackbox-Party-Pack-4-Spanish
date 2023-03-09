@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "scorpions,hot peppers,poop,razor blades,microscopic robots,firecrackers,jumping beans,tapeworms,poisonous snakes,steroids,mercury,ritalin,human flesh,body hair,dog food,booze,uranium,tiny frogs",
+            "v": "escorpiones,pimientos picantes,caca,hojas de afeitar,robots microscópicos,petardos,porotos saltarines,lombrices solitarias,serpientes venenosas,esteroides,mercurio,ritalin,carne humana,vello corporal,comida de perro,licor,uranio,sapitos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2011, se descubrió que espías británicos en la Segunda Guerra Mundial habían formulado un plan para derrotar a Hitler colocando en secreto <BLANK> en su comida.",
+            "v": "En 2011, se descubrió que los espías británicos de la Segunda Guerra Mundial formularon un plan para derrotar a Hitler colocando <BLANK> en su comida.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "hormones,female hormones",
+            "v": "hormonas,estrogeno,hormonas femeninas",
             "n": "AlternateSpellings"
         },
         {

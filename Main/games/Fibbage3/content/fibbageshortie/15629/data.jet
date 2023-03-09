@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a goldfish,paper towels,Drano,a NuvaRing,scissors,vomiting pills,magnets,diapers,a kitten,Men’s Fitness magazines,a lipsuction machine,magic beans,gum,leeches,maple syrup,a black hole,a Dirt Devil,Spanx",
+            "v": "un pez dorado,una toalla de papel,un destapacañerías,un preservativo femenino,unas tijeras,un paquete de píldoras para vomitar,imanes,pañales,un gato,revistas de fisicoculturismo masculino,una máquina de liposucción,judías mágicas,chicle,sanguijuelas,jarabe de arce,un agujero negro,un Demonio de Tierra,pantimedias",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "gusano intestinal",
+            "v": "una lombriz solitaria",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Departamento de Salud Pública de Iowa emitió un aviso de advertencia después de que una mujer intentó perder peso usando un/una <BLANK> que compró en internet.",
+            "v": "El Departamento de Salud Pública de Iowa emitió una advertencia después de que una mujer intentara perder peso con <BLANK> que compró en internet.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tapeworm,tapeworms",
+            "v": "un gusano intestinal,gusanos intestinales,una tenia, una solitaria,lombriz solitaria,tenia,solitaria",
             "n": "AlternateSpellings"
         },
         {

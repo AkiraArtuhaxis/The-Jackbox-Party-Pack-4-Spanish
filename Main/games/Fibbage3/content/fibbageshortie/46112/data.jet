@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cooking,clown,stand-up,dance,massage therapy,ac repair,telepathy,physics,reiki healing,dressage,horse riding,sandwich artist,Lamaze,benedict cumberbatch,seminary,pasta making,computer programming,astronomy",
+            "v": "cocina,payaso,comedia,danza,terapia de masaje,reparación de aire acondicionado,telepatía,física,curación de reiki,doma,equitación,artista de sándwiches,rockeros,Benedict Cumberbatch,seminario,preparación de pasta,programación informática,astronomía",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Natalie Elizabeth Weiss quiere darle a tu recién nacido una habilidad inusual, razón por la que fundó la Escuela para Bebés <BLANK>.",
+            "v": "Natalie Elizabeth Weiss quiere darle a tu recién nacido una habilidad fuera de lo común, razón por la que fundó la Escuela de <BLANK> para bebés.",
             "n": "QuestionText"
         },
         {

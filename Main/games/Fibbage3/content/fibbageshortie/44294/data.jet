@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "four halfpence,a ghost,a pound of meat,an orphan,a bowtie,a sandwich,an opera mask,a brightly colored wig,a trombone,a bicycle,penicillin,a dead body,a turnip,an equally exotic animal,a gun,a rare diamond,your A-game,a funny hat",
+            "v": "cuatro medio peniques,un fantasma,un kilo de carne,un huérfano,un corbatín,un sándwich,una máscara de ópera,una peluca de colores brillantes,un trombón,una bicicleta,penicilina,un cadáver,un nabo,un animal exótico,una pistola,un diamante raro,tu mejor juego,un sombrero gracioso",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante el siglo XVIII, la admisión para ver los animales exóticos en la Ménagerie Real de Londres costaba 3 medio peniques. Pero podías pasar gratis simplemente llevando <BLANK>.",
+            "v": "Durante el siglo XVIII, la entrada para ver los animales exóticos en la Ménagerie Real de Londres costaba 3 medio peniques. Pero podías pasar gratis simplemente llevando <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "dog,dogs,a cat,cats,cat",
+            "v": "perro,perros,un gato,gatos,gato",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "DY-NO-MITE,spaceship,Where’s the beef?,selfie,restaurant,pumpkin,calzone,relish,Clint Eastwood,mercury,president,spaghetti,pumpernickel,platypus,Coca Cola,tambourine,Florida,Bologna",
+            "v": "DI-NO-MITA,nave espacial,Aunque usted no lo crea,selfie,restaurante,calabaza,pizza,saborear,Clint Eastwood,mercurio,presidente,espaguetis,pan integral,ornitorrinco,Coca-Cola,pandereta,Florida,Bolonia",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, <i>The Dallas Morning News<\/i> se disculpó por un error ortográfico que cometieron 40 años atrás. En 1977, el diario escribió mal “<BLANK>”.",
+            "v": "En 2017, <i>The Dallas Morning News<\/i> se disculpó por un error ortográfico que cometió 40 años antes. En 1977, el diario escribió mal “<BLANK>”.",
             "n": "QuestionText"
         },
         {

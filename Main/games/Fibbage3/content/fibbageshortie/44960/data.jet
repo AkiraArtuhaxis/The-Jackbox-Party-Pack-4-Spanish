@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "My food,the justice,your dignity,the flavor,that whopper been,Gary,the nearest Burger King,the MSG,Mr. Juicy,the extra cheese,the chicken,Wendy’s getting all these great ideas,the bacon,the value,your family,the flame-broiled goodness,the bread,the smile",
+            "v": "mi comida,la justicia,tu dignidad,el sabor,esa hamburguesa,Gary,el Burger King más cercano,el glutamato,el Sr. Jugoso,el queso extra,el pollo,la persona de las ideas geniales de Wendy's,el tocino,el valor,tu familia,la bondad a la parrilla,el pan,la sonrisa",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Luego de la popular campaña ‘¿Dónde está la carne?’ de Wendy's, Burger King lanzó para competir su propia campaña llamada “¿Dónde está <BLANK>?”",
+            "v": "Tras la popularidad de la campaña \"¿Dónde está la carne?\" de Wendy's, Burger King lanzó una campaña competidora llamada \"¿Dónde está <BLANK>?\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Herb,Where’s Herb?,Herb the Nerd,Wheres Herb?,Herb?,Nerd?,The Nerd?",
+            "v": "Herb,¿Dónde está Herb?,Herb el nerd,¿Donde está Herb?,¿Donde esta Herb?,¿Dónde esta Herb?,¿Herb?,¿Nerd?,¿El nerd?",
             "n": "AlternateSpellings"
         },
         {

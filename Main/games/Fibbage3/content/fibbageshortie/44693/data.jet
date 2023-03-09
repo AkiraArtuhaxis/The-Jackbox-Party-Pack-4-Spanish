@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Otis Redding,cheese deprivation,reading poetry,video games,online porn,too much sex,eating chili,cheap booze,the plague,having children,scary movies,being watched,living in filth,watching Pixar,speaking French,waking up early,wearing condoms,compliments",
+            "v": "escuchar R&B,la privación de queso,leer poesía,los videojuegos,el porno en línea,demasiado sexo,comer ají,alcohol barato,la peste,tener hijos,películas de miedo,ser observado,vivir en la suciedad,ver Pixar,hablar francés,levantarse temprano,usar condones,cumplidos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "llevar pantalones",
+            "v": "usar pantalones",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1993, Ahmed Shafik realizó un experimento sobre cómo la vida sexual de las ratas se ve afectada al <BLANK>.",
+            "v": "En 1993, Ahmed Shafik realizó un experimento sobre cómo la vida sexual de las ratas se ve afectada con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pants",
+            "v": "pantalones",
             "n": "AlternateSpellings"
         },
         {

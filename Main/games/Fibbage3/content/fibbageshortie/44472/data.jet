@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "The Bible,The Young and the Restless,a KFC ad campaign,Bozo the Clown,The Encyclopedia,The Sane Mime Group,Moby Dick,Eat Pray Love,The Great Gatsby,Jerry Seinfeld’s memoirs,a cereal box,The Simpsons,IT,Barnum & Bailey,Grey’s Anatomy,The Magna Carta,JAG,Pee Wee’s Big Adventure",
+            "v": "La biblia,Friends,una campaña publicitaria de KFC,Bozo el Payaso,La enciclopedia,un mimo,Moby Dick,Comer rezar amar,El gran Gatsby,las memorias de Jerry Seinfeld,una caja de cereales,Los Simpson,IT,un circo,Anatomía según Grey,La Carta Magna,JAG: Justicia Militar,Pinocho",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La banda Insane Clown Posse fue demandada en 2017 por supuestamente plagiar a <i><BLANK><\/i>.",
+            "v": "La banda Insane Clown Posse fue demandada en 2017 por un supuesto plagio de <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Chicken Soup for the Sole,Chicken Soup",
+            "v": "Sopa de Pollo para el Halma,Sopa de Pollo",
             "n": "AlternateSpellings"
         },
         {

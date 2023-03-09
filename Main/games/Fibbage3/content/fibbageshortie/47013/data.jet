@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fall asleep,name all the world capitals,guess the guards’ life stories,make a new guard laugh,ruin a party,sing all of H.M.S. Pinafore,explain the ending of Inception,memorize a deck of cards,drink a gallon of milk,learn a piano piece,jimmy the lock,offend a visitor,write a pop hit,tidy up his cell,make you feel guilty for imprisoning him,find a way to bring up Bush,convince you chemtrails are real,hack into the prison computer",
+            "v": "quedarse dormido,nombrar todas las capitales del mundo,adivinar las historias de vida de los guardias,hacer reír a un guardia nuevo,arruinar una fiesta,cantar todo El mago de Oz,explicar el final de Evangelion,memorizar una baraja de cartas,beber 7 litros de leche,aprender una canción de piano,desbloquear la cerradura,ofender a un visitante,escribir un éxito pop,ordenar su celda,hacer que te sientas culpable por encarcelarlo,encontrar una manera de sacar a relucir a Bush,convencerte de que los estelas químicas son reales,hackear el computador de la prisión",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un artículo de <i>GQ<\/i> de 2005 sobre Saddam Hussein, uno de los soldados que vigilaba su celda afirmó que Hussein podía <BLANK> en 10 minutos.",
+            "v": "En un artículo de <i>GQ<\/i> de 2005 sobre Sadam Huseín, uno de los soldados que vigilaba su celda afirmó que Huseín podía <BLANK> en 10 minutos.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "eat a bag of Doritos,finish a bag of Doritos,eat Doritos,eat a whole bag of Doritos,finish a whole Doritos bag",
+            "v": "comer una bolsa de Doritos,terminar una bolsa de Doritos,comer Doritos,comer una bolsa completa de Doritos,terminar una bolsa completa de Doritos",
             "n": "AlternateSpellings"
         },
         {

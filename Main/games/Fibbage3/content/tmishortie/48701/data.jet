@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Cuál fue la mejor parte de tus últimas vacaciones?",
+            "v": "¿Qué fue lo mejor de tus últimas vacaciones?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Lo mejor en las últimas vacaciones de <PLAYER> fue <BLANK>.",
+            "v": "Lo mejor de las últimas vacaciones de <PLAYER> fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Lo mejor de las últimas vacaciones de <PLAYER> fue <BLANK>",
+            "s": "[category=host]The highlight of <PLAYER>’s last vacation was <BLANK>",
             "t": "A",
             "v": "694902_1",
             "n": "QuestionAudio"

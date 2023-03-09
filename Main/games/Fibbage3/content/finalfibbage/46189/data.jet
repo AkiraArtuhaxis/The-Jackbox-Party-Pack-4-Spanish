@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eating nachos|a bathroom stall,getting chocolate|the peanut butter,puking|a cowboy hat,speaking|French,dancing|church,coughing|the school lunch,swearing|a slam poetry contest,leaving the house|that outfit,selling dream catchers|the parking lot,raising his hand|study hall,smoking|the teacher’s lounge,hunting|the off-season,speaking truth|The Man’s face,committing treason|home room,releasing crows|English class,doing close up magic|history class,winning his teacher’s money|craps,taking a puppy|the pool",
+            "v": "comer nachos|un baño,poner chocolate|la mantequilla de maní,vomitar|un sombrero de vaquero,hablar|francés,bailar|la iglesia,toser|el almuerzo de la escuela,maldecir|un concurso de poesía,salir de su casa|el peor traje,vender atrapasueños|el estacionamiento,levantar la mano|la sala de estudio,fumar|la sala de profesores,cazar|temporada de no caza,decir la verdad|la cara del director,cometer traición|la sala,soltar cuervos|la clase de lenguaje,hacer magia de cerca|la clase de historia,ganar el dinero de su profesor|el póquer,meter un cachorro|la piscina",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "burping|class,belching|class,fake burping|class,fake belching|in class,belching|gym class,fake burping|gym class,fake belching|gym class,belching|gym class",
+            "v": "eructar|clases,eructos|clases,fingir eructos|clases,fingir eructar|clases,eructo|clase de gimnasia",
             "n": "AlternateSpellings"
         },
         {

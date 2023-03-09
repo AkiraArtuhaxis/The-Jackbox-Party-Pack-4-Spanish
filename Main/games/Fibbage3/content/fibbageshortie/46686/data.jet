@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "vinyl collection,tank top,“Get into Heaven” coupon book,World of Warcraft account,vacation photos,pet monkey,Super Bowl tickets,workout socks,wooden leg,brisket recipe,recliner,DNA,pope mobile,velcro shoes,pokemon card collection,Walgreens rewards card,beanie babies,Tom Hanks autograph collection",
+            "v": "colección de vinilos,camiseta sin mangas,talonario de cupones \"Entra al cielo\",cuenta de World of Warcraft,álbum de fotos de vacaciones,mono mascota,entrada para el Super Tazón,par de calcetines de entrenamiento,pata de palo,receta de carne asada,sillón reclinable,ADN,papamóvil,zapatos de velcro,colección de cartas de Pokémon,colección de barras de oro,oso de peluche,colección de autógrafos de Tom Hanks",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Motocicleta",
+            "v": "motocicleta",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Papa Francisco recaudó 327 mil dólares para caridad en 2014 cuando subastó su/s <BLANK>.",
+            "v": "El Papa Francisco recaudó $327.000 dólares para caridad en 2014 cuando subastó su <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Harley Davidson,motorcycle,bike",
+            "v": "Harley Davidson,moto,Motocicleta,Moto",
             "n": "AlternateSpellings"
         },
         {

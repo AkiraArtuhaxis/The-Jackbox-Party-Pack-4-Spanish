@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "tacos,Burger King,medallones de papa,carne asada,filét de pescado,pepinillos,hamburguesas Paty",
+            "v": "tacos,Burger King,medallones de papa,carne asada,filete de pescado,pepinillos,papas fritas",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Tu ultima comida sería sin lugar a dudas <BLANK>.",
+            "v": "Tu última cena sería sin lugar a dudas <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La última comida de <PLAYER> sería sin lugar a dudas <BLANK>.",
+            "v": "La última cena de <PLAYER> sería sin lugar a dudas <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La última comida de éste jugador sería sin lugar a dudas <BLANK>.",
+            "s": "[category=host]This player’s last meal would definitely be <BLANK>.",
             "t": "A",
             "v": "567490_0",
             "n": "QuestionAudio"

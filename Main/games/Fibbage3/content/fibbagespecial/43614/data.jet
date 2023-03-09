@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "apartment,loneliness,desert,bachelor,isolation,mini-chainsaw,IKEA,auto-grooming,personal home,mountain air,Grand Canyon,smell-o-rama,homesick,handsomness,hotel,pretty prickly,movie theater,total dork",
+            "v": "departamento,soledad,desierto,de soltero,aislamiento,mini motosierra,IKEA,auto-aseo,casa personal,aire de montaña,Gran Cañón,olorama,nostalgia,guapura,hotel,bastante espinoso,cine,idiota total",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Aquí tenemos un invento del candidato para patente Waldemar Anguita. Es el revolucionario casco <BLANK>.",
+            "v": "Aquí tenemos un invento del candidato para patente Waldemar Anguita. Se trata del revolucionario casco <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "green house",
+            "v": "vivero,invernáculo",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "mi hermana,dos perros,la clase de gimnasia del colegio,un sánguche,una bomba de baño casera,que cortaran el agua en mi edificio,Ray Wise",
+            "v": "mi hermana,dos perros,la clase de gimnasia del colegio,un sándwich,una bomba de baño casera,que cortaran el agua en mi edificio,Arnold Schwarzenegger",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Una de tus más extrañas experiencias bañándote involucró <BLANK>.",
+            "v": "Una de tus experiencias más extrañas bañándote involucró a <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las más extrañas experiencias bañándose de <PLAYER> involucró <BLANK>.",
+            "v": "Una de las experiencias más extrañas bañándose de <PLAYER> involucró a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una de las más extrañas experiencias bañándose de <PLAYER> involucró <BLANK>.",
+            "s": "[category=host]One of <PLAYER>’s strangest bathing experiences involved <BLANK>.",
             "t": "A",
             "v": "615641_0",
             "n": "QuestionAudio"

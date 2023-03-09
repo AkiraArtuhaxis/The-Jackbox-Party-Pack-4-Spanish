@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Fingerpainting Expo,Ice Festival,Civil War Reenactments,Chess Tournament,Petting Zoo,Peace Parade,ice cream shop,Accordion Concert,theme park,Hackathon,drive-in theater,Enchantment Under the Sea Dance,swimming pool,Bake Off,racetrack,Hygiene Fair,art museum,Fashion Show",
+            "v": "la exposición de pintura de dedos,el festival de hielo,las recreaciones de la Guerra Civil,el campeonato de ajedrez,el zoológico interactivo,el desfile de paz,la tienda de helados,el concierto de acordeón,el parque de atracciones,el hackatón,el autocine,el baile del Encanto bajo el océano,la piscina,la competencia de cocina,el hipódromo,la feria de la higiene,el museo de arte,el desfile de moda",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "rodeo",
+            "v": "el rodeo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Todos los domingos de octubre en la Penitenciaria del Estado de Louisiana, los niños de dos años o menores entran gratis al <BLANK> de la Prisión Angola.",
+            "v": "Todos los domingos de octubre en la Penitenciaría Estatal de Luisiana, los niños de dos años o menos entran gratis a <BLANK> de la prisión.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "compararme con otros,cargar gasoil,construir mal un mueble,derramar vino en la alfombra,confiar en los demás,no pedir suficiente pizza,usar la pintura equivocada",
+            "v": "compararme con otros,creer que Nirvana dará un concierto,construir mal un mueble,derramar vino en la alfombra,confiar en los demás,no pedir suficiente pizza,usar la pintura equivocada",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El error más estúpido que <PLAYER> ha cometido en este último año fue <BLANK>.",
+            "s": "[category=host]The dumbest mistake <PLAYER> has made in the last year was <BLANK>.",
             "t": "A",
             "v": "692412_0",
             "n": "QuestionAudio"

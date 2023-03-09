@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Tailandia,El baño,Nepal,Tokio,Buenos Aires,Disney World,El espacio",
+            "v": "Tailandia,el baño,Nepal,Tokio,Santiago,Disney World,el espacio",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un lugar que le encantaría visitar a éste jugador es <BLANK>.",
+            "s": "[category=host]A place this player would love to visit is <BLANK>.",
             "t": "A",
             "v": "599045_0",
             "n": "QuestionAudio"

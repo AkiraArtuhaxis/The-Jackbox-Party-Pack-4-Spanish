@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "en una camioneta abandonada,en un baño de estación de servicio,un vestidor de Levis,Yellowstone,en una estación de colectivo en Amsterdam,en un buque de carga hacia Tunisia,el techo de un Burger King",
+            "v": "en una camioneta abandonada,en un baño de estación de servicio,un vestidor de Levis,Yellowstone,en una estación de buses en Ámsterdam,en un buque de carga hacia Túnez,el techo de un Burger King",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es el lugar más extraño en donde has dormido?",
+            "v": "¿Cuál es el lugar más raro donde has dormido?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El lugar más extraño en el que <PLAYER> ha dormido es <BLANK>.",
+            "v": "El lugar más raro en el que <PLAYER> ha dormido es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El lugar más extraño en el que <PLAYER> ha dormido es <BLANK>.",
+            "s": "[category=host]The weirdest place <PLAYER> has slept is <BLANK>.",
             "t": "A",
             "v": "692286_0",
             "n": "QuestionAudio"

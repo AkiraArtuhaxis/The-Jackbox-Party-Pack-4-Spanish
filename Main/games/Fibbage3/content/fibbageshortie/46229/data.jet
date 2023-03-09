@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "France,Warren G. Harding’s house,the Oval Office bathroom,a Quizno’s,a school in rural Montana,the middle of the desert,a women’s restroom,Charlie Chaplin’s film studio,the Lincoln bedroom,a nuclear bunker,the bottom of a quarry,an underwater cave,behind a big tree,the back of a pickup truck,the Canadian embassy,Joseph Pulitzer’s backyard,a public pool,the inside of a volcano",
+            "v": "Francia,la casa de Warren G. Harding,el baño del Despacho Oval,un McDonald's,una escuela rural de Montana,el medio del desierto,un baño de mujeres,el estudio de cine de Charlie Chaplin,el dormitorio de Lincoln,un búnker nuclear,el fondo de una cantera,una cueva submarina,atrás de un árbol gigante,la parte trasera de una camioneta,la embajada de Canadá,el patio trasero de Joseph Pulitzer,una piscina pública,el interior de un volcán",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1921, una estatua que conmemora el voto femenino fue revelada en la rotonda del Capitolio estadounidense. Al día siguiente, el Congreso tomó la extraña decisión de trasladarlo hacia <BLANK>.",
+            "v": "En 1921, se inauguró una estatua conmemorativa del sufragio femenino en la Rotonda del Capitolio estadounidense. Al día siguiente, el Congreso tomó la extraña decisión de trasladarla hacia <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the crypt,a basement,underground,a broom closet,the broom closet",
+            "v": "la cripta,un sótano,el subsuelo,el subterráneo,una sala de limpieza,la sala de limpieza",
             "n": "AlternateSpellings"
         },
         {

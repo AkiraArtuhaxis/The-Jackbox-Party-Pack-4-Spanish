@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "kiss|a bench,poop|a lunch tray,jump|some trashcans,pray|a dead yak,skip|trash,sunbathe|an abandoned mall,sing|skateboards,ski|mud mountain,vomit|interns,fight|a landfill,shoot skeet|a submarine,grill burgers|a running car engine,throw darts|iceskates,get drunk|a game show,yell obscenities|a school bus,read poetry|Lenin’s grave,make wine|an abandoned nuclear reactor,flex|a dead bear",
+            "v": "besan|un banquillo,defecan|una bandeja de comida,saltan|basureros,le rezan|a un yak muerto,saltan|la basura,toman sol|un centro comercial abandonado,cantan|patinetas,esquian|una montaña de lodo,vomitan|los practicantes,pelean|un vertedero,disparan al plato|un submarino,asan hamburguesas|un motor de auto funcionando,tiran dardos|patines de hielo,se emborrachan|un programa de juegos,gritan obscenidades|un autobús escolar,leen poesía|la tumba de Lenin,hacen vino|un reactor nuclear abandonado,hacen flexiones|un oso muerto",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los astronautas que salen de Baikonur Cosmodrome en Kazakhstán tienen un ritual raro. Antes de abordar, ellos <BLANK> en <BLANK>.",
+            "v": "Los astronautas que salen del Cosmódromo de Baikonur en Kazajistán tienen un ritual raro. Antes de abordar, ellos <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pee|a tire,urinate|a bus tire,urinate|a tire,pee|a tire",
+            "v": "orinan|una llanta,mean|una llanta de autobús,mean|una llanta",
             "n": "AlternateSpellings"
         },
         {

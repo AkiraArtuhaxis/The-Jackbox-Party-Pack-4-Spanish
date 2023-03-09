@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "strawberry jam,boiled eggs,rulers,keys,branches,cereal,Blurays,spiders,beer,reggae,gum,splenda,compressed air,porcelain dolls,spanish doubloons,character actor Walter Brennan,sweaty socks,mint leaves",
+            "v": "mermelada de frutilla,huevos duros,reglas,llaves,ramas,cereales,BluRays,arañas,cerveza,reggae,chicle,azúcar,aire comprimido,muñecas de porcelana,doblones españoles,al actor Walter Brennan,calcetines sudados,hojas de menta",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En respuesta a los supuestos beneficios para la salud de cierto mito, Dr. Jen Gunter advirtió a las mujeres en mayo de 2017 que no pongan <BLANK> en sus vaginas.",
+            "v": "En respuesta a los supuestos beneficios para la salud de cierto mito, la Dra. Jen Gunter advirtió a las mujeres en mayo de 2017 que no pongan <BLANK> en sus vaginas.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "wasp nests,wasps nest,wasps nests,wasp hive,wasp hives,a wasp nest,oak gals,wasp galls,galls",
+            "v": "nidos de avispas,nido de avispa,nido de avispas,colmena de avispas,colmenas de avispa,colmena de avispa,colmenas de avispas,un nido de avispa,un nido de avispas,una colmena de avispa,una colmena de avispas,gallarita,gallaritas,gallaruto,gallarutos",
             "n": "AlternateSpellings"
         },
         {

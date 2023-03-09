@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "your birthdays,two planets,by Dave Matthews,Greg and David,parked cars,continents,slow dancers,paragraphs,your ears,the bathroom and the kitchen,sentences,guys at the movies,dairy and non-dairy products,your large and small intestines,front teeth,cheese slices,raindrops,butterfly wings",
+            "v": "tus cumpleaños,dos planetas,tus ojos,Greg y David,autos estacionados,continentes,bailarines lentos,párrafos,tus orejas,el baño y la cocina,frases,personas en el cine,productos lácteos y no lácteos,tus intestinos grueso y delgado,dientes delanteros,rodajas de queso,gotas de lluvia,alas de mariposa",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "\"Glabella\" es el término utilizado para describir el espacio entre <BLANK>.",
+            "v": "\"Glabela\" es el término utilizado para describir el espacio entre <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "your eyebrows",
+            "v": "tus cejas",
             "n": "AlternateSpellings"
         },
         {

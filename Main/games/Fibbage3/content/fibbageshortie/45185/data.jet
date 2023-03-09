@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Mary Kate and Ashley Olsen,Bob Saget,John Goodman,Cher,Jay Leno,Tom Selleck,Bill Murray,Big Bird,an unknown juggler,The Backstreet Boys,a small town sheriff,Adam Sandler,Don Knotts,Donald Trump,Dolly Parton,Chevy Chase,Michael Jackson,Shaquille O’Neal",
+            "v": "Mary Kate y Ashley Olsen,Bob Saget,John Goodman,Cher,Jay Leno,Tom Selleck,Bill Murray,Avelardo,un malabarista desconocido,Los Backstreet Boys,un comisario de pueblo,Adam Sandler,Don Knotts,Donald Trump,Dolly Parton,Chevy Chase,Michael Jackson,Shaquille O'Neal",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antes de que Bruce Willis lo obtuviera, el primer actor al que le ofrecieron el papel protagónico en <i>Duro de matar<\/i> fue <BLANK>.",
+            "v": "Antes de que fuera a parar a Bruce Willis, el primer actor al que le ofrecieron el papel protagónico en <i>Duro de matar<\/i> fue <BLANK>.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "towel|fowl,smile|dad’s face,hat|pig,collar|gecko,prosthetic head|real head,party hat|motorcycle,dollar|knee,dollop of honey|toast,CD player|bike,strawman argument|enemy,limit|computer timer,seal of approval|friend’s lunch,spork|tongue,bar code|neck,wig|cat,coffee|car roof and drive away,mini basketball hoop|bedroom door,magnet|hard drive",
+            "v": "una toalla|gallina,una sonrisa|cara,un sombrero|cerdo,un collar|geco,una cabeza protésica|cabeza real,un sombrero de fiesta|motocicleta,un dólar|rodilla,una cucharada de miel|tostada,un reproductor de CDs|bicicleta,una falacia del hombre de paja|enemigo,un límite|temporizador del computador,un sello de aprobación|amigo,un tenedor|lengua,un código de barras|cuello,una peluca|gato,un café|techo del auto e irte,una mini canasta de baloncesto|puerta de la habitación,un imán|disco duro",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "almohada|refrigerador",
+            "v": "una almohada|refrigerador",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Este año, no olvides unirte a los millones de estadounidenses y británicos que celebran la prosperidad el 29 de mayo, también conocido como el \"Día de Colocar Una <BLANK> En Tu <BLANK>\".",
+            "v": "Este año, no olvides unirte a los millones de estadounidenses y británicos que celebran la prosperidad el 29 de mayo, también conocido como el \"Día de poner <BLANK> en tu <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pillow|your fridge,pillow|your refrigerator,pillow|the refrigerator,pillow|refrigerator",
+            "v": "una almohada|nevera,una almohada|refri,una almohada|refrigeradora",
             "n": "AlternateSpellings"
         },
         {

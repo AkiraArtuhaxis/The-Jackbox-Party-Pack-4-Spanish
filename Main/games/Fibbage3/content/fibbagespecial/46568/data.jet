@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "holy corn cob holder,Jesus toothpick,holy thumbtack,holy hairpin,Kenny Rogers yard buddy,the last sipper,Christ cufflink,Bible bolo tie,Church scarecrow,holy fence post,pope pin,three day air resurrector,Bethle-HAM spiralizer,holy turkey thermometer,Thief in the night light,holy cherry pitter,Bible mango peeler,holy bookmark",
+            "v": "el sostenedor santo de mazorca de maíz,mondadientes de Jesús,tachuela santa,horquilla santa,amigo de patio de Kenny Rogers,la última riega,gemelos de Cristo,la corbata biblia,el espantapájaros eclesiástico,el poste santo,el alfiler Papa,tres días de aire resucitador,espiralizador de Belén,termómetro de pavo santo,ladrón a la luz de la noche,pelador de manzanas santo,pelador de mangos bíblico,marcapáginas santo",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Alabado sea",
+            "v": "Alabado",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "aspersor de agua bendita",
+            "v": "el aspersor de agua bendita",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Este dibujo es para la invención de Brandon Sparks: el/la <BLANK>.",
+            "v": "Este dibujo es para la invención de Brandon Sparks, que es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "“holy water” sprinkler,holy water lawn sprinkler,holy-water sprinkler",
+            "v": "el aspersor de \"agua bendita\",el aspersor de pasto de agua bendita,aspersor de agua bendita",
             "n": "AlternateSpellings"
         },
         {

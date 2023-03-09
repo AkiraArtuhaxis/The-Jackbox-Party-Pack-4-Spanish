@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dispositivo de flotación,paracaídas,zapato,yamaka,bolso,chaleco antibalas,calcetín,desfibrilador,teléfono,casco de realidad virtual,mochila,cámara espía,maletín,parlante,tazón de cereal,megáfono,granada,dispensador de cerveza",
+            "v": "dispositivo de flotación,paracaídas,zapato,kipá,bolso,chaleco antibalas,calcetín,desfibrilador,teléfono,casco de realidad virtual,mochila,cámara espía,maletín,parlante,tazón de cereal,megáfono,granada,dispensador de cerveza",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La Dra. Elena Bodnar inventó un sostén que también puede utilizarse como un/una<BLANK>.",
+            "v": "La Dra. Elena Bodnar inventó un sostén que también puede utilizarse como <BLANK>.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "gave everyone stomach issues,drank the family rum,saved the restaurant,came home from college,invented cajun food,stole the truffle oil,gave us all hangovers,listened to the voices,made some weird friends,came back from hell,sweetened the pot,couldn’t resist murder,made them all pay,ruined Christmas,fixed the pasta,robbed the sleepy village,stole all our water,wasted his life",
+            "v": "enfermó del estómago a todos,se bebió el ron familiar,salvó el restaurante,volvió a casa de la universidad,inventó la comida cajún,robó el aceite de trufa,nos dio a todos resaca,escuchó las voces,hizo algunos amigos raros,volvió del infierno,endulzó la olla,no pudo resistirse al asesinato,les hizo pagar a todos,arruinó la Navidad,arregló la pasta,le robó al pueblo dormido,robó toda nuestra agua,desperdició su vida",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Envenenó a sus padres",
+            "v": "envenenó a sus padres",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "poisoned someone,poinsoned his mom and dad,poisoned his mom,poisoned his dad and mom",
+            "v": "envenenó a alguien,envenenó a su mamá y papá,envenenó a su mamá,envenenó a su papá y mamá",
             "n": "AlternateSpellings"
         },
         {

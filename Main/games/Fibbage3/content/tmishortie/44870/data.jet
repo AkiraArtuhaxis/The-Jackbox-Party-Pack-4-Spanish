@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "los murciélagos no existen,Michael Jackson está bien,Santiago del Estero es muy raro,La cerveza tiene un gusto horrible,La universidad es para tontos,La Internet fue un error,las ratas son tiernas",
+            "v": "los murciélagos no existen,Michael Jackson está vivo,Perú es muy raro,la cerveza sabe horrible,la universidad es para tontos,Internet fue un error,las ratas son tiernas",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una opinión impopular que éste jugador tiene es <BLANK>.",
+            "s": "[category=host]An unpopular opinion that this player has is <BLANK>.",
             "t": "A",
             "v": "599721_1",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "corporations|gods,pennies|still important,hot dogs|sandwiches,bumper stickers|art,kittens|people,leprechauns|fictional,public restrooms|for people only,corn dogs|American,sidewalk owners|responsible for injuries,vacations|a civil right,oranges|orange,waterbeds|awesome,whales|fish,office romances|legally binding,humans|mammals,cars|a privilege,robots|property,voting booths|private property",
+            "v": "las corporaciones|dioses,las monedas|importantes todavía,los perritos calientes|sándwiches,las pegatinas para el parachoques|arte,los gatitos|personas,los duendes|ficticios,los baños públicos|solo para personas,los piscos|chilenos,los propietarios de aceras|responsables de lesiones,las vacaciones|un derecho civil,las naranjas|anaranjadas,las camas de agua|estupendas,las ballenas|peces,los romances de oficina|legalmente vinculantes,los humanos|mamíferos,los autos|un privilegio,los robots|propiedad,las cabinas de votación|propiedad privada",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El polémico caso de la Corte Suprema <i>Nix v. Hedden<\/i> molestó a más de unas pocas personas cuando la corte dictaminó que <BLANK> son <BLANK>.",
+            "v": "El polémico caso de la Corte Suprema <i>Nix contra Hedden<\/i> disgustó a más de uno cuando la corte dictaminó que <BLANK> son <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tomatos|vegetables,vegetables|tomatoes,veggies|tomatoes,tomatoes|veggies,tomatos|veggies,veggies|tomatos",
+            "v": "los tomates|verduras,los vegetales|tomates,las verduras|tomates",
             "n": "AlternateSpellings"
         },
         {

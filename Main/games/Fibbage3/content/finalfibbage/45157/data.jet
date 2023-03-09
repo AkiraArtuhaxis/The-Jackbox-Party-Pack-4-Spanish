@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "babies|toddlers,whispering|yelling,food|water,hugs|handshakes,eye contact|laughter,stabbing|shooting customers,crying|a sense of doom,breakfast|dinner,love|biological urges,Thanksgiving|Christmas,tight underwear|revealing pants,their parents|loved ones,the news|social media,the internet|video games,Oklahoma|Arkansas,petting strange dogs|cats,the bathroom|the breakroom,brothels|houses of ill repute",
+            "v": "a los bebés|niños pequeños,susurrar|gritar,la comida|el agua,los abrazos|chocar la mano,el contacto visual|las risas,apuñalar|disparar a los clientes,llorar|una sensación de fatalidad,el desayuno|la cena,el amor|las necesidades biológicas,el día de Acción de Gracias|la Navidad,la ropa interior ajustada|los pantalones osados,a sus padres|seres queridos,las noticias|las redes sociales,el internet|los videojuegos,Oklahoma|Arkansas,acariciar a perros|gatos de extraños,usar el baño|la sala de descanso,los burdeles|las casas de mala reputación",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "hamburguesas|papas fritas",
+            "v": "comer hamburguesas|papas fritas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una versión de 2013 del sitio web de recursos para empleados de McDonalds llegó a las noticias al recomendar que los trabajadores eviten comer <BLANK> y <BLANK>.",
+            "v": "Una versión de 2013 del sitio web de recursos para empleados de McDonald's llegó a las noticias al recomendar a los trabajadores que eviten <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "fries|burgers,burgers|french fries,french fries|burgers,cheeseburgers|fries,fries|cheeseburgers,french fries|cheeseburgers,cheeseburgers|french fries",
+            "v": "comer papas fritas|hamburguesas,comer hamburguesas|patatas fritas,comer patatas fritas|hamburguesas,comer hamburguesas de queso|papas fritas,comer papas fritas|hamburguesas de queso",
             "n": "AlternateSpellings"
         },
         {

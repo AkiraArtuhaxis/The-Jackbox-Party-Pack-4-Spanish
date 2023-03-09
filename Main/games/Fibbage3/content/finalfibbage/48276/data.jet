@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "jelly beans|teddy bears,blankets|pillows,paint|brushes,printer ink|kale,apples|bread,cheap pens|expensive pens,flashlights|batteries,vending machines|peanuts,boomerangs|juggling balls,scissors|safety scissors,ham|cheese,power tools|pillow cases,trenchcoats|romantic novels,barbecue grills|toasters,sunglasses|hair gel,steins|leiderhosen,video games|soft drinks,chainsaws|first aid kits",
+            "v": "gominolas|osos de peluche,mantas|almohadas,pintura|pinceles,tinta de impresora|papel,manzanas|pan,bolígrafos baratos|bolígrafos caros,linternas|pilas,máquinas expendedoras|maníes,bumeráns|pelotas de malabares,tijeras|tijeras de seguridad,jamón|queso,herramientas eléctricas|fundas de almohada,gabardinas|novelas románticas,parrillas|tostadoras,lentes de sol|gel para el pelo,chucrut|hámsters,videojuegos|refrescos,motosierras|botiquines de primeros auxilios",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "salchichas|ketchup",
+            "v": "salchichas|kétchup",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Volkswagen no solo es una fabricante de automóviles. Extrañamente, venden también <BLANK> y <BLANK>.",
+            "v": "Volkswagen no solo es fabricante de automóviles. Por extraño que parezca, también venden <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ketchup|sausages,bratwurst|ketchup,ketchup|bratwurst,ketchup|currywurst,currywurst|ketchup,castup|sausages,bratwurst|castup,castup|bratwurst,bratwurst|castup,catsup|currywurst,currywurst|castup",
+            "v": "kétchup|salchichas,bratwurst|kétchup,kétchup|bratwurst,kétchup|currywurst,currywurst|kétchup,cátsup|salchichas,bratwurst|cátsup,cátsup|bratwurst,bratwurst|cátsup,cátsup|currywurst,currywurst|cátsup",
             "n": "AlternateSpellings"
         },
         {

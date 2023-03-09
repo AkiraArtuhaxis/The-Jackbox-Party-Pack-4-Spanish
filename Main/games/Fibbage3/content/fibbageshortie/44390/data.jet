@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a dead clown,the body of Hitler,the lost ark,King Tut,a nuclear missle,a minotaur,a time traveler,1000 bras,a Japanese submarine,a T-Rex,Mickey Rooney,Bing Crosby,George Washington’s sword,vampires,an angel,a baseball field,his own grave,a lost work of Shakespeare",
+            "v": "un payaso muerto,el cuerpo de Hitler,el arca perdida,al rey Tut,un misil nuclear,un minotauro,un viajero en el tiempo,1.000 sostenes,un submarino japonés,un tiranosaurio,a Marilyn Monroe,un ataúd,la espada de George Washington,vampiros,un ángel,un campo de béisbol,su propia tumba,una obra perdida de Shakespeare",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 20 de febrero de 1943 fue un día fatídico para el campesino mexicano Dionisio Pulido. Al observar su campo de maíz se sorprendió al encontrarse con <BLANK>.",
+            "v": "El 20 de febrero de 1943 fue un día fatídico para el campesino mexicano Dionisio Pulido. Miró en su maizal y se sorprendió al encontrar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "volcano,volcanos,volcanoes",
+            "v": "volcán,volcanes,volcánes",
             "n": "AlternateSpellings"
         },
         {

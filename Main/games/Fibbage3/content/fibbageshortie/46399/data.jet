@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pet hamsters,imaginary friends,flammable Barbies,pet rocks,liters of flat Sprite,hippies,pounds of human hair,fans of Bonanza,defective harmonicas,survivors of the Hindenburg,members of the Monkees fan club,gallons of agent orange,Ford Pintos,old-timey radios,former Mouseketeers,disco albums,used diapers,new tires",
+            "v": "hámsters,amigos imaginarios,Barbies inflamables,rocas,litros de Sprite sin gas,hippies,kilos de pelo humano,fanáticos de Bonanza,armónicas defectuosas,sobrevivientes del Hindenburg,miembros del club de fanáticos de Jim Morrison,litros de agente naranja,Ford Pintos,radios antiguas,fanáticos de Jimi Hendrix,discos,pañales usados,neumáticos nuevos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En marzo de 1973, Se celebraron funerales en una granja de Ossineke, Michigan, para más de 30 mil <BLANK>.",
+            "v": "En marzo de 1973, se celebraron funerales en una granja de Ossineke, Michigan, lugar de descanso final de más de 30.000 <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mushroom pizzas,pizzas,frozen mushroom pizzas",
+            "v": "pizzas de champiñón,pizzas,pizzas de champiñón congeladas",
             "n": "AlternateSpellings"
         },
         {

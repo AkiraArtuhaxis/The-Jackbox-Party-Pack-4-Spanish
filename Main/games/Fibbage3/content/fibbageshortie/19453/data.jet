@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "traffic,her emotions,sweet potatoes,salamanders,the outcome of football games,French people,the weather in Paris,ducks,when the cable guy shows up,elections,grass,humidity,shoelaces,airport delays,the lottery,sudoku puzzles,soup,goldfish",
+            "v": "tráfico,sus emociones,papas dulces,salamandras,el resultado de los partidos de fútbol,franceses,el clima de París,patos,cuándo llega el tipo del cable,elecciones,pasto,humedad,cordones,retrasos en los aeropuertos,la lotería,sudokus,sopa,pez dorado",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El superpoder de Doreen Green, uno de los miembros de los Vengadores, es la habilidad de controlar <BLANK>.",
+            "v": "El superpoder de Doreen Green, uno de los miembros más extraños de los Vengadores, es la habilidad de controlar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "squirels,squirrells,rodents",
+            "v": "ardiyas,ardillaz,roedores",
             "n": "AlternateSpellings"
         },
         {

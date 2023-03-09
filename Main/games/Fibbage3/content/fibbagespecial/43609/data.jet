@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a ghost,a mime,a dead horse,an assassin,a cloud,a strangled cat,a shoe,the monster behind you,a pie,school on Sunday,winter,an empty gun,the scarecrow,an oiled gate,a pile of rags,remorse,poop,nostalgia",
+            "v": "un fantasma,un mimo,un caballo muerto,un asesino,una nube,un gato estrangulado,un zapato,el monstruo detrás de ti,una torta,una escuela el domingo,el invierno,una pistola vacía,un espantapájaros,una puerta aceitada,una pila de trapos,el remordimiento,la caca,la nostalgia",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "Eez Too Quiet",
+            "v": "Ez demaziado silenzioso",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El equivalente ruso de \"callado como una tumba\" se traduce como \"mudo como <BLANK>.\"",
+            "v": "El equivalente ruso de \"callado como una tumba\" se traduce como \"mudo como <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "el pez,pez,pescado,peces",
+            "v": "el pez,pez,el pescado,los peces,los pescados,peces,pescados",
             "n": "AlternateSpellings"
         },
         {

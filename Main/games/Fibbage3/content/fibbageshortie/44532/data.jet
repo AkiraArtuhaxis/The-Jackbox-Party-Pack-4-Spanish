@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "being a scientist,The Queen,The Fonz,Ryan Reynolds,skateboarding,line dancing,Martha Stewart,wearing your hat backwards,wearing jeggings,swing dancing,being a dad,country music,saying “cool”,birdwatching,Sesame Street,taking cooking classes,staying in school,playing an instrument",
+            "v": "ser científico,la reina,la Naranja Mecánica,Ryan Reynolds,patinar,bailar en línea,Martha Stewart,usar el sombrero al revés,usar mallas,bailar swing,ser padre,la música country,decir \"popular\",observar pájaros,Plaza Sésamo,tomar clases de cocina,seguir en la escuela,tocar un instrumento",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2012, dos investigadores llevaron a cabo una investigación cuantitativa de lo que implica ser cool para determinar si <BLANK> era cool.",
+            "v": "En 2012, dos investigadores llevaron a cabo una investigación cuantitativa de la popularidad con el fin de determinar si <BLANK> era popular.",
             "n": "QuestionText"
         },
         {

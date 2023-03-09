@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "homeless shelter|grocery store,library|emergency room,college|bakery,hospital|shooting range,comic book store|taxidermist,aquarium|orphanage,law firm|day care center,golf course|women’s college,health clinic|brothel,landfill|country club,nursing home|department store,movie theater|dog pound,gun shop|knitting supply store,boarding school|used car lot,pizza buffet|car wash,water treatment plant|microbrewery,casino|gambler’s anonymous center,auto body shop|proctologist’s office",
+            "v": "albergue de indigentes|tienda de comestibles,biblioteca|sala de urgencias,universidad|panadería,hospital|campo de tiro,tienda de historietas|estudio taxidermista,acuario|orfanato,despacho de abogados|guardería infantil,campo de golf|universidad femenina,centro médico|burdel,vertedero|club de campo,asilo de ancianos|centro comercial,cine|perrera,armería|tienda de tejidos,internado|lote de autos usados,pizzería|lavado de autos,planta de tratamiento de agua|cervecería,casino|centro de ludópatas anónimos,taller de carrocería|consultorio del proctólogo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "strip club|iglesia",
+            "v": "iglesia|club de desnudistas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si te encuentras en Guelph, Ontario, podrás encontrar lo que necesites en un establecimiento llamado La Mansión que, es tanto un <BLANK> y una <BLANK>.",
+            "v": "Cuando estés en Guelph, Ontario, podrás encontrar lo que necesites en un establecimiento llamado La Mansión que es <BLANK> y <BLANK>, desde abril de 2014.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "gentleman’s club|church,gentlemen’s club|church,gentlemans club|church,gentlemens club|church,stripper bar|church,strip joint|church,stripper joint|church,bar|church,tavern|church,pub|church,watering hole|church",
+            "v": "club de caballeros|iglesia,iglesia|club de caballeros,club de desnudistas|iglesia,bar de desnudistas|iglesia,iglesia|bar de desnudistas,bar|iglesia,iglesia|bar,taverna|iglesia,iglesia|taverna,pub|iglesia,iglesia|pub",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Los 60,Inglaterra victoriana,Estados Unidos pos-guerra,donde sea que hayan autos voladores,Los tiempos con dinosaurios,Roma antigua,El medioevo",
+            "v": "los 60,Inglaterra victoriana,la posguerra en Estados Unidos,donde sea que hayan autos voladores,los tiempos con dinosaurios,Roma antigua,el medioevo",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Sin contar el tiempo presente, el período donde más te gustaría vivir sería <BLANK>.",
+            "v": "Aparte del presente, la época en la que más te gustaría vivir sería <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Sin contar el tiempo presente, el período en el que <PLAYER> más le gustaría vivir es <BLANK>.",
+            "v": "Aparte del presente, la época en la que más le gustaría vivir a <PLAYER> sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Sin contar el tiempo presente, el período en el que éste jugador más le gustaría vivir es <BLANK>.",
+            "s": "[category=host]Other than the present, the time period this player would most like to live in would be <BLANK>.",
             "t": "A",
             "v": "599603_0",
             "n": "QuestionAudio"

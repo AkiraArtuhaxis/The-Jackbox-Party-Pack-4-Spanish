@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "1000 Pete Rose baseball cards,Bill Gate’s drivers license,China,The Istanbul capital building,his twin,10 live condors,an ancient party sub,A spy room,a pit of cobras,a letter from his future self,A rat cave,A sleeping man,Egyptian mummies,The Holy Grail,$1 million,Thousands of diamonds,Stolen Egyptian loot,A copy of The Mona Lisa",
+            "v": "10.000 tarjetas de béisbol,la licencia de conducir de Bill Gates,China,el edificio de la capital de Estambul,a su gemelo,10 cóndores vivos,un antiguo submarino de fiesta,una sala de espionaje,un pozo de cobras,una carta de su yo futuro,una cueva de ratas,un hombre dormido,momias egipcias,el Santo Grial,1 millón de dólares,miles de diamantes,un botín egipcio robado,una copia de La Mona Lisa",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Una ciudad perdida",
+            "v": "una ciudad perdida",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a city,city,lost city,forgotten city,a forgotten city,underground city,an underground city",
+            "v": "una ciudad,ciudad,ciudad perdida,ciudad olvidada,una ciudad olvidada,ciudad subterránea,una ciudad subterránea",
             "n": "AlternateSpellings"
         },
         {

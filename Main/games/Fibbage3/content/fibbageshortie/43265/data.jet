@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a smaller cat,a chalkboard,an umbrella,a coffee table,the lieutenant governor,a lamp,a bottle opener,a vacuum,a time bomb,a record player,a dog,a clock,a Republican,one thousand pieces,a can opener,their lawyer,a genius,a duck",
+            "v": "un gato más pequeño,una pizarra,un paraguas,una mesa de café,el vicegobernador,una lámpara,un destapador,una aspiradora,una bomba de tiempo,un tocadiscos,un perro,un reloj,un republicano,mil partes,un abrelatas,su abogado,un genio,un pato",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En un raro experimento de 1929, dos investigadores de Princeton pudieron transformar exitosamente a un gato en <BLANK>.",
+            "v": "En un extraño experimento realizado en 1929, dos investigadores de Princeton consiguieron transformar un gato en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a phone,phone,telephone",
+            "v": "teléfono,un telefono,telefono",
             "n": "AlternateSpellings"
         },
         {

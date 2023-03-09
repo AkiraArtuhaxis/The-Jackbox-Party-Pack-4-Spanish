@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dog hair|cat hair,shoulder pads|butt pads,mowed grass|cow hair,steel wool|bailing wire,ice cubes|scotch tape,wolf pelts|party ribbons,used marathon socks|headbands,jerseys|pants from the ‘65 Yankees,dead skin|leg hair,old parachutes|sleeping bags,hospital sheets|licorice,American flags|blue jeans,Watergate documents|newspapers,candy wrappers|medical charts,dead dolphins|used sneakers,toilet paper|dried snot,beach towels|beer cans,used wax strips|smiley face stickers",
+            "v": "pelo de perro|pelo de gato,hombreras|cantoneras,pasto cortado|pelo de vaca,virutas de acero|alambres de cocina,cubos de hielo|cinta adhesiva,pieles de lobo|cintas de fiestas,calcetines usados de maratón|cintillos,chaquetas|pantalones de los Yankees,piel muerta|pelo de las piernas,paracaídas viejos|sacos de dormir,sábanas de hospital|regaliz,banderas estadounidenses|pantalones azules,documentos importantes|periódicos,envoltorios de caramelos|historiales médicos,delfines muertos|zapatillas usadas,papel higiénico|mocos secos,toallas de playa|latas de cerveza,cera depilatoria usada|pegatinas de carita sonriente",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En principios de los 80, el músico experimental Frank Zappa mando a hacer una colcha particular. Estaba hecha completamente de <BLANK> y <BLANK>.",
+            "v": "A principios de la década de 1980, el músico experimental Frank Zappa mando a hacer una colcha particular. Estaba hecha completamente de <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "panties|bras,bras|underwear,underwear|bras,underwear|more underwear",
+            "v": "bragas|sostenes,sostenes|ropa interior,ropa interior|sostenes,ropa interior|más ropa interior",
             "n": "AlternateSpellings"
         },
         {

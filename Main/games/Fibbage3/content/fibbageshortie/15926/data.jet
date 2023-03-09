@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "rum,sunscreen,lube,moonshine,shampoo,fake tan spray,bourbon,quarters,chapstick,teeth whitener,wine,laxative,glitter,ketchup,contact solution,George Clooney’s sweat,olive oil,Red Bull",
+            "v": "ron,protector solar,lubricante,licor ilegal,champú,spray bronceador falso,whisky,monedas,lápiz labial,blanqueador dental,vino,laxante,brillantina,kétchup,salmuera,sudor de George Clooney,aceite de oliva,Red Bull",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Limpiacristales",
+            "v": "limpiavidrios",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A los nominados al Óscar en el 2013 se les dio una bolsa de regalos que contenía un set de cuidados faciales de 5.000 dólares, un paquete de vacaciones de 3.300 dólares y una botella de 4 dólares de <BLANK>.",
+            "v": "Los nominados a los Óscar en 2013 recibieron una bolsa de regalo que incluía un conjunto de tratamiento facial de 5.000 dólares, un paquete de vacaciones de 3.300 dólares y una botella de <BLANK> de 4 dólares.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "glass cleaner,cleaner",
+            "v": "limpia cristales,limpia vidrios,limpia espejos,limpiador de cristales,limpiador de espejos,limpiador de vidrios,limpiador,limpiacristales",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Loose teeth,Bloating,Giddiness,Orgasms,Small pox,Elongated Feet,Public urination,Pregnancy,Atheism,Seizures,Love,Fevers,Sudden Lobotomies,Whooping cough,Super intelligence,Weakening of the bones,Boring stories,“Train Leg”",
+            "v": "pérdida de dientes,hinchazón,vértigo,orgasmos,viruela,pies alargados,orinar en público,embarazo,ateísmo,convulsiones,amor,fiebres,lobotomías súbitas,tos ferina,superinteligencia,debilitamiento de los huesos,historias aburridas,ceguera",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Locura",
+            "v": "locura",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A medida que el transporte ferroviario creció en popularidad en la era victoriana, también lo hizo la creencia de que viajar en tren podía causar <BLANK>.",
+            "v": "A medida que aumentaba la popularidad de los viajes en ferrocarril en la época victoriana, también lo hacía la creencia de que viajar en tren podía causar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Insanty,In sanity,craziness,you to go insane,people to go insane,you to go crazy,people to go crazy",
+            "v": "lokura,loquera,volverse loco,enloquecer,que la gente enloqueciera,que la gente se volviera loca,enloquecerte",
             "n": "AlternateSpellings"
         },
         {

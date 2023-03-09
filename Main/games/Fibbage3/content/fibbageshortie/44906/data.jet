@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "rescued pitbulls,doctors,Texans,holograms,Owen Wilson impersonators,dudes named Alexi,people with six fingers,Guy Fieri’s relatives,rude robots,hippies,unicorns,leprechauns,lemurs,Australians,mermaids,Martians,Republicans,Alaskans",
+            "v": "pitbulls rescatados,médicos,tejanos,hologramas,imitadores de Owen Wilson,tipos llamados Alexei,gente con seis dedos,parientes de Chuck Norris,robots maleducados,hippies,unicornios,duendes,lémures,australianos,sirenas,marcianos,republicanos,alaskeños",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Inspirado en una película surreal de los años 60, el ruso Alexei Khodorkovsky abrió un bar atendido solamente por <BLANK>.",
+            "v": "Inspirado por una película surrealista de los años 60, el ruso Alexei Khodorkovsky abrió un bar atendido íntegramente por <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "identical twins",
+            "v": "gemelos idénticos",
             "n": "AlternateSpellings"
         },
         {

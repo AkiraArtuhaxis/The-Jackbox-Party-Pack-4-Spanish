@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Name|Star,Eat|Weight in Burritos,Impersonate|Favorite Scientist,Build|Pyramid,Sell|Soul,Cut|Hair,Pimp|Science Ride,Give Up|Dreams,Test|Least Favorite hypothesis,Make|Bed,Kiss|Professor,Practice|Penmanship,Drink|Snapple in Silence,Broaden|Worldview,Visit|Grampa,Salute|Shorts,Science|Science,Mind|Manners",
+            "v": "Nombra a|estrella,Come|peso en Burritos,Imita|científico favorito,Construye|pirámide,Vende|alma,Corta|cabello,Enchula|máquina científica,Abandona|sueño,Prueba|hipótesis menos favorita,Haz|cama,Besa a|profesor,Practica|caligrafía,Bebe|té helado en silencio,Amplia|visión del mundo,Visita a|abuelo,Saluda con|pantalón corto,Ciencia|ciencia,Cuida|actitud",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Baila|Doctorado",
+            "v": "Baila|doctorado",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, la revista <i>Ciencia<\/i> patrocinó el muy niche décimo concurso anual de \"<BLANK> Tu <BLANK>\".",
+            "v": "En 2017, la revista <i>Ciencia<\/i> patrocinó el décimo concurso anual muy especializado de \"<BLANK> tu <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Dance|Phd,Dance|P.h.d.",
+            "v": "baila|doctorado,Baila|Doctorado,baila|Doctorado",
             "n": "AlternateSpellings"
         },
         {

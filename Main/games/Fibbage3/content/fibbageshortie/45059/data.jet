@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "slaughter house,prison,morgue,gentleman’s club,acupuncture studio,SeaWorld franchise,sweatshop,airport,military,security force,cafeteria,disciplinary committee,circus,bar and grill,comedy club,pirate ship,monarchy,space station",
+            "v": "matadero,prisión,morgue,club de caballeros,estudio de acupuntura,franquicia SeaWorld,taller clandestino,aeropuerto,ejército,fuerzas de seguridad,cafetería,comité disciplinario,circo,bar y parrilla,club de la comedia,barco pirata,monarquía,estación espacial",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Reed College en Oregón es la única universidad de artes liberales en el mundo con un/a <BLANK> mantenido/a por estudiantes.",
+            "v": "Reed College en Oregón es la única universidad de artes liberales en el mundo con <BLANK> que financian los estudiantes.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "reactor,nuke,power plant,nuclear power plant,nucular reactor,nuclear plant",
+            "v": "reactor,nucleares,planta nuclear,planta de energía nuclear,reactor nuclar,plantas nucleares",
             "n": "AlternateSpellings"
         },
         {

@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "dedo del pie",
+            "v": "dedos de pie",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Downtown Hotel en Dawson City, Yukon tiene un cóctel que contiene un <BLANK> encurtido.",
+            "v": "El Downtown Hotel en Dawson City, Territorio del Yukón, tiene un cóctel que contiene <BLANK> en escabeche.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Blah,Ho Hum,Tedious,Dreary,Slow,Beck’s last album,Dragging,Cold Mountain,Flaccid,Sadsack,Humdrum,Monotony,Paintdry,Gray,Lackluster,Plain Jane,Yuck,Action",
+            "v": "Bla,Uf,Tedioso,Lúgubre,Lento,el último álbum de Ed Sheeran,Arrastre,Montaña Fría,Flácido,Incompetente,Rutinario,Monotonía,Pintura seca,Gris,Mediocre,Simple,Puaj,Acción",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Aburrida",
+            "v": "Soso",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2012, la ciudad de Aburrido (Boring), Oregón se convirtió en ciudad hermana de una ciudad en Escocia traducida al español llamada <BLANK>.",
+            "v": "En 2012, la ciudad de Boring (aburrido), Oregón, se convirtió en ciudad hermana de una ciudad en Escocia llamada <BLANK> (en español).",
             "n": "QuestionText"
         },
         {

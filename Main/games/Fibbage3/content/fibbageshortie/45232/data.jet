@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "were cubed,screamed,were orange,produced carbon monoxide,bled,were ape skulls,could hatch,had faces,were made of uranium,smelled like brimstone,were poisonous,attracted bees,were invisible,tasted terrible,weighed ten pounds,would melt,were made by orphans,were worth $1000 each",
+            "v": "eran cúbicas,gritaban,eran naranjas,producían monóxido de carbono,sangraban,eran cráneos de simios,podían eclosionar,tenían caras,estaban hechas de uranio,olían a azufre,eran venenosas,atraían a las abejas,eran invisibles,sabían fatal,pesaban tres kilos,se derretían,estaban hechas por huérfanos,valían 1.000 dólares cada una",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A principios del siglo XX, jugar al pool tenía algo particularmente alarmante: las bolas <BLANK>.",
+            "v": "Jugar pool a principios del siglo XX tenía algo especialmente alarmante: las bolas <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "would explode,could explode,were explosive,blew up",
+            "v": "explotarían,podían explotar,eran explosivas,estallaban",
             "n": "AlternateSpellings"
         },
         {

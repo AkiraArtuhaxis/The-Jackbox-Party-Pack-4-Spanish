@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "monjes,viudas,niños,loros,profesores,monjas,papás solteros,atletas,camareros,peces koi,turistas,jefes de estado,personas sin hogar,tortugas,pacientes de hospitales,ciegos,geriatría",
+            "v": "monjes,viudas,niños,loros,profesores,monjas,papás solteros,atletas,cantineros,peces koi,turistas,jefes de estado,personas sin hogar,tortugas,pacientes de hospitales,ciegos,ancianos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El fabricante de bebidas japonés B&H Lifes hizo un vino sin alcohol específicamente para <BLANK>.",
+            "v": "El fabricante japonés de bebidas B&H Lifes elaboró un vino sin alcohol específicamente para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "felinos, gatitos, gato",
+            "v": "felino,felinos,gato,gatitos,gatito",
             "n": "AlternateSpellings"
         },
         {

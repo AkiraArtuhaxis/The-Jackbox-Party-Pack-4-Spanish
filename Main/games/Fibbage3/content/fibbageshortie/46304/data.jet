@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a UFC octagon,an opium den,a brothel,a statue of him,a Whole Foods,a pillow fort,his new cool loft,a barn,a cage for God,a hipster diner,a prison,long-lasting memories,a casino,a theme park,a vape shop,a film studio,a throne for him,a compelling narrative",
+            "v": "un octágono de la UFC,un fumadero de opio,un burdel,una estatua suya,un Walmart,un fuerte de almohadas,su nuevo desván,un granero,una jaula para dios,una cafetería hipster,una prisión,recuerdos duraderos,un casino,un parque de atracciones,una tienda de vapeo,un estudio de cine,un trono para él,una narración convincente",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según cuenta la leyenda, el propio Diablo ayudó a construir la Iglesia de Santa María en Lubeca, Alemania, porque los locales lo engañaron para que creyera que estaban construyendo <BLANK>.",
+            "v": "Según cuenta la leyenda, el mismísimo Diablo ayudó a construir la Iglesia de Santa María en Lubeca, Alemania, porque los lugareños lo engañaron haciéndole creer que estaban construyendo <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a bar,wine bar,bar",
+            "v": "un bar,vinoteca,bar",
             "n": "AlternateSpellings"
         },
         {

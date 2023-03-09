@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sonrisa,dolor,sitio pintoresco,oreja de elfo,amor,boca de serpiente,patillas,comida competitiva, rubor,cara nueva,dentadura,sonrisa torcida,grano,voz profunda,mordida,buen aliento,barbilla cuadrada,poderoso mordisco",
+            "v": "sonrisas,torturas,sitios pintorescos,orejas de elfo,el amor,bocas de serpiente,patillas,comida competitiva,rubor,una cara nueva,dentaduras,sonrisas torcida,granos,que alguien tenga la voz profunda,mordidas,tener un buen aliento,barbillas cuadradas,poderosos mordiscos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "hoyuelo",
+            "v": "hoyuelos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta patente estadounidense, presentada en 1923 por Evangeline I. Gilbert, fue para el revolucionario dispositivo para hacer <BLANK>.",
+            "v": "Esta patente estadounidense, presentada en 1923 por Evangeline I. Gilbert, era para el revolucionario dispositivo para hacer <BLANK>.",
             "n": "QuestionText"
         },
         {

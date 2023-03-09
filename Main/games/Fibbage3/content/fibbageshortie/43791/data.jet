@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "the harlem globetrotters,Riverdance,nsync,the inventors of pogs,the california raisins,the Muppets,the cast of Friends,dolphins that escaped Sea World,the seven dwarves,the animals from Homeword Bound,Mark Mcgwire and Sammy Sosa,the 1974 Baltimore Orioles,The Simpsons,Mary Kate and Ashley Olsen,KISS,the makers of Zima,Pearl Jam,Mr and Mrs MC Hammer",
+            "v": "los Harlem Globetrotters,Riverdance,*NSYNC,los inventores de los tazos,las pasas de California,los Muppets,el elenco de Friends,los delfines que se escaparon de Sea World,los siete enanitos,los animales de Volviendo a casa: Una aventura increíble,Rammstein,los Baltimore Orioles de 1974,Los Simpson,Mary Kate y Ashley Olsen,KISS,los fabricantes de Zima,Pearl Jam,el Sr. y la Sra. MC Hammer",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1997, Nelson Mandela dijo: \"Estos son mis héroes\". Sorprendentemente, lo dijo al reunirse con <BLANK>.",
+            "v": "En 1997, Nelson Mandela dijo, \"Son mis héroes\". Sorprendentemente, lo dijo al reunirse con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "spice girls",
+            "v": "Spice Girls,spice girls",
             "n": "AlternateSpellings"
         },
         {

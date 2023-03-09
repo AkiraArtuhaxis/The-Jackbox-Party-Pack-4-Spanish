@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "profile pic,snoring,new boyfriend,dancing,Instagram,cooking,driving ability,video game skills,break-up note,bee raising abilities,wardrobe,archery skills,poetry,family tree,text messages,wilderness survival skills,Spotify playlist,hand holding skills",
+            "v": "la foto de perfil,los ronquidos,al nuevo novio,el baile,el Instagram,la gastronomía,la capacidad de conducción,las habilidades en los videojuegos,la nota de separación,las habilidades de apicultura,el vestuario,las habilidades de arquería,la poesía,el árbol familiar,los mensajes de texto,las habilidades de supervivencia en la naturaleza,las listas de reproducción de Spotify,las habilidades para sostener la mano",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "carta de disculpas",
+            "v": "la carta de disculpas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Nick Lutz, un estudiante de la Universidad de Stetson, fue noticia luego de que calificara públicamente la <BLANK> de su ex-novia.",
+            "v": "Nick Lutz, un estudiante de la Universidad de Stetson, fue noticia luego de que calificara públicamente <BLANK> de su ex novia.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "apology note,apology",
+            "v": "la nota de disculpas,las disculpas",
             "n": "AlternateSpellings"
         },
         {

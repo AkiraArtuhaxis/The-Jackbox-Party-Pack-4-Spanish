@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "crude oil,Bud Light Lime-a-Rita,rain water,Zima,lemon and vinegar,milk,rubbing alcohol,Guinness,Tab,a bloody mary,a Slurpee,an Arnold Palmer,pickle juice,Jack Daniels,orange juice with pulp,Mello Yello,a grandmother’s tears,Red Bull",
+            "v": "petróleo,cerveza Budweiser,agua de lluvia,Zima,limón y vinagre,leche,alcohol,cerveza Guinness,Tab,un bloody mary,un batido,un Arnold Palmer,jugo de pepinillos,Jack Daniels,jugo de naranja con pulpa,Sprite,las lágrimas de una abuela,Red Bull",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el país árabe de Omán, una bebida conocida por los habitantes de la zona como \"alcohol omani\" es mejor conocida en otros lugares como <BLANK>.",
+            "v": "En el país árabe de Omán, una bebida conocida por los lugareños como \"alcohol omaní\" es más conocida en otros lugares como <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the Dew,Mt Dew,Mt. Dew,Mountain Do,Mountain Doo,Mt Doo,Mt. Doo",
+            "v": "la Dew, Mr Dew,Mt. Dew,Mountain Do,Mountain Doo,Mt Doo,Mt. Doo",
             "n": "AlternateSpellings"
         },
         {

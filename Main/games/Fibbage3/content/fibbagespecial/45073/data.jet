@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Muffin,Fat Guy in a Little Coat,Thin Boy,Food Critic,Nutty Professor,Great Two Tons,Bull Boy,Moon Man,Big Man,Tailor’s Nightmare,Stud,Ladies Man,Man Baby,Fat Daddy,Tailor,Food Critic,Gut Buster,Aristocrat",
+            "v": "pastelito,gordo con abrigo,flaco,crítico de comida,profesor chiflado,obeso de dos toneladas,chico toro,hombre luna,gran hombre,pesadilla de sastre,semental,mujeriego,hombre bebé,papi gordo,sastre,destripador,aristócrata",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Gran Calabaza",
+            "v": "gran calabaza",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Este grabado coloreado a mano de 1806 se titula \"Dan Lambert la Maravillosa <BLANK> de Pequeña Bretaña.\"",
+            "v": "Este grabado coloreado a mano de 1806 se titula \"Dan Lambert <BLANK> espectacular de Pequeña Bretaña\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Calabaza",
+            "v": "calabaza",
             "n": "AlternateSpellings"
         },
         {

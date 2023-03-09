@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Brain Heating,Get Handsome,Pocket Salon,Stupid,Skull Shaker,Genius,Hair Bleaching,Lice Killing,Age Reversing,Mind Reading,Hair Scorching,Perm Giving,Memory Erasing,Head Pimple Popping,Alien Proof,Time Travel,Brain Freeze Prevention,Headache Giving",
+            "v": "calentador de cerebro,embellecedor,de salón de bolsillo,estúpido,sacudidor de cráneo,genio,decolorador de pelo,mata piojos,invertidor de edad,para leer la mente,quemador de pelo,aplicador permanente,borrador de memoria,reventador de granos en la cabeza,a prueba de extraterrestres,viajador en el tiempo,prevensionista de congelación del cerebro,para dar dolor de cabeza",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Vibratorio",
+            "v": "vibratorio",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Masajeador,Vibrador,",
+            "v": "masajeador,vibrador",
             "n": "AlternateSpellings"
         },
         {

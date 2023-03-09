@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "ergonomic steel wool,chainmail short shorts,some dumb piece of stupid history,a wasp habitat,pigeon armor,a cheese grater,a gas mask,beard armor,workout shorts,a coffee strainer,a medieval wig,a bath drain cover,the world’s first dishwasher safe shorts,a bathing suit,a map of the world,a horse brush,a gross washcloth,a rabbit hat",
+            "v": "lana de acero ergonómica,pantalones cortos de cota de malla,un pedazo de historia estúpida,un hábitat de avispas,una armadura de paloma,un rallador de queso,una máscara de gas,una armadura de barba,pantalones cortos de entrenamiento,un colador de café,una peluca medieval,una tapa de desagüe de baño,los primeros pantalones cortos aptos para lavavajillas del mundo,un traje de baño,un mapa del mundo,un cepillo de caballo,una toallita asquerosa,un sombrero de conejo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un protector para las axilas",
+            "v": "un protector de axilas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Este objeto de la Alemania del siglo XVI puede parecer extraño, hasta que te des cuenta de que es solo <BLANK>.",
+            "v": "Este objeto de la Alemania del siglo XVI puede parecer extraño, hasta que te des cuenta de que simplemente es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "armpit armor,arm pit armor,an arm pit protector,armpit mail,arm pit mail",
+            "v": "armadura de axila,armadura axilar,un protector de axila,malla de axila,malla de axilas",
             "n": "AlternateSpellings"
         },
         {

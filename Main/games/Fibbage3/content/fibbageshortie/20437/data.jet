@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "monkeys,Tom Cruise and Brad Pitt,Eddie Murphy,Mike Myers,Ben Stiller and Owen WIlson,a British circus troupe,finger puppets,Peter Jackson,rugby players,the Jonas Bros.,Mark and Donny Wahlberg,pigs,penguins,snowmen,the Muppets,the Smurfs,the Simpsons,the Peanuts gang",
+            "v": "monos,Tom Cruise y Brad Pitt,Eddie Murphy,Mike Myers,Ben Stiller y Owen Wilson,una compañía de circo británica,títeres de dedo,Peter Jackson,jugadores de rugby,los Jonas Brothers,Mark y Donny Wahlberg,cerdos,pingüinos,hombres de nieve,los Muppets,los Pitufos,los Simpson,la pandilla de Charlie Brown",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "John Lennon,Paul McCartney,Ringo Starr,George Harrison,The Beetles,Beatles,Beetles,The Fab Four",
+            "v": "John Lennon,Paul McCartney,Ringo Starr,George Harrison,Los Beetles,Beatles,Beetles,Fab Four",
             "n": "AlternateSpellings"
         },
         {

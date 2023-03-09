@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "rice|the toilet,broken glass|the runway,potatoes|a cockpit,sand|business class,crackers|her mouth,chicken|her vegeterian salad,a baseball|the garbage,a picture of goats|the overhead bin,hand lotion|the captain’s hair,up|her lap,up a three pointer|the basket,a small dog|her carry on luggage,a fit|her pillow,her laptop|the hand dryer,salt|the pilot’s eyes,down her mad rhymes|the microphone,napkins|seat 34E,her ticket|first class",
+            "v": "arroz|el inodoro,vidrios rotos|la pista de aterrizaje,papas|una cabina,arena|la clase ejecutiva,galletas saladas|su boca,pollo|su ensalada vegetariana,una pelota de béisbol|la basura,una foto de cabras|el compartimento superior,crema de manos|el pelo del capitán,vómito|su regazo,su maleta|la cabeza de la azafata,un perro pequeño|su equipaje de mano,un frasco de canela|su almohada,su celular|el secador de manos,sal|los ojos del piloto,sangre|el micrófono,servilletas|el asiento 34E,su pasaje|la primera clase",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un pasajero supersticioso en un vuelo desde Shanghai terminó retrasando el despegue luego de arrojar <BLANK> en <BLANK>.",
+            "v": "Una pasajera supersticiosa de un vuelo procedente de Shanghai acabó retrasando el despegue tras arrojar <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "coins|the engine,coins|the plane engine,change|the engine,loose change|the engine",
+            "v": "monedas|el motor,monedas|el motor de la máquina,efectivo|el motor,efectivo suelto|el motor",
             "n": "AlternateSpellings"
         },
         {

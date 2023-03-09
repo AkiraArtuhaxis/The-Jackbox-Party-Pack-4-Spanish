@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Darth Vader,Hans Gruber,Sauron,el chico rubio de Karate Kid,Ted Knight en Los locos del golf,Lex Luthor,Fred Badguy",
+            "v": "Darth Vader,Hans Gruber,Sauron,el chico rubio de Karate Kid,Thanos,Lex Luthor,Voldemort",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué villano de película piensas que es incomprendido?",
+            "v": "¿Qué villano de película crees que es incomprendido?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "<PLAYER> piensa que <BLANK>, personaje antagónico de una película, es un/a incomprendido/a.",
+            "v": "<PLAYER> cree que <BLANK>, personaje antagónico de una película, es un incomprendido.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> piensa que <BLANK>, personaje antagónico de una película, es un incomprendido.",
+            "s": "[category=host]<PLAYER> thinks that the movie villain <BLANK> is misunderstood.",
             "t": "A",
             "v": "615101_0",
             "n": "QuestionAudio"

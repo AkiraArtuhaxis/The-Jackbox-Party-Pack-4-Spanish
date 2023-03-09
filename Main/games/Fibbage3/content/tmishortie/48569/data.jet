@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "un auto nuevo,zapatos nuevos,$600,una nueva PC,un pollo,una dotación vitalicia de dulces,una granja en el interior",
+            "v": "un auto nuevo,zapatos gratis,muchísimo dinero,una nueva PC,un pollo,una dotación vitalicia de dulces,una granja en el interior",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es el mejor premio que te has ganado?",
+            "v": "¿Qué es lo mejor que has ganado alguna vez?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El mejor premio que <PLAYER> ha conseguido es <BLANK>.",
+            "v": "Lo mejor que <PLAYER> ha ganado alguna vez es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El mejor premio que <PLAYER> ha conseguido es <BLANK>.",
+            "s": "[category=host]The coolest thing <PLAYER> has ever won is <BLANK>.",
             "t": "A",
             "v": "690616_0",
             "n": "QuestionAudio"

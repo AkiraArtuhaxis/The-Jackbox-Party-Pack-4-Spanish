@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eructo,chicharrones,alfombra,bolos,mochila,martes por la tarde,bandana,salami,silencio incómodo,día de bebida, reuniones familiares,pantimedias,viseras,brevedad,Ok,viaje compartido, ex novia, asistente del gerente",
+            "v": "eructo,chicharrones,alfombra,bolos,mochila,martes por la tarde,bandana,salami,silencio incómodo,día para beber, reuniones familiares,pantimedias,viseras,brevedad,OK,viaje compartido,ex novia,asistente del gerente",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Schwangerschaftsverhütungsmittel es la palabra alemana para “<BLANK>.”",
+            "v": "Schwangerschaftsverhütungsmittel es la palabra alemana para “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "control de natalidad,preservativos,condones,la píldora",
+            "v": "control de natalidad,preservativos,preservativo,condones,la píldora,profilácticos,profiláctico,condón,la pildora,profilacticos,profilactico,condon",
             "n": "AlternateSpellings"
         },
         {

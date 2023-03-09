@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Teddy bear maker,Cheese maker,Farmer,Chess champion,Scrabble player,Bird enthusiast,Wind sailor,Taekwondo instructor,pig farmer,Filmmaker,Musician for weddings,Surgeon,party clown,Computer programmer,Video game designer,Roller coaster enthusiast,Disney fan,Rural cop",
+            "v": "fabricante de ositos de peluche,quesero,granjero,campeón de ajedrez,jugador de Scrabble,aficionado a las aves,marinero,instructor de taekwondo,granjero de cerdos,cineasta,músico para bodas,cirujano,payaso de fiestas,programador informático,diseñador de videojuegos,aficionado a las montañas rusas,fanático de Disney,policía rural",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Piloto comercial",
+            "v": "piloto comercial",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, los medios holandeses descubrieron que el rey Willem-Alexander había vivido una doble vida como un <BLANK>.",
+            "v": "En 2017, los medios holandeses descubrieron que el rey Guillermo Alejandro había llevado una doble vida como <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pilot,pilot for commercial planes,co-pilot,commercial co-pilot",
+            "v": "piloto,piloto de aviones comerciales,copiloto,copiloto comercial",
             "n": "AlternateSpellings"
         },
         {

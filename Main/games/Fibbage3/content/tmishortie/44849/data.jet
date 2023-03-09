@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Proba-Dulces,Presidente,Científico Loco,Acariciador de Cachorros,Prueba-Baños de Burbuja,Interno de Jackbox,Siestero Profesional",
+            "v": "Degustador de caramelos,presidente,científico loco,acariciador de cachorros,probador de baños de burbuja,practicante en Jackbox,siestero profesional",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un trabajo que te encantaría probar hacer.",
+            "v": "Un trabajo que te encantaría intentar.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un trabajo que a <PLAYER> le encantaría probar.",
+            "v": "Un trabajo que a <PLAYER> le encantaría intentar.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un trabajo que a éste jugador le encantaría probar hacer.",
+            "s": "[category=host]A job this player would be excited to try.",
             "t": "A",
             "v": "599103_0",
             "n": "QuestionAudio"

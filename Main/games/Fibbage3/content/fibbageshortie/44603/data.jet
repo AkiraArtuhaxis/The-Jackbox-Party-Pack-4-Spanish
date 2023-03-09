@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "acid hits,Jolly Ranchers,AAA batteries,M&Ms,human eyelashes,toenails,goldfish,drops of blood,pieces of bacon,starfish,diamonds,light bulbs,cockroaches,monkey fingers,licorice sticks,chicken wings,maggots,bars of soap",
+            "v": "golpes de ácido,gramos de sodio,pilas AAA,M&Ms,pestañas humanas,uñas de los pies,peces dorados,gotas de sangre,trozos de tocino,estrellas de mar,diamantes,bombillas,cucarachas,dedos de mono,palitos de regaliz,alas de pollo,gusanos,barras de jabón",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "ratones bebé",
+            "v": "ratoncitos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Hay una bebida medicinal de la antigua China y Corea que consiste en un vino de arroz fermentado con entre 10 a 15 <BLANK>.",
+            "v": "Existe una bebida medicinal de la antigua China y Corea que consiste en un vino de arroz fermentado con entre 10 a 15 <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mice,mice babies,mouse babies",
+            "v": "ratones,ratones bebé,ratón bebé",
             "n": "AlternateSpellings"
         },
         {

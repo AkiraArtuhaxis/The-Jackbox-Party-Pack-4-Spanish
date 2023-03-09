@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Drink expired milk,Eat chocolate,Eat meat,Dance,Hold hands in public,Own dogs,Sing out of tune,Wear tall hats,butter their bread,snap their fingers,wear different colored socks,paint their walls “eggshell”,look in mirrors,clap in public,part their hair to the right,sleep on their side,see live magicians,own forks",
+            "v": "beban leche caducada,coman chocolate,coman carne,bailen,se tomen de la mano en público,tengan perros,canten desafinado,usen sombreros altos,unten el pan con mantequilla,chasqueen los dedos,usen calcetines de distintos colores,pinten las paredes con \"cáscara de huevo\",miren a los espejos,aplaudan en público,se separen el pelo a la derecha,duerman de lado,vean magos en vivo,tengan tenedores",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el siglo XVII, el Papa Clemente VIII fue en contra de sus asesores y declaró aceptable para los católicos que <BLANK>.",
+            "v": "En el siglo XVII, el Papa Clemente VIII fue en contra de sus asesores y declaró aceptable que los católicos <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "have coffee,brew coffee",
+            "v": "bebieran café,preparen café",
             "n": "AlternateSpellings"
         },
         {

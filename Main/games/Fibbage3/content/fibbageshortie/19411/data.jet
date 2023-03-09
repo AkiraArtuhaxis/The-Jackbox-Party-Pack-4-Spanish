@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "marriage,jury duty,a birthday party,sex,a work Christmas party,his gambling debts,a trip to Wisconsin,going to prison,a speeding ticket,his kid’s piano recital,Thanksgiving dinner,a work presentation,going to a funeral,seeing an Adam Sandler movie,castration,skydiving,a relationship,paying for Starbucks",
+            "v": "su matrimonio,ser servicio de jurado,una fiesta de cumpleaños,tener sexo,una fiesta de Navidad en el trabajo,sus deudas de apuestas,un viaje a Winconsin,ir a prisión,una multa por exceso de velocidad,el recital de piano de su hijo,una cena de Acción de Gracias,una presentación en el trabajo,ir a un funeral,ver una pelicula de Adam Sandler,la castración,el paracaidismo,una relación,pagar por Starbucks",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Tomando medidas extremas, Corey Taylor de Chicago decidió falsificar su propia muerte para salir de <BLANK>.",
+            "v": "Tomando medidas extremas, Corey Taylor de Chicago decidió fingir su propia muerte para librarse de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "his cellphone contract,a cell phone contract,his phone contract,his cellphone bill,his cell phone bill,a phone bill,his phone bill",
+            "v": "su contrato móvil,un contrato telefónico,su contrato del teléfono,su cuenta de teléfono,su cuenta del móvil,una cuenta telefónica,su cuenta telefónica,su contrato movil,un contrato telefonico,su contrato del telefono,su cuenta de telefono,su cuenta del movil,una cuenta telefonica,su cuenta telefonica,su contrato celular,un contrato celular,su contrato del celular,su cuenta de celular,su cuenta del celular,una cuenta celular,su cuenta celular",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "bebés,caida de dientes,un pequeño dragón,escorpiones,el Club Atlético Chacarita Juniors,Paul Rudd,una pizza parlante",
+            "v": "bebés,caída de dientes,un dragoncito,escorpiones,Pelé,Brad Pitt,una pizza parlante",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "El último sueño que recuerdas involucraba <BLANK>.",
+            "v": "El último sueño que recuerdas tenía que ver con <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El último sueño que <PLAYER> recuerda involucraba <BLANK>.",
+            "v": "El último sueño que <PLAYER> recuerda tenía que ver con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El último sueño que éste jugador recuerda involucraba <BLANK>.",
+            "s": "[category=host]The last dream this player can remember involved <BLANK>.",
             "t": "A",
             "v": "567365_0",
             "n": "QuestionAudio"

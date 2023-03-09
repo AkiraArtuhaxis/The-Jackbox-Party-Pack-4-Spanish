@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "estacionario, muebles, alfombras, retratos, llaves, cortinas, estatuas, lámparas, ropas de cama de Lincoln, candelabros, jardines de rosas, colecciones de mapas, chefs pasteleros, perros, bañeras, tapetes de bienvenida, bibliotecas, servilletas decorativas",
+            "v": "documentos,muebles,alfombras,retratos,llaves,cortinas,estatuas,lámparas,ropas de cama de Lincoln,candelabros,jardines de rosas,colecciones de mapas,chefs pasteleros,perros guardianes,bañeras,tapetes de bienvenida,bibliotecas,servilletas decorativas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "sets de porcelana",
+            "v": "juegos de porcelana china",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Presidente estadounidense Warren G. Harding era un fan del Póker. En un juego terminó apostando las/los <BLANK> de la casa blanca.",
+            "v": "El Presidente estadounidense Warren G. Harding era un fan del póquer. En un juego terminó apostando los/las <BLANK> de la Casa Blanca.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "platos, porcelana fina, vajillas, cubiertos",
+            "v": "platos,porcelana fina,vajillas,cubiertos",
             "n": "AlternateSpellings"
         },
         {

@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La palabra que a <PLAYER> siempre le cuesta escribir es <BLANK>",
+            "s": "[category=host]The word <PLAYER> always has trouble spelling is <BLANK>",
             "t": "A",
             "v": "694262_0",
             "n": "QuestionAudio"

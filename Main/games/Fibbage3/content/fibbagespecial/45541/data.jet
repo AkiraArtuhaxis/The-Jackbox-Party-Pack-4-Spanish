@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "recite Pi,hop off a treadmill,calculate a tip,tweet,chug Pepsi Max,shut down my killer robot,beat eggs,do a double axle,call out scientific inaccuracies in movies,rock a rhyme,spin a globe,catch a softball,peel grapes,throw darts,answer the door,catch my dog,turn off the farm report,buzz in on jeopardy",
+            "v": "decir la cifra de pi,saltar de una cinta de correr,calcular una propina,tuitear,tragar Pepsi Max,apagar mi robot asesino,batir huevos,hacer un doble eje,señalar inexactitudes científicas en películas,rockear una rima,girar un globo terráqueo,atrapar una pelota,pelar uvas,lanzar dardos,abrir la puerta,atrapar a mi perro,apagar el informe de la granja,responder en programas de trivia",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "Tysonisms",
+            "v": "Tysonismos",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El astrofísico Neil deGrasse Tyson tuiteó: “No. Tengo bastante buen equilibrio para el tamaño de mi cuerpo. Pero me he caído al intentar <BLANK> rápidamente.”",
+            "v": "El astrofísico Neil deGrasse Tyson tuiteó: “No. Tengo un equilibrio bastante bueno para el tamaño de mi cuerpo. Pero me he caído al intentar <BLANK> rápidamente”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "take my pants off,remove my pants",
+            "v": "sacar mis pantalones,quitarme los pantalones",
             "n": "AlternateSpellings"
         },
         {

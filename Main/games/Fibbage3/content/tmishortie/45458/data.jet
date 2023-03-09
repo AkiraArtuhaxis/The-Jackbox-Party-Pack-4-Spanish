@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Dracula,Todd,Paul Reiser,Miley Cyrus,un chabón que le gusta el Indio,Tía Rose,un robot asesino",
+            "v": "Drácula,Tomás,Don Francisco,Miley Cyrus,un tipo fanático de Tool,tu tía Rosa,un robot asesino",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Quién es alguien con quien no querrías quedarte atorado en un elevador?",
+            "v": "¿Con quién no querrías quedarte atrapado en un ascensor?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Alguien con quien <PLAYER> no quiere quedarse atorado en un elevador es <BLANK>.",
+            "v": "Alguien con quien <PLAYER> no quiere quedarse atrapado en un ascensor es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Alguien con quien <PLAYER> no quiere quedarse atorado en un elevador es <BLANK>.",
+            "s": "[category=host]Someone <PLAYER> wouldn’t want to get stuck in an elevator with is <BLANK>.",
             "t": "A",
             "v": "615611_1",
             "n": "QuestionAudio"

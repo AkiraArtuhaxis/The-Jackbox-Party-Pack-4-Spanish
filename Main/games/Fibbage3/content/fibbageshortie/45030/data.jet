@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "seals,their imaginations,child swimmers,virtual reality,sea turtles,scenes from The Rock,paddleboats,Ryan Lochte,toddlers,dolls,reddit users,a marching band,rival scientists,dummies made of meat,doves,robots programmed to want freedom,Twitch streamers,garbage",
+            "v": "focas,su imaginación,niños nadadores,realidad virtual,tortugas marinas,escenas de La Roca,botes de remos,a Ryan Lochte,niños pequeños,muñecas,usuarios de Reddit,una banda de música,a científicos rivales,maniquíes hechos de carne,palomas,robots programados para desear la libertad,streamers de Twitch,basura",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, los científicos recrearon la infame fuga de Alcatraz de 1962 para ver si los implicados podrían haber sobrevivido. Pero en lugar de prisioneros, usaron <BLANK>.",
+            "v": "En 2017, unos científicos recrearon la infame fuga de Alcatraz de 1962 para ver si los hombres implicados podrían haber sobrevivido. Pero en lugar de prisioneros, utilizaron <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cocoanuts,a coconut,cocanuts",
+            "v": "coco,un coco",
             "n": "AlternateSpellings"
         },
         {

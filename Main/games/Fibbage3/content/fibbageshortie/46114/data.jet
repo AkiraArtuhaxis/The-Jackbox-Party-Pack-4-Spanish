@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "horse stables,a Wendy’s,dumpsters,a landfill,a Best Western,a parking lot,a better state,a nursing home,your grandma’s house,your shortcomings,a post office,an alleyway,an abandoned Ikea,Joyce DeWitt’s house,a giant ant colony,the last Radio Shack,a dental school,all safety regulations",
+            "v": "los establos de caballo,un Wendy's,los basureros,un vertedero,un paisaje mejor,un estacionamiento,un mejor estado,una residencia de ancianos,la casa de tu abuela,tus deficiencias,una oficina de correos,un callejón,una tienda abandonada,la casa de Bill Gates,una colonia gigante de hormigas,la última estación de radio,una facultad de odontología,todas las normas de seguridad",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Tom Battista es la mente maestra detrás de un parque escénico en Indianápolis en desarrollo. Lo extraño es que está diseñado para observar <BLANK>.",
+            "v": "Tom Battista es la mente maestra detrás de un parque escénico en Indianápolis en desarrollo. Lo extraño es que está diseñado para pasar por alto <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "highway traffic,interstate traffic,cars",
+            "v": "el tráfico interestatal,los coches,el tráfico de carreteras,los autos,autos,coches",
             "n": "AlternateSpellings"
         },
         {

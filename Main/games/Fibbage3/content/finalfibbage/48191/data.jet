@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "wipe|butt,change|baby,pet|cat,plant|garden,drive|bus,wash|dog,compose|polka song,start and maintain|conga line,poach|perfect egg,raise|family on a budget,nurse|monkey,mock|terrible idea,pour|perfect Guinness,impregnate|killer whale,lead|marching band,write|gripping novel,build|LEGO Death Star,console|loved one",
+            "v": "limpiar|trasero,cambiar el pañal de|bebé,acariciar|gato,plantar|jardín,conducir|autobús,bañar|perro,componer|álbum de polka,iniciar y mantener|baile de conga,cocinar|huevo perfecto,criar|hogar con poco dinero,cuidar|mono,burlarse de|plan terrible,servir|vaso de cerveza perfecto,fecundar|cachalote,liderar|grupo de músicos,escribir|libreto apasionante,construir|DeLorean,consolar a|ser querido",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Desarrollado por científicos en Morocco, el robot VES-4 fue diseñado para <BLANK> un <BLANK>.",
+            "v": "Desarrollado por científicos de Marruecos, el robot VES-4 está diseñado para <BLANK> un <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "extra venom from|scorpion,milk|scorpions,get venom from|scorpion,shock|scorpion,electrocute|scorpion",
+            "v": "extraer veneno de|escorpión,ordeñar|escorpiones,sacar veneno de|escorpión,sacudir|escorpión,electrocutar|escorpión",
             "n": "AlternateSpellings"
         },
         {

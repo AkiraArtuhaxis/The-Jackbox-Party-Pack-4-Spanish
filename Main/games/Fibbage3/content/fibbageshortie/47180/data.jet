@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Father Blessing,Father Data,Eucharist 4 U,Martin Luther 2.0,Computer Communion,Communion Calculator,Deacon IT,Pastor 2.0,iPastor,Holy Hannah,Electro-Salvation,P.R.I.E.S.T.,Father Motherboard,Atom,OrthoBot,John the Botist,Electrified Preachin’ Machine,Auto*Faith",
+            "v": "Padre Bendición,Datos del Padre,Eucharist 4 U,Martin Luther 2.0,Comunión por Computador,Calculadora de Comunión,Diácono IT,Pastor 2.0,iPastor,Santa Hannah,Electro-Salvación,S.A.C.E.R.D.O.T.E.,Padre Placa Base,Átomo,SacerBot,Juan Botista,Predicador Electrificado,Auto*Fe",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En honor al aniversario número 500 de la reforma protestante, unos inventores alemanes crearon un sacerdote robot llamado <BLANK>.",
+            "v": "En honor al aniversario número 500 de la Reforma protestante, unos inventores alemanes crearon un sacerdote robot llamado <BLANK>.",
             "n": "QuestionText"
         },
         {

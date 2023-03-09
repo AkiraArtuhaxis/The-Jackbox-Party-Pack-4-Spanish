@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "troublemaking machine,zoo,computer,new cart,husband,child,ticket to ride,moose,new pair of shoes,fishing pole,mirror,weasel,horse,spoon,hat factory,pitchfork,newspaper,television",
+            "v": "una máquina de hacer problemas,un zoológico,un computador,un auto nuevo,un marido,un bebé,una entrada para montar,un alce,un par de zapatos nuevos,una caña de pescar,un espejo,una comadreja,un caballo,una cuchara,una fábrica de sombreros,una horquilla,un periódico,un televisor",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Trobel Iz Meedel Nyemm",
+            "v": "El provlema ez el nomvre",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "cerdito",
+            "v": "un cerdito",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un dicho ruso sobre el desastre del cortejo se traduce como \"La mujer no tenía problemas, así que compró un <BLANK>.\"",
+            "v": "Un dicho ruso sobre cortejar el desastre se traduce como \"La mujer no tenía problemas, así que se compró <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cerdo,bebé cerdo,cerdita,bebé cerda,bebé cerdito,bebé cerdita",
+            "v": "un cerdo,un bebé cerdo,una cerdita,una bebé cerda,un bebé cerdito,una bebé cerdita",
             "n": "AlternateSpellings"
         },
         {

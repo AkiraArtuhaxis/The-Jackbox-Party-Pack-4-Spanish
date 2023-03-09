@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "smelled by nerds,you’re lonely,they’re upside down,you’re rich,indoors,you have siblings,smelled by rats,they’re next to stinkweed,you’re blindfolded,you smell with your ears,you’ve just watched Full House,you’re told they smell good,banjo music is playing,you don’t know they’re roses,they’re chopped into pieces,they’re called by another name,you know your IQ,cats lick them first",
+            "v": "las huelen los ñoños,te sientes solo,están al revés,eres rico,están dentro de casa,tienes hermanos,las huelen las ratas,están junto a hierbajos,tienes los ojos vendados,hueles con las orejas,acabas de ver El Perfume,te dicen que huelen bien,suena música de banjo,no sabes que son rosas,están cortadas en trozos,las llaman por otro nombre,conoces tu coeficiente intelectual,los gatos las lamen primero",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1998, una corporación de perfumes, IFF, financió un estudio que descubrió que las rosas huelen diferente cuando <BLANK>.",
+            "v": "En 1998, una empresa de perfumes, IFF, financió un estudio que descubrió que las rosas huelen diferente cuando <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "weightless,there’s no gravity,you’re in space",
+            "v": "están ingrávidas,no hay gravedad,estás en el espacio",
             "n": "AlternateSpellings"
         },
         {

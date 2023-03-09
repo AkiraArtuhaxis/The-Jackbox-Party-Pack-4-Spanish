@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "hombres con barba,perros,hormigas,Bruce Dern,el quincho,Hombres lobo,silencio",
+            "v": "hombres con barba,perros,hormigas,Christopher Lloyd,el ático,hombres lobo,silencio",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Una cosa extraña a la que le temías de pequeño era <BLANK>.",
+            "v": "Algo extraño que te daba miedo de niño era <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una cosa extraña a la que <PLAYER> temía de pequeño/a era <BLANK>.",
+            "v": "Algo extraño que le daba miedo a <PLAYER> de niño era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una cosa extraña a la que éste jugador temía de pequeño era <BLANK>.",
+            "s": "[category=host]A strange thing this player was afraid of as a child was <BLANK>.",
             "t": "A",
             "v": "598868_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "meatloaf,scarecrows,omelettes,tubs of nacho cheese,pancakes,vienna sausages,pumpkins,a massive banana split,peanuts,pizza,M&Ms,elephant ears,candy canes,a sofa,marshmallows,chili dogs,old cassette tapes,steak",
+            "v": "pastel de carne,espantapájaros,tortillas,tarros de queso para nachos,panqueques,salchichas de viena,calabazas,un banana split gigante,maní,pizza,M&Ms,orejas de elefante,bastones de caramelo,un sofá,malvaviscos,perros de ají,viejas cintas de cassette,filete",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una vez al año, a los elefantes en el zoológico de Vienna se les permite comer <BLANK>.",
+            "v": "Una vez al año, a los elefantes en el zoológico de Viena se les permite comer <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "trees",
+            "v": "árboles",
             "n": "AlternateSpellings"
         },
         {

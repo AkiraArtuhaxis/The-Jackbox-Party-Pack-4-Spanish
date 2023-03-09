@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "go without underwear,eat an entire ham in six minutes,kiss their sister,catch a bullet with their teeth,take a guitar lesson,read the Lord of the Rings books,do a Christopher Walken impersonation,stop drinking for a week,spend a night in a haunted house,shave their body hair,adopt a child,adopt two cats,learn Portugese,attend a stranger’s wedding,give up their soul,let the government put a chip in their head,pee in front of a clown,strut nude through a public park",
+            "v": "andar sin ropa interior,comerse un jamón entero en seis minutos,besar a su hermana,atrapar una bala con los dientes,tomar clases de guitarra,leer los libros de El señor de los anillos,imitar a Christopher Walken,dejar de beber durante una semana,pasar una noche en una casa encantada,afeitarse el vello corporal,adoptar un niño,adoptar dos gatos,aprender alemán,asistir a la boda de un desconocido,renunciar a su alma,dejar que el gobierno les ponga un chip en la cabeza,orinar delante de un payaso,contonearse desnudos por un parque público",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "hacer 1000 horas de servicio comunitario",
+            "v": "hacer 1.000 horas de servicio comunitario",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, quienes se conectaron a wifi con Purple en Inglaterra aceptaron sin saberlo una cláusula legalmente vinculante que establece que deben <BLANK>.",
+            "v": "En 2017, quienes se conectaron a WiFi con Purple en Inglaterra aceptaron sin saberlo una cláusula legalmente vinculante que establece que deben <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "do community service,community service,do hours of community service,perform community service,perform 1000 hours of community service",
+            "v": "hacer servicio comunitario,servicio comunitario,hacer horas de servicio comunitario,realizar servicio comunitario,realizar 1.000 horas de servicio comunitario",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "smiled|milk man,screamed|neighbor,whistled|mechanic,barked|dog,curtsied|farmer,waved|baby,blew kisses|husband,swung|sheriff,waved|mayor,swore|preacher,frowned|doctor,stared|mirror,burped|cereal aisle,shot an arrow|husband,yawned|competitors’ shelves,milked a cow|church,camped|factory,threw corn|governor",
+            "v": "le sonreía|lechero,le gritaba|vecino,silbaba|mecánico,ladraba|perro,le hacía una reverencia|agricultor,saludaba|bebé,le tiraba besos|marido,le coqueteaba|alguacil,saludaba|alcalde,insultaba|predicador,le fruncía el ceño|médico,miraba fijamente|espejo,eructaba|pasillo de cereales,le disparaba una flecha|marido,bostezaba|competencia,ordeñaba una vaca|iglesia,no iba|trabajo,le tiraba maíz|gobernador",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "winked|grocer",
+            "v": "guiñaban el ojo|almacenero",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "guiñaban el ojo|almacenero",
+            "v": "guiñan el ojo|almacenero",
             "n": "AlternateSpellings"
         },
         {

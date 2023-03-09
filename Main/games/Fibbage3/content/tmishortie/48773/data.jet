@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "El señor de las moscas,La broma infinita,El guardián entre el centeno,Perdida,Moby Dick,James y el durazno gigante,1984",
+            "v": "El ingenioso hidalgo Don Quijote de La Mancha,El principito,Cien años de soledad,Crónica de una muerte anunciada,Moby Dick,La casa de los espíritus,1984",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es un libro que mentiste al decir que lo habías leído?",
+            "v": "¿Qué libro mentiste al decir que habías leído?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un libro que <PLAYER> mintió al decir que lo había leído es<i><BLANK><\/i>.",
+            "v": "Un libro que <PLAYER> mintió al decir que lo había leído es <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un libro que <PLAYER> mintió al decir que lo había leido es <BLANK>.",
+            "s": "[category=host]A book <PLAYER> has lied about reading is <BLANK>.",
             "t": "A",
             "v": "697010_1",
             "n": "QuestionAudio"

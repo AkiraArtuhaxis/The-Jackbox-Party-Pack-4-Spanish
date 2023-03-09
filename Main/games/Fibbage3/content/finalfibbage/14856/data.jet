@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "man|bathtub,sandwich|well,mailman|phone booth,dog|larger dog,magician|bikini,hermit|cave,clown|burka,chimp|spacesuit,puppy|basket,Dan Rather impersonator|prom dress,baby|tracksuit,dictator|coma,monkey|tuxedo,gorilla|miniskirt,tiger|cage,flower|vat of liquid nitrogen,construction worker|wheelbarrow,baby|crib",
+            "v": "hombre|una bañera,sándwich|un pozo,cartero|una cabina telefónica,perro|un perro más grande,mago|bikini,ermitaño|una cueva,payaso|tanga,chimpancé|traje espacial,cachorro|una cesta,imitador de Dan Rather|traje de fiesta,bebé|traje de tirantes,dictador|coma,mono|traje elegante,gorila|minifalda,tigre|una jaula,árbol|una tina de nitrógeno líquido,obrero de la construcción|una carretilla,bebé|una cuna",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "marioneta|silla de ruedas",
+            "v": "títere|silla de ruedas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante el Concurso Miss America de 1995, el talento de Miss Colorado fue cantar “Can You Feel the Love Tonight?” a una <BLANK> en <BLANK>.",
+            "v": "Durante el Concurso Miss America de 1995, el talento de Miss Colorado fue cantar “Can you feel the love tonight?” a un <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "doll|wheelchair,puppet|wheel chair,doll|wheel chair",
+            "v": "muñeco|silla de ruedas,títere|silla ruedas,muñeco|silla ruedas",
             "n": "AlternateSpellings"
         },
         {

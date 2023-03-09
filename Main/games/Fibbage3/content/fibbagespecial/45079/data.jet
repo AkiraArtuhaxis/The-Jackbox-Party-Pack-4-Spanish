@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "jazz music,filth,a Liberal Arts major,squalor,the cannabis zombies,creativity,Dutch Mediocrity,horrors,the artist’s deadbeat brother,butts,heathens,invention,son-in-laws,fools,deadbeat dads,mediocrity,hunks,sadness",
+            "v": "la música jazz,la suciedad,una licenciatura en Artes Liberales,la escualidez,los zombis del cannabis,la creatividad,la mediocridad holandesa,los horrores,el hermano moroso del artista,los culos,los paganos,la invención,los yernos,los tontos,los padres morosos,la mediocridad,los pedazos,la tristeza",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Genios",
+            "v": "genios",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta impresión de Thomas Rowlandson de 1806 se llama apropiadamente \"La Cámara de <BLANK>\".",
+            "v": "Este grabado de Thomas Rowlandson de 1806 se llama apropiadamente \"El aposento de <BLANK>\".",
             "n": "QuestionText"
         },
         {

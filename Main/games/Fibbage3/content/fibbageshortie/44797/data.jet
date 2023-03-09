@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Area 51,a ferris wheel,Mark Twain’s grave,a bakery,Stonehenge,a suspender store,the OSU marching band,an opera theater,Dick Van Dyke,a horse stable,Eisenhower’s grave,Dracula’s castle,a Soviet spy,the Playboy mansion,the Pentagon,the inspiration for Hogwarts,Superman,the Eiffel Tower",
+            "v": "el Área 51,una rueda de la fortuna,la tumba de Mark Twain,una panadería,Stonehenge,una tienda de suspensores,la banda de música de una universidad,un teatro de ópera,Dick Van Dyke,un establo de caballos,la tumba de Eisenhower,el castillo de Drácula,un espía soviético,la mansión Playboy,el Pentágono,la inspiración de Hogwarts,Superman,la Torre Eiffel",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El auto de Kennedy",
+            "v": "el auto de Kennedy",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1958, Larry King chocó con su auto en <BLANK>.",
+            "v": "En 1958, Larry King chocó su auto contra <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "JFK,John F. Kennedy,Kenndy’s Car",
+            "v": "JFK,John F. Kennedy,auto de Kennedy",
             "n": "AlternateSpellings"
         },
         {

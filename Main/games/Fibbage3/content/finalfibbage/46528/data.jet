@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "beat up|previous year’s winner,marry|pumpkin,eat|live spider,break|promise,tell|white lie,choose|favorite parent,butcher|pig in under an hour,wear|face-covering mask,pull out|tooth from their own mouth,bribe|judge,knit|body suit,earn|Ph.D,drown|prisoner,comfort|grieving horse,shoot down|jet,invent|breakfast pastry,sleep in|pit of spiders,share|dark memory",
+            "v": "golpear a|ganadora anterior,casarse con|calabaza,comerse|araña viva,romper|promesa,decir|mentira piadosa,elegir a|contrincante favorita,descuartizar a|cerda en menos de una hora,usar|máscara que le cubra la cara,arrancarse|dentadura de su boca,sobornar a|jueza,tejer|malla,obtener|licencia de pirotecnia,ahogar a|prisionera,consolar a|yegua en duelo,derribar|aeronave,inventar|idea para el desayuno,dormir en|mazmorra de arañas,compartir|oscura anécdota",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "decapitar|serpiente",
+            "v": "decapitar|serpiente de cascabel",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La ciudad de Sweetwater en Texas organiza un concurso de belleza anual con un giro particular. Todos los concursantes deben <BLANK> una <BLANK>.",
+            "v": "La ciudad de Sweetwater en Texas organiza un concurso de belleza anual con un giro particular. Cada concursante debe <BLANK> una <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "kill|snake,murder|snake,skin|snake,kill|rattlesnake,murder|rattlesnake,skin|rattlesnake,behead|rattleshanke,behead|snake,cut the head off|snake,cut the head off|rattlenanke",
+            "v": "matar|serpiente,asesinar|serpiente,despellejar|serpiente,matar|serpiente de cascabel,asesinar|serpiente de cascabel,despellejar|serpiente de cascabel,decapitar|serpiente,cortarle la cabeza a|serpiente,cortarle la cabeza a|serpiente de cascabel",
             "n": "AlternateSpellings"
         },
         {

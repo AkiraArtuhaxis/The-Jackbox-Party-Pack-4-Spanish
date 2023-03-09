@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "así nací,Quien Te Preguntó,Siempre Tarde,¿Viste vos?,En Su Cara Haters,Perdón Lo Lamento Disculpas,El Olor es Mi Olor",
+            "v": "Así nací,¿Quién te preguntó?,Siempre tarde,¿Ya viste?,En tu cara,Sigo disculpándome,Ese olor soy yo",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La autobiografía de <PLAYER> se titularía <BLANK>",
+            "s": "[category=host]The title of <PLAYER>’s autobiography would be <BLANK>",
             "t": "A",
             "v": "694070_0",
             "n": "QuestionAudio"

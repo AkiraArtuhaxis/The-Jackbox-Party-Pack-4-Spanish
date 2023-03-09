@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "books|chocolate,DVDs of Halloween|Halloween II,furniture|a job,fun dip|cigarettes,room|board,Moose Tracks ice cream|computer help,college tuition|car payments,a pack of gum|investment advice,a waxing|a manicure,a hardboiled egg|a glass of water,shoes|a dress,a deck of cards|a little bit of magic,hair gel|an old cellphone,a gun|a time machine,a car battery|three live snakes,a picture|a love note,sulfer|human bones,fresh produce|a new juicer",
+            "v": "libros|un chocolate,DVDs de Halloween|Halloween II,muebles|un trabajo,caramelo|cigarrillos,una habitación|pensión,helado|ayuda informática,la matrícula universitaria|pagos del auto,un paquete de chicles|consejos de inversión,una depilación con cera|una manicura,un huevo duro|un vaso de agua,zapatos|un vestido,una baraja de cartas|un poco de magia,gel para el pelo|un celular viejo,una pistola|una máquina del tiempo,una batería de auto|tres serpientes vivas,una foto|una nota de amor,sulfuro|huesos humanos,productos frescos|un exprimidor nuevo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "$60|nachos",
+            "v": "dinero|nachos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En noviembre de 2016, una mujer de Ohio publicó un anuncio en Backpage.com fue atrapada por ofrecer sexo a cambio de <BLANK> y <BLANK>.",
+            "v": "En noviembre de 2016, una mujer de Ohio que publicó un anuncio en Backpage.com fue arrestada por ofrecer sexo a cambio de <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "money|nachos,cash|nachos,$50|nachos,nachos|money,nachos|$60,nachos|$50,chips|money,chips|$60,chips|$50,money|chips,cash|chips,$50|chips",
+            "v": "$60|nachos,efectivo|nachos,$50|nachos,nachos|dinero,nachos|$60,nachos|$50,papas|dinero,papas|$60,papas|$50,dinero|papas,efectivo|papas,$50|papas",
             "n": "AlternateSpellings"
         },
         {

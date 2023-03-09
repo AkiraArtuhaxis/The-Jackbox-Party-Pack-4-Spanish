@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "la iglesia,en clase de Geografía,en mi egreso,una tienda de velas,durante una producción de teatro,al lado de un megáfono,Carrefour",
+            "v": "la iglesia,en clase de Geografía,en mi gala de graduación,una tienda de velas,durante una producción de teatro,al lado de un megáfono,supermercado",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Uno de los lugares más embarazosos donde te tiraste un pedo fue <BLANK>.",
+            "v": "Uno de los lugares más vergonzosos en los que te tiraste un pedo fue <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Uno de los lugares más embarazosos donde <PLAYER> se ha tirado un pedo fue <BLANK>.",
+            "v": "Uno de los lugares más vergonzosos en los que <PLAYER> se tiró un pedo fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Uno de los lugares más embarazosos en donde <PLAYER> se ha tirado un pedo fue <BLANK>.",
+            "s": "[category=host]One of the most embarrassing places <PLAYER> ever farted was <BLANK>.",
             "t": "A",
             "v": "611345_0",
             "n": "QuestionAudio"

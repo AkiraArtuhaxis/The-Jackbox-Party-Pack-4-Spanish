@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "crabs,dyslexia,a brother somewhere,forgotten to take medication,your zipper down,driven while asleep,a clown standing behind you,eaten expired food,a term paper due soon,killed someone,success,a doppelganger,a rabid dog come up to you,left the stove on,a terrible fashion sense,shoplifted by accident,cheated on your taxes,an alien inside of you",
+            "v": "tienes ladillas,tienes dislexia,tienes un hermano en algún lugar,olvidaste tomar tus medicamentos,tienes el cierre abajo,conduciste dormido,hay un payaso detrás tuyo,comiste comida vencida,tienes un trabajo que debes entregar pronto,mataste a alguien,tuviste éxito,tengas un Doppelgänger,un perro rabioso se acerca a ti,dejaste el horno encendido,tienes un terrible sentido de la moda,robaste por accidente,declaraste mal los impuestos,tienes un extraterreste dentro tuyo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "hecho algo estúpido emborrachado",
+            "v": "hiciste alguna estupidez estando borracho",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La palabra noruega \"fylleangst\" describe el miedo de que quizá has <BLANK>.",
+            "v": "La palabra noruega \"fylleangst\" describe el miedo de que quizá <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "said something stupid while drunk,acted stupid while drunk,gotten drunk and done something stupid",
+            "v": "dijiste una estupidez mientras estabas borracho,hiciste el ridículo mientras estabas borracho,te emborrachaste e hiciste una estupidez",
             "n": "AlternateSpellings"
         },
         {

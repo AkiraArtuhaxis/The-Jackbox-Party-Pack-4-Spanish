@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eat|ketchup packets,throw out|tartar sauce,smell|customers,steal|money,bark at|children,tear up|coupons,lower|prices,delete|security footage,yell at|moms,kiss|sesame seed buns,fire|redheaded workers,lecture|teenagers,scream into|drive-through microphones,burn|uniforms,accept|compliments they get,undercook|burgers,vandalize|nearby McDonald’s stores,talk about|feelings they’d bottled up",
+            "v": "comer|hamburguesas,botar|salsas tártaras,oler|personas,robar|monedas,ladrarle|personas,romper|promociones,bajar|ofertas,borrar|grabaciones de seguridad,gritarle a|mamás,besar|semillas de sésamo,despedir a|trabajadoras pelirrojas,sermonear a|personas jóvenes,gritar por|cajas,quemar|vestimentas,aceptar|sugerencias que recibían,cocinar mal|hamburguesas,destrozar|tiendas de McDonald's cercanas,hablar de|emociones que han reprimido",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2016, una situación particular afectó a varios restaurantes de Burger King. Siguiendo las instrucciones de una llamada de broma, los empleados de la tienda comenzaron a <BLANK> todas las <BLANK>.",
+            "v": "En 2016, una falsa alarma particular afectó a varios restaurantes de Burger King. Siguiendo las instrucciones de una llamada de broma, los empleados de las tiendas comenzaron a <BLANK> todas las <BLANK>.",
             "n": "QuestionText"
         },
         {

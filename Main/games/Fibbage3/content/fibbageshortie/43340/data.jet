@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a way back to the future,cigarettes,a rocket launcher,their sign,their fingers,some dating advice,their phone numbers,canned ham,their obituaries,their teeth,Beyonce tickets,a piece of gum,a Freaky Friday,a ligther,their greatest fears,the president’s space ship,their addresses,the best place to cut them",
+            "v": "una forma de volver al futuro,cigarrillos,un lanzacohetes,su signo,sus dedos,algunos consejos para citas,sus números de teléfono,jamón enlatado,sus obituarios,sus dientes,entradas para Beyoncé,un chicle,un Viernes de locos,un encendedor,sus más grandes miedos,la nave espacial del presidente,sus direcciones,el mejor lugar para cortarlos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "queso en rebanadas",
+            "v": "queso en rodajas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los empleados de una farmacia de CVS en Virginia se encerraron en un cuarto detrás del mostrador y llamaron a la policía luego de que un cliente les pidió <BLANK>.",
+            "v": "Los empleados de una Farmacia CVS en Virginia se encerraron en la trastienda y llamaron a la policía luego de que un cliente les pidió <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cheese",
+            "v": "queso",
             "n": "AlternateSpellings"
         },
         {

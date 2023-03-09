@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "medicina en tiempos de 1ra guerra mundial,música New Wave,Pokémon,probabilidades del poker,monedas raras,tipos de torta,lesiones en deportes",
+            "v": "medicina de la Guerra Civil,música New Wave,Pokémon,probabilidades de póquer,monedas raras,tipos de tortas,lesiones deportivas",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿En qué area crees tener más información sin uso alguno?",
+            "v": "¿Cuál es el área en la que probablemente tengas el conocimiento más inútil?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El área de la que más información sin uso alguno tiene <PLAYER> es <BLANK>.",
+            "v": "El área en la que <PLAYER> tiene el conocimiento más inútil es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El área de la que más información sin uso alguno tiene <PLAYER> es <BLANK>.",
+            "s": "[category=host]The area in which <PLAYER> has the most useless knowledge is <BLANK>.",
             "t": "A",
             "v": "611585_0",
             "n": "QuestionAudio"

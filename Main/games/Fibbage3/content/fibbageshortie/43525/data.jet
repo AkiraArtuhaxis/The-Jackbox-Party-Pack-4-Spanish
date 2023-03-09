@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "great hair,his last name,no shirt,an Australian accent,tiny dogs,three nipples,the measles,a Star Wars tattoo,an overbite,buck teeth,an IMDB credit,excessive nose hair,high heels,no regrets,face tattoos,a thousand Twitter followers,hairy backs,a great singing voice",
+            "v": "pelo genial,su mismo apellido,el torso desnudo,acento australiano,perros pequeños,tres pezones,sarampión,un tatuaje de La guerra de las galaxias,una sobremordida,maloclusión,un crédito en IMDB,vello nasal excesivo,tacones altos,mucho valor,tatuajes en la cara,mil seguidores en Twitter,espaldas peludas,una gran voz para cantar",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antonio Ferrari es dueño de un bar especializado en vinos de la ciudad italiana Padua, donde le da descuentos a las personas con <BLANK>.",
+            "v": "Antonio Ferrari tiene un bar de vinos en la ciudad italiana de Padua, en el que hace un descuento a las personas con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "well behaved kids,well-behaved children,well behaved children,kids who behave well,kids who are well behaved",
+            "v": "niños bien portados,chicos que se portan bien, chicos bien portados,niños bien educados,chicos bien educados",
             "n": "AlternateSpellings"
         },
         {

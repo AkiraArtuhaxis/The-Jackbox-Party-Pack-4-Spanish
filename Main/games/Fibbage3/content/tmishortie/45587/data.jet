@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "El Gran Barto,Zorro Salvaje,La Roca,Paro Cardíaco,El Ajustinador,Fórmula X,@Diozito_Panza",
+            "v": "El Gran Barto,Zorro Salvaje,La Piedra,Paro Cardíaco,El Ajustador,Fórmula X,@Diozito_Panza",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Un buen nombre de lucha libre para tí sería <BLANK>.",
+            "v": "Un buen nombre de luchador profesional para ti sería <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de lucha libre que usaría <PLAYER> es <BLANK>.",
+            "v": "El nombre de luchador profesional de <PLAYER> sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El nombre de lucha libre que usaría <PLAYER> es <BLANK>.",
+            "s": "[category=host]<PLAYER>’s pro wrestler name would be <BLANK>.",
             "t": "A",
             "v": "620299_0",
             "n": "QuestionAudio"

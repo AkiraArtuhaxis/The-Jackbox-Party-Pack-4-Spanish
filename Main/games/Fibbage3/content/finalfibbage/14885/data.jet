@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Love|Dog,Miss|Job,Know|Neighbor,Like|Parents,Eat|Greens,Need|Kidneys,Miss|Grandma,Appreciate|Brain,Wrestle|Pig,Drink|Sorrows,Like|Face,Look|Age,Believe|Senator,Want|Life,Want|Prize,Burn|Toast,Satisfy|Partner,Sleep|Life Away",
+            "v": "Amas a|perro,Extrañas|trabajo,Conoces a|vecino,Te agradan|padres,Te comes|ensalada,Necesitas|riñón,Extrañas a|abuela,Aprecias|cerebro,Luchas con|cerdo,Bebes|pena,Te gusta|cara,Te ves de|edad,Crees en|senador,Quieres|vida,Quieres|premio,Quemaste|tostada,Satisfaces a|compañero,Duermes todo|día",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Confías|Esposa",
+            "v": "Confías en|esposa",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "De 1957 a 1962, Johnny Carson fue presentador de un programa de juegos llamado (en español) <i>¿<BLANK> en tu <BLANK>?<\/i>",
+            "v": "De 1957 a 1962, Johnny Carson fue presentador de un programa de juegos llamado (en español) <i>¿<BLANK> tu <BLANK>?<\/i>",
             "n": "QuestionText"
         },
         {

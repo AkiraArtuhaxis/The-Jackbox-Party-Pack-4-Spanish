@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "quit|jobs,slap|butts,shame|dogs,throw out|cheese,burn|tongues,drink|toilet water,burn|houses,eat all|figs,change|names,swap|spouses,give away|money,plug|ears,yell at|kids,curse|ancestors,lick|feet,pierce|nipples,twirl|mustaches,smell|bread",
+            "v": "renunciaban a|trabajos,abofeteaban|traseros,avergonzaban a|perros,tiraban|queso,quemaban|lenguas,bebían|agua del inodoro,quemaban|casas,se comían todos|higos,se cambiaban|nombres,intercambiaban|parejas,regalaban|dinero,tapaban|orejas,le gritaban a|niños,maldecían a|antepasados,lamían|pies,se perforaban|pezones,giraban|bigotes,olían|panes",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando un gato mascota moría en el antiguo Egipto, sus propietarios tenían una extraña forma de luto. Ellos <BLANK> sus <BLANK>.",
+            "v": "Cuando un gato mascota moría en el antiguo Egipto, sus dueños tenían una extraña forma de luto. Ellos <BLANK> sus <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "shaved|eyebrows,removed|eyebrows,shaved|brows,shave|brows,remove|eyebrows",
+            "v": "afeitarían|cejas,borraban|cejas,afeitaban|ceños",
             "n": "AlternateSpellings"
         },
         {

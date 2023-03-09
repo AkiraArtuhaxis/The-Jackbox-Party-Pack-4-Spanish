@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "polar bear death,the world and melting with you,Hummers from starting,the Earth from spinning,ice from melting,people from complaining,the sun from shining,fast cars being so cool,oil from burning,super intelligent insects,baby boomers from littering,meteors with lasers,the evil Looten Plunder,your uncle’s cigar habit,styrofoam parties,trash barges from leaving port,carbon from existing,whiny hippies",
+            "v": "los osos polares mueran,el mundo gire y te derritas,los delfines piensen,la Tierra gire,el hielo se derrita,la gente se queje,el sol brille,los autos rápidos sean tan geniales,el petróleo se queme,los insectos sean superinteligentes,los boomers tiren basura,los meteoritos tengan láser,se produzcan saqueos,el hábito de fumar puros de tu tío,las fiestas de poliestireno,las barcazas de basura salgan del puerto,el carbono exista,los hippies lloren",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "los eructos de vaca",
+            "v": "las vacas eructen",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "DSM, una empresa de Holanda, inventó un nuevo producto que podría ayudar a salvar el medio ambiente al detener <BLANK>.",
+            "v": "DSM, una empresa de los Países Bajos, inventó un nuevo producto que podría ayudar a salvar el medio ambiente al impedir que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cows from burping,burping cows,cows",
+            "v": "las vacas puedan eructar,vacas que eructan,vacas",
             "n": "AlternateSpellings"
         },
         {

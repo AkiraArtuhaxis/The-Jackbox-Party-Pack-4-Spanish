@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "los murciélagos no existen,todos los gatos son hembra,la salsa viene de árboles,El pan no engorda,Martin Sheen fue presidente,Dos malas hacen una buena,La llegada a la luna fue inventada",
+            "v": "los murciélagos no existían,todos los gatos eran hembras,la salsa provenía de árboles,el pan no engordaba,We are the champions de Queen terminaba con \"of the world\",dos malas hacen una buena,la llegada a la luna era falsa",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Algo raro que creías hasta que descubriste que no era cierto?",
+            "v": "¿Qué cosa rara creías hasta que descubriste que no era verdad?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Por un tiempo, <PLAYER> creía por alguna razón que <BLANK>.",
+            "v": "Por un tiempo, <PLAYER> extrañamente creía que <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Por un tiempo, <PLAYER> creía por alguna razón que <BLANK>.",
+            "s": "[category=host]For a while, <PLAYER> weirdly believed <BLANK>.",
             "t": "A",
             "v": "666220_0",
             "n": "QuestionAudio"

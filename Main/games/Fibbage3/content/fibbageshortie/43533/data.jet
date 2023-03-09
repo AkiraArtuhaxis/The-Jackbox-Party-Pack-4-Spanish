@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "vending machine technician,cow inseminator,janitor,milk shake shaker,car washer,Hooters waitress,sandwich artist,turtle breeder,boat salesman,line dance instructor,bowling instructor,toilet inspector,substitute teacher,topless dancer,art class model,lion tamer,radio DJ,shoe salesman",
+            "v": "técnico de máquinas expendedoras,inseminador de vacas,conserje,batidor de batidos,lavador de autos,camarera de Hooters,artista de sándwiches,criador de tortugas,vendedor de barcos,instructor de baile en línea,instructor de bolos,inspector de baños,profesor sustituto,bailarina en topless,modelo de clase de arte,domador de leones,DJ de radio,vendedor de zapatos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el estado de Tennessee, debes aprobar un examen escrito y realizar 300 horas de práctica para presentarse como <BLANK>.",
+            "v": "En el estado de Tennessee, hay que realizar un examen escrito y 300 horas de prácticas para poder ocupar el puesto de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "shampoo specialist,shampooer",
+            "v": "especialista de shampoo",
             "n": "AlternateSpellings"
         },
         {

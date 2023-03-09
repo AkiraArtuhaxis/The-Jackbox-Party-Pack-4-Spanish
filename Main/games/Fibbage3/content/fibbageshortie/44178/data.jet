@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Ballyhoo,Fun Meats,Good Times,Nick-Nacks,Chew Goods,Yum Yums,Noms,Bunches,Boop Boops,Twinkies,Gut Munchies,Fun Chunks,Mighty Meats,Proteinies,Roosevelt Roasters,Victory Links,Cowboy Fritters,Beef Boys",
+            "v": "Ballyhoo,Carnes Divertidas,Buenos Tiempos,Nick-Nacks,Masticarnes,Yum Yums,Noms,Mucharne,Boop Boops,Twinkies,Bocadillos,Trozos Divertidos,Carnes Poderosas,Proteínarne,Asadores Roosevelt,Enlaces Victoriosos,Fritos Vaqueros,Chicos Filetes",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "cositas",
+            "v": "exquisitez",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Durante la Segunda Guerra Mundial, el Centro Nacional de Investigación intentó hacer que las vísceras resultaran más atractivas para los estadounidenses renombrándolas a “<BLANK>”.",
+            "v": "Durante la Segunda Guerra Mundial, el Centro Nacional de Investigación intentó hacer que las vísceras resultaran más atractivas para los estadounidenses rebautizándolas como “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "tid bits,variety meats,variety",
+            "v": "esquisiteces,carne variada,variedad",
             "n": "AlternateSpellings"
         },
         {

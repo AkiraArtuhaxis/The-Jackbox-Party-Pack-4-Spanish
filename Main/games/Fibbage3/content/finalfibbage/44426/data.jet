@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cartoons|people,smurfs|reptiles,aliens|sexy,light bulbs|edible,cows|psychic,men|lazy,vampires|sparkly,movies|magic,wizards|infertile,movie stars|crazy,action movies|educational,coffee breaks|un-American,politicians|honest,octopuses|from outer space,stuntmen|humble,mole people|controlling the government,apples|dragon eggs,pancakes|the perfect breakfast",
+            "v": "las caricaturas|personas,los Pitufos|reptiles,los extraterrestres|sensuales,las toallas|comestibles,las vacas|psíquicas,los hombres|perezosos,los vampiros|interesantes,las películas|mágicas,los magos|infertiles,las estrellas de cine|dementes,las películas de acción|educativas,las pausas para el café|extranjeras,los políticos|honestos,los pulpos|del espacio exterior,los dobles de acción|humildes,las personas del gobierno|controladas por la gente topo,las manzanas|huevos de dragón,las lasañas|el desayuno perfecto",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dependiendo del resultado de una extraña demanda presentada en 2017, es posible que Warner Bros. deba pagarle a Gerard Brittle 900 millones de dólares, a menos que puedan probar que <BLANK> son <BLANK>.",
+            "v": "Dependiendo del resultado de una extraña demanda presentada en 2017, es posible que Warner Bros. deba pagarle a Gerard Brittle 900 millones de dólares, a menos que puedan demostrar que <BLANK> son <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "spirits|real,demons|real",
+            "v": "los espíritus|reales,los demonios|reales",
             "n": "AlternateSpellings"
         },
         {

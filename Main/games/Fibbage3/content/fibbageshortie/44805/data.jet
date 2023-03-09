@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Fire hydrants,Vikings,College Boys,The Indigo Girls,The Spice Girls,One Direction,Fast Cars,Worms,Vampires,Short Men,Bald Men,Women with facial hair,British Women,Cats,Paul Rudd,Jennifer Lawrence,Rugby Players,Porkins from Star Wars",
+            "v": "los hidrantes,los vikingos,los universitarios,las Indigo Girls,las Spice Girls,One Direction,los autos rápidos,gusanos,vampiros,hombres bajitos,hombres calvos,mujeres con vello facial,mujeres británicas,gatos,Paul Rudd,Jennifer Lawrence,jugadores de rugby,Porkins de La guerra de las galaxias",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Los gorilas",
+            "v": "los gorilas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La política escocesa, Gisela Allen, dijo en 2017 que se encuentra muy atraída a <BLANK>.",
+            "v": "La política escocesa, Gisela Allen, dijo en 2017 que se siente extremadamente atraída por <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Goriilas,Gorillaz,Gerillas,monkeys,monkeys,monkey,a gorilla",
+            "v": "gorilas,gorila,Gorillaz,monos,mono,un gorila",
             "n": "AlternateSpellings"
         },
         {

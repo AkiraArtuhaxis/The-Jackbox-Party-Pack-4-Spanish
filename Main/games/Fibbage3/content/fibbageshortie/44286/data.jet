@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a Juggler,Vegetarian,a student,a wizard,a mermaid,ambidextrous,a sass mouth,a master chef,a tiny bear,blind,consantly screaming,French,an octopus,a poet,a mathematician,a superhero,a wig maker,a basket weaver",
+            "v": "malabarista,vegetariano,estudiante,mago,sirena,ambidiestro,un descarado,maestro de cocina,oso diminuto,ciego,gritón,francés,pulpo,poeta,matemático,superhéroe,peluquero,cestero",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2005, se erigió una estatua en Edinburgh para honrar a Sir Nils Olav, el primer miembro de la Guardia Real Noruega en ser además <BLANK>.",
+            "v": "En 2005 se erigió en Edimburgo una estatua en honor de Sir Nils Olav, el primer miembro de la Guardia Real Noruega que también era <BLANK>.",
             "n": "QuestionText"
         },
         {

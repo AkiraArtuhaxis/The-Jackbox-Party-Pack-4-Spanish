@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fighter jets,Mission Impossible 3,stunt harnesses,exoskeletons,tickets to Oprah,hair gel,Lamborghinis,spacecrafts,homemade aspirin,tightie whities,counting cards,reincarnation,alien invasion,excitedly mixing drinks,shirtless volleyball,future crime,showing the money,jumping on couches",
+            "v": "aviones de combate,Misión Imposible 3,arneses de acrobacia,exoesqueletos,entradas para Oprah,geles para el cabello,Lamborghinis,naves espaciales,aspirinas caseras,calzoncillos,contar las cartas,reencarnaciones,invasiones extraterrestres,mezclar bebidas con entusiasmo,voleibol sin camiseta,la delincuencia futura,mostrar el dinero,saltar en los sofás",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "sonogramas sin licencia",
+            "v": "ecografías sin licencia",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El proyecto de ley de California AB2360, apodado \"La ley Tom Cruise\", es único en que prohíbe <BLANK>.",
+            "v": "El proyecto de ley AB2360 de California, apodado \"La ley Tom Cruise\", es único porque prohíbe <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ultrasound,home ultrasound,home sonograms,sonograms,sonagrams,personal sonograms,unlicensed ultrasound",
+            "v": "ultrasonido,ultrasonido casero,ecografías caseras,ecografías,ecografias,ecografías personales,ultrasonido sin licencia",
             "n": "AlternateSpellings"
         },
         {

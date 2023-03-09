@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "¿Cuál es el mejor regalo que te han dado cuando eras niño?",
+            "v": "¿Cuál es el mejor regalo que recibiste cuando eras menor?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El mejor regalo que le han dado a <PLAYER> de pequeño/a fue <BLANK>.",
+            "v": "El mejor regalo que <PLAYER> recibió cuando era menor fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El mejor regalo que le han dado a <PLAYER> de pequeño fue <BLANK>.",
+            "s": "[category=host]The best present <PLAYER> received as a kid was <BLANK>.",
             "t": "A",
             "v": "684571_0",
             "n": "QuestionAudio"

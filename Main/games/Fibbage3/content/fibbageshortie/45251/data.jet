@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "A cartoon character,two people with the same name,someone named Harris,a corporation,Frank Sinatra,a professional chef,Pablo Picasso,Babe Ruth,Karl Marx,a nun,John Wayne,an entire town,a car,a dog,a foley artist,a future President,the Earth,someone other than Streep",
+            "v": "un personaje de dibujos animados,dos personas con el mismo nombre,alguien llamado Harris,una corporación,Frank Sinatra,un chef profesional,Pablo Picasso,Babe Ruth,Karl Marx,una monja,John Wayne,una ciudad entera,un auto,un perro,un artista de foley,un futuro presidente,la Tierra,alguien que no sea Streep",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "el gobierno de los Estados Unidos",
+            "v": "el gobierno de los EE. UU.",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the United States government,the government,the federal government,USA,the USA,the U.S.A.",
+            "v": "el gobierno de los Estados Unidos,el gobierno,el gobierno federal,EE. UU.,los EE. UU.,EE.UU.",
             "n": "AlternateSpellings"
         },
         {

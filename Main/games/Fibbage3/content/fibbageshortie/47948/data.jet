@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "spoons,chairs,pens,carpet samples,clues to his dastardly crimes,puzzle pieces,Luftballons,bottles of beer on a wall,spelling tests that he aced,reasons why Ringo is the best Beatle,dead flowers,get well soon cards,cupcakes,copies of blade runner on vhs,wheels of cheese,letters he wrote to santa,text messages he never sent,locks of hair",
+            "v": "cucharas,sillas,bolígrafos,muestras de alfombras,pistas sobre sus crímenes,piezas de rompecabezas,Luftballons,botellas de cerveza en una pared,exámenes de ortografía que aprobó,razones por las que Ringo es el mejor Beatle,flores muertas,tarjetas de \"mejórate pronto\",magdalenas,copias de Blade Runner en VHS,ruedas de queso,cartas que escribió a Papá Noel,mensajes de texto que nunca envió,mechones de pelo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "melones",
+            "v": "sandías",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si quieres recuperar algún ex, tal vez no sigas el ejemplo de un estudiante de la Universidad Henan en China. Trato de recuperar a su ex-novia con 99 <BLANK>.",
+            "v": "Si quieres reconquistar a un ex, tal vez no sigas el ejemplo de un estudiante de la Universidad Henan en China. Trató de recuperar a su ex novia con 99 <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "water melons,watermelon,melons",
+            "v": "sandias,sandía,sandia,melones,melón",
             "n": "AlternateSpellings"
         },
         {

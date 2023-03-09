@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "toss|children,eat|tail,build|gun,be|worst enemy,swallow|head,expell|land mines,pilot|submarine,explode|brain,lose|keys,vomit|stomach,write|will,project|nightmares,spray|pee,eat|poop,make|poison,melt|eyes,grow|gun,ignite|farts",
+            "v": "lanzar|hijos,comer|dedos,construir|armamentos,ser|peores enemigos,tragar|sesos,expulsar|explosivos,pilotar|submarinos,explotar|sesos,perder|estribos,vomitar|estómagos,escribir|deseos,proyectar|temores,rociar|meados,comer|excrementos,hacer|venenos,derretir|ojos,crecer|lanzagranadas,encender|pedos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Se gentil con la “rana peluda” de África Central. Si se siente en peligro, puede <BLANK> sus propios <BLANK>.",
+            "v": "Sé gentil con la “rana peluda” de África Central. Cuando se ve amenazada, puede <BLANK> sus propios <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "breaks|bones,make|claws,shatter|bones,break|toes,break|toe",
+            "v": "romper|huesos,hacer|ganchos,destrozar|huesos,romper|dedos,romper|dedo",
             "n": "AlternateSpellings"
         },
         {

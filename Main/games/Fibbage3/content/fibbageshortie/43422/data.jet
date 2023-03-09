@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dogs stand on their hind legs,hand turkeys,people listen to your opinions,macaroni necklaces,mittens,sense of the world,quilts,doilies,pottery,dog sweaters,homemade puppets,quiche,maple candy,his mom’s sugar cookies,rose-scented candles,vanilla pudding,salt water taffy,a mix-tape",
+            "v": "que los perros se paren en dos patas,pavos de mano,que la gente escuche tus opiniones,collares de pasta,mitones,que el mundo tenga sentido,edredones,blondas,cerámica,chalecos para perros,títeres caseros,quiche,dulces de arce,las galletas dulces de su mamá,velas con escencia a rosas,pudín de vainilla,caramelos de agua salada,una cinta de mezclas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "una agradable taza de té",
+            "v": "una buena taza de té",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1946, el autor de <i>Rebelión en la granja<\/i> George Orwell encontró su lado más sensible en un ensayo que escribió para el periódico <i>Evening Standard<\/i> donde explicó cómo hacer <BLANK>.",
+            "v": "En 1946, el autor de <i>Rebelión en la granja<\/i>, George Orwell, encontró su lado más sensible en un ensayo que escribió para el periódico <i>Evening Standard<\/i> donde explicó cómo hacer <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a cup of tea,tea,cups of tea",
+            "v": "una taza de té,té,tazas de té",
             "n": "AlternateSpellings"
         },
         {

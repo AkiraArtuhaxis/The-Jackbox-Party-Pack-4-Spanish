@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fart,start dancing,explode,begin to cry,vanish,melt,grow,scream,come back to life,vomit,shrink,turn yellow,whisper,undress,run away,sing a hymn,blush,start humming",
+            "v": "se tira pedos,empieza a bailar,explota,empieza a llorar,se desvanece,se derrite,crece,grita,vuelve a la vida,vomita,se contrae,se vuelve amarillo,susurra,se desviste,huye,canta un himno,se sonroja,empieza a tararear",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "se desangraría",
+            "v": "sangra",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Los primeros detectives en la Edad Media creían en la “cruentación\", una creencia supersticiosa de que el cuerpo de una víctima asesinada <BLANK> en presencia del asesino.",
+            "v": "Los primeros detectives en la Edad Media creían en la “cruentación”, la creencia supersticiosa de que el cuerpo de una víctima de asesinato <BLANK> en presencia del asesino.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "start to bleed,begin to bleed,start bleeding",
+            "v": "empieza a sangrar,comienza a sangrar,empieza el sangrado",
             "n": "AlternateSpellings"
         },
         {

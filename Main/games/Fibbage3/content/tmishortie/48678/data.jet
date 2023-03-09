@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "una Xbox,una Playstation,una Nintendo Switch,mi celular,una televisión,un auto,una botella de agua",
+            "v": "una Xbox,una Playstation,una Nintendo Switch,mi celular,un televisor,un auto,una botella de agua",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo que sin duda alguna te llevarías a una expedición a Marte?",
+            "v": "¿Qué es lo que sin duda te llevarías en una expedición a Marte?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que <PLAYER> sin duda alguna se llevaría a una expedición a Marte sería <BLANK>.",
+            "s": "[category=host]Something <PLAYER> would definitely take on an expedition to Mars would be <BLANK>.",
             "t": "A",
             "v": "694166_0",
             "n": "QuestionAudio"

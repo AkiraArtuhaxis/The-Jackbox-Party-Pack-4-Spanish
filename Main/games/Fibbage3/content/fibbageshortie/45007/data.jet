@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "nose,kangaroo,alligator,doll,sausage,couch,zombie,vacuum,uncle,hipster,astronaut,angel,emotional,jetpack,underwater,gravy,caveman,clown",
+            "v": "narices,canguros,caimanes,muñecas,salchichas,sofás,zombis,aspiradoras,tíos,hipsters,astronautas,ángeles,emociones,mochilas propulsoras,submarinos,salsas,cavernícolas,payasos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "de pulgares",
+            "v": "dedos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En la ciudad alemana de Lenggries, más de 100 hombres se reúnen para competir en el campeonato anual de lucha <BLANK>.",
+            "v": "En la ciudad alemana de Lenggries, más de 100 hombres se reúnen para competir en el campeonato anual de lucha de <BLANK>.",
             "n": "QuestionText"
         },
         {

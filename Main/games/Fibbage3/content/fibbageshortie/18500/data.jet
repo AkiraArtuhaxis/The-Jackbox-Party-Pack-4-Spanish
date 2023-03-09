@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "clean the bathroom,wash the instruments,dress the corpses,entertain the guests,get coffee,dig graves,notify the victim’s family,do the books,sing Edith Piaf,take photographs,make office signs,order food,maintain the website,build furniture,guard the corpses,design software,man the reception desk,drive a hearse",
+            "v": "limpiar el baño,lavar los instrumentos,vestir los cadáveres,entretener a los invitados,preparar café,cavar tumbas,notificar a la familia de la víctima,llevar la contabilidad,cantar Édith Piaf,tomar fotografías,hacer carteles de oficina,pedir comida,mantener la página web,hacer muebles,vigilar los cadáveres,diseñar software,atender la recepción,conducir una carroza fúnebre",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "style dead women’s hair",
+            "v": "peinar a las mujeres muertas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Antes de que fuera un actor exitoso, Danny DeVito solía trabajar en una morgue, donde su trabajo era <BLANK>.",
+            "v": "Antes de ser un actor exitoso, Danny DeVito solía trabajar en una morgue, donde su trabajo consistía en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "style hair,style women’s hair,cut women’s hair,cut dead women’s hair,style corpse’s hair,do hair,do corpse’s hair,do the hair,be a beautician",
+            "v": "peinar cabello,peinar cabello de mujer,peinar el cabello de mujeres muertas,peinar pelo,peinar pelo de mujer,peinar el pelo de mujeres muertas,cortar pelo de mujer,cortar el pelo de mujeres muertas,cortar pelo de cadáveres,cortar cabello de mujer,cortar el cabello de mujeres muertas,cortar cabello de cadáveres,arreglar el pelo,arreglar el pelo de cadáveres,arreglar el cabello,arreglar el cabello de cadáveres,ser el peluquero,ser peluquero",
             "n": "AlternateSpellings"
         },
         {

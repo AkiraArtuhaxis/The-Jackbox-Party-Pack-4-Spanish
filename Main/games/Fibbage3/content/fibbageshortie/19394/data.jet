@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "whitest smile,best chainsaw juggler,biggest fan,fastest letter-turner,blondest hair,best mom,only Vanna White,most underpaid personality,weirdest walker,most pleasant voice,cutest nose,most frequently pregnant,thinnest ankles,most pointless person,most nasally sounding voice,most annoying laugher,hardest worker,shortest game show personality",
+            "v": "La sonrisa más blanca,La mejor malabarista de motosierras,La mayor fanática,La giradora de letras más rapida,El pelo más rubio,La mejor mamá,La Vanna White,La personalidad peor pagada,La caminadora más rara,La voz más agradable,La nariz más bonita,La embarazada más frecuente,Los tobillos más delgados,La persona mas inútil,La voz más nasal,La risa más molesta,La trabajadora más esforzada,La personalidad más pequeña del programa de juegos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Aplaudadora más frecuente",
+            "v": "Aplaudidora más frecuente",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Vanna White de <i>La rueda de la fortuna<\/i>’s oficialmente cuenta con el record mundial Guinness al año 2015 de “<BLANK> en la televisión.”",
+            "v": "Desde 2015, Vanna White de <i>La rueda de la fortuna<\/i> ostenta oficialmente el título de Récord Mundial Guinness de “<BLANK> de la televisión”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "frequentest clapper,most clapper,most clapping,most frequint clapper",
+            "v": "aplaudidora frecuente,la que más aplaude,más aplausos,la que mas aplaude,mas aplausos",
             "n": "AlternateSpellings"
         },
         {

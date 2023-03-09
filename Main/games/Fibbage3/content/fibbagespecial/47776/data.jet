@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "massage,hanukkah gift,acting lesson,banana bread recipe,script,compliment,Valentine’s Day present,apple pie,soccer pass,bowl of chicken noodle soup,mixtape,tweet,pizza delivery,santa hat,yoga class,prank call,press release,home loan",
+            "v": "masaje,regalo de Hanukkah,ejemplo de actuación,pan de plátano,libreto,cumplido,regalo de San Valentín,pastel de manzana,pase de fútbol,plato de sopa de pollo con fideos,cassette de música mezclada,tuit,servicio de entrega de pizza,gorro de Papá Noel,apoyo para que siga con las clase de yoga,llamado de broma,comunicado de prensa,préstamo hipotecario",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Olivia Wilde tuiteó: \"Fuera de broma el mejor <BLANK> que he recibido fue de un Santa de centro comercial\".",
+            "v": "Olivia Wilde tuiteó: \"Fuera de broma, el mejor <BLANK> que he recibido fue de un Papá Noel de un centro comercial\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "advice",
+            "v": "consejo",
             "n": "AlternateSpellings"
         },
         {

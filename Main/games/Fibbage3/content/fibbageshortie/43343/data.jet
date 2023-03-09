@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bubble machines,champagne,radios,cleaning supplies,balloons,motorcycles,cars,old ovens,old telephones,meth supplies,toilets,microwaves,alka-seltzers,soda,car batteries,cats,underwear,moonshine",
+            "v": "máquinas de burbujas,espumantes,radios,artículos de limpieza,globos,motocicletas,autos,hornos viejos,teléfonos viejos,suministros de metanfetamina,baños,microondas,antiácidos,refrescos,baterías de auto,gatos,ropas interiores,luces de luna",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El brazo sur del río Chicago es conocido como el \"río burbujeante\". Es burbujeante porque es donde la gente solía dejar sus <BLANK>.",
+            "v": "El brazo sur del río Chicago es conocido como el \"Arroyo burbujeante\". Es burbujeante porque es donde la gente solía dejar sus <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "rotten meat,old beef,dead cow,cow carcasses,rotten beef,cows",
+            "v": "carnes podridas,vacuno viejo,vaca muerta,cadáveres de vaca,vacuno podrido,vacas",
             "n": "AlternateSpellings"
         },
         {

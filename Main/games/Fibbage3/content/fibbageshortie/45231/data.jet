@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "gold woman,beaver,unicorn village,silver statue,money tree,door to heaven,fountain of youth,wish-granting cow,pile of money,talking tree,flying bear,elf city,spaceship,fig tree,three-headed bull,pepper mine,walking catfish,eagle",
+            "v": "una mujer de oro,un castor,un pueblo unicornio,una estatua de plata,un árbol del dinero,una puerta al cielo,una fuente de la juventud,una vaca que concede deseos,un montón de dinero,un árbol parlante,un oso volador,una ciudad de elfos,una nave espacial,una higuera,un toro de tres cabezas,una mina de pimienta,un pez gato andante,un águila",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "montaña hecha de sal",
+            "v": "una montaña hecha de sal",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una de las razones por las que Thomas Jefferson estaba entusiasmado con completar la compra de Luisiana es porque había rumores sobre la presencia de un/a gigante <BLANK> en las orillas del río Misuri.",
+            "v": "Una de las razones por las que Thomas Jefferson estaba entusiasmado con completar la compra de Luisiana es porque había rumores sobre la presencia de <BLANK> enorme en las orillas del río Misuri.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mountain of salt,salt mountain",
+            "v": "montaña de sal,montaña salada",
             "n": "AlternateSpellings"
         },
         {

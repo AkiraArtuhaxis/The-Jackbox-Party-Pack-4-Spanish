@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hummus,human blood,gold coins,snake venom,rum,fire crackers,shrimp cocktail,hundreds of worms,scotch whiskey,vomit,nerve toxin,starfish semen,crab brains,monkey poop,lizard pee,a fish stomach,Mr. Pibb,Tylenol",
+            "v": "hummus,sangre humana,monedas de oro,veneno de serpiente,ron,petardos,cóctel de camarones,cientos de gusanos,whisky escocés,vómito,toxina nerviosa,semen de estrella de mar,sesos de cangrejo,caca de mono,orina de lagarto,tripas de pescado,Dr. Pepper,paracetamol",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un embrión de pato",
+            "v": "un pato nonato",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La próxima vez que fiestes demasiado duro, prueba un \"balut\". Es una cura para la resaca en Filipinas que consiste en un huevo relleno con <BLANK>.",
+            "v": "La próxima vez que te pases de fiesta, prueba el \"balut\". Es una cura tradicional filipina para la resaca que consiste en un huevo relleno con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "an embryo,a duck embryo,a duck fetus,duck,a duck,a fetus,fetus",
+            "v": "un embrión,un embrión de pato,un feto de pato,pato,un pato,un feto,feto",
             "n": "AlternateSpellings"
         },
         {

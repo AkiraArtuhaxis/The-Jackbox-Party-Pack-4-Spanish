@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Gnome,Statue of the Queen,sandwich shop,Ice Cream Stand,school,Whale,Pet Shop,Hotel Room,Coffee Shop,Dance Hall,Apartment,Bowling Alley,Badger,Trousers,Hedge,Scone,Parliamentarian,Light Bulb",
+            "v": "el gnomo,la estatua de la reina,la tienda de sándwiches,el puesto de helados,la escuela,la ballena,la tienda de mascotas,la habitación de hotel,la cafetería,el salón de baile,el departamento,el boliche,el tejón,el pantalón,el seto,el bollito,el parlamentario,la bombilla",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Estación de policía",
+            "v": "la estación de policía",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En la plaza de Trafalgar en Londres, hay un ornamento de luz que oculta a la <BLANK> más pequeña de Gran Bretaña.",
+            "v": "En la plaza de Trafalgar en Londres, hay un ornamento de luz que oculta a <BLANK> de menor tamaño de Gran Bretaña.",
             "n": "QuestionText"
         },
         {

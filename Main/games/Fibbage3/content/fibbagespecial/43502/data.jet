@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "suegra,muñeca brava,mecánico,tío rico,terapéuta,bebé,esposa,panadero,profesor de historia,presidente,papi,amante,abogado,mesero,perro,cerdo,paloma,jardín",
+            "v": "cuñada,proveedora de tortas,mecánica,tía rica,terapeuta,bebé,esposa,panadera,profesora de historia,alcalde,mami,amante,abogada,mesera,perra,cerda,paloma,jardín",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un refrán viejo Ruso se traduce como “El hambre no es tu <BLANK>. No te va a traer una tarta.”",
+            "v": "Un viejo refrán ruso que se traduce como “El hambre no es tu <BLANK>. No te traerá torta”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "aunt",
+            "v": "tia,tio,tío",
             "n": "AlternateSpellings"
         },
         {

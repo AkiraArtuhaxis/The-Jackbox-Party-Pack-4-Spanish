@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "shoe polishing,grass mowing,pillow fluffing,floor sweeping,toast making,shower cleaning,book humping,waiting in line,knot tying,lizard birthday,lightbulb testing,Chevy Chase conspiracy,flossing,moth watching,extreme blinking,sock naming,gum review,fork testing",
+            "v": "lustrando zapatos,cortando pasto,mulliendo almohadas,barriendo el suelo,haciendo tostadas,limpiando duchas,haciendo origami con libros,haciendo fila,haciendo nudos,de cumpleaños de lagartijas,probando vidrio,conspirando contra Keanu Reeves,usando hilo dental,observando polillas,parpadeando,poniéndole nombre a calcetines,calificando chicles,probando tenedores",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "reventándose granos",
+            "v": "reventando granos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si crees que los vídeos de unboxing de productos son raros, entonces claramente no has visto la página de YouTube de Vikram Yadav. Es conocido por subir videos <BLANK>.",
+            "v": "Si crees que los videos de unboxing de productos son raros, está claro que no has echado un vistazo a la página de YouTube de Vikram Yadav. Es conocido por subir videos <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "zit-popping,pimple popping,acne,zit,pimple",
+            "v": "reventando espinillas,rebentando granos,rebentando espinillas,acné,granos,espinillas,grano,espinilla",
             "n": "AlternateSpellings"
         },
         {

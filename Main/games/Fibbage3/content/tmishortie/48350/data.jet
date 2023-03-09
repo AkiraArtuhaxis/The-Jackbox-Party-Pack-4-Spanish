@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Juegos diabólicos,El proyecto de la bruja de Blair,Laberinto,Los cazafantasmas 2,El resplandor,Freddy Krueger,Gremlins",
+            "v": "Poltergeist: Juegos diabólicos,El proyecto de la Bruja de Blair,Laberinto,Los cazafantasmas 2,El resplandor,Viernes 13,Gremlins",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué película más te asustó de pequeño?",
+            "v": "¿Qué película te daba más miedo cuando eras menor?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La película que más asustó de pequeño/a a <PLAYER> fue <i><BLANK><\/i>.",
+            "v": "La película que más le daba miedo a <PLAYER> cuando era menor fue <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La película que más asusto de pequeño a <PLAYER> fue <BLANK>.",
+            "s": "[category=host]The movie that scared <PLAYER> the most as a kid was <BLANK>.",
             "t": "A",
             "v": "684541_0",
             "n": "QuestionAudio"

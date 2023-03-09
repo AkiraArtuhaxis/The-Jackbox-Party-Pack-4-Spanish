@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Hair,Teeth,Baby clothes,elbows,socks,Coloring books,favorite picture,Jack-In-The-Box,Bible,marbles,left hand,Toy soldiers,hopes and dreams,Etch-A-Sketch,coolest toy,signature,official seal,Chess Set",
+            "v": "pelo,diente,ropa de bebé,codo,calcetín,libro para colorear,dibujo favorito,caja de sorpresas,biblia,canica,mano izquierda,soldadito de juguete,sueño y esperanza,boceto,juguete más genial,firma,sello oficial,juego de ajedrez",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Yo-Yo",
+            "v": "yo-yo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando los niños de la Antigua Grecia se convertían en adultos, se esperaba que complacieran a los dioses colocando su <BLANK> en un altar.",
+            "v": "Cuando los niños de la antigua Grecia llegaban a la edad adulta, debían complacer a los dioses colocando su <BLANK> en un altar.",
             "n": "QuestionText"
         },
         {

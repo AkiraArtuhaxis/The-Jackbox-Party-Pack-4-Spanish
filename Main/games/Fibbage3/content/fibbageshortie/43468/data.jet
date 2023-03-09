@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dolls,ghosts,beloved cell phones,spiritual jewelry,radioactive waste,time capsules,non-recyclable light bulbs,opera glasses,old computers,wild rabid bats,used batteries,police evidence,old sweaters,ground water sensors,wedding dresses,tainted Halloween candy,emergency rations,U.S. Nuclear codes",
+            "v": "muñecas,fantasmas,celulares queridos,joyas espirituales,deshechos radioactivos,cápsulas de tiempo,bombillas no reciclables,binoculares,computadores viejos,murciélagos salvajes con rabia,baterías usadas,evidencia policial,chalecos viejos,sensores de agua subterránea,vestidos de novia,dulces de Halloween contaminados,raciones de emergencia,códigos nucleares de EE.UU.",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "miembros cortados",
+            "v": "extremidades amputadas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Hoegh Industries of Gladstone ha producido ataúdes para mascota desde 1966. Curiosamente, sus ataúdes también se utilizan para enterrar <BLANK>.",
+            "v": "Las industrias Hoegh de Gladstone, Michigan, ha producido ataúdes para mascotas desde 1966. Curiosamente, sus ataúdes también se utilizan para enterrar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "amputated limbs,severed arms and legs,arms and legs,arms,legs,severed body parts,body parts,human body parts,amputated parts",
+            "v": "extremidades cortadas,brazos y piernas amputadas,brazos y piernas,brazos,piernas,partes del cuerpo amputadas,partes del cuerpo,partes del cuerpo humano,partes amputadas",
             "n": "AlternateSpellings"
         },
         {

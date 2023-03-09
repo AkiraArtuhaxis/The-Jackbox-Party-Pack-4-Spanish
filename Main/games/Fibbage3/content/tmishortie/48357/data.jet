@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "zapatillas,café,ropa interior,galletitas,planes de datos,manteca de cacao,videojuegos",
+            "v": "zapatillas,café,ropa interior,galletas,internet,manteca de cacao,videojuegos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo en lo que gastas demasiado dinero?",
+            "v": "¿En qué gastas demasiado dinero?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> gasta demasiado dinero en <BLANK>.",
+            "s": "[category=host]<PLAYER> spends too much money on <BLANK>.",
             "t": "A",
             "v": "684719_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Gangster Rap,Homey Alone,Healthy Livin’,Good Rap Fellas,You Rapping At Me?,Street Rhymes,Everybody’s Clown,Gawdfather,My Cousin Rhymin’,Gangsta’s Paradise,It’s Tough Work Down Here,Marmalade Mouth,Li’l Joe,Roman Holiday,No Funny Stuff,Brooklyn Beats,Capiche?,New York Minute",
+            "v": "Rap de gángsters,Mi pobre amiguito,Vida sana,Buen rap amigos,¿Me estás rapeando?,Rimas de la calle,El payaso de todos,Padrino,Mi primo rimando,El paraíso de los gángsters,Es un trabajo duro aquí abajo,Boca de mermelada,Pequeño Joe,Vacaciones en Roma,No tiene gracia,Ritmos de Brooklyn,Capiche?,Minuto de Nueva York",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Hombre Sabio",
+            "v": "Hombre sabio",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "wiseguy,wise-guy,wise guys",
+            "v": "Sabio,Sabiondo,Tipo sabio,hombre sabio",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "throws up,sues you,starts beatboxing,asks for money,touches your bathing suit area,shows you their puppet,sends you a script,asks about your grandkids,calls you “spoopy”,keeps touching their hair,passes you notes in study hall,poisons you,grows three feet,says you’re husky,challenges you to flip cup,offers you gum,rubs your nose,says your dog is the cutest",
+            "v": "vomita,te demanda,empieza a hacer beatboxing,te pide dinero,te toca la zona del traje de baño,te enseña su títere,te envía un libreto,te pregunta por tus nietos,te dice \"hermonstruito\",no para de tocarse el pelo,te pasa notas en la sala de estudio,te envenena,crece un metro,te dice que eres un perrito,te reta a dar vuelta la botella,te ofrece un chicle,te frota la nariz,dice que tu perro es el más bonito",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Ryan Seacrest hizo una encuesta que preguntaba: \"Si alguien <BLANK> después de que les conoces, ¿está coqueteando contigo?\"",
+            "v": "Ryan Seacrest hizo una encuesta que preguntaba: \"Si alguien <BLANK> después de que se conocen, ¿está coqueteando contigo?\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "likes your photos,starts liking photos",
+            "v": "le gusta tus fotos,empieza a gustarle las fotos",
             "n": "AlternateSpellings"
         },
         {

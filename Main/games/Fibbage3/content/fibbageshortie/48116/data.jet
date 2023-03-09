@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "underwear,iTunes gift cards,socks,mustache wax,internet time,dandruff shampoo,plastic utensils,modelling clay,podcasts,comic books,sensible slacks,bootleg DVDs,Twitter follows,pictures of Angela Lansbury,fresh mozzarella,Big Red gum,Pizza Combos,witty remarks",
+            "v": "ropa interior,tarjetas regalo de iTunes,calcetines,cera para el bigote,tiempo de internet,champú anticaspa,utensilios de plástico,plastilina,pódcasts,historietas,pantalones de vestir,DVDs piratas,seguidores de Twitter,fotos de Angela Lansbury,queso fresco,chicle,combos de pizza,comentarios ingeniosos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2016, Charlie Shrem escribió acerca de lo que observó en la economía de una prisión federal. La revelación más sorprendente que hizo fue que, en lugar de cigarrillos, la mayoría de los presos utilizan <BLANK> como moneda.",
+            "v": "En 2016, Charlie Shrem escribió acerca de lo que observó en la economía de una prisión federal. La revelación más sorprendente que hizo fue que, en lugar de cigarrillos, la mayoría de los presos utilizaban <BLANK> como moneda.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "mackerel,mackeral,tins of mackerel,pouches of mackerel,cans of mackerel,packets of mackerel,fish",
+            "v": "pez,peces,pescados,latas de pescado,bolsas de pescado,paquetes de pescado",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "French,smoking pot,obese,ripping up a tax form,reading a book,dreaming about mice,holding a rat,crying into a fountain,leaning to the left,punching the Devil,drinking a beer,throwing tomatoes,under an umbrella,eating ice cream,jazz scatting,playing a washboard,watching Home Improvement reruns,modelled after James Gandolfini",
+            "v": "en Francia,fumando marihuana,obeso,rompiendo un formulario de impuestos,leyendo un libro,soñando con ratones,sosteniendo una rata,llorando en una fuente,inclinándose hacia la izquierda,golpeando al diablo,bebiendo una cerveza,tirando tomates,bajo un paraguas,comiendo helado,tocando jazz,tocando una tabla de lavar,viendo El Resplandor,modelando como James Gandolfini",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "haciendo pis",
+            "v": "orinando",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Hay una estatua famosa cerca del ayuntamiento de Bruselas que se dice que simboliza el espíritu de la ciudad. Esta muestra a un niño pequeño que está <BLANK>.",
+            "v": "Cerca del ayuntamiento de Bruselas hay una famosa estatua que, según dicen, encarna el espíritu de la ciudad. Representa a un niño pequeño que está <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "urinating,pissing",
+            "v": "haciendo pipí,meando",
             "n": "AlternateSpellings"
         },
         {

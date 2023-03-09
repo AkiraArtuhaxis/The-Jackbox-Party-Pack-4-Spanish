@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "used bars of soap,beer,pig butter,haunted ingredients,cockroach milk,fish guts,her tears,baby poop,earwax,belly button lint,play-doh,dead bugs,shampoo,manure,ice cream,horse spit,her husband’s ashes,snot",
+            "v": "barras de jabón usadas,cerveza,manteca de cerdo,ingredientes embrujados,leche de cucaracha,intestinos de pescado,sus lágrimas,excremento de bebé,cerumen,pelusa de ombligo,plastilina,insectos muertos,champú,estiércol,helado,escupo de caballo,las cenizas de su esposo,mocos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cecilia Westbrook, una estudiante de doctorado en la Universidad de Wisconsin, fue noticia con un experimento inusual que involucraba hacer yogur con <BLANK>.",
+            "v": "Cecilia Westbrook, una estudiante de doctorado en la Universidad de Wisconsin, fue noticia con un raro experimento que involucraba hacer yogur con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "vaginal bacteria,her vagina,her pussy,vaginal yeast,her vaginal yeast",
+            "v": "bacterias vaginales,su vagina,su chota,levadura vaginal,su levadura vaginal",
             "n": "AlternateSpellings"
         },
         {

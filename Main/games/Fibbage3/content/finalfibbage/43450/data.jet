@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "snake|sunglasses,nun|a bikini,child|a wizard costume,deer|a cocktail dress,hawk|a tie,robot|a clown mask,baby|a suit of armor,chimpanzee|a wedding dress,rabbit|perfume,rat|a Superman cape,former President|a fake beard,moose|high heels,dictator|lipstick,squirrel|a tutu,punk band|towels,penguin|a graduate cap,emu|a thong,polar bear|a tuxedo",
+            "v": "una serpiente|lentes de sol,una monja|un bikini,un niño|un disfraz de mago,un ciervo|un vestido de cóctel,un halcón|una corbata,un robot|una máscara de payaso,un bebé|una armadura,un chimpancé|un vestido de novia,un conejo|perfume,una rata|una capa de Superman,un ex presidente|barba falsa,un alce|tacones altos,un dictador|lápiz labial,una ardilla|tutú,una banda punk|toallas,un pingüino|un gorro de graduado,un avestruz|una tanga,un oso polar|esmoquin",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "pato|botas rojas y un pañal",
+            "v": "un pato|botas rojas y un pañal",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En octubre de 2016, uno de los pasajeros en un vuelo de Charlotte a Asheville era un <BLANK> que llevaba <BLANK>.",
+            "v": "En octubre de 2016, uno de los pasajeros en un vuelo de Charlotte a Asheville era <BLANK> usando <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "duck|boots,duck|red boots,duck|a diaper,duck|diaper,diaper|duck",
+            "v": "pato|botas,pato|botas rojas,pato|un pañal,pato|pañal,pañal|pato",
             "n": "AlternateSpellings"
         },
         {

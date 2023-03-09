@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Scotland: It’s Mostly Drinking,Scotland: No You’re Thinking of Ireland,Ya’ll Like Castles?,The Birthplace of Golf,We Have Sean Connery,Islands of Adventure,A Kilt Full of Possibilities,Scotland: There Can Be Only One,There’s No Country Like It,Where the Sass Is,Home of Scroge McDuck,Loch Stock and Barrel,Where dresses are pants!,That terrible sound is bagpipes,Now With Leprechauns,No Brave didn’t happen,Get out,Watch yourself bub",
+            "v": "Escocia: Se trata de beber,Escocia: No, estás pensando en Irlanda,¿Les gustan los castillos?,La cuna del golf,Tenemos a Sean Connery,Islas de aventura,Un kilt lleno de posibilidades,Escocia: Solo puede haber una,No hay país como este,Donde está el descaro,El hogar de James Bond,El hogar de Willie el jardinero,¡Donde los vestidos son pantalones!,Ese terrible sonido son gaitas,Ahora con duendes,Valiente no es real,Vete,Cuidado con lo que dices",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Bienvenido a Escocia",
+            "v": "Bienvenidos a Escocia",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2007, Escocia gastó 125.000 libras en una nueva campaña turística. El resultado fue la atractiva eslogan: “<BLANK>.”",
+            "v": "En 2007, Escocia gastó 125.000 libras en una nueva campaña turística. El resultado fue el encantador eslogan: “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "¡Bienvenido a Escocia!,Bienvenido a Escoccia",
+            "v": "¡Bienvenidos a Escocia!,Bienvenido a Escoccia",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "his songs,a Wiggles song,off key,backwards,with auto-tune,a Spice Girls song,Smash Mouth,in Swedish,while gargling,with a ventriloquists dummy,in a really high octave,like Donald Duck,gibberish,country music,through his nose,on tape,a lullaby,disco",
+            "v": "sus canciones,una canción de los Wiggles,desafinado,al revés,con auto-tune,una canción de las Spice Girls,Smash Mouth,en sueco,mientras hacía gárgaras,con un muñeco de ventrílocuo,en una octava muy alta,como el Pato Donald,sin que se le entendiera nada,música country,a través de su nariz,con música envasada,una canción de cuna,música disco",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El himno nacional de Alemania",
+            "v": "el himno nacional de Alemania",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El rockero inglés Pete Doherty fue abucheado fuera del escenario en un concierto en Alemania por cantar <BLANK>.",
+            "v": "El rockero inglés Pete Doherty fue abucheado en un concierto en Alemania por cantar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "their national anthem,the national anthem,the German national anthem",
+            "v": "su himno nacional,el himno nacional,el himno nacional alemán",
             "n": "AlternateSpellings"
         },
         {

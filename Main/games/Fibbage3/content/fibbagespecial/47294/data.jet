@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "#Burgerfun,#TitoBurger,#WhataTito,#WhataJackson,#WhataMistake,#AteTooMuch,#JacksonFries,#MakingConnections,#StillGotIt,#WhenIsBurger,#NoSalads,#CowsAreDumb,#GooeyBurger,#OwMyStomach,#TakeThatVegans,#KetchupRules,#AliensAreReal,#RIPMyHunger",
+            "v": "#HamburguesaDivertida,#HamburguesaTito,#QuéTito,#QuéJackson,#QuéError,#ComíBastante,#PapasJackson,#EstableciendoConexiones,#AúnTengoElToque,#CuandoEsHamburguesa,#SinEnsaladas,#LasVacasSonTontas,#HamburguesaPegajosa,#OhMiEstómago,#TomenEsoVeganos,#ElKétchupManda,#LosExtraterrestresSonReales,#QEPDMiHambre",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "#horadetito",
+            "v": "#horatito",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Tito Time,titotime",
+            "v": "hora de Tito,horatito",
             "n": "AlternateSpellings"
         },
         {

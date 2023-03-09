@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "the crown jewels,the deed to Australia,Excalibur,Merlin’s hat,a dead parrot,a Yorkshire terrier,the Magna Carta,King James’ teeth,the prince’s glass eye,figgy pudding,a cookbook,the royal family’s toothbrushes,a duck,a Da Vinci painting,hot coals,cobras,mousetraps,four and twenty blackbirds",
+            "v": "las joyas de la corona,la escritura de Australia,Excalibur,el sombrero de Merlín,un loro muerto,un Yorkshire terrier,la Carta Magna,los dientes del rey Jaime,el ojo de cristal del príncipe,el budín de higos,un libro de cocina,los cepillos de dientes de la familia real,un pato,un cuadro de Da Vinci,brasas,cobras,trampas de ratones,veinticuatro mirlos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1838, un criminal británico llamado Boy Jones entró en el Palacio de Buckingham. Cuando la policía lo capturó, descubrieron que tenía <BLANK> en sus pantalones.",
+            "v": "En 1838, un criminal británico llamado Boy Jones entró en el Palacio de Buckingham. Cuando la policía lo capturó, descubrieron que tenía <BLANK> entremedio de sus pantalones.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "underwear,queen’s underwear,a pair of underwear,the queen’s panties,Queen Victoria’s underwear,Queen Vicotria’s panties",
+            "v": "ropa interior,ropa interior de la reina,un par de ropa interior,las bragas de la reina,la ropa interior de la reina Victoria,las bragas de la reina Victoria",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "no dar propinas,usar todos los cupones,usar la contraseña de Netflix de amigos,robar,comprar marcas piruchas,cocinar para las comidas,comprar ropa en ferias americanas",
+            "v": "no dar propinas,usar todos los cupones,usar la contraseña de Netflix de amigos,robar,comprar marcas genéricas,cocinar tus propias comidas,comprar ropa de segunda mano",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál es el consejo primordial que das para ahorrar dinero?",
+            "v": "¿Cuál es tu consejo número uno para ahorrar dinero?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El gran consejo de <PLAYER> para ahorrar dinero es <BLANK>.",
+            "v": "El consejo número uno de <PLAYER> para ahorrar dinero es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El gran consejo de <PLAYER> para ahorrar dinero es <BLANK>.",
+            "s": "[category=host]<PLAYER>’s number one money-saving tip is to <BLANK>.",
             "t": "A",
             "v": "695634_1",
             "n": "QuestionAudio"

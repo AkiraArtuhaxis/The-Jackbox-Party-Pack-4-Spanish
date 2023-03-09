@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Channing Tatum,John Cena,Beyonce,Taylor Swift,Kevin Hart,Jennifer Lawrence,Ellen DeGeneres",
+            "v": "Channing Tatum,John Cena,Beyoncé,Taylor Swift,Kevin Hart,Jennifer Lawrence,Ellen DeGeneres",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La celebridad con la que <PLAYER> cree que debería ser mejores amigos es <BLANK>.",
+            "v": "La celebridad con la que <PLAYER> cree que deberían ser mejores amigos es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La celebridad con la que <PLAYER> cree que debería ser mejores amigos es <BLANK>.",
+            "s": "[category=host]The celebrity that <PLAYER> thinks they should be best friends with is <BLANK>",
             "t": "A",
             "v": "697324_0",
             "n": "QuestionAudio"

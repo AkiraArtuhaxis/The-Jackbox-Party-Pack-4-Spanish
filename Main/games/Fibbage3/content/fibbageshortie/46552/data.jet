@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "no King Lear,Siri,a roomba,wrestlers,20 babies,more speeches,minions,pie fights,Skype,klingons,the cast of Hamilton,dunk tanks,The Oakland A’s,fish,parking attendants,Monty Python,dogs,no words",
+            "v": "la ausencia del rey Lear,Siri,una aspiradora robot,luchadores,20 bebés,más discursos,esbirros,peleas de tortas,Skype,klingons,el elenco de Hamilton,tanques,Alex DeLarge,pescado,asistentes de estacionamiento,Monty Python,perros,falta de palabras",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2014, una inusual adaptación de Shakespeare se estrenó en Londres titulada <i>El rey Lear con <BLANK><\/i>.",
+            "v": "En 2014 se estrenó en Londres una insólita adaptación de Shakespeare titulada <i>El rey Lear con <BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "lambs,sheeps,lamb",
+            "v": "corderos,oveja,cordero",
             "n": "AlternateSpellings"
         },
         {

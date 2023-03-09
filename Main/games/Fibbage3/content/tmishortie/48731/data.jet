@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Arañas,Deportistas,Problemas matemáticos,Serpientes,Libros,Payasos,Impuestos",
+            "v": "arañas,deportistas,problemas matemáticos,serpientes,libros,payasos,impuestos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Tu peor pesadilla sería caer en el Planeta de los <BLANK>.",
+            "v": "Tu peor pesadilla sería aterrizar en el Planeta de <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Sería una pesadilla para <PLAYER> caer en \u201cEl Planeta de los <BLANK>.\u201d",
+            "v": "Sería una pesadilla para <PLAYER> aterrizar en el “Planeta de <BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Sería una pesadilla para <PLAYER> caer en El Planeta de los <BLANK>",
+            "s": "[category=host]A nightmare for <PLAYER> would be landing on The Planet of the <BLANK>",
             "t": "A",
             "v": "695698_1",
             "n": "QuestionAudio"

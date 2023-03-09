@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "prank their teacher,skip school,give wedgies anymore,make fun of the sub,have food fights,give purple nurples,take standardized tests,have spirit week,stuff nerds into lockers,go to college,do Borat impressions,wear baggy pants,write in cursive,print out their papers,sing offensive lyrics,make fart sounds with their armpits,recognize Manhattan as part of the U.S.,sue their parents",
+            "v": "hacerle una broma a su profesor,faltar a clases,hacer más calzones chinos,burlarse del submarino,tener más guerra de comida,dar más retuercepezones,hacer pruebas estandarizadas,tener semana espiritual,meter a ñoños en los casilleros,ir a la universidad,hacer imitaciones de Borat,usar pantalones anchos,escribir en cursiva,imprimir sus documentos,cantar letras ofensivas,hacer sonidos de pedos con las axilas,reconocer a Manhattan como parte de los EE. UU.,demandar a sus padres",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Después de un largo debate ético, los estudiantes de la escuela secundaria pública Ella Baker en Manhattan optaron oficialmente por no <BLANK>.",
+            "v": "Tras un largo debate ético, los estudiantes de la escuela secundaria pública Ella Baker en Manhattan decidieron oficialmente por no <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "bbq their pet fish,bbq their class fish,eat their class fish,eat a fish,eat their pet,eat their fish",
+            "v": "cocinar a su pez mascota,cocinar a su pez de clases,comer a su pez de clases,comer un pez,comer su pez mascota,comer su pez",
             "n": "AlternateSpellings"
         },
         {

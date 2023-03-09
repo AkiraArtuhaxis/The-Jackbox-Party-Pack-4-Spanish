@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sippy cup lids|coffee shops,cameras|the terminals,their priorities|order,“wet floor” signs|the bathrooms,travellers|rubber pants,toilets|the middle of the room,piglets|tiny sweaters,flushable wipes|every stall,a disapproving mom|the entryway,smiley faces|the toilet bowls,sad looking janitors|the corner,pictures of women|the mirrors,jerks|their place,a pinch of cayenne|their apple pie recipe,moisture sensors|the floor tiles,big band music|the duty-free shop,firecrackers|the trash cans,the color blue|the wallpaper patterns",
+            "v": "tapas para vasos|las cafeterías,cámaras|las terminales,sus prioridades|orden,carteles de \"suelo mojado\"|los baños,pantalones de goma|los viajeros,los inodoros|el centro del baño,cerditos|cunas,toallitas desechables|cada compartimiento,una madre desaprobadora|la entrada,caritas sonrientes|las tazas de inodoro,conserjes con cara triste|la esquina,fotos de mujeres|los espejos,idiotas|las puertas,una pizca de pimienta|su receta de tarta de manzana,sensores de humedad|las baldosas del piso,música orquestal|la tienda libre de impuestos,petardos|los basureros,el color azul|el papel tapiz",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "moscas falsas|mingitorios",
+            "v": "moscas falsas|los urinarios",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Aeropuerto Schiphol de Amsterdam estima que los pisos de sus baños tuvieron menos \"salpicadas\" cuando comenzaron a colocar <BLANK> en <BLANK>.",
+            "v": "El Aeropuerto Schiphol de Ámsterdam estima que los pisos de sus baños tuvieron hasta un 80% menos de \"salpicadas\" cuando comenzaron a colocar <BLANK> en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "flies|urinals,a fly|the urinals,flies|their urinals",
+            "v": "moscas|urinarios,una mosca|los urinarios,moscas|sus urinarios",
             "n": "AlternateSpellings"
         },
         {

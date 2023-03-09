@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sagging pants,time machines,monster trucks,dogs owning cats,three-wheelers,miming in public,potato launchers,improv comedy,monkeys as pets,imported bottles of water,loud public phone calls,rock and roll,jaywalking,sneakers,eating more than one banana a day,homemade soda,lemonade stands,amateur clowns",
+            "v": "los pantalones caídos,las máquinas del tiempo,los camiones monstruo,los perros que tienen gatos,los vehículos de tres ruedas,los mimos en público,los lanzapapas,la comedia de improvisación,los monos mascota,las botellas de agua importadas,las llamadas telefónicas públicas en voz alta,el rock and roll,cruzar la calle,las zapatillas,comer más de un plátano al día,los refrescos caseros,los puestos de limonada,los payasos aficionados",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En Estados Unidos, el senador del estado de Tennessee Lee Harris propuso un proyecto de ley a principios de 2017 que legalizaría <BLANK>.",
+            "v": "En Estados Unidos, el senador del estado de Tennessee Lee Harris propuso a principios de 2017 un proyecto de ley que legalizaría <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "in home haircuts,in house haircuts,home haircuts,in-home hair cuts,home hair cuts",
+            "v": "cortes de pelo en domicilio,cortes de pelo en casa,cortes de pelo caseros",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "panchos,gatos gratis,consejos de vida,sidra artesanal,donas,papas acanaladas,mejores amigos",
+            "v": "perritos calientes,gatos gratis,consejos de vida,sidra artesanal,donas,papas acanaladas,mejores amigos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Algo mejor que un camión de helados sería un camión de <BLANK>.",
+            "v": "Algo incluso mejor que un camión de helados sería un camión de <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Para <PLAYER>, algo mejor que un camión de helados sería un camión de <BLANK>.",
+            "v": "En vez del camión de helados, <PLAYER> preferiría el camión de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Para <PLAYER>, algo mejor que un camión de helados sería un camión de <BLANK>.",
+            "s": "[category=host]Instead of the ice cream truck, <PLAYER> would prefer the <BLANK> truck.",
             "t": "A",
             "v": "636698_0",
             "n": "QuestionAudio"

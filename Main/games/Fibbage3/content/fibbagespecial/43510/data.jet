@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "lamp,comfy socks,giant turkey legs,skittles,yelling,comfy shoes,being Australian,blueberries,pogs,yams,when there’s a full moon,anvils,alpacas,Looney Tunes,sudoku,The View,mashed potatoes,these new khakis",
+            "v": "las lámparas,los calcetines cómodos,los muslos de pavo gigantes,los bolos,gritar,los zapatos cómodos,ser australiano,los arándanos,los pogs,las papas,cuando hay una luna llena,los yunques,las alpacas,a los Looney Tunes,los sudokus,La ley y el orden,el puré de papas,esos nuevos pantalones",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Mapas",
+            "v": "los mapas",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Russell Crowe tweeteó: “Me encanta <BLANK>.\"",
+            "v": "Russell Crowe tuiteó: “Yo amo <BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Mapa",
+            "v": "al mapa",
             "n": "AlternateSpellings"
         },
         {

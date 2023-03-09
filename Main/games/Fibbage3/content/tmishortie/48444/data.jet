@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "globo de nieve del Gran Canión,estatuilla de la Torre Eiffel,camiseta de Cataratas del Iguazú,medias de Japón,camiseta de Miami,gorra de Nueva York,pancarta de España",
+            "v": "globo de nieve del Gran Cañón,estatuilla de la Torre Eiffel,camiseta de Cataratas del Iguazú,calcetines de Japón,camiseta de Miami,gorra de Nueva York,postal de España",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál fue el último souvenir que compraste?",
+            "v": "¿Cuál fue el último recuerdo que compraste?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El último souvenir que <PLAYER> compró fue <BLANK>.",
+            "v": "El último recuerdo que <PLAYER> compró fue <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El último souvenir que <PLAYER> compró fue <BLANK>.",
+            "s": "[category=host]The last souvenir <PLAYER> bought was <BLANK>.",
             "t": "A",
             "v": "687679_0",
             "n": "QuestionAudio"

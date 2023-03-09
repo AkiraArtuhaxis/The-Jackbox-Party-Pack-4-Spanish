@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "tapas inspector,beer emperor,bull translator,sewer mapper,vampire hunter,rock video censor,movie critic,Elvis impersonator,photoshop expert,liason to Mars,goat wrangler,missle inspector,garbage queen,music afficionado,orange squeezer,mini golf course designer,dolphin assassin,queen of the universe",
+            "v": "inspectora de paellas,emperatriz de la cerveza,traductora de toros,cartógrafa de alcantarillas,cazadora de vampiros,censuradora de videos de rock,crítica de cine,imitadora de Elvis,experta en Photoshop,enlace con Marte,cuidadora de cabras,inspectora de misiles,reina de la basura,aficionada a la música,exprimidora de naranjas,diseñadora de campos de minigolf,asesina de delfines,reina del universo",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Edelmira Barreira cuenta con un trabajo interesante: se ha convertido en la primera <BLANK> de España.",
+            "v": "Edelmira Barreira tiene un trabajo interesante: España acaba de convertirla en la primera <BLANK> del país.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sex czar",
+            "v": "Ministra del sexo",
             "n": "AlternateSpellings"
         },
         {

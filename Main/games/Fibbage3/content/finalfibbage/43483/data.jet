@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hippo|elephant,squirrel|deer,otter|shark,wolf|boar,octopus|squid,wolf|werewolf,man|astroman,Martian|dragon,donkey|fish,mermaid|unicorn,crab|lobster,moose|goose,fisherman|shrimp,cool|hot,dog|catfish,cream|sugar,dolphin|bear,policeman|sea captain",
+            "v": "hipopótamo|elefante,ardilla|ciervo,nutria|tiburón,lobo|alce,pulpo|calamar,lobo|ombre lobo,hombre|Superman,marciano|dragón,burro|pez,sirena|unicornio,cangrejo|langosta,pato|gato,pescador|camarón,frío|caliente,perro|pez gato,crema|azúcar,delfín|oso,policía|capitán de barco",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si te encuentras en Herrington Lake en Kentucky, ten cuidado con el monstruo local que se rumorea que es mitad <BLANK> mitad <BLANK>.",
+            "v": "Si te encuentras en el lago Herrington, en Kentucky, ten cuidado con el monstruo local que se rumorea que es mitad <BLANK> mitad <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pig|eel,hog|eel,eelhog",
+            "v": "cerdo|anguila,jabalí|anguila,anguila|jabalí,anguila|chancho,chancho|anguila,puerco|anguila,anguila|puerco",
             "n": "AlternateSpellings"
         },
         {

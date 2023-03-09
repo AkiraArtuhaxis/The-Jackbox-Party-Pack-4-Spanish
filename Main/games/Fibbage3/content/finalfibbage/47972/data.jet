@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "drank|beers,shouted|curse words,dumped|dead squirrels,burned|pairs of underwear,licked|stamps,smoked|cigars,waited|hours,signed|autographs,jumped rope|times,kicked|cans,baked|cookies,performed|spoken word rap songs,listed out|of his LinkedIn connections,followed|people on twitter,high fived|representatives,Talked down to|children,watched|youtube videos at full volume,knitted|blankets",
+            "v": "bebió|cervezas,gritó|palabrotas,tiró|ardillas muertas,quemó|pares de calcetines,lamió|sellos,fumó|cigarros,esperó|horas,firmó|autógrafos,saltó la cuerda|veces,pateó|latas,horneó|galletas,interpretó|canciones de protesta,hizo una lista de sus|contactos en LinkedIn,siguió a|personas en Twitter,chocó los cinco con|representantes,le habló a|niños con desprecio,vio|videos de Youtube a todo volumen,tejió|mantas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 2 de junio de 2017, un hombre de Augusta, Maine quería protestar en contra del gobierno de su municipio. Por lo tanto, <BLANK> cien <BLANK> dentro del ayuntamiento.",
+            "v": "El 2 de junio de 2017, un hombre de Augusta, Maine, quería protestar en contra del gobierno de su municipio. Así que <BLANK> cien <BLANK> dentro de la alcaldía.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "let|bed bugs,unleashed|bed bugs,released|bed bugs,let|bedbugs,unleashed|bedbugs",
+            "v": "dejó|chinches,soltó|chinches,desató|chinches",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "service dog,Dell PC,peg leg,cold dead hands,catheter,mind’s eye,sousaphone,fake pregnant belly,larger gun,NRA fanny pack,Jell-O mold,fake butt,stuffed deer head,defibrillator,coffin,Santa costume,cooked turkey,My Little Pony backpack",
+            "v": "el perro de servicio,el computador,la pata de palo,las manos muertas de frío,el catéter,el ojo de la mente,el sousafón,la barriga de embarazada falsa,una pistola más grande,la riñonera,el molde de gelatina,el trasero falso,la cabeza de ciervo disecada,el desfibrilador,el ataúd,el disfraz de Papá Noel,el pavo cocido,la mochila My Little Pony",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "títere",
+            "v": "el títere",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 3 de diciembre de 2013, la Administración de Seguridad en el Transporte en San Luis, Misuri confiscó una pistola del/de la <BLANK> de un pasajero.",
+            "v": "El 3 de diciembre de 2013, la Administración de Seguridad en el Transporte en San Luis, Misuri, confiscó una pistola escondida en <BLANK> de un pasajero.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "puppet",
+            "v": "títere",
             "n": "AlternateSpellings"
         },
         {

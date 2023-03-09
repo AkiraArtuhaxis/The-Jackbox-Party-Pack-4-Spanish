@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "kittens|his garden,chocolate|popcorn,syrup|his tea,coke|pepsi,a banana|a tailpipe,extra snacks|his backpack,a TV|the bedroom,a heater|the sauna,his children|timeout,toothpaste|his pocket,a coffee pot|his bedroom,floaties|his pool,trash|the fireplace,sugar|coffee,a hornet’s nest|Enrico Fermi’s car,peanut butter|his smoothie,a toaster|his car,bread|the oven",
+            "v": "gatitos|su jardín,chocolate|palomitas de maíz,jarabe|su té,Coca-Cola|Pepsi,un plátano|un tubo de escape,bocadillos extra|su mochila,un televisor|el dormitorio,un calefactor|el sauna,a sus hijos|tiempo muerto,pasta de dientes|su bolsillo,una cafetera|su dormitorio,flotadores|su piscina,basura|la chimenea,azúcar|un café,un avispero|su auto,mantequilla de maní|su batido,una tostadora|su auto,pan|el horno",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "eggs|soup,soup|eggs,soup|an egg,an egg|his soup",
+            "v": "huevos|una sopa,sopa|unos huevos,sopa|un huevo,un huevo|su sopa",
             "n": "AlternateSpellings"
         },
         {

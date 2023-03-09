@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "mujer,Jim Carrey,cocina,la sin emoción,natación,bolsillo,cortesía,amistad,terror nocturno,iluminación,brillo de antorcha,mentón,refrigerio,patata,modestia,viruela,demoni",
+            "v": "femenina,de Jim Carrey,gastronómica,sin emoción,de natación,de bolsillo,de cortesía,amistosa,del terror nocturno,de oración,iluminada,de rostro definido,de doble papada,reflectante solar,de cara de papa,de modestia femenina,de viruela,demoníaca",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "baño",
+            "v": "de baño",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Este dibujo de 1877 fue presentado por Nanette S. Emerson-French para la invención patentada: la máscara de <BLANK>.",
+            "v": "Este dibujo de 1877 fue presentado por Nanette S. Emerson-French para la invención patentada: la máscara <BLANK>.",
             "n": "QuestionText"
         },
         {

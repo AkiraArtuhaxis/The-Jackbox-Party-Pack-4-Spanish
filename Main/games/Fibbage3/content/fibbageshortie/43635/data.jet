@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "talking to the dead,feeding pigeons,farting in the library,skinnydipping in public,skydiving blindfolded,flipping off other drivers,impersonating Mary Tyler Moore,dancing on Main Street,calling soda “pop”,recycling light bulbs,throwing manure,tossing gum on sidewalks,selling rat milk,dining and dashing,depantsing a judge,making snow angels on public property,singing in city hall,cursing at babies",
+            "v": "hablar con los muertos,alimentar a las palomas,tirarse pedos en la biblioteca,bañarse desnuda en público,saltar en caída libre con los ojos vendados,voltear a otros conductores,imitar a Marilyn Monroe,bailar en la calle principal,decirle \"Blockbuster\" a Netflix,reciclar bombillas,arrojar estiércol,tirar chicles en las aceras,vender leche de rata,comer y huir sin pagar,bajarle los pantalones al juez,hacer ángeles de nieve en propiedad pública,cantar en el ayuntamiento,maldecir a los bebés",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A pesar de las amenazas de multas costosas y tiempo en la cárcel, Laurie Wheeler, una mujer de Tennessee, dice que no parara de <BLANK>.",
+            "v": "Laurie Wheeler, una mujer de Tennessee, a pesar de haber sido amenazada con fuertes multas y penas de cárcel, dice que no dejará de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "giving massages to horses,giving horses massages",
+            "v": "darle masajes a los caballos,dar masajes a caballos",
             "n": "AlternateSpellings"
         },
         {

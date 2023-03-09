@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "salir en secreto por la noche en la primaria,comer todo un envase de helado de tres gustos,copiarse en el examen de ingreso de Matemática,saltar del techo de la casa de mi tío,comprar una espada anticuada,ofrecerme a ser hipnotizado,pelearme con un motoquero",
+            "v": "salir en secreto por la noche en la primaria,comer un envase completo de helado de tres gustos,hacer trampa en el examen de ingreso de matemáticas,saltar del techo de la casa de mi tío,comprar una espada antigua,ofrecerme a ser hipnotizado,pelear con un motoquero",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Lo más estúpido que le convencieron hacer a <PLAYER> fue <BLANK>.",
+            "s": "[category=host]The dumbest thing <PLAYER> ever got talked into was <BLANK>.",
             "t": "A",
             "v": "614951_0",
             "n": "QuestionAudio"

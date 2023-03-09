@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Dunked in milk,Drunk,Punched in the face,rolled down the stairs,Awake for 24 hours,Screamed at by guests,mocked by children,kept apart for a week,Thrown in a well,served rotten lamb,totally shaved,pushed off a cliff,set on fire,lectured by a puppet,beaten with socks,buried in fresh laundry,put on a mock trial,pricked by hat pins",
+            "v": "sumergidos en leche,borrachos,con golpes en la cara,caídos desde las escaleras,despiertos durante 24 horas,asustados por los invitados,enojados por la burla de los niños,separados durante una semana,tirados en un pozo,comiendo un cordero podrido,totalmente afeitados,cayendo por un acantilado,quemándose completamente,siendo sermoneados por un títere,siendo golpeados con calcetines,enterrados en ropa limpia,sometidos a un juicio simulado,pinchados con alfileres de sombrero",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una vieja tradición escocesa dice que, para preparar a la pareja para los desafíos del matrimonio, deben ser <BLANK>.",
+            "v": "Una vieja tradición escocesa dice que, para preparar a la pareja para los desafíos del matrimonio, deben estar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "slimed,doused with slime,blackened,covered in goo",
+            "v": "slimeados,empapados con slime,rociados con slime,ennegrecidos,cubiertos de viscosidad",
             "n": "AlternateSpellings"
         },
         {

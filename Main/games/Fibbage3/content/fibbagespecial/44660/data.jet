@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "masturbating,flossing,racquet ball,sudoku,being naked,a strip show,pooping,eating an Oreo,blowing my nose,eating soup,Breaking Bad,the internet,shoplifting,angry sex,French nudity,fresh donuts,cold coffee,fried fish",
+            "v": "Masturbarme,Usar hilo dental,El tenis,Hacer sudokus,Estar desnudo,Un espectáculo de striptease,Cagar,Comer una Oreo,Sonarme la nariz,Tomar sopa,Breaking Bad,Internet,Robar en tiendas,Sexo furioso,La desnudez francesa,Las rosquillas recién hechas,El café frío,El pescado frito",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "limpiarme los oidos",
+            "v": "limpiarme los oídos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Howard Stern twitteó: \"<BLANK> es uno de los placeres más simples de la vida #Paraloquevale.\"",
+            "v": "Howard Stern tuiteó: \"<BLANK> es uno de los placeres más simples de la vida #Porloquevalelapena\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ear cleaning,cleaning his ears,cleaning ears",
+            "v": "limpieza de oídos,limpiarse sus oídos,limpiarse oídos",
             "n": "AlternateSpellings"
         },
         {

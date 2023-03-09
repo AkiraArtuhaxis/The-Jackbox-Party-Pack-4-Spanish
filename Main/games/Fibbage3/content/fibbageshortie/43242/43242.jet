@@ -7,7 +7,7 @@
         },
         {
             "t": "B",
-            "v": "true",
+            "v": "false",
             "n": "HasKeywordAudio"
         },
         {
@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hígados de panda,velas aromáticas,piel de mono,pizzas congeladas,calcetines,agua embotellada,calendarios,rollos de canela,harina blanqueada,troncos,loción para manos,espaguetis,huevos de tortuga,piezas de go kart,mantequilla de almendras,nueces de Brasil,tótems tiki,sal kosher",
+            "v": "se afeitaban,se masturbaban,orinaban,estaban desnudos,cantaban,tenían sexo,bailaban,desayunaban,estaban borrachos,izaban la bandera,corrían,tocaban la trompeta,se arrastraban,recargaban,se acobardaban por el miedo,terminaban una carta,dormían,se acuchillaban",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Airport Security",
+            "v": "don’t shoot!",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "carne de yak",
+            "v": "hacían caca",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Las autoridades del aeropuerto JFK hicieron una redada impresionante en abril de 2017 cuando incautaron de más de 136 kilos de <BLANK> de contrabando ilegal.",
+            "v": "Según el historiador de la Guerra Civil, Alfred Jay Bollet, había un acuerdo secreto entre soldados en que no se dispararían entre sí mientras <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,13 +72,12 @@
         },
         {
             "t": "S",
-            "v": "yak",
+            "v": "defecaban,excretaban,cagaban,deponían",
             "n": "AlternateSpellings"
         },
         {
-            "s": "[category=host]C’mon, if the answer was cocaine, would I have even bothered to ask? It’s gonna be something weird. Just...do better.",
+            "s": "[category=host]",
             "t": "A",
-            "v": "602753_0",
             "n": "KeywordResponseAudio"
         },
         {
@@ -91,15 +90,15 @@
             "n": "Pic"
         },
         {
-            "s": "[category=host]Thank goodness for those yak-sniffing dogs.",
+            "s": "[category=host]We need this rule for the Jackbox office.",
             "t": "A",
-            "v": "602749_0",
+            "v": "559098_0",
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Authorities at JFK airport made an impressive bust in April 2017 when they seized over 300 pounds of illegally smuggled <BLANK>.",
+            "s": "[category=host]According to Civil War historian Alfred Jay Bollet, there was an unwritten code among soldiers that they would not shoot each other while <BLANK>.",
             "t": "A",
-            "v": "602746_0",
+            "v": "559095_0",
             "n": "QuestionAudio"
         }
     ]

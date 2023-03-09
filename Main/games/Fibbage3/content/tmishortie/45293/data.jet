@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "mi edad,comer la comida de otro,haber visto una película,donde estaba un Jueves,la localización de mi oro,mi color de pelo,odiar One Direction",
+            "v": "mi edad,comer la comida de otro,haber visto una película,dónde estaba un martes,la ubicación del oro,mi color de pelo,odiar One Direction",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]La última cosa sobre la que <PLAYER> mintió fue <BLANK>.",
+            "s": "[category=host]The last thing <PLAYER> lied about was <BLANK>.",
             "t": "A",
             "v": "610895_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a scratch-n-sniff moose,The White House,a working clock,Jim Carey,mounties playing guitar,Paulina Gretzky,balloons,a bluetooth speaker,corn,stacks of hay,Pikachu,the prime minister in sunglasses,Lady Gaga,The Kids in the Hall,a plate of bacon,a knock knock joke,an embedded smaller coin,a smiling elephant",
+            "v": "un alce que se rasca y huele,la Casa Blanca,un reloj que funciona,Jim Carey,un policía montado tocando la guitarra,Paulina Gretzky,un globo,un altavoz bluetooth,un maíz,un montón de heno,Pikachu,el primer ministro con gafas de sol,Lady Gaga,Justin Bieber,un plato de tocino,un chiste de toc-toc,una moneda más pequeña incrustada,un elefante sonriente",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2012, la casa de moneda canadiense volvió a hacer al capitalismo divertido lanzando una moneda de 25 centavos que mostraba a <BLANK>.",
+            "v": "En 2012, la casa de moneda canadiense devolvió la diversión al capitalismo estrenando una moneda de 25 centavos en la que aparecía <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a dinosaur,a dinosaur that glows in the dark,a glow in the dark dinosaur,glow-in-the-dark dinosaurs,glow in the dark dinosaurs",
+            "v": "un dinosaurio,un dinosaurio que brilla en lo oscuro,un dinosaurio fosforescente,dinosaurios que brillan en la oscuridad,dinosaurios que brillan en lo oscuro",
             "n": "AlternateSpellings"
         },
         {

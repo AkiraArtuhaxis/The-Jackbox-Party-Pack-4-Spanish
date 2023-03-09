@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "discos,DVDs,basura,ropa,muebles,comics,libros",
+            "v": "discos,DVDs,basura,ropa,muebles,historietas,libros",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo que ocupa demasiado espacio en tu casa?",
+            "v": "¿Qué es lo que ocupa demasiado espacio en tu casa?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que ocupa demasiado espacio en la casa de <PLAYER> es <BLANK>.",
+            "s": "[category=host]Something that’s taking up too much storage space in <PLAYER>’s house is <BLANK>.",
             "t": "A",
             "v": "697196_0",
             "n": "QuestionAudio"

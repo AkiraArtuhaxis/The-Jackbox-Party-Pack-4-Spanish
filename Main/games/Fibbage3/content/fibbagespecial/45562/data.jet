@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "fancy boy,Lon Chaney Jr.,Bad Hair Day,Crumble Cubes,Bojack Horseman,Charlie Dumb Face,weird dude,Love,bad art,Solitary Confinement,ready for the beach,The Rat Spirit,No Shower Weekend,The Beast with Just the One Back,Sticky Rain,Tarred and Feathered,Mom wants a picture,Before the accident",
+            "v": "Chico elegante,Lon Chaney Jr.,Día despeinado,Cubos desmoronados,Bojack Horseman,Charlie Cara de Tonto,Tipo raro,Amor,Mal arte,Reclusión solitaria,Listo para la playa,El espíritu rata,Fin de semana sin ducharse,La bestia con una sola espalda,Lluvia pegajosa,Alquitrán y plumas,Mamá quiere una foto,Antes del accidente",
             "n": "Suggestions"
         },
         {
@@ -37,12 +37,12 @@
         },
         {
             "t": "S",
-            "v": "Arte verdad",
+            "v": "Arte, ¿cierto?",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Culo",
+            "v": "Asno",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "The Ass",
+            "v": "El asno",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sperm|surrogates,bikini tops|monkeys,candy|babies,dinosaur eggs|the past,sins|demons,Doctor Who episodes|the 1960s,jokes|broke comedians,blood|zookeepers,hamburgers|the Hamburglar,insects|Boston apartments,scary stories|inmates,unused pills|seniors,good karma|lucky people,wool|sick sheep,glitter|mattresses,jewelry|crime scenes,your stuff|your ex’s place,props|failed TV shows",
+            "v": "esperma|vientres de alquiler,partes de arriba de bikinis|monos,caramelos|bebés,huevos de dinosaurio|el pasado,pecados|demonios,episodios de Doctor Who|la década de los 60,chistes|comediantes arruinados,sangre|guardianes de zoológico,hamburguesas|Burger King,insectos|departamentos de Boston,historias de miedo|reclusos,pastillas sin usar|ancianos,buen karma|gente con suerte,lana|ovejas enfermas,brillantina|colchones,joyas|escenas del crimen,tus cosas|la casa de tu ex,utilería|programas de TV fallidos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "naves robadas|piratas",
+            "v": "barcos robados|piratas",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "ships|pirates,stolen property|pirates,ships|thieves,stolen ships|thieves",
+            "v": "barcos|piratas,propiedades robadas|piratas,barcos|ladrones,barcos robados|ladrones",
             "n": "AlternateSpellings"
         },
         {

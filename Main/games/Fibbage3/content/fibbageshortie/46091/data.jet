@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "doing donuts,blowing bubbles,hoola hooping,rehearsing his spiel,helping an old woman,rollerblading,buying girl scout cookies,issuing tickets,giving to charity,playing hopscotch,changing out of a Starbucks uniform,feeding rats,shaving his head,putting on a play,doing a mime routine,signing autographs,painting a landscape,looking for his dog",
+            "v": "haciendo rosquillas,soplando burbujas,jugando con el hula hula,ensayando lo que iba a decir,ayudando a una anciana,patinando,comprando galletas de las niñas exploradoras,emitiendo multas,haciendo donaciones benéficas,jugando a la rayuela,cambiándose el uniforme del Starbucks,dando de comer a las ratas,afeitándose la cabeza,interpretando una obra de teatro,haciendo una rutina de mimo,firmando autógrafos,pintando un cuadro,buscando a su perro",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "estirando",
+            "v": "haciendo ejercicios de estiramiento",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Justo antes de robar una tienda de donas de Filadelfia en abril de 2017, las cámaras de seguridad observaron a un criminal haciendo algo extraño. Estaba <BLANK> en el estacionamiento.",
+            "v": "Justo antes de robar una tienda de rosquillas de Filadelfia en abril de 2017, las cámaras de seguridad observaron a un delincuente haciendo algo extraño. Estaba <BLANK> en el estacionamiento.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "stretching,exercising,doing exercises",
+            "v": "estirando,ejercitándose,haciendo ejercicios",
             "n": "AlternateSpellings"
         },
         {

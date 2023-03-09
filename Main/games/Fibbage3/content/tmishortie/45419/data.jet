@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "dou,elfa,pudín,\u201c¡Deberías sonreir más!\u201d,Millennials,hashtag,espléndido",
+            "v": "cringe,amorcito,taco,“¡Deberías sonreír más!”,Millennials,hashtag,genial",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo que prohibirías que todo el mundo diga si pudieras?",
+            "v": "¿Qué le prohibirías decir a todo el mundo si pudieras?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si fuera por <PLAYER>, nadie podría decir nunca más \u201c<BLANK>.\u201d",
+            "v": "Si fuera por <PLAYER>, nadie podría decir nunca más “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si fuera por <PLAYER>, nadie podría decir nunca más <BLANK>.",
+            "s": "[category=host]If <PLAYER> could, they would ban all people from saying <BLANK>.",
             "t": "A",
             "v": "614411_0",
             "n": "QuestionAudio"

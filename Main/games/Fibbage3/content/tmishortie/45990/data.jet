@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "café,Red Bull,los haters,Tom,hacer listas,chocolate,mi fé en alienígenas",
+            "v": "café,Red Bull,los haters,Tomás,hacer listas,chocolate,mi fe en los antiguos alienígenas",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]<PLAYER> nunca podría terminar de hacer nada sin <BLANK>.",
+            "s": "[category=host]<PLAYER> would never get anything done without <BLANK>.",
             "t": "A",
             "v": "632193_0",
             "n": "QuestionAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a T-Rex bone,a gun,a genie’s lamp,a rare doll,a kidney stone,a very old hot dog,a Faberge egg,Hitler’s cigar cutter,a meteorite,a petrified goose egg,fossilized poop,a rod of uranium,a hunk of gold,a Barbie,the Hope Diamond,a CIA spy camera,a whale tooth,a Bratz doll",
+            "v": "un hueso de tiranosaurio,un arma,una lámpara de genio,una extraña muñeca,un cálculo renal,un perrito caliente muy viejo,un huevo de Fabergé,el cortador de puros de Hitler,un meteorito,un huevo de ganso petrificado,caca fosilizada,una barra de uranio,un trozo de oro,una Barbie,el diamante de la esperanza,una cámara espía de la CIA,un diente de ballena,una muñeca Bratz",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "una granada",
+            "v": "una granada de mano",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un hombre en Shaanxi, China se sorprendió al descubrir que lo que había estado usando como cascanueces era <BLANK>.",
+            "v": "Un hombre en Shaanxi, China, se sorprendió al descubrir que lo que había estado usando como cascanueces en verdad era <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "grenade,hand grenade,bomb,explosive,an explosive,a bomb",
+            "v": "una granada,granada de mano,bomba,explosivo,un explosivo,una bomba",
             "n": "AlternateSpellings"
         },
         {

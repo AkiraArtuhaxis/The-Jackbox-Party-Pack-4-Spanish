@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a hat,royal robes,a tent,bath towels,a book,a rug,coats for his army,a flag,a blanket,suspenders,rubber bands,a pair of boots,a painting canvas,a tablecloth,a death shroud,violin strings,chewing gum,a treasure map",
+            "v": "un sombrero,túnicas reales,una carpa,toallas de baño,un libro,una alfombra,abrigos para su ejército,una bandera,una manta,suspensores,bandas elásticas,un par de botas,un lienzo para pintar,un mantel,un velo de muerte,cuerdas de violín,chicle,un mapa de tesoro",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El general checo Jan Zizka ordenó a sus tropas antes de morir que quería que se removiera su piel y se utilizara para fabricar <BLANK>.",
+            "v": "El general checo Jan Zizka ordenó a sus tropas, antes de morir, que le quitaran la piel para fabricar <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "wardrum,war-drum,a drum,a wardrum,drum",
+            "v": "tambor de guerra,un tambor,un tambor de guerra,tambor",
             "n": "AlternateSpellings"
         },
         {

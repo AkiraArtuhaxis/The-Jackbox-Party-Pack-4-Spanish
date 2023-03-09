@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "in the nude,sleeping,smoking cigarettes,playing poker,donating blood,speed dating,yelling at teenagers,getting tattooed,mining for coal,getting a colonoscopy,watching King of Queens,doing yoga,brewing beer,giving birth,getting a bikini wax,getting LASIK,using the bathroom,getting your hearing tested",
+            "v": "estás desnudo,duermes,fumas cigarrillos,juegas póquer,donas sangre,estás en citas rápidas,le gritas a adolescentes,te tatúan,extraes carbón,te hacen una colonoscopia,ves El rey de Queens,haces yoga,elaboras cerveza,das a luz,te depilan,te hacen la cirugía LASIK,vas al baño,te hacen una prueba de oído",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "juegas al pinball",
+            "v": "juegas pinball",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "playing pin ball",
+            "v": "juegas al pinball,juegas pin ball,juegas al pin ball",
             "n": "AlternateSpellings"
         },
         {

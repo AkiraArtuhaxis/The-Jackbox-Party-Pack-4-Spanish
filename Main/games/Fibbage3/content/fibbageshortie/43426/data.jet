@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "cocaine,Austrian gold,counterfeit money,lice,frogs,the prime minister of Canada,diamonds,apple sauce,fur coats,his half brother,a French spy,illegal fireworks,the Declaration of Independence,Cuban rum,a buffalo,Babe Ruth,Superman comics,a Picasso painting",
+            "v": "cocaína,oro austríaco,dinero falsificado,piojos,sapos,al primer ministro de Canadá,diamantes,salsa de manzana,abrigos de pieles,a su hermanastro,a un espía francés,fuegos artificiales ilegales,la Declaración de Independencia,ron cubano,un búfalo,a un beisbolista,historietas de Superman,una pintura de Picasso",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1902, el hijo del ex-presidente estadounidense Roosevelt, Archie, tenía un gran secreto: había entrado <BLANK> como contrabando en la Casa Blanca.",
+            "v": "En 1902, el hijo del expresidente estadounidense Roosevelt, Archie, tenía un gran secreto: había introducido <BLANK> como contrabando en la Casa Blanca.",
             "n": "QuestionText"
         },
         {

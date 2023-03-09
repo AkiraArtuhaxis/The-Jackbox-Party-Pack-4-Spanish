@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pickpocketing,picking her nose,texting her boyfriend,cutting her toenails,drawing a dirty picture,writing a Yelp review,fanning a fart,writing a screenplay,listening to a radioplay,watching a dirty movie,solving a sudoku,talking in her sleep,shopping for underwear,cleaning her bellybutton,reading Fifty Shades of Gray,browsing Tinder,practicing magic tricks,reading a comic book",
+            "v": "robar carteras,hurgarse la nariz,enviar mensajes de texto a su novio,cortarse las uñas de los pies,hacer un dibujo sucio,escribir una crítica en Twitter,abanicarse un pedo,escribir un guion,escuchar un programa de radio,ver una película sucia,resolver un sudoku,hablar en sueños,comprar ropa interior,limpiarse el ombligo,leer Cincuenta sombras de Gray,usar Tinder,practicar trucos de magia,leer una historieta",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "capturar Pokemon",
+            "v": "capturar Pokémon",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Pokemon,playing pokemon,playing pokemon go,pokemon go,playing a game,playing video games,Pokémon,playing Pokémon,playing Pokémon go,Pokémon go,catching Pokémon",
+            "v": "Pokémon,jugar Pokémon,jugar Pokémon GO,Pokémon GO,jugar un juego,jugar videojuegos,Pokemon,jugar Pokemon,jugar Pokemon GO,Pokemon GO,capturar Pokemon",
             "n": "AlternateSpellings"
         },
         {

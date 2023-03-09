@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "real-armed clock,knee slapping,button pushing,fly swatting,flame waving,hand fanning,praying,surfboard paddler,card holding,goodbye waving,angle measuring,sunblocking hand,intimate moment,sweat wiping,peanut-grabbing,hair slicking,sign language,window washing",
+            "v": "armar relojes,abofetear las rodillas,pulsar botones,matar moscas,flamear fuego,abanicar la manos,orar,lijar tablas de surf,sujetar tarjetas,decir adiós,medir ángulos,bloquear la luz con la mano,tener un momento íntimo,secar el sudor,agarrar maní,alisar el pelo,aprender lengua de señas,lavar las ventanas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Estás viendo una patente publicada en 1994 por Albert Cohen, orgulloso inventor del aparato para <BLANK>.",
+            "v": "Están viendo una patente publicada en 1994 por Albert Cohen, orgulloso inventor del aparato para <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "high-five,high five,high fiving,high-fiving,automatic high-five,automatic high five",
+            "v": "chocar los 5,choque los cinco,choque los cinco automático,choque los cinco automatico,chocar los cinco automáticamente,chocar los cinco automaticamente",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "hair brush,spaceship cockpit,yellowtail sushi,box of high end toothpicks,jar of applesauce,cardboard box,pencil,beach ball,dog food bowl,deck of cards,lollipop,robot dog,cat tree,porcupine leash,piece of gum,$100 bill,Batman mask,set of vampire fangs",
+            "v": "un cepillo de pelo,una cabina de nave espacial,sushi,una caja de palillos de dientes de gama alta,un tarro de puré de manzana,una caja de cartón,un lápiz,una pelota de playa,un plato de comida de perro,una baraja de cartas,un caramelo,un perro robot,un árbol de gato,una correa de puercoespín,un chicle,un billete de $100,una máscara de Batman,un juego de colmillos de vampiro",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sundae,ice cream,ice cream sunday",
+            "v": "sundae,helado,helado sunday",
             "n": "AlternateSpellings"
         },
         {

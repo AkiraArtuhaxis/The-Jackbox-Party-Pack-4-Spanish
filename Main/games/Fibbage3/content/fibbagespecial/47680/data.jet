@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bidet,candy bar,massage,pedicure,hot dog,cigar,stand-up set,ice cream,white bread,Night Court episode,Green Day album,kiss,documentary,tough mudder,swear word,tube socks,car accident,bank heist",
+            "v": "bidé,barra de caramelo,masaje,pedicura,perrito caliente,puro,truco de magia,helado,pan blanco,preparación con vino,vinilo de Green Day,beso,documental,programa de ejercicios,palabrota,par de calcetines,accidente de auto,asalto al banco",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El nadador olímpico Ryan Lochte tuiteó: \"Probando mi primer <BLANK> de todos... Yuck!\"",
+            "v": "El nadador olímpico Ryan Lochte tuiteó: \"Probando mi primer <BLANK> de la vida.... ¡Qué asco!\"",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "coffee,expresso,espresso coffee,expresso coffee",
+            "v": "cafe,café,expresso,cafe espresso,cafe expresso,café espresso,café expresso,expreso,cafe expreso,café expreso",
             "n": "AlternateSpellings"
         },
         {

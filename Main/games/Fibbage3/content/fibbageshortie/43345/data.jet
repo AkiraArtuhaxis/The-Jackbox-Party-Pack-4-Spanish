@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "love in the streets,huge bonfires,poop cakes,pottery,imaginary friends,respectful banners,ugly children,mean greeting cards,bad art,babies hold signs,horses dress like cows,mountains out of trash,breakfast for everyone,bubbles in fountains,candles that smell like pee,insulting paintings,really bad jokes,lewd puppets",
+            "v": "el amor en las calles,fogatas enormes,tortas de caca,cerámicas,amigos imaginarios,pancartas respetuosas,niños feos,tarjetas de felicitación de mal gusto,mal arte,que bebés tengan pancartas,que los caballos se vistan como vacas,montañas de basura,desayuno para todos,burbujas en fuentes,velas que huelen a orina,pinturas insultantes,bromas muy malas,títeres lascivos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El Milagro de 1511 fue un festival en Bruselas, Bélgica donde los ciudadanos mostraron su descontento con el gobierno al hacer <BLANK>.",
+            "v": "El Milagro de 1511 fue un festival en Bruselas, Bélgica, donde los ciudadanos mostraron su descontento con el gobierno al hacer <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "snowmen,snowpeople,twisted snowmen,naked snowmen,lewd snowmen,dirty snowmen",
+            "v": "muñecos de nieve,muñecos de nieve retorcidos,muñecos de nieve desnudos,muñecos de nieve lascivos,muñecos de nieve sucios",
             "n": "AlternateSpellings"
         },
         {

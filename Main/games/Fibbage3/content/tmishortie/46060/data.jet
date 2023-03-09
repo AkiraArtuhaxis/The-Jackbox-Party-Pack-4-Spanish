@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "mi inteligencia,una silla,la TV,un tenedor,una lapicera,un disfraz de mujer lobo,una hacha gigante",
+            "v": "mi inteligencia,una silla,la TV,un tenedor,una lapicera,un disfraz de mujer lobo,un hacha gigante",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si hombres lobo atacaran en este momento, ¿qué usarías como arma?",
+            "v": "Si los hombres lobo atacaran ahora mismo, ¿qué usarías como arma?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si hombres lobo atacaran en este momento, <PLAYER> usaría <BLANK> como arma.",
+            "v": "Si los hombres lobo atacaran ahora mismo, <PLAYER> usaría <BLANK> como arma.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si hombres lobo atacaran en este momento, <PLAYER> usaría <BLANK> como arma.",
+            "s": "[category=host]If werewolves attacked right now, <PLAYER> would use <BLANK> as a weapon.",
             "t": "A",
             "v": "633932_0",
             "n": "QuestionAudio"

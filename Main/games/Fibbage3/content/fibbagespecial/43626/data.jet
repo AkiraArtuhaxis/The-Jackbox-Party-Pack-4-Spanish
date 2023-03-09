@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "face slapper,one hand clapping,pat on the back machine,hand raiser,bug swatter,baby comforter,duel challenger,glove tester,handball hitter,shadow puppet machine,slacks straightener,security pat down,pizza thrower,nail hammerer,ukelele player,count-to-five machine,bird giver,parade waver",
+            "v": "abofeteador de caras,aplaudidor de una mano,dispositivo de palmadas en la espalda,levantador de manos,matainsectos,consolador de bebés,retador de duelos,probador de guantes,golpeador de balonmano,dispositivo de sombras chinescas,enderezador de pantalones,dispositivo de palmaditas de seguridad,lanzador de pizzas,martillador de clavos,ukelelista,máquina de contar hasta cinco,donante de aves,saludador de desfiles",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Esta patente pertenece a Anthony Steffen, renombrado inventor del <BLANK> automático.",
+            "v": "Esta patente pertenece a Anthony Steffen, famoso inventor del <BLANK> automático.",
             "n": "QuestionText"
         },
         {

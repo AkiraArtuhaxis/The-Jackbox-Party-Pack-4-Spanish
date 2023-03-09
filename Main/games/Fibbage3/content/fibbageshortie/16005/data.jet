@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "running for Congress,dead,a lab experiment,a robot,dying,a plane crash survivor,a drug lord,a gay icon,Asian,related to Hitler,a democrat,a lottery winner,adopted,the next Dalai Lama,a former spy,originally named Bono,born in India,next in line to be Pope",
+            "v": "postulando al congreso,muerto,un experimento de laboratorio,un robot,muriendo,un sobreviviente de un accidente aéreo,un vendedor de drogas,un icono gay,asiático,familiar de Hitler,un demócrata,un ganador de la lotería,adoptado,el siguiente Dalai Lama,un ex espía,conocido anteriormente como Bono,indio,el siguiente en la lista para ser Papa",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "uno de los Más Buscados",
+            "v": "uno de los Más buscados",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando Christopher Viatafa se Googleó a sí mismo en el 2014, se sorprendió al descubrir que él era <BLANK>.",
+            "v": "Cuando Christopher Viatafa se buscó a sí mismo en Google en el 2014, se sorprendió al descubrir que él era/estaba <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "wanted,a criminal,a fugitive,wanted by the cops,wanted by the police,on the FBI’s Most Wanted List,on the Most Wanted List,wanted by the FBI",
+            "v": "buscado,un criminal,un fugitivo,buscado por la policía,buscado por los policías,en la lista de los más buscados de la FBI,en la lista de los Más buscados,buscado por la FBI,buscado por la policia,buscado por los policias,en la lista de los mas buscados de la FBI,en la lista de los Mas buscados",
             "n": "AlternateSpellings"
         },
         {

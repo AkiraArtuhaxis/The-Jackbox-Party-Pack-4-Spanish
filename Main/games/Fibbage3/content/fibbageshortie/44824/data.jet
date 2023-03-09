@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sauna,dojo,Panda Express,yelling room,cotton candy machine,art gallery,complaint box,chapel,ice cream freezer,Mickey mural,statue of the Genie,dance floor,long-range telescope,peach tree,screening room,waffle maker,“make the robots go crazy” button,Fruitopia machine",
+            "v": "un sauna,un dojo,un Burger King,una sala de gritos,una máquina de algodón de azúcar,una galería de arte,una caja de reclamaciones,una capilla,un congelador de helados,un mural de Mickey,una estatua del Genio,una pista de baile,un telescopio de largo alcance,un nogal,una sala de proyecciones,una máquina de waffles,un botón \"vuelve locos a los robots\",una máquina Fruitopia",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "cancha de baloncesto",
+            "v": "una cancha de baloncesto",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dentro de la montaña de Matterhorn en Disneylandia, los empleados instalaron un/a <BLANK> secreto/a.",
+            "v": "Dentro de la montaña de Matterhorn en Disneylandia, los empleados instalaron <BLANK> en secreto.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "basketball hoop",
+            "v": "un aro de baloncesto",
             "n": "AlternateSpellings"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "historietas de Batman,Hora de Aventura,Cheers,Dragon Ball Z,El Padrino,Pac-Man,The Wreck of the Edmund Fitzgerald",
+            "v": "historietas de Batman,Hora de Aventura,Futurama,Dragon Ball Z,El Padrino,Pac-Man,Pokémon",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿De que obra de ficción desearías ser un personaje?",
+            "v": "¿De qué obra de ficción te gustaría ser un personaje?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una obra de ficción de la que <PLAYER> le gustaría ser un personaje es <i><BLANK><\/i>.",
+            "v": "Una obra de ficción en la que a <PLAYER> le gustaría ser un personaje es <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una obra de ficción de la que <PLAYER> le gustaría ser un personaje es <BLANK>.",
+            "s": "[category=host]A work of fiction that <PLAYER> would like to be a character in is <BLANK>.",
             "t": "A",
             "v": "611795_0",
             "n": "QuestionAudio"

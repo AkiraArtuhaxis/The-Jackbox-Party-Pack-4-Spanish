@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "loved,swindled,raised,robbed,killed,married,dumped,baptized,licked,kidnapped,arrested,taught fencing,shot out of a cannon,impersonated,conceived,hunted on an island,shipwrecked,poisoned",
+            "v": "amados,estafados,criados,robados,asesinados,casados,abandonados,bautizados,lamidos,secuestrados,arrestados,formados en la esgrima,lanzados por un cañón,imitados,concebidos,cazados en una isla,naufragados,envenenados",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "ciegos",
+            "v": "cegados",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según algunos historiadores, los compositores Bach y Handel quedaron <BLANK> por el mismo hombre.",
+            "v": "Según algunos historiadores, los compositores Bach y Händel fueron <BLANK> por el mismo hombre.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "blind,made blind,rendered blind",
+            "v": "ciegos,hechos ciegos,quedados ciegos",
             "n": "AlternateSpellings"
         },
         {

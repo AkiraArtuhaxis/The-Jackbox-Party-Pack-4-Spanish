@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "yell|his dog,sing|the top of his lungs,get angry|the weatherman,buy clothes|The Gap,throw beer bottles|the fire department,eat pizza|the gas station,sleep|the local greenhouse,hurl insults|Girl Scouts,ask for forgiveness|a Taco Bell,shave his head|a vet’s office,throw his pants|a passing ice cream truck,admit his crimes|the post office,get his ears pierced|the mall,get his burns treated|KFC,rub butter on himself|the local preschool,get cornbread|his mom’s house,go to the bathroom|a Chucky Cheese,roll around on the ground|the rodeo",
+            "v": "gritar|la cara de su perro,cantar|un teatro,vomitar|su cama,comprar ropa|el supermercado,tirar botellas de cerveza|las cabezas de los bomberos,comer pizza|la gasolinera,dormir|el invernadero local,hacer ejercicios|la calle,pedir perdón|Taco Bell,afeitarse la cabeza|una consulta veterinaria,tirar sus pantalones|un camión de helados,admitir sus crímenes|la oficina de correos,perforarse las orejas|el centro comercial,curarse las quemaduras|un KFC,untarse mantequilla|un jardín infantil,comer asado|la casa de su madre,ir al baño|un cine,rodar por el suelo|el rodeo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "bañarse|Planet Fitness",
+            "v": "ducharse|un gimnasio",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "shower|the gym,shower|a gym,shower|PlatnetFitness",
+            "v": "ducharse|el gimnasio,bañarse|un gimnasio,bañarse|el gimnasio",
             "n": "AlternateSpellings"
         },
         {

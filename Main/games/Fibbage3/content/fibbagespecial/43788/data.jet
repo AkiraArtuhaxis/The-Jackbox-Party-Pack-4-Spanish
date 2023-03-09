@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Tim,farmer,badger,flower,rabid wolf,plate,bear,musician,lunatic,net,vampire,outfit,jockey,painting,clock,bearded man,lion tamer,shot glass",
+            "v": "Wladimir,granjero,tejón,flor,lobo rabioso,plato,oso,músico,lunático,nido,vampiro,atuendo,jinete,pintura,reloj,hombre barbudo,domador de leones,vaso de chupito",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si quisieras decir “Para todo hay una temporada” usando el proverbio ruso con el mismo significado, dirías \"Cada <BLANK> tiene su tiempo.\"",
+            "v": "Si quisieras decir “Todo a su tiempo” usando el proverbio ruso con el mismo significado, dirías \"Cada <BLANK> tiene su tiempo\".",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "jumped on a couch,sang,shouted,said something sarcastic,cried,hugged,hooked up,were “on a break”,made fun of Ross,wore baggy clothes,went to work,mispronounced words,started a war,mentioned Saddam Hussein,time travelled,used the internet,said the word “butts”,forgot their lines",
+            "v": "saltaban en un sofá,cantaban,gritaban,decían algo sarcástico,lloraban,se abrazaban,intimaban,estaban \"en un descanso\",se burlaban de Ross,usaban ropa holgada,iban a trabajar,pronunciaban mal las palabras,empezaban una guerra,mencionaban a Saddam Hussein,viajaban en el tiempo,usaban internet,decían la palabra \"culos\",olvidaban sus líneas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Kit Lovelace realizó una investigación muy importante. Vio todos los 236 episodios de <i>Friends<\/i> y controló qué tan frecuentemente <BLANK>.",
+            "v": "Kit Lovelace realizó una investigación muy importante. Vio todos los 236 episodios de <i>Friends<\/i> y registró qué tan frecuentemente <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "had coffee,drink coffee,have coffee,order coffee,sip coffee,get coffee",
+            "v": "beben café,toman café,bebían café,pedían café,daban sorbos al café,tenían café",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "dolls,copies of the Koran,vibrators,prosthetic limbs,children,colostomy bags,pets,laptops,iPhones,underwear,cookies,condoms,toys,bras,iguanas,crucifixes,Picasso paintings,chicken eggs",
+            "v": "muñecas,copias del Corán,vibradores,prótesis,niños,bolsas de colostomía,mascotas,ordenadores portátiles,iPhones,ropa interior,galletas,condones,juguetes,sostenes,iguanas,crucifijos,cuadros de Picasso,huevos de gallina",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "bananas falsas",
+            "v": "plátanos falsos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En marzo de 2017, la policía detuvo a dos hombres en España por intentar pasar de contrabando 15 libras de cocaína en <BLANK>.",
+            "v": "En marzo de 2017, la policía arrestó a dos tipos en España por intentar pasar de contrabando 7 kilos de cocaína en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "bannanas,banana,bananna,banannas,fake bannanas,fake banana,fake bananna,fake banannas",
+            "v": "plátanos,platanos,plátano,platano,platanos falsos,platano falso,plátano falso",
             "n": "AlternateSpellings"
         },
         {

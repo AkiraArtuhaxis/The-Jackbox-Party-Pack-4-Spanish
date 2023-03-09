@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pancakes|tuna fish,ham|ice cream,crow|more crow,fried fish|milk,salad|mayonnaise,M&Ms|whiskey,deviled eggs|Coca-Cola,gummy worms|roast beef,vanilla pudding|grape jelly,pickles|hot sauce,toast|mustard,hot dogs|pepto bismol,fried chicken|pudding,pop tarts|tartar sauce,pizza|sauerkraut,sausages|caramel,cotton candy|licorice,Cheerios|water",
+            "v": "magdalenas|atún,jamón|helado,cuervo|más cuervo,pescado frito|leche,ensalada|mayonesa,M&Ms|whisky,huevos rellenos|Coca-Cola,gusanos de goma|carne asada,pudín de vainilla|gelatina de uva,pepinillos|salsa caliente,tostadas|mostaza,perritos calientes|jarabe para la tos,pollo frito|pudín,helado|salsa tártara,pizza|chucrut,salchichas|caramelo,algodón de azúcar|regaliz,Cheetos|agua",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "queso cottage|ketchup",
+            "v": "queso fresco|kétchup",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Richard Nixon tenía un bizarro fetiche culinario. Disfrutaba comer <BLANK> con <BLANK>.",
+            "v": "Richard Nixon tenía un extraño fetiche culinario. Disfrutaba comer <BLANK> con <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "cottage cheese|catsup,cheese curd|ketchup,cottage cheese|tomato sauce,cottage cheese|tomato ketchup,cottage cheese|tomato catsup",
+            "v": "queso fresco|cátsup,queso cuajado|kétchup,queso fresco|salsa de tomate,queso fresco|ketchup,queso fresco|catsup",
             "n": "AlternateSpellings"
         },
         {

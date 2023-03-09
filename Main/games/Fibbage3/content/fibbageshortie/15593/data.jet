@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El primer sostén deportivo fue construido a partir de coser unidos dos <BLANK>.",
+            "v": "El primer sostén deportivo se creó al coser dos <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "jockstraps,jocks,suspensores,suspensorios",
+            "v": "suspensorios",
             "n": "AlternateSpellings"
         },
         {

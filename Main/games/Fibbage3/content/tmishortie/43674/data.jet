@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "que raro,Ryan Reynolds,zach galifianakis,Bradley Cooper,Dwayne Johnson,Scarlett Johansson,Rihanna",
+            "v": "Jack Black,Ryan Reynolds,Hagrid,Bradley Cooper,Dwayne Johnson,Scarlett Johansson,Rihanna",
             "n": "Suggestions"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una celebridad con la que éste jugador le encantaría intercambiar cuerpos por un día.",
+            "s": "[category=host]A celebrity this player would love to swap bodies with for a day.",
             "t": "A",
             "v": "567015_0",
             "n": "QuestionAudio"

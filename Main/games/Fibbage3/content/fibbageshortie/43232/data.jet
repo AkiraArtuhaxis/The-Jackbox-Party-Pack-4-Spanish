@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bull horns,Tuesdays,panda eyes,a full moon,sheep farms,sad spiders,Mars,salad,Mt. Everest,bicycle seats,Florida lakes,cloned rats,icebergs,pig tongues,fleas,yoga mats,bald people,television",
+            "v": "cuernos de toro,los días martes,ojos de panda,una luna llena,granjas de ovejas,arañas tristes,Marte,ensalada,Monte Everest,asientos de bicicleta,lagos de Florida,ratas clonadas,témpanos de hielo,lenguas de cerdo,moscas,alfombras de yoga,gente calva,televisión",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El pequeño animal <i>Symbion pandora<\/i> es único en el sentido de que solo se puede encontrar en <BLANK>.",
+            "v": "El pequeño animal <i>Symbion pandora<\/i> es único, en el sentido de que solo se puede encontrar en <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "the lips of lobsters,the lips of a lobster",
+            "v": "los labios de langosta,los labios de una langosta",
             "n": "AlternateSpellings"
         },
         {

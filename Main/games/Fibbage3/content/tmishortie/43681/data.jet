@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Push It,I Wanna Dance With Somebody,Single Ladies,Uptown Funk,Billie Jean,U Can\u2019t Touch This,We Are Family",
+            "v": "Bad Romance,Never Gonna Give You Up,Despacito,Livin' la vida loca,Lambada,La voz de los 80,De música ligera",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Una canción que siempre te pone a bailar es <BLANK>.",
+            "v": "Una canción que siempre te hace bailar es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Una canción que siempre pone a bailar a <PLAYER> es \u201c<BLANK>.\u201d",
+            "v": "Una canción que siempre hace bailar a <PLAYER> es “<BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Una canción que siempre pone a bailar a éste jugador es <BLANK>.",
+            "s": "[category=host]A song that always makes this player dance is <BLANK>.",
             "t": "A",
             "v": "567190_0",
             "n": "QuestionAudio"

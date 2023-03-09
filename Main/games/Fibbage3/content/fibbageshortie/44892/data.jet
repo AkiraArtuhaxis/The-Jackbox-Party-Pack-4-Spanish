@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Noodles & Co.,hat shop,music store,light fixture supply shop,BMW dealership,post office,shoe store,hotline to heaven,pork bun stand,pretzel kiosk,credit union,vacation resort,architectural tours,popemobile rental,clothing line,banana stand,barbershop,used book store",
+            "v": "tienda de fideos,sombrerería,tienda de música,tienda de iluminación,concesionaria de BMW,oficina de correos,zapatería,línea directa al cielo,tienda de bollos de cerdo,caseta de pretzels,cooperativa de crédito,playa,visita arquitectónica,renta de papamóviles,línea de ropa,tienda de plátanos,barbería,tienda de libros usados",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En abril de 2017, el Papa Francisco llegó a las noticias cuando abrió su propio/a <BLANK>.",
+            "v": "En abril de 2017, el Papa Francisco saltó a los titulares cuando inauguró su propia <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "laundry,laundery service,laundry mat",
+            "v": "labandería,lavanderia,servicio de lavandería,servicio de lavanderia",
             "n": "AlternateSpellings"
         },
         {

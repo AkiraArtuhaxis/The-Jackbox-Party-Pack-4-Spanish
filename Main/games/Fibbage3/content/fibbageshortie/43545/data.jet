@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "pogs,printed out Tinder profiles,condoms,Big Bang Theory DVDs,vodka,straws,posters of the family,laser pointers,ninja stars,Bibles,adult magazines,non-alcoholic beer,bullets,baby chickens,kittens,yogurt,gold bars,her yearbooks",
+            "v": "tazos,perfiles de Tinder impresos,condones,DVDs de Big Bang Theory,vodka,pajitas,pósters de la familia,punteros láser,shurikens,biblias,revistas para adultos,cerveza sin alcohol,balas,pollitos,gatitos,yogur,barras de oro,los anuarios de ella",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Terri Cox no es como cualquier madre. Envió a su hijo, un estudiante universitario, un paquete lleno de <BLANK>.",
+            "v": "Terri Cox no es la típica madre. Envió a su hijo, un estudiante universitario, un paquete lleno de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "garbage,trash bags,refuse",
+            "v": "desperdicio,bolsas de basura,desechos,inmundicia",
             "n": "AlternateSpellings"
         },
         {

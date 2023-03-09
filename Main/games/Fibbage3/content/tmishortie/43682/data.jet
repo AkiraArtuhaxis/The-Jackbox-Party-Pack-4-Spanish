@@ -32,7 +32,7 @@
         },
         {
             "t": "S",
-            "v": "Un programa de TV que te avergüenza admitir que te gusta es <BLANK>.",
+            "v": "Un programa de televisión que te avergüenza admitir que te gusta es <BLANK>.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un programa de TV que a <PLAYER> le da vergüenza admitir que le gusta es <i><BLANK><\/i>.",
+            "v": "Un programa de televisión que a <PLAYER> le avergüenza admitir que le gusta es <i><BLANK><\/i>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Un programa de TV que a éste jugador le avergüenza admitir que le gusta es <BLANK>.",
+            "s": "[category=host]A TV show this player is ashamed to admit liking is <BLANK>.",
             "t": "A",
             "v": "567215_3",
             "n": "QuestionAudio"

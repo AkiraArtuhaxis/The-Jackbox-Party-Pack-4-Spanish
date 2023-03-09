@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "urine|feces,honey|newspaper,blood|bull semen,fish|underwear,knives|bullets,money|firecrackers,sewage|tar,lemon juice|razor blades,milk|jelly,rocks|Doritos,compliments|advice,sausages|puppies,candy|unopened mail,Diet Coke|Mentos,wine|yarn,broccoli|hot sauce,pie|hummus,pasta|gasoline",
+            "v": "orina|heces,miel|papel de periódico,sangre|semen de toro,pescado|ropa interior,cuchillos|balas,dinero|petardos,aguas residuales|alquitrán,jugo de limón|hojas de afeitar,leche|jalea,piedras|Doritos,cumplidos|consejos,salchichas|cachorros,caramelos|correo sin abrir,Coca-Cola dietética|Mentos,vino|hilo,brócoli|salsa picante,torta|hummus,pasta|gasolina",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "tierra|hormigas rojas",
+            "v": "tierra|hormigas de fuego",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "¿Planeas asistir al festival Entroido en Laza, España antes de la Cuaresma? Es probable que los pobladores te duchen con <BLANK> y <BLANK>.",
+            "v": "¿Planeas asistir al festival Entroido de Laza, en España, antes de la Cuaresma? Es probable que los pobladores te duchen con <BLANK> y <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "dirt|ants,mud|ants,ash|ants,flour|ants,vinegar|ants,ants|dirt,fire ants|dirt",
+            "v": "tierra|hormigas,lodo|hormigas,barro|hormigas,cenizas|hormigas,harina|hormigas,vinagre|hormigas,hormigas|tierra,hormigas de fuego|tierra",
             "n": "AlternateSpellings"
         },
         {

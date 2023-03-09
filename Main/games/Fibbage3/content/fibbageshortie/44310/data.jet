@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "polite signs,poison spikes,beehives,porcupines,bags of poop,stun guns,hunks of garbage,cobras,lethal germs,missles,boomerang launchers,photos of surgery,very little importance,rusty nails,machine guns,bibles,sonic cannons,dead fish",
+            "v": "señales de cortesía,púas venenosas,colmenas,puercoespines,bolsas de caca,pistolas paralizantes,montones de basura,cobras,gérmenes letales,misiles,lanzadores de bumeranes,fotos de cirugía,muy poca importancia,clavos oxidados,ametralladoras,biblias,cañones sónicos,peces muertos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "A finales de los 90, el inventor sudafricano Charl Fourie intentó prevenir los robos de autos colocando <BLANK> en los coches.",
+            "v": "A finales de los 90, el inventor sudafricano Charl Fourie intentó prevenir los robos de vehículos colocando <BLANK> en los autos.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "flame throwers,flame-throwers,a flamethrower,a flame thrower,a flame-thrower",
+            "v": "lanza llamas,lanza-llamas,un lanzallamas,un lanza llamas,un lanza-llamas",
             "n": "AlternateSpellings"
         },
         {

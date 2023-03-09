@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "bottles of ensure|baby food,books|iPads,turtlenecks|onesies,black socks|white socks,reading glasses|sunglasses,tombstones|tombstone pizza,scooters|skateboards,funeral plots|video games,bed pans|toilets,stool softeners|actual stools,bow ties|purple hair dye,Blu-Ray player manuals|Blu-Ray players,golf clubs|skateboards,suspenders|belts,Viagra|M&Ms,CDs|MP3s,caskets|baby cribs,dentures|novelty vampire teeth",
+            "v": "suplementos alimenticios|comidas para bebés,libros|iPads,chompas|mamelucos,calcetines negros|calcetines blancos,gafas de leer|gafas de sol,lápidas|pizzas de lápida,motonetas|patinetas,parcelas funerarias|videojuegos,bacinicas|inodoros,laxantes|baberos,corbatín|tintura morada,manuales de reproductores BluRay|reproductores BluRay,palos de golf|patinetas,suspensores|cinturones,Viagra|M&Ms,CDs|MP3s,ataúdes|cunas,dentaduras postizas|dientes de vampiro",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Debido al envejecimiento de su población, los <BLANK> venden más que los <BLANK> en Japón.",
+            "v": "Debido al envejecimiento de su población, se venden más <BLANK> que <BLANK> en Japón.",
             "n": "QuestionText"
         },
         {

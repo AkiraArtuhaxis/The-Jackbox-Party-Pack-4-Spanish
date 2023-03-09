@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "on the toilet,cooking a frozen pizza,mowing the lawn,weeding the garden,pretending to be dead,winning a hot dog eating contest,marrying her sister,breaking out of prison,getting his back waxed,getting a colonoscopy,throwing up from drinking,judging a wet T-shirt contest,juggling salmon,getting shot out of a cannon,duck hunting,punching the garbageman,streaking,lifting weights",
+            "v": "estaba en el inodoro,cocinaba una pizza congelada,cortaba el pasto,regaba el jardín,fingía estar muerto,ganaba un concurso de comer perritos calientes,se casaba con su hermana,se fugaba de la cárcel,se depilaba la espalda,se hacía una colonoscopia,vomitaba por beber demasiado,era jurado en un concurso de camisetas mojadas,hacía malabares con salmones,salía disparado de un cañón,cazaba patos,golpeaba al basurero,corría desnudo,levantaba pesas",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Brandon Thompson no es como cualquier romántico. Le propuso matrimonio a su novia mientras <BLANK>.",
+            "v": "Brandon Thompson es un romántico poco tradicional. Le propuso matrimonio a su novia mientras <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "being arrested,getting aressted,getting arressted,being arressted,getting handcuffed,being handcuffed",
+            "v": "estaba siendo arrestado,lo arrestaban,fue arrestado,lo tenían esposado,lo tomaban detenido,lo llevaban detenido",
             "n": "AlternateSpellings"
         },
         {

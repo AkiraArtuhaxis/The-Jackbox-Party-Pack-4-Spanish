@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "fútbol,máquinas de pinball,juegos de palabra,revistas de arquitectura,pescar en el viejo dique,carnes rojas,helado de menta granizada",
+            "v": "fútbol,máquinas de pinball,juegos de palabra,revistas de arquitectura,pescar en el viejo dique,carnes rojas,helado de menta",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Qué es algo que antes te gustaba pero ahora no te agrada particularmente.",
+            "v": "Algo que antes te gustaba pero ya no te gusta para nada.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que a <PLAYER> solía gustarle, pero ya no, es <BLANK>.",
+            "v": "Algo que a <PLAYER> antes le gustaba, pero ya no, es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo que a <PLAYER> solía gustarle, pero ya no, es <BLANK>.",
+            "s": "[category=host]Something <PLAYER> used to like, but doesn’t anymore, is <BLANK>.",
             "t": "A",
             "v": "625377_0",
             "n": "QuestionAudio"

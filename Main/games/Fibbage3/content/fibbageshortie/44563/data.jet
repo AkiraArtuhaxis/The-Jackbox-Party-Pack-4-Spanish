@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "escape hatch,food supply,Puppy,Crown,Dildo,Chocolate Bar,Rare gem,Rooster skeleton,pie recipe,ghost,Da Vinci painting,sex advice guide,house key,Corset,Cigarette,Revolver,treasure map,monkey’s paw",
+            "v": "una escotilla de escape,suministro de alimentos,un cachorro,una corona,un consolador,una barra de chocolate,una gema rara,un esqueleto de gallo,una receta de tarta,un fantasma,un cuadro de Da Vinci,una guía de consejos sexuales,una llave de casa,un corsé,un cigarrillo,un revólver,un mapa del tesoro,una pata de mono",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Bebé",
+            "v": "un bebé",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando los científicos escanearon el ataúd de Peder Wugup, un obispo del siglo XVII, se sorprendieron al encontrar escondido un <BLANK> adentro.",
+            "v": "Cuando los científicos escanearon el ataúd de Peder Wugup, un obispo del siglo XVII, se sorprendieron al encontrar <BLANK> en un escondite adentro.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Fetus,Child,Fedus,Fetis",
+            "v": "un feto,feto,niños,un niño,niño,fetos",
             "n": "AlternateSpellings"
         },
         {

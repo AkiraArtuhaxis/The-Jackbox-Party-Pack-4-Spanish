@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "soft drink,deodorant,scratch n sniff menu,car,perfume,cat litter,air freshener,shirt,salad,gym bag,shoe,bed,hair gel,cleanser,wallet,dryer sheet,fake mustache,pillow",
+            "v": "un refresco,un desodorante,un menú de rascar y oler,un auto,un perfume,arena para gatos,un ambientador,una camiseta,una ensalada,una bolsa de gimnasia,un zapato,una cama,un gel para el cabello,un limpiador,una billetera,una hoja de secado,un bigote falso,una almohada",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "protector solar",
+            "v": "un protector solar",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2016, KFC anunció que creó un <BLANK> que huele a pollo frito.",
+            "v": "En 2016, KFC anunció que creó <BLANK> con olor a pollo frito.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "sun lotion,sun tan lotion,sun screen,lotion",
+            "v": "una loción solar,una loción de bronceado,loción solar,loción de bronceado,loción,una loción,una crema,crema,una crema solar",
             "n": "AlternateSpellings"
         },
         {

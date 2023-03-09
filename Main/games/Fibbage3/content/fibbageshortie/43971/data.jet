@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "breakdancing,hosting a talkshow,chasing dogs,juggling fire,directing traffic,screaming at a puppet,throwing KFC coupons,making s’mores,caber tossing,challenging people to rap battles,tossing darts,building a pillow fort,smashing watermelons,cosplaying as Mega Man,offering free hugs,selling amish fudge,practicing standup comedy,licking cars",
+            "v": "bailando breakdance,presentando un programa de entrevistas,persiguiendo perros,haciendo malabares con fuego,dirigiendo el tráfico,gritándole a un títere,lanzando cupones de KFC,preparando emparedados,administrando un cabaret,desafiando a la gente a batallas de rap,lanzando dardos,construyendo un fuerte de almohadas,aplastando sandías,disfrazándose de Mega Man,ofreciendo abrazos gratis,vendiendo caramelos amish,practicando comedia,lamiendo autos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, la policía de Lakewood, Florida recibió una llamada acerca de un hombre que estaba <BLANK> en una calle concurrida.",
+            "v": "En 2017, la policía de Lakewood, Florida, recibió una llamada acerca de un hombre que estaba <BLANK> en una calle muy transitada.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "eating a pancake,pnck,pan cake,eating",
+            "v": "comiendo un panqueque,panqq,panqueque,comiendo",
             "n": "AlternateSpellings"
         },
         {

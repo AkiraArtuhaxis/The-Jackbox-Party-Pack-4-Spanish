@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Music,Selena,Potato,Moon,Everyone LOL JK,Me,Justin,My Monkey,Willy Shakespeare,Usher,my abs,One Direction,Justin Timberlake <3,Voldemort,Being popular,Fame,Smelling,Jealousy",
+            "v": "la música,a Selena,las papas,la Luna,a todos xD bromeaba,tu persona,a Justin,a mi mono,a Willy Shakespeare,a Usher,mis abdominales,a One Direction,a Justin Timberlake <3,a Voldemort,ser popular,la fama,oler,los celos",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Brazo",
+            "v": "el brazo",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Justin Bieber tuiteó: “Yo amo <BLANK>”",
+            "v": "Justin Bieber tuiteó: “Yo amo <BLANK>”.",
             "n": "QuestionText"
         },
         {

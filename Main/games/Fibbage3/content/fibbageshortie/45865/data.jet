@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Never born,Dead before the war started,A dog,A woman in disguise,102 years old,8 years old,Anemic,an avowed Nazi,afraid of guns,An anarchist,Planning an American revolt,fully paralyzed,in Austria during the war,unaware the war was happening,A member of the Klu Klux Klan,A horse,actually two kids in a trenchcoat,a standup comic",
+            "v": "un nonato,un fallecido antes de que la guerra comenzara,un perro,una mujer disfrazada,una persona de 102 años,una persona de 8 años,anémico,un nazi declarado,un temeroso de las armas,un anarquista,el planificador de una revuelta estadounidense,paraplégico,un desertor,ignorante de la existencia de la guerra,un miembro del Klu Klux Klan,un caballo,en realidad dos niños en una gabardina,un comediante",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Sobrino de Hitler",
+            "v": "sobrino de Hitler",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Hitlers nephew,Hitler’s nefew,Adolph Hitler’s nephew,related to Hitler",
+            "v": "sobrino de hitler,sovrino de Hitler,familiar de Hitler",
             "n": "AlternateSpellings"
         },
         {

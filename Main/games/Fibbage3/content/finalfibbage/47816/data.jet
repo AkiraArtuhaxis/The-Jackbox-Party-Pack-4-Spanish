@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "eat|eyeballs,implode|stomach,melt|brain,combust|knees,chew|tongue,kick|head,stretch|rectum,dissolve|nose,clap|feet,vomit|kidney stone,sing|favorite showtune,fall asleep in|own bed,regrow|baby teeth,try to fire|boss,take off|clothes,stick out|tongue,jump over|own feet,lick|elbow",
+            "v": "comerse|globos oculares,implosionar|intestinos,derretir|sesos,quemar|rodillas,morder|mejillas,patear|canillas,estirar|nalgas,disolver|fosas nasales,aplaudir con|pies,vomitar|cálculos renales,cantar|canciones favoritas,dormirse en|propias mantas,volver a crecer|dientes de leche,intentar despedir a|jefes,quitarse|ropas,sacar|ojos,saltar por encima de|propios pies,lamer|codos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "No contraigan la enfermedad tropical conocida como \"Ainhum\". Es en la que tu cuerpo decide <BLANK> espontáneamente tus <BLANK>.",
+            "v": "Traten de no contraer la enfermedad tropical conocida como \"ainhum\". Es en la que tu cuerpo decide <BLANK> espontáneamente tus <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "amputate|toe,cut off|toe,cut off|toes,autoamputate|toe,autoamputate|toes",
+            "v": "amputar|dedo del pie,cortarte|dedo del pie,cortarte|dedos del pie,autoamputar|dedo del pie,autoamputar|dedos del pie",
             "n": "AlternateSpellings"
         },
         {

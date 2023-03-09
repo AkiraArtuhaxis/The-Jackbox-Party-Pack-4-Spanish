@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "assault|senses,Feasting|Undies,horrors|imagination,Melting|snowmen,children|devil,painting|Elvis,the coming|dark lord,yelling|cats,shaming|sinners,Anger|mermaid,the dance|the virgins,raising|voices,waltz|werewolves,fire|belly,flight|fishes,sadness|cactus,Dancing|spiders,tears|Sinbad",
+            "v": "Asalto|sentidos,Festín|calzones,Horrores|imaginación,Derretimiento|muñecos de nieve,Niños|el diablo,Pintura|Elvis,La llegada|del señor oscuro,Gritos|gatos,Deshonra|pecadores,Ira|sirena,El baile|los vírgenes,Despertar|voces,Vals|hombres lobo,Fuego|vientre,Vuelo|peces,Tristeza|cactus,Baile|arañas,Lágrimas|el Chavo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Noche|Rábanos",
+            "v": "Noche|rábanos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El 23 de diciembre en Oaxaca, México, los locales hacen fila por horas para ver exhibiciones extrañas como parte de un evento anual conocido como <BLANK> de los <BLANK>.",
+            "v": "El 23 de diciembre en Oaxaca, México, los lugareños hacen fila durante horas para ver exhibiciones extrañas como parte de un evento anual conocido como <BLANK> de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Noche|Rabanos,Night|Radish,Festival|Radish,Festival|Radishes",
+            "v": "Noche|rabanos,Noche|rábano,Noche|rabano,Festival|rábano,Festival|rabano,Festival|rábanos,Festival|rabanos",
             "n": "AlternateSpellings"
         },
         {

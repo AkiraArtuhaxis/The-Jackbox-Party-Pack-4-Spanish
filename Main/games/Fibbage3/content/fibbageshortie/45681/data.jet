@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Run with scissors,Fart,Sneeze,Light candles indoors,Light sparklers,Jump on a trampoline,Flush tampons,Burp,Microwave food,sweat,giggle,wink,sext,pick their nose,flake off skin,cry at movies,fall in love,have a fond memory",
+            "v": "corre con tijeras,se tira pedos,estornuda,enciende velas dentro de casa,enciende bengalas,salta en un trampolín,bota los tampones en el inodoro,eructa,mete comida en el microondas,suda,se ríe,guiña un ojo,envía fotos desnuda,se hurga la nariz,se arranca las escamas de la piel,llora en el cine,se enamora,tiene un buen recuerdo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Hacen pis en la pileta",
+            "v": "orina en la piscina",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El cloruro de cianógeno es un producto químico peligroso con efectos similares al gas lacrimógeno, y se produce cuando las personas <BLANK>.",
+            "v": "El cloruro de cianógeno es un producto químico peligroso con efectos similares al gas lacrimógeno, y se produce cuando la gente <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "pee in a swimming pool,urinate in a pool,pee in a pool",
+            "v": "orina en la pisina,orina en la picina,mea en la piscina,mea en la pisina,mea en la picina,orina en una piscina,orina en una pisina,orina en una picina,mea en una piscina,mea en una pisina,mea en la picina,",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "sing,say the alphabet,bathe,pick daisies,gargle,cure cancer,steal,pay taxes,smile,suck lemons,speak,whisper,kiss,make a duck mouth,lick salt,polish brass,sell a cow,get chapped",
+            "v": "cantar,decir el alfabeto,bañarme,recoger margaritas,hacer gárgaras,curar el cáncer,robar,pagar impuestos,sonreír,chupar limones,hablar,susurrar,besar,hacer una boca de pato,lamer sal,pulir latón,vender una vaca,agrietarme",
             "n": "Suggestions"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "Hie Hohnay",
+            "v": "Veber myel",
             "n": "Category"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si algo suena demasiado bueno para ser cierto a un ruso, podrían responder con un dicho que se traduciría como \"Me gustaría <BLANK> con tus labios.\"",
+            "v": "Si algo le parece demasiado bueno para ser verdad a un ruso, podrían responder con un dicho que se traduce como \"Me gustaría <BLANK> con tus labios\".",
             "n": "QuestionText"
         },
         {

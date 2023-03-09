@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "America,her mom’s fine china collection,her father,George Washington’s hair,himself,salt water taffy,Prince,his creditors,a clown named “Bobo”,Curly Joe DeRita,jeggings,a rabid dog,the Earth,corkboard,a flock of geese,a lost teddy bear,a beached whale,the horseless carriage",
+            "v": "Estados Unidos,la colección de porcelana fina de su madre,su padre,el pelo de George Washington,él mismo,caramelos de agua salada,Prince,sus acreedores,un payaso llamado \"Bobo\",Curly Joe DeRita,pantalones cortos,un perro rabioso,la Tierra,corchos,una bandada de gansos,un oso de peluche perdido,una ballena varada,el carruaje sin caballos",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 1772, Benjamin Franklin escribió una carta para alegrar a una amiga triste, en la que decía cosas bonitas acerca de <BLANK>.",
+            "v": "En 1772, Benjamin Franklin escribió una carta para alegrar a una amiga que estaba de duelo, en la que decía cosas bonitas sobre <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a dead squirrel,her pet squirrel,her dead squirrel,squirrels",
+            "v": "una ardilla muerta,su mascota ardilla,su ardilla muerta,ardillas",
             "n": "AlternateSpellings"
         },
         {

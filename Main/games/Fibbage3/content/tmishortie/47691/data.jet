@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "espantapájaros,consejero emocional de vacas,bibliotecario del campus,mesero,estilista de celebridades,depilador de cerdos,tester de puñetazos",
+            "v": "espantapájaros,calentador de vacas,bibliotecario de universidad,mesero,estilista de famosos,depilador de cerdos,recibidor de puñetazos",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Cuál fue el peor trabajo que tuviste?",
+            "v": "¿Cuál ha sido el peor trabajo que has tenido?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El peor trabajo de <PLAYER> fue <BLANK>.",
+            "s": "[category=host]<PLAYER>’s worst job was <BLANK>.",
             "t": "A",
             "v": "665864_0",
             "n": "QuestionAudio"

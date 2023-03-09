@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "whispering,Arby’s,all food,tube socks,Rachel Ray,root beer,Guy Fieri,jogging,bad cooking,allergies,pretty women,jazz,politeness,bacon,Australians,picky eaters,people who can’t use chopsticks,hair gel",
+            "v": "susurros,Wendy's,toda la comida,calcetines,cocinas de EE. UU.,cerveza de raíz,Guy Fieri,los pies,la mala cocina,alergias,mujeres guapas,jazz,cortesía,tocino,australianos,quisquillosos con la comida,gente que no sabe usar palillos,gel para el pelo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "los veganos",
+            "v": "veganos",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando le preguntaron a qué era alérgico, el célebre chef Gordon Ramsay respondió: “<BLANK>\"",
+            "v": "Cuando le preguntaron a qué era alérgico, el famoso chef Gordon Ramsay respondió: “<BLANK>\".",
             "n": "QuestionText"
         },
         {

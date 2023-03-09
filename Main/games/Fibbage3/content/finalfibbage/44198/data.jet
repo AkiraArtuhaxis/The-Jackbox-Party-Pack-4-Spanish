@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "churches|bars,dogs|cats,children|demons,stars|angels,thumbs|fingers,vampires|sexy,butts|divine,blessings|tax deductible,noses|little mouths,doves|baby angels,trees|Earth’s hair,witches|really fun,nipples|the windows to the soul,belly buttons|a punishment from above,snowglobes|little universes,horses|people,geese|evil,practical jokers|god’s favorite",
+            "v": "las iglesias|bares,los perros|gatos,los niños|demonios,las estrellas|ángeles,los pulgares|dedos,los vampiros|sensuales,los culos|divinos,las bendiciones|deducibles de impuestos,las narices|boquitas,las palomas|angelitos,los árboles|pelo de la Tierra,las brujas|muy divertidas,los pezones|las ventanas del alma,los ombligos|un castigo desde arriba,las bolas de nieve|pequeños universos,los caballospersonas,los gansos|malvados,Zeitgeist|los documentales favoritos de dios",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En el siglo XVII, respondiendo a una pregunta del Bishop de Quebec, la Iglesia Católica declaró oficialmente que <BLANK> eran <BLANK>.",
+            "v": "En el siglo XVII, en respuesta a una pregunta del obispo de Quebec, la Iglesia Católica declaró oficialmente que <BLANK> eran <BLANK>.",
             "n": "QuestionText"
         },
         {

@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "El Resplandor está basado en hechos reales,las ballenas no son peces,el maní es una legumbre,Juan está enamorado de Paula,las gomitas de osito se hacen con huesos de caballo,la tierra es plana,siempre vemos el mismo lado de la luna",
+            "v": "El Resplandor está basado en hechos reales,las ballenas no son peces,el maní es una legumbre,el kétchup se vendía como medicina,las gomitas de osito se hacen con huesos de caballo,la tierra es plana,siempre vemos el mismo lado de la luna",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es lo más asombroso que aprendiste recientemente?",
+            "v": "¿Qué es lo más asombroso que has aprendido recientemente?",
             "n": "PersonalQuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Lo más asombroso que <PLAYER> ha aprendido recientemente es <BLANK>.",
+            "s": "[category=host]The coolest thing that <PLAYER> has recently learned is <BLANK>",
             "t": "A",
             "v": "690676_1",
             "n": "QuestionAudio"

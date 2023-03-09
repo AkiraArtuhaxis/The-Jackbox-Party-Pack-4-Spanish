@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "delicious,vegan,made from ostrich,kosher,made by Prince,$800,invisible,made in Canada,dipped in chocolate,illegal in most states,Titanic burgers,free to firefighters,glow-in-the-dark,more likely to make you happy,triangular,Big Macs,sold on Mars,available by mail",
+            "v": "deliciosas,veganas,hechas de avestruz,kósher,hechas por Prince,de 800 dólares,invisibles,hechas en Canadá,sumergidas en chocolate,ilegales en la mayoría de estados,hamburguesas Titanic,gratis para los bomberos,fosforescentes,más probables que te hagan feliz,triangulares,Big Macs,vendidas en Marte,vendidas por correo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "zurdas",
+            "v": "para zurdos",
             "n": "CorrectText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "left-handed,lefty",
+            "v": "zurdas,zurdos",
             "n": "AlternateSpellings"
         },
         {

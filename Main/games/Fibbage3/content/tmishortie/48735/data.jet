@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "Gran Hermano,Cantando por un sueño,Master Chef,RuPauls Drag Race,Combate,Jugando con fuego,Isla del Drama",
+            "v": "Gran Hermano,Cantando por un sueño,Master Chef,Pesadilla en la cocina,Hombre al agua,Jugando con fuego,Fear Factor",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué reality competitivo (real o inventado) tendrías la mejor chance de ganar?",
+            "v": "¿En qué reality show competitivo (real o falso) tendrías más posibilidades de ganar?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El reality que <PLAYER> tendría las mejores probabilidades de ganar sería <BLANK>.",
+            "v": "El reality show que <PLAYER> tendría más posibilidades de ganar sería <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]El reality que <PLAYER> tendría las mejores probabilidades de ganar sería <BLANK>.",
+            "s": "[category=host]The reality show <PLAYER> would have the best chance at winning would be <BLANK>.",
             "t": "A",
             "v": "695826_1",
             "n": "QuestionAudio"

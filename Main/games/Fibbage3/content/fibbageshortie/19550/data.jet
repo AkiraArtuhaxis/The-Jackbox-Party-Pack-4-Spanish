@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "tattoo,scar,unibrow,nose ring,crossbow,body cast,gang sign,cod piece,swimming suit,pair of sunglasses,bow tie,cow mask,cup of coffee,pitchfork,mohawk,top hat,gun,bowl cut",
+            "v": "tatuajes,cicatrices,uniceja,aro en la nariz,ballesta,yeso,signo de pandilla,pieza de bacalao,traje de baño,par de lentes,corbata,máscara de vaca,taza de café,horquilla,mohicano,sombrero de copa,corte de tazón",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando visites Praga, asegúrate de visitar la Capilla de Nuestra Señora de Dolores, que muestra una mujer crucificada con <BLANK>.",
+            "v": "Cuando visites Praga, asegúrate de visitar la Capilla de Nuestra Señora de Dolores que muestra una mujer crucificada con <BLANK>.",
             "n": "QuestionText"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "a salad bowl|a cereal bowl,his knife|a fingernail clipper,his shovel|a weapon,a spoon|a key for his front door,a bass|a guitar,parchment paper|toilet paper,a teapot|a coffee maker,a lawnmower|a haircutting method,I Can’t Believe It’s Not Butter|butter,a cool rock|money,a turkey|a sparring partner,pig saliva|personal lubricant,a scimitar|a toothpick,his butt|a doorstop,a book of poetry|a way to impress ladies,a brown bear|a sleeping bag,humor|an emotional shield,his teeth|match striker",
+            "v": "una ensaladera|bol de cereales,su cuchillo|cortauñas,su pala|arma,una cuchara|llave para su puerta de entrada,un bajo|guitarra,papel pergamino|papel higiénico,una tetera|cafetera,una podadora|método para cortarse el pelo,una margarina|mantequilla,una roca genial|dinero,un pavo|contrincante,saliva de cerdo|lubricante personal,un sable|mondadientes,su trasero|tope de puerta,un libro de poesía|una forma de impresionar a las damas,un oso pardo|saco de dormir,el humor|escudo emocional,sus dientes|encendedor",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "un hueso de ballena|un catéter",
+            "v": "un hueso de ballena|catéter",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "El padre fundador de los Estados Unidos Gouverneur Morris sufrió una muerte inusual. Murió poco después de intentar usar <BLANK> como <BLANK>.",
+            "v": "El padre fundador de los Estados Unidos, Gouverneur Morris, sufrió una muerte insólita. Falleció poco después de intentar usar <BLANK> como <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "a bone|a catheter,bone|catheter,bones|a catheter,whale bone|a catheter,a whale bone|a cathetar,a whale bone|a cathater,a whale bone|a cathatar",
+            "v": "un hueso|catéter,hueso|catéter,huesos|catéter,hueso de ballena|catéter,un hueso|cateter,hueso|cateter,huesos|cateter,hueso de ballena|cateter,un hueso de ballena|cateter",
             "n": "AlternateSpellings"
         },
         {

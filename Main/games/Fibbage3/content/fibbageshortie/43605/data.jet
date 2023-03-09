@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "toothbrush,kitchen,television,iced tea,coffee cup,frisbee,television,steering wheel,crossword puzzle book,shower loofah,soup spoon,crab hammer,paintbrush,pizza slicer,wedding ring,novelty pencil,watch,electric razor",
+            "v": "cepillo de dientes,cocina,televisión,té helado,taza de café,frisbee,volante,libro de crucigramas,esponja de ducha,cuchara de sopa,golpe martillo,pincel,cortador de pizza,anillo de boda,lápiz novedoso,reloj,máquina de afeitar eléctrica",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Según Matt Bonner, el jugador de los San Antonio Spurs, una vez se le inflamó el codo porque su <BLANK> era demasiado grande.",
+            "v": "Matt Bonner, el jugador de las Espuelas de San Antonio, sufrió una inflamación en el codo porque, según él, su <BLANK> era demasiado grande.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "phone,cellphone,cell phone,mobile phone,mobile",
+            "v": "teléfono,celular,teléfono celular,móvil,teléfono móvil",
             "n": "AlternateSpellings"
         },
         {

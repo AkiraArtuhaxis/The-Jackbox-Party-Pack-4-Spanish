@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "faltas de ortografía,cosas desordenadas,una puerta de mueble entreabierta,cosas que no están centradas,parejas que se ven idénticas,ketchup en los panchos,papel higiénico puesto al revés",
+            "v": "faltas de ortografía,cosas desordenadas,una puerta de mueble entreabierta,cosas que no están centradas,parejas que se ven idénticas,kétchup en los perritos calientes,papel higiénico puesto al revés",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "¿Qué es algo tonto pero que siempre te pone furioso?",
+            "v": "¿Qué estupidez te hace enfadar siempre de forma irracional?",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Algo tonto, pero que siempre pone a <PLAYER> furioso es <BLANK>.",
+            "v": "Es una estupidez, pero que siempre hace enfadar a <PLAYER> es <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Algo tonto, pero que siempre pone a <PLAYER> furioso es <BLANK>.",
+            "s": "[category=host]The one stupid thing that always makes <PLAYER> irrationally angry is <BLANK>.",
             "t": "A",
             "v": "694358_0",
             "n": "QuestionAudio"

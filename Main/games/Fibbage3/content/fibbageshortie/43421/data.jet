@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "Saving Spheres,Sports,Beckham Blaster,Other Kind Of Football,Bend It Like Bagdad,Help The Iraqi Kids,It’s Soccer not Football,For the Kids,Kickin It,Game Time,Air Bud,The Game,Mr Kick,Mia Hamm,Dumbo Drop,Black & White,Hooligan,Freedom Goal",
+            "v": "esferas de salvación,deportes,dinamitero Beckham,otro tipo de fútbol,dóblalo como Bagdad,ayuda a los niños iraquíes,es fútbol no fútbol americano,por los niños,pateándola,hora de jugar,amigo de aire,el juego,Sr. Patada,Mía Hamm,caída de Dumbo,blanco y negro,barrabrava,gol de libertad",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Pelota de fútbol",
+            "v": "Balón de Fútbol",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2004, los miembros de las fuerzas armadas estadounidenses entregaron pelotas de futbol a los iraquíes como parte de una misión humanitaria con el sorprendente nombre de \"Operación <BLANK>\".",
+            "v": "En 2004, los miembros del servicio estadounidense regalaron balones de fútbol a los iraquíes como parte de una misión humanitaria con el impactante nombre en clave de \"Operación <BLANK>\".",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Soccer Balls",
+            "v": "Balones de Fútbol",
             "n": "AlternateSpellings"
         },
         {

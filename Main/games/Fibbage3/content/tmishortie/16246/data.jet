@@ -27,12 +27,12 @@
         },
         {
             "t": "S",
-            "v": "You Shook Me All Night Long,Picasso\u2019s Last Words,Achy Breaky Heart,Y.M.C.A.,Call Me Maybe,Dead Man\u2019s Party,It\u2019s My Life",
+            "v": "Ángel para un final,Stairway to heaven,Highway to hell,Y.M.C.A.,Call me maybe,Astronomia,It’s my life",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Si pudieras elegir una canción para que suene en tu funeral sería \u201c<BLANK>.\u201d",
+            "v": "Si tuvieras que elegir una canción para que suene en tu propio funeral, sería “<BLANK>”.",
             "n": "PersonalQuestionText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Si <PLAYER> tuviera que elegir una canción para que suene en su propio funeral sería \u201c<BLANK>.\u201d",
+            "v": "Si <PLAYER> tuviera que elegir una canción para que suene en su propio funeral, sería “<BLANK>.”",
             "n": "QuestionText"
         },
         {
@@ -95,7 +95,7 @@
             "n": "CorrectAudio"
         },
         {
-            "s": "[category=host]Si éste jugador tuviera que elegir una canción para que suene en su propio funeral sería \u201c<BLANK>.\u201d",
+            "s": "[category=host]If this player had to pick a song to play at their own funeral it would be “<BLANK>.”",
             "t": "A",
             "v": "360110_0",
             "n": "QuestionAudio"

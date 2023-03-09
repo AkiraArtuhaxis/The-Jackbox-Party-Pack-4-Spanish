@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "imitating an elephant,reading poetry,putting on a lady lion outfit,doing the macarena,talking about politics,building a fire,reflecting light of an iPad,spitting water,releasing a different mountain lion,talking about his podcast,throwing nachos at it,telling a spooky ghost story,playing the spoons,refusing to believe in it,eating his own sock,putting on a No Fear shirt,hiding behind a passing bear,singing showtunes",
+            "v": "imitar a un elefante,leer poesía,ponerse un disfraz de puma hembra,bailar la Macarena,hablar de política,encender un fuego,reflejar la luz de un iPad,escupir agua,liberar a otro puma,hablar de su pódcast,tirarle nachos,contar una historia de fantasmas espeluznantes,jugar a las cucharas,negarse a creer en él,comerse su propio calcetín,ponerse una camiseta de Sin Miedo,esconderse detrás de un oso que estaba pasando,cantar canciones de series de TV",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En mayo de 2017, un excursionista de las sierras de Santa Carolina en Arizona evitó el ataque de un león agresivo al simplemente <BLANK>.",
+            "v": "En mayo de 2017, un excursionista de las sierras de Santa Carolina en Arizona evitó que un agresivo puma atacara al simplemente <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "removing his sunglasses,making eye contact,looking it in the eyes,looking at it",
+            "v": "quitarse sus lentes de sol,haciendo contacto visual,mirarlo a los ojos,mirándolo",
             "n": "AlternateSpellings"
         },
         {

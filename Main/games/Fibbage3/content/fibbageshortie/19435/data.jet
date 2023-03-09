@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "income,fashion,home,pet,vehicle,sense of humor,knees,lawn,hair style,scream,voice,handshake,mail box,career,breath,cough,laugh,sneeze",
+            "v": "salario,moda,hogar,mascota,vehículo,sentido de humor,rodilla,jardín,corte de pelo,grito,voz,saludo,buzón de correo,profesión,aliento,tos,risa,estornudo",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "intelecto",
+            "v": "inteligencia",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Un \"sapiosexual\" es alguien que está sexualmente atraído por el <BLANK> de una persona.",
+            "v": "Un \"sapiosexual\" es alguien que está sexualmente atraído a una persona por su <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "inteligence,smarts,mind,human mind,brain,IQ",
+            "v": "inteligensia,intelecto,mente,mente humana,cerebro,IQ",
             "n": "AlternateSpellings"
         },
         {

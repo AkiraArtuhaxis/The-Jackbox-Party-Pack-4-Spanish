@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "the White House,Mt. Rushmore,the Eiffel Tower,Antarctica,active volcanoes,the Mir space station,the Moon’s craters,Mt. Kilimanjaro,the Vatican,Donald Trump’s golf bag,the Hawaiian Islands,the ocean floor,the Earth’s core,the Roman Coliseum,Mt. Fuji,the Great Wall of China,North Korea,Yankee Stadium",
+            "v": "la Casa Blanca,Monte Rushmore,la Torre Eiffel,Antártida,volcanes activos,la estación espacial Mir,los cráteres de la Luna,el monte Kilimanjaro,el Vaticano,la bolsa de golf de Donald Trump,las islas hawaianas,el fondo del océano,el centro de la Tierra,el Coliseo romano,monte Fuji,la Gran Muralla China,Corea del Norte,el estadio de los Yankees",
             "n": "Suggestions"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "poop,shit,human shit,human poop",
+            "v": "caca,mierda,mierda humana,caca humana",
             "n": "AlternateSpellings"
         },
         {

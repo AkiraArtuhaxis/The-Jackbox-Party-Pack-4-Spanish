@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "enemas,c-sections,plastic surgery,hair removal service,scalpels,brain surgery,teeth cleaning,liposuction,prostate exams,mammogram service,ear cleansing technique,colonoscopies,scar removal service,new Canadian doctor,extra digit amputation service,botox treatments,new doctor who looked like Hugh Jackman,acupuncture",
+            "v": "enemas,cesáreas,cirugías plásticas,servicios de depilación,bisturís,cirugías cerebrales,limpiezas dentales,liposucciones,exámenes de próstata,servicios de mamografías,técnicas de limpieza de oídos,colonoscopias,servicios de eliminación de cicatrices,nuevos médicos canadienses,servicios de amputación de dedos extra,tratamientos con bótox,nuevos médicos que se parecían a Hugh Jackman,acupunturas",
             "n": "Suggestions"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "servicio de circuncisión",
+            "v": "servicios de circuncisión",
             "n": "CorrectText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "En 2017, una clínica de Filipinas utilizó a Wolverine de los X-Men como mascota para publicitar su <BLANK>.",
+            "v": "En 2017, una clínica de Filipinas utilizó a Wolverine de los X-Men como mascota para publicitar sus <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "circumcision,circumcision service",
+            "v": "circuncisión,servicio circuncisión,circuncision,servicio circuncision,servicio de circuncision,circuncisiones",
             "n": "AlternateSpellings"
         },
         {

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "the moon,Lord Voldemort,a shark,an alien,a bowling ball,a door knob,a grapefruit,his younger self,couscous,a Muppet,a pencil eraser,Jason from Friday the 13th,Vincent Van Gogh,a skinless skull,an otter,my neighbor Gregor,a snake,Nosferatu",
+            "v": "la Luna,Lord Voldemort,un tiburón,un extraterrestre,una bola de bolos,un pomo,un pomelo,su yo más joven,cuscús,un Muppet,una goma de borrar,Jason de Viernes 13,Vincent Van Gogh,una calavera sin piel,una nutria,mi vecino David,una serpiente,Nosferatu",
             "n": "Suggestions"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Ted Richards de Bristol, Inglaterra es todo un perfeccionista. Se tatuó la cara y los ojos y se quitó las orejas, para parecerse a <BLANK>.",
+            "v": "Ted Richards de Bristol, Inglaterra, es todo un perfeccionista. Se quitó las orejas, se tatuó la cara y los ojos, para parecerse a <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "his parrots,his parrot,a bird",
+            "v": "sus loros,su loro,un ave,un pájaro",
             "n": "AlternateSpellings"
         },
         {
